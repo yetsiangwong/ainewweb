@@ -1,0 +1,55 @@
+name: Update AI Signal Daily
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub cron uses UTC. 00:00 UTC = 08:00 Malaysia time.
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update daily AI news data
+        run: python scripts/update_site.py
+
+      - name: Commit updated archive
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update AI news site data"
+          file_pattern: data/news.json
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
