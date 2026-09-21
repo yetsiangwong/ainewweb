@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Presentation-ready AI news daily briefing." />
+    <title>AI Signal Daily</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <canvas id="signal-canvas" aria-hidden="true"></canvas>
+    <header class="topbar">
+      <a class="brand" href="#top" aria-label="AI Signal Daily home">
+        <span class="brand-mark"></span>
+        <span>AI Signal Daily</span>
+      </a>
+      <nav aria-label="Primary navigation">
+        <a href="#briefing">Briefing</a>
+        <a href="#archive">Archive</a>
+        <a href="#short">Discord Short</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow">Global AI Briefing · 08:00 MYT</p>
+          <h1 id="hero-title">AI news, built for presentation.</h1>
+          <p class="hero-text">
+            A clean English briefing site for daily AI news, with highlights, source links,
+            story cards and a reusable archive for previous reports.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#briefing">Open Today’s Brief</a>
+            <a class="button secondary" href="#archive">View Archive</a>
+          </div>
+        </div>
+        <div class="hero-panel" aria-label="Live briefing statistics">
+          <div>
+            <span class="metric" id="issue-count">--</span>
+            <span class="metric-label">Briefings</span>
+          </div>
+          <div>
+            <span class="metric" id="story-count">--</span>
+            <span class="metric-label">Stories</span>
+          </div>
+          <div>
+            <span class="metric" id="latest-date">--</span>
+            <span class="metric-label">Latest issue</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="ticker" aria-label="Daily highlights">
+        <div class="ticker-track" id="ticker-track"></div>
+      </section>
+
+      <section class="section" id="briefing">
+        <div class="section-heading">
+          <p class="eyebrow">Today’s Signal</p>
+          <h2 id="issue-title">Loading briefing</h2>
+          <p id="issue-status"></p>
+        </div>
+        <div class="highlight-grid" id="highlight-grid"></div>
+      </section>
+
+      <section class="section">
+        <div class="section-heading row">
+          <div>
+            <p class="eyebrow">Story Deck</p>
+            <h2>What changed and why it matters</h2>
+          </div>
+          <div class="filters" id="filters" aria-label="Story category filters"></div>
+        </div>
+        <div class="story-grid" id="story-grid"></div>
+      </section>
+
+      <section class="section split" id="short">
+        <div class="section-heading">
+          <p class="eyebrow">Discord Short</p>
+          <h2>Copy-ready summary</h2>
+          <p>Short bullets for Discord, class updates or speaker notes.</p>
+        </div>
+        <ol class="short-list" id="short-list"></ol>
+      </section>
+
+      <section class="section" id="archive">
+        <div class="section-heading">
+          <p class="eyebrow">Archive</p>
+          <h2>Previous daily briefings</h2>
+          <p>Older reports stay available after each daily cloud update.</p>
+        </div>
+        <div class="archive-list" id="archive-list"></div>
+      </section>
+    </main>
+
+    <footer>
+      <span>Updated by GitHub Actions. Designed for presentation mode.</span>
+      <span id="last-updated"></span>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

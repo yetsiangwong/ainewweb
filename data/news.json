@@ -1,0 +1,145 @@
+{
+  "site": {
+    "title": "AI Signal Daily",
+    "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
+    "timezone": "Asia/Kuala_Lumpur",
+    "lastUpdated": "2026-09-21T09:25:00+08:00"
+  },
+  "issues": [
+    {
+      "date": "2026-09-21",
+      "label": "Today",
+      "status": "Curated from indexed sources available during this run. Recheck paywalled or developing policy stories before formal citation.",
+      "highlights": [
+        "U.S. AI policy is becoming a central market risk, with new reports on federal oversight, limited-regulation advocates and conflicts of interest.",
+        "AI infrastructure financing is getting more complex as Big Tech uses guarantees and special-purpose structures to fund data centers and chips.",
+        "Frontier model competition remains intense after a wave of September releases from OpenAI, Google, Anthropic, Meta and Qwen.",
+        "AI safety, copyright and governance continue to move from technical debates into courts, regulators and public infrastructure decisions."
+      ],
+      "stories": [
+        {
+          "category": "Policy & Regulation",
+          "title": "Trump announces an “AI Force” as industry warnings grow",
+          "summary": "The Wall Street Journal reported that President Trump announced a new federal unit called the “AI Force” to oversee artificial intelligence while emphasizing a light-touch regulatory posture. Details about leadership, funding and operating authority remain limited, so this should be treated as a developing policy story.",
+          "whyItMatters": "If formalized, this could become a major U.S. AI governance channel and affect how frontier labs, cloud companies and safety evaluators interact with federal agencies.",
+          "source": "https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "David Sacks remains influential in the U.S. AI deregulation debate",
+          "summary": "The Guardian profiled David Sacks as a key voice pushing the Trump administration toward limited AI regulation. The report frames the debate as a conflict between speed, national competitiveness, industry influence and public-safety concerns.",
+          "whyItMatters": "The people shaping AI policy matter because future rules may define model evaluation, state-level restrictions, export controls and liability for high-risk systems.",
+          "source": "https://www.theguardian.com/us-news/2026/sep/20/david-sacks-trump-ai-czar"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Trump allies’ AI and defense-tech interests draw scrutiny",
+          "summary": "The Guardian reported that companies and allies connected to the Trump ecosystem have benefited from AI and defense-tech growth while federal policy remains relatively permissive. The report raises conflict-of-interest and public-accountability questions.",
+          "whyItMatters": "AI governance is not only about technical safety; procurement, lobbying and financial interests can shape which companies win public contracts and influence national AI direction.",
+          "source": "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "Big Tech keeps large AI exposure off balance sheets through guarantees",
+          "summary": "The Financial Times reported that major tech companies are using residual value guarantees and special-purpose financing structures to support large AI data-center and chip investments. The structures can preserve balance-sheet flexibility but add credit-risk complexity if AI demand disappoints.",
+          "whyItMatters": "The AI boom increasingly depends on financing engineering, not just model breakthroughs. Investors should watch whether infrastructure spending converts into durable revenue.",
+          "source": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563"
+        },
+        {
+          "category": "Models & Products",
+          "title": "September model-release wave keeps pressure on every frontier lab",
+          "summary": "AI Release Tracker lists multiple September 2026 releases across major labs, including OpenAI, Anthropic, Google, Meta and Qwen. Independent trackers are useful for presentation context, but benchmark claims should be checked against official model cards before quoting.",
+          "whyItMatters": "Frequent releases compress product cycles and make enterprise buyers compare cost, latency, safety controls and tool integration rather than raw benchmark wins alone.",
+          "source": "https://aireleasetracker.com/"
+        },
+        {
+          "category": "Research & Open Source",
+          "title": "Anthropic publishes September AI misuse findings",
+          "summary": "Anthropic’s September 2026 misuse update documents observed abuse patterns involving AI systems. The page is useful as a safety reference because it comes directly from a frontier AI lab rather than from second-hand commentary.",
+          "whyItMatters": "Misuse reports help security teams understand practical risks: phishing, automation abuse, proxy services and attempts to bypass model safeguards.",
+          "source": "https://www.anthropic.com/"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "Physical-industry AI startups continue attracting capital",
+          "summary": "Recent venture reporting highlighted Noetive’s funding round for AI aimed at manufacturing, logistics and construction workflows. The broader pattern is that investors are looking beyond chatbots toward systems that understand factories, supply chains and the physical world.",
+          "whyItMatters": "Industrial AI can produce measurable ROI through scheduling, quality control and operations optimization, making it an important enterprise adoption track.",
+          "source": "https://www.wsj.com/pro/venture-capital/noetive-raises-41-million-to-create-a-chatgpt-moment-for-physical-industries-51645088"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "AI avatar concerts raise rights and consent questions",
+          "summary": "The Guardian reported that UK startup Unit1 raised funding to build concerts using hyper-realistic digital avatars of musicians. The company says it will work with rights holders and estates, but the model still raises questions about posthumous likeness, licensing and audience transparency.",
+          "whyItMatters": "Entertainment is a visible test case for AI-generated likeness rights, and the legal norms formed here may influence ads, games, education and creator platforms.",
+          "source": "https://www.theguardian.com/business/2026/sep/20/uk-startup-15m-investment-concerts-digital-versions-musicians"
+        }
+      ],
+      "discordShort": [
+        "U.S. AI policy is heating up after reports of a proposed “AI Force.”",
+        "David Sacks remains a key figure in the limited-regulation camp.",
+        "AI-linked defense and infrastructure deals are drawing conflict-of-interest scrutiny.",
+        "Big Tech is using complex financing to support massive AI data-center spending.",
+        "September’s model-release wave keeps pressure on OpenAI, Anthropic, Google, Meta and Qwen.",
+        "Anthropic’s misuse reporting is a useful source for AI safety tracking.",
+        "Industrial AI startups continue raising capital for factory and logistics use cases.",
+        "AI avatar concerts show why likeness rights and consent are becoming mainstream AI issues."
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "label": "Archive",
+      "status": "Archived from the previous Chinese daily digest and translated into English for presentation.",
+      "highlights": [
+        "OpenAI was pushing ChatGPT from an individual tool into household, caregiver and senior-user scenarios.",
+        "Meta removed an Instagram AI image feature after backlash over consent and misuse risks.",
+        "Apple sued OpenAI over alleged trade-secret issues, potentially affecting OpenAI’s hardware ambitions.",
+        "Generative AI capital expenditure remained a major investor concern.",
+        "Copyright and training-data litigation continued to pressure AI companies’ data governance."
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "OpenAI advances GPT-5.6 and workplace products",
+          "summary": "The archived brief reported OpenAI’s GPT-5.6 family, including Sol, Terra and Luna variants, aimed at enterprise, coding and scientific workflows. It also referenced ChatGPT Work as part of a broader productivity push.",
+          "whyItMatters": "The model race was shifting from raw capability toward cheaper, faster and workflow-specific deployment.",
+          "source": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta enters the AI coding race with Muse Spark 1.1",
+          "summary": "Meta’s Muse Spark 1.1 was described as a multimodal agentic coding model for multi-step reasoning, tool use and enterprise workflows. Its reported pricing strategy targeted lower-cost enterprise usage.",
+          "whyItMatters": "Coding assistants became one of the most important commercialization fronts for frontier models.",
+          "source": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/"
+        },
+        {
+          "category": "AI Companies",
+          "title": "OpenAI targets family, caregiver and senior-user experiences",
+          "summary": "The brief noted OpenAI hiring for product leadership focused on families, caregivers and older users. The likely product direction included household plans, child profiles, parental controls and care reminders.",
+          "whyItMatters": "Consumer AI safety requirements become stricter when products move into family and child-facing environments.",
+          "source": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "Meta removes controversial Instagram AI image feature",
+          "summary": "Meta removed an Instagram feature that let users generate or alter images using public-account photos without automatically notifying the referenced person. The feature was withdrawn after backlash from users and representatives.",
+          "whyItMatters": "AI image features must handle consent, likeness rights, harassment and deepfake risks before scale.",
+          "source": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "NYT accuses OpenAI of hiding evidence in copyright case; OpenAI denies it",
+          "summary": "The New York Times and Daily News accused OpenAI of insufficient disclosure related to training data and chat-log search capabilities. OpenAI denied the allegations and argued the plaintiffs sought unrelated private user conversations.",
+          "whyItMatters": "Copyright cases increasingly focus on what AI companies store, search and disclose, not only whether training qualifies as fair use.",
+          "source": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/"
+        }
+      ],
+      "discordShort": [
+        "OpenAI moved GPT-5.6 and ChatGPT Work further into enterprise workflows.",
+        "Meta’s Muse Spark 1.1 entered the crowded AI coding market.",
+        "OpenAI showed interest in family and caregiver product experiences.",
+        "Meta pulled an Instagram AI image feature after consent concerns.",
+        "NYT vs OpenAI highlighted copyright, evidence and user-privacy tensions."
+      ]
+    }
+  ]
+}
