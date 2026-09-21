@@ -3,86 +3,87 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-09-21T09:25:00+08:00"
+    "lastUpdated": "2026-09-21T09:32:15+08:00"
   },
   "issues": [
     {
       "date": "2026-09-21",
       "label": "Today",
-      "status": "Curated from indexed sources available during this run. Recheck paywalled or developing policy stories before formal citation.",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
-        "U.S. AI policy is becoming a central market risk, with new reports on federal oversight, limited-regulation advocates and conflicts of interest.",
-        "AI infrastructure financing is getting more complex as Big Tech uses guarantees and special-purpose structures to fund data centers and chips.",
-        "Frontier model competition remains intense after a wave of September releases from OpenAI, Google, Anthropic, Meta and Qwen.",
-        "AI safety, copyright and governance continue to move from technical debates into courts, regulators and public infrastructure decisions."
+        "AI Companies: OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks. - Yahoo Finance",
+        "Policy & Regulation: Antitrust lawsuit targets Anthropic, OpenAI, Google, SpaceXAI AI slowdown - qz.com",
+        "Policy & Regulation: Anthropic, OpenAI, SpaceXAI, Google made ‘illegal’ agreement on AI slowdown, says new lawsuit - Livemint",
+        "Models & Products: Anthropic Mulls New AI Model Amid Investors’ Pre-IPO Worries - PYMNTS.com",
+        "Models & Products: The AI Agent Wars Just Got Personal: Google’s CC vs. Meta’s Muse - 24/7 Wall St."
       ],
       "stories": [
         {
-          "category": "Policy & Regulation",
-          "title": "Trump announces an “AI Force” as industry warnings grow",
-          "summary": "The Wall Street Journal reported that President Trump announced a new federal unit called the “AI Force” to oversee artificial intelligence while emphasizing a light-touch regulatory posture. Details about leadership, funding and operating authority remain limited, so this should be treated as a developing policy story.",
-          "whyItMatters": "If formalized, this could become a major U.S. AI governance channel and affect how frontier labs, cloud companies and safety evaluators interact with federal agencies.",
-          "source": "https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "David Sacks remains influential in the U.S. AI deregulation debate",
-          "summary": "The Guardian profiled David Sacks as a key voice pushing the Trump administration toward limited AI regulation. The report frames the debate as a conflict between speed, national competitiveness, industry influence and public-safety concerns.",
-          "whyItMatters": "The people shaping AI policy matter because future rules may define model evaluation, state-level restrictions, export controls and liability for high-risk systems.",
-          "source": "https://www.theguardian.com/us-news/2026/sep/20/david-sacks-trump-ai-czar"
-        },
-        {
           "category": "AI Companies",
-          "title": "Trump allies’ AI and defense-tech interests draw scrutiny",
-          "summary": "The Guardian reported that companies and allies connected to the Trump ecosystem have benefited from AI and defense-tech growth while federal policy remains relatively permissive. The report raises conflict-of-interest and public-accountability questions.",
-          "whyItMatters": "AI governance is not only about technical safety; procurement, lobbying and financial interests can shape which companies win public contracts and influence national AI direction.",
-          "source": "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest"
+          "title": "OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks. - Yahoo Finance",
+          "summary": "OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone.",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2Z3amJrbEJUU0wtOGFSVjdfU2h2cHBYTnlMc0oxRHhLaVpaMWJQLUhlRTZ6Z2JmVkJmNXJrT3pKODJOa0F5LWNXbGlRdVBuZlhXczhSdWVKeWNDTEdGSkNpMTRDSHhSTjRVY1BqY29lQ1dDUURhcjJxZWtycG9rQnVxSlFNTVljRW42UWkxQmtXcm5wOERr?oc=5"
         },
         {
-          "category": "Industry & Funding",
-          "title": "Big Tech keeps large AI exposure off balance sheets through guarantees",
-          "summary": "The Financial Times reported that major tech companies are using residual value guarantees and special-purpose financing structures to support large AI data-center and chip investments. The structures can preserve balance-sheet flexibility but add credit-risk complexity if AI demand disappoints.",
-          "whyItMatters": "The AI boom increasingly depends on financing engineering, not just model breakthroughs. Investors should watch whether infrastructure spending converts into durable revenue.",
-          "source": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563"
+          "category": "Policy & Regulation",
+          "title": "Antitrust lawsuit targets Anthropic, OpenAI, Google, SpaceXAI AI slowdown - qz.com",
+          "summary": "Antitrust lawsuit targets Anthropic, OpenAI, Google, SpaceXAI AI slowdown qz.com",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcHBiS2tSYUVPMi1YRjVtOWdKNHNLdmg1amtkTkdFUnF6NzZzYWRiSGg0SkRPMzdHaEJfTzFiOWwzVm90LURvMC1KWjdKdGYzRnVwaS03eEtPUDVDWFVEcnFrcDUtTUtYdTJweFMtZk80YWYzcWZ0Mk5QNFhKbDZXUk5JWUlpS0VEZ1F5Yg?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Anthropic, OpenAI, SpaceXAI, Google made ‘illegal’ agreement on AI slowdown, says new lawsuit - Livemint",
+          "summary": "Anthropic, OpenAI, SpaceXAI, Google made ‘illegal’ agreement on AI slowdown, says new lawsuit Livemint",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTG1xa3VyUGRibUZnc09VMlgyNnBPclpCZHQyQzlTbThya2RfZWNlR0VHMjZ3OXZUV0VHTWk4RERGNGlJTC1GdDRQa2kwTXRFVHd5OHFCakQ1ZkNLUDdobDZZZnBtdnVDRlFaSGhxdjVqSHczajI3X3JudmFaX2RxdnNBU3Y5U2R6SkNNV2JxQzFWN1Z1azRfWnVhSFdwSlVLTFdTRXNvZmpxczRicmZxenJKZ01ENXNsRTVGb0J1bVVkX185WVUteDJOZ9IB0AFBVV95cUxPNFZpTkJGS3hDNHJyTlZ2NDVJRVdNdmlKYUJURzZZNnpkZDBaS1ptWERmemMzX0J5b1MyTFdXQmJkUzZVbENFSkJpSkxPMGpDbnhucnpVWjBFZU9kam5YMFhlbEVSMHNITXUtb0FZaWdxazljOEZucmxOWjRjR2Y5RUd4TGRLNGNpbFZpc21VVThIZmRld0x1U2lrT243blYySThaVS1KT0NoTmpvMlJqMnpHTkNtcktBbDkwdGg0V0ZLUHR4YzF1MGF6cmZkemx6?oc=5"
         },
         {
           "category": "Models & Products",
-          "title": "September model-release wave keeps pressure on every frontier lab",
-          "summary": "AI Release Tracker lists multiple September 2026 releases across major labs, including OpenAI, Anthropic, Google, Meta and Qwen. Independent trackers are useful for presentation context, but benchmark claims should be checked against official model cards before quoting.",
-          "whyItMatters": "Frequent releases compress product cycles and make enterprise buyers compare cost, latency, safety controls and tool integration rather than raw benchmark wins alone.",
-          "source": "https://aireleasetracker.com/"
+          "title": "Anthropic Mulls New AI Model Amid Investors’ Pre-IPO Worries - PYMNTS.com",
+          "summary": "Anthropic Mulls New AI Model Amid Investors’ Pre-IPO Worries PYMNTS.com",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWp5cTZXc0VwMGkzZWNRM29aQ09xbG0ta1BvaEVxT3AxLW1PdHZzMEV4MEZBemgyVFNjVEpEMHUtUTg3TVZwcElQNkJtUDhybzNTdFh2Sk5iTjM1a3pUUkNyTVBBbDl2dTR5U2t0MTJxN3NWbzZaX0p4UzB1RTJiRklSeno3WUtRdk5IUWxMZ1hQb05RUjJ5cVFhVFE5Y0IxOVdfTEdkemhMRVRpMnp1LUJPQVJaWFNk?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "The AI Agent Wars Just Got Personal: Google’s CC vs. Meta’s Muse - 24/7 Wall St.",
+          "summary": "The AI Agent Wars Just Got Personal: Google’s CC vs.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR0ttVDY0dFZiM09pVDJ1UXBQV05EU2M2NlhLaWN3ZW51TWloVy1ybG1JaUQ3ajh3N0xQRUhJZjJ1ckZYaGFabFhKeXhVaGRJOERjVUFqN2NRNFltUHJZQnQwWUxOclBYcE10OEtxZFd3bGx1bG5kWFk4OG1JZ1JBZnRJSmV3N3pOZ2hMZE85ZkFVMExTdVJpN3dJc2JyTWpsVWtJR3NDcw?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "New Filing Shows OpenAI and Microsoft Debated AI Threats to the Web - The Mac Observer",
+          "summary": "New Filing Shows OpenAI and Microsoft Debated AI Threats to the Web The Mac Observer",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU20tbVlTeWZUVEJXaVRtX1JNMzRHWXpMR1pGV3M1LVZHZF84NThJLTliWmhwWkRpWF9BWEhTYmVlRmNTY1ZnU25KaGY1Qm1BSTk3SkRjSEtVMTZ0M2F2RkRJYUthSWc5NFBXTlI0WXA4YTN6bkNPeHpOcTg1M2ZyR2g2eG42ZXNQ?oc=5"
         },
         {
           "category": "Research & Open Source",
-          "title": "Anthropic publishes September AI misuse findings",
-          "summary": "Anthropic’s September 2026 misuse update documents observed abuse patterns involving AI systems. The page is useful as a safety reference because it comes directly from a frontier AI lab rather than from second-hand commentary.",
-          "whyItMatters": "Misuse reports help security teams understand practical risks: phishing, automation abuse, proxy services and attempts to bypass model safeguards.",
-          "source": "https://www.anthropic.com/"
+          "title": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans' - The Daily Star",
+          "summary": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans' The Daily Star",
+          "whyItMatters": "Research and open-source work often signals where the next product wave or safety debate will move.",
+          "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQzhIT1lBeG1zTTQtUFVXYzVuN29vR2dyYkdKaVRiV1VNMkg2cVNoR1dOMzd5amVEbC1EZ0FLLTMyVy1yaHlXOFBJemlua2JMcFduc05GZGVTRlBxclB3N2xkT2k5ajgzeV9JR3RUUTBQelctTDE4MTIzRlRFSmc0SnRKSWtOQVRoTlJMZzlTWVBkQTFIN1p1VUs1RktweHRLNzZ4VHRtanBISWNZWjRJTm5aMXZSb21ROWR1R1hkZHBYOTNt?oc=5"
         },
         {
           "category": "Industry & Funding",
-          "title": "Physical-industry AI startups continue attracting capital",
-          "summary": "Recent venture reporting highlighted Noetive’s funding round for AI aimed at manufacturing, logistics and construction workflows. The broader pattern is that investors are looking beyond chatbots toward systems that understand factories, supply chains and the physical world.",
-          "whyItMatters": "Industrial AI can produce measurable ROI through scheduling, quality control and operations optimization, making it an important enterprise adoption track.",
-          "source": "https://www.wsj.com/pro/venture-capital/noetive-raises-41-million-to-create-a-chatgpt-moment-for-physical-industries-51645088"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "AI avatar concerts raise rights and consent questions",
-          "summary": "The Guardian reported that UK startup Unit1 raised funding to build concerts using hyper-realistic digital avatars of musicians. The company says it will work with rights holders and estates, but the model still raises questions about posthumous likeness, licensing and audience transparency.",
-          "whyItMatters": "Entertainment is a visible test case for AI-generated likeness rights, and the legal norms formed here may influence ads, games, education and creator platforms.",
-          "source": "https://www.theguardian.com/business/2026/sep/20/uk-startup-15m-investment-concerts-digital-versions-musicians"
+          "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives' - BBC",
+          "summary": "Nvidia boss rejects AI extinction fears as 'doomsday narratives' BBC",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mVWNJR2FxMmFqSFU0ajJGZEJwRlBWR3FibTdQbDh0R1k1T3ZGVFZRU09iVTJUam4zcGdfQzZ5c1V0MkU3ODI0WXR2Y1lkVzJadVR0dWpxZzJmajQ?oc=5"
         }
       ],
       "discordShort": [
-        "U.S. AI policy is heating up after reports of a proposed “AI Force.”",
-        "David Sacks remains a key figure in the limited-regulation camp.",
-        "AI-linked defense and infrastructure deals are drawing conflict-of-interest scrutiny.",
-        "Big Tech is using complex financing to support massive AI data-center spending.",
-        "September’s model-release wave keeps pressure on OpenAI, Anthropic, Google, Meta and Qwen.",
-        "Anthropic’s misuse reporting is a useful source for AI safety tracking.",
-        "Industrial AI startups continue raising capital for factory and logistics use cases.",
-        "AI avatar concerts show why likeness rights and consent are becoming mainstream AI issues."
+        "OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks. - Yahoo Finance",
+        "Antitrust lawsuit targets Anthropic, OpenAI, Google, SpaceXAI AI slowdown - qz.com",
+        "Anthropic, OpenAI, SpaceXAI, Google made ‘illegal’ agreement on AI slowdown, says new lawsuit - Livemint",
+        "Anthropic Mulls New AI Model Amid Investors’ Pre-IPO Worries - PYMNTS.com",
+        "The AI Agent Wars Just Got Personal: Google’s CC vs. Meta’s Muse - 24/7 Wall St.",
+        "New Filing Shows OpenAI and Microsoft Debated AI Threats to the Web - The Mac Observer",
+        "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans' - The Daily Star",
+        "Nvidia boss rejects AI extinction fears as 'doomsday narratives' - BBC"
       ]
     },
     {
