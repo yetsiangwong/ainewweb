@@ -3,7 +3,7 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-09-21T09:32:15+08:00"
+    "lastUpdated": "2026-09-21T09:34:00+08:00"
   },
   "issues": [
     {
@@ -61,18 +61,18 @@
           "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU20tbVlTeWZUVEJXaVRtX1JNMzRHWXpMR1pGV3M1LVZHZF84NThJLTliWmhwWkRpWF9BWEhTYmVlRmNTY1ZnU25KaGY1Qm1BSTk3SkRjSEtVMTZ0M2F2RkRJYUthSWc5NFBXTlI0WXA4YTN6bkNPeHpOcTg1M2ZyR2g2eG42ZXNQ?oc=5"
         },
         {
-          "category": "Research & Open Source",
-          "title": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans' - The Daily Star",
-          "summary": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans' The Daily Star",
-          "whyItMatters": "Research and open-source work often signals where the next product wave or safety debate will move.",
-          "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQzhIT1lBeG1zTTQtUFVXYzVuN29vR2dyYkdKaVRiV1VNMkg2cVNoR1dOMzd5amVEbC1EZ0FLLTMyVy1yaHlXOFBJemlua2JMcFduc05GZGVTRlBxclB3N2xkT2k5ajgzeV9JR3RUUTBQelctTDE4MTIzRlRFSmc0SnRKSWtOQVRoTlJMZzlTWVBkQTFIN1p1VUs1RktweHRLNzZ4VHRtanBISWNZWjRJTm5aMXZSb21ROWR1R1hkZHBYOTNt?oc=5"
-        },
-        {
           "category": "Industry & Funding",
           "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives' - BBC",
           "summary": "Nvidia boss rejects AI extinction fears as 'doomsday narratives' BBC",
           "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
           "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mVWNJR2FxMmFqSFU0ajJGZEJwRlBWR3FibTdQbDh0R1k1T3ZGVFZRU09iVTJUam4zcGdfQzZ5c1V0MkU3ODI0WXR2Y1lkVzJadVR0dWpxZzJmajQ?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "OpenAI’s Cash Burn Could Approach $280 Billion by 2030 - PYMNTS.com",
+          "summary": "OpenAI’s Cash Burn Could Approach $280 Billion by 2030 PYMNTS.com",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQzVyRTlFV0dtTFY5YV90UXpGVzBHVDUzRDNublNaSlludm43QlE3czllNFBVTE1mQUpSVHEydk5rU0M3OUpYWUtkOWhFaVFBbzRxaHBQTnB5Zm1fUzdGbVlfekRsbWJwbm85SnJqV09GdVozTzdFQ3RVNGEtbEtTSndtZTRfZHV6SXpPWHVfS0ZPbXl0cy1LUnU1NlRqUzNkcmI0bmlReS1od18yWUFn?oc=5"
         }
       ],
       "discordShort": [
@@ -82,8 +82,8 @@
         "Anthropic Mulls New AI Model Amid Investors’ Pre-IPO Worries - PYMNTS.com",
         "The AI Agent Wars Just Got Personal: Google’s CC vs. Meta’s Muse - 24/7 Wall St.",
         "New Filing Shows OpenAI and Microsoft Debated AI Threats to the Web - The Mac Observer",
-        "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans' - The Daily Star",
-        "Nvidia boss rejects AI extinction fears as 'doomsday narratives' - BBC"
+        "Nvidia boss rejects AI extinction fears as 'doomsday narratives' - BBC",
+        "OpenAI’s Cash Burn Could Approach $280 Billion by 2030 - PYMNTS.com"
       ]
     },
     {
