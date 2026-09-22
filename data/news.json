@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-09-21T09:34:00+08:00"
+    "lastUpdated": "2026-09-22T10:41:30+08:00"
   },
   "issues": [
     {
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Models & Products: ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+        "Policy & Regulation: Redburn Lifts Microsoft (NASDAQ: MSFT) Price Target To $440 As AI Safety And Infrastructure Risks Draw Scrutiny - foreignpolicyjournal.com",
+        "AI Companies: Anthropic, OpenAI, SpaceXAI, and Google sued over alleged collusion to slow AI development - Судово-юридична газета",
+        "Policy & Regulation: Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - KXLF-TV",
+        "Models & Products: Google Launches DeepMind Institute on AGI Safety, Expands AI Agent CC for Family Coordination - theaiinsider.tech"
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+          "summary": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup Stocktwits",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUi1rTmdESUx0bHNtd3BaSFpHTVVNR2UwMkx1TjRpUW9fcFlZb1ZMRDlyMEgta0VsbDB5MVpSakhWZjE4dEdRcGpDY3JwRkhWb2NTcUJxbWhJdFNhZk81a3VrU2hNQVB3V3FMV1J6RWZPdnB6eFVjdE9aRmNKa2dpY3F1UDNyN3FxV1daN0M1U2VIU29CMkcwZi1JMHF2MmROOGxwanpiU2xuSFpjQ0FWdUxHTzhTLXZYcTVXVXllNmhnSG9odExfUDZCVWNMVEE?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Redburn Lifts Microsoft (NASDAQ: MSFT) Price Target To $440 As AI Safety And Infrastructure Risks Draw Scrutiny - foreignpolicyjournal.com",
+          "summary": "Redburn Lifts Microsoft (NASDAQ: MSFT) Price Target To $440 As AI Safety And Infrastructure Risks Draw Scrutiny foreignpolicyjournal.com",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQ0V6U2IwSWRNVTVzM1JtZDFadUd0RHVkT0ttV2ZOYWlubEhwVGc2a2thTW1hVEdUYU5WaVpJQmR4QTNQRjhCaERWdEtQVnh2ZHJ3dlJ5T1hxWG01YXRzUk5VV2h0azF6dWtLOFNfUlhTY19DX1lZMUJiM3hvUC1lcEhsNVppM3MwQjJLekIyVFN3WEJnTE5KNmwzb0dPeTlVU0dNMTY5cUVDYURXb24yVHhlTDRvbDh1bEVza2thanJYUlNRSEo5cmp2Q3A5TTNBVTVlZGpXaEdMSE1oekFiSXhGb0tmVmtkS2FxMQ?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Anthropic, OpenAI, SpaceXAI, and Google sued over alleged collusion to slow AI development - Судово-юридична газета",
+          "summary": "Anthropic, OpenAI, SpaceXAI, and Google sued over alleged collusion to slow AI development Судово-юридична газета",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMVo1enBWUHd4clBmQm5vUFlpSEwwajBSTXY0OGdBQ3R5VEdRaVlGWWgtZm9XMTc2WDJHN2VuX2tfWjl0bzZha1NZc3dSSTU1SFFLZGRaSVNHNUtCaUJLUGhjODh3dEhKR0ltdW1kQUZTZk0xcUhuQzFCaDZ3VDZZM1B2N21Wcks5NzUzSFBRMnA1N2ZnYmxDMm1Rb0o0dzVmdmZsZUxxRThpN0cxOFgwYmVjcGJoZS05Z1o3SzFyemNOSGdMd3dXcFItbFNSeDlERXJvSll3SHM?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - KXLF-TV",
+          "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown KXLF-TV",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVWNaMVJqdktadmZGaEdSYUNxd3ZPZk44RnA5dWZsNExSQTl4U21vdF8zaEt0RU9ZYTdnMVl0ekgtZlpfUDNqODZVVmZvdVJKWU9xdUQ3SV9WZUFsTkxIWUZzV2FCY2YwQWhCelR4UFlEY3NsYjdhZWJwb1dvcDlEYVNLTVlncFpsZHJfcDUxY2pSZFZQM093NEw2Q2VmWFdpMlBKN2ItOENka19YMnBTQXBwMmU3cktxY0VIcEpUWGZ0THd5Uk5xVE02Zmx3VG5JbVlJdGc2U2paOGJjbzJ4WV9DSQ?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google Launches DeepMind Institute on AGI Safety, Expands AI Agent CC for Family Coordination - theaiinsider.tech",
+          "summary": "Google Launches DeepMind Institute on AGI Safety, Expands AI Agent CC for Family Coordination theaiinsider.tech",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNjFRMThCMmRKamNGRl9QTUdIQU5PWXVaQlJPbDBobkxOMDFWQVczcWVOVVlfTU05cWxtT01zMEFteGZ5QmotV2IwRXM0Q0pybUlqOElwT0w3U0UyT0V0YXJza1h1NElmUVVVa3p4M0NUaUFRaHhkQThHaHdYMkUtY1RZcHR2Yk1lVWEwMTdsVVJYWGlaaFJSZGk5WG44SGlITkNYUjdZV0VlRGxrV2pLamFKOWNoajRKVEZqVlV2QkRZZ3FxREQzQTFn?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Subscribers Sue OpenAI, Anthropic, Google and xAI Over AI Slowdown - ProPakistani",
+          "summary": "Subscribers Sue OpenAI, Anthropic, Google and xAI Over AI Slowdown ProPakistani",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhSXI4bGs2M05vVGxRWjlnQTVreUFhdUhNNVp1QWhpRHVXcjg4b0hDNTJKS3BiRkRkdDB2NGtYeDNhRFc5Sjc5ZFVR0gGnAUFVX3lxTE9Wb2VNQ3RwcWJXaHJnQ1lBSS1VOHJma3dPeDhSS2V0Z2s3bWtyZmVBTmVsdTlyXy1BNF83UFFTZmpWTWxGRnBtVDh5Q2phWVkwZUtnZkltRWlCUHl4UmgxS084ZDhhQ3VQa2Njc1paZnQ5aC1mdXpqUkhfclZLRWVlcjdsWDZsUUIxc0V1SU1SSmUtNHpQSUlDcUlzamlfdjNFZUdXU0Zz?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Publishers accuse OpenAI and Microsoft of “unprecedented” copyright infringement - cybernews.com",
+          "summary": "Publishers accuse OpenAI and Microsoft of “unprecedented” copyright infringement cybernews.com",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83dk5BNktoX2F3ZmU1YjhLTmlXa3BmS0RhS1Myd3NfV2h4UWlVZW9pMkdPb3dfWV9rYVUwRW5EeExUcXRONjViMHNCbk1aVmNpVTZqQ1BuZWd5Vm1mbllRRl9NVWFpUklKUzZ2azFjay1ERk9uSlE?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Why OpenAI, Anthropic, Google Sued by AI Users Over Antitrust Claims? - coingabbar.com",
+          "summary": "Why OpenAI, Anthropic, Google Sued by AI Users Over Antitrust Claims?",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdDhrbmtNbFdyWnNXSm9sT1Y0WTlZdDZCWTU2ZmY4RURHQU1IMlp6b2pVM2taMGJBa1BJLW1rNnMtMk1vT3JlWmt5cExFNGphd0h6NVB4dlhMVi1rWE9ZdVJYemp3a0l2YnJid2xIUVdHbGprQXBGTnVoM1Q2WDNaTjFuNUk?oc=5"
+        }
+      ],
+      "discordShort": [
+        "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+        "Redburn Lifts Microsoft (NASDAQ: MSFT) Price Target To $440 As AI Safety And Infrastructure Risks Draw Scrutiny - foreignpolicyjournal.com",
+        "Anthropic, OpenAI, SpaceXAI, and Google sued over alleged collusion to slow AI development - Судово-юридична газета",
+        "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - KXLF-TV",
+        "Google Launches DeepMind Institute on AGI Safety, Expands AI Agent CC for Family Coordination - theaiinsider.tech",
+        "Subscribers Sue OpenAI, Anthropic, Google and xAI Over AI Slowdown - ProPakistani",
+        "Publishers accuse OpenAI and Microsoft of “unprecedented” copyright infringement - cybernews.com",
+        "Why OpenAI, Anthropic, Google Sued by AI Users Over Antitrust Claims? - coingabbar.com"
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "AI Companies: OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks. - Yahoo Finance",
