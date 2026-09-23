@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-09-22T10:41:30+08:00"
+    "lastUpdated": "2026-09-23T10:42:05+08:00"
   },
   "issues": [
     {
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Risk, Safety & Copyright: Meta, Google, OpenAI and Anthropic invited to appear before Business Committee amid growing AI safety concerns - UK Parliament",
+        "Risk, Safety & Copyright: Meta, Google, OpenAI and Anthropic to face MPs amid AI safety concerns - lbc.co.uk",
+        "Policy & Regulation: UK lawmakers summon Meta, Google, OpenAI and Anthropic over AI safety - Invezz",
+        "AI Companies: OpenAI, Meta, Anthropic, Google DeepMind invited to UK parliament AI hearing - MLex",
+        "Models & Products: Meta doesn't need the best AI model — it has something better: you. While OpenAI and Anthropic compete on raw model performance, Meta's new agent wins on data. They know what you want to buy before you do, and now they can finally act on it, cutting out - Yahoo Finance"
+      ],
+      "stories": [
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "Meta, Google, OpenAI and Anthropic invited to appear before Business Committee amid growing AI safety concerns - UK Parliament",
+          "summary": "Meta, Google, OpenAI and Anthropic invited to appear before Business Committee amid growing AI safety concerns UK Parliament",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPbUdva1dCZHBxOEFPWnFEeGRmOTU3ZDNsSEYyOVlOcEEyS3R1OFNRWnRRSFE1Mkxta1JwVVBQVlNjaGhzNmIzb2F3bUFtbEhtYVJGSW5GRGt2X09LWXRWUm9XaVU5U2w2OGd1eG1zYy1VbG1wYUNwd2RRcVU1SzhOOGhyOXNVaC1lYlVKeTNMQUVJdmRSMlJMcWZJTUpJcUtxU1ZPS0Y0REVHLXRVUE5fcUI1bk1CUFVxUUFFVTlTNGxHYXUwSHFTTXVhWl84X1pZRU9iVk8xYWVVYkxSZFFoYVJxM20wMDZGQ2VpdnJiVXpVV0tqS2tZLXpLU3RJOGdIdlg1cnNFN2Z3YVNfaUFzZTFlS0tkcXBtXzJsWnFfNHZZQ2FfMFZnV0RyTlpxbDFjeUhjX2dTb2xncGMy?oc=5"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "Meta, Google, OpenAI and Anthropic to face MPs amid AI safety concerns - lbc.co.uk",
+          "summary": "Meta, Google, OpenAI and Anthropic to face MPs amid AI safety concerns lbc.co.uk",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOek5ZTTJMRWNTbk1VZlF1ZGJrNngzVkhXUk5VVmNNdGdQd19FVUFOb2dZc0EzVG5xUXpGQVk5ZFVGcDZySW1zNGxoR0VicUhKZnV5aUE4V1RjM2gyN2lsTS1fQktUVjNYS3I1WmlYTDM1X2VJSGN0ekprdmxxQTViM20xWXNZSVY4LUF5S0MwVE5NX3dGcHdqZW4xOHI5QUhIVUFyS3FzQUhvelFhSmc?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "UK lawmakers summon Meta, Google, OpenAI and Anthropic over AI safety - Invezz",
+          "summary": "UK lawmakers summon Meta, Google, OpenAI and Anthropic over AI safety Invezz",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0dWd3dRZmJYVm82bDJ2dm0yTlVpRUJxOU5wdjJJYzc5WmkxcGZIdGpGdDJsM1hpQlFsR1V6Q3JPX3FIdm1fUWwyWTlBQWJQU0dSUjBfSWVBQ0FmTi1RdlVURTB1aXhFRVJFU1Zicm1ObExETXlRaFFqRHFBZGxBak9iYTJiVVhWQXhaLTVfdlNLNHlmRUF2clpWYVhUV2ZNbDFvUE5B?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "OpenAI, Meta, Anthropic, Google DeepMind invited to UK parliament AI hearing - MLex",
+          "summary": "OpenAI, Meta, Anthropic, Google DeepMind invited to UK parliament AI hearing MLex",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3ZTTUtoOHdXSnZrUC1DT05DaTYyN0RtM2E2NGYwclNMMjczQ1BlUWdmWkJWb2dxbmY4dURJczktMlF1LS05d004YThhUnBOSWxfV0ItYjRLNHIxalR4NHhfODBfTG5MenFSZzVqUzVXWnlHV0VyRjhJc0oxdmV2MnNQcE44NTk1STRUaWZjVHNIZTF2bDlDMGNacjdidzZ6TjRoVDNNZ1B0bDV6c2o2TUlQbHM2MU3SAVpBVV95cUxQVTlpX2p0QVR3YjVmQjF4SC1yNXNwN3Q3Y1hPRi1Lb2RQenBLOXpXU3g1SWJtelhLMFhwUV9hcG1SS3RZa0RabENBZE9FaTQwcFNsTmUzVlZIS1E?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta doesn't need the best AI model — it has something better: you. While OpenAI and Anthropic compete on raw model performance, Meta's new agent wins on data. They know what you want to buy before you do, and now they can finally act on it, cutting out - Yahoo Finance",
+          "summary": "Meta doesn't need the best AI model — it has something better: you.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBITE03dlVmRzlSUGo2bkxIakpVLWdWTUt6a1loTi1ZWlhyc2J6RUVHZV81enZ2Zy1FN25xczd2Sk8yRnZiejhvTDF6TXpaUi1TaEgxRXhLUWxTbXYtNDNfYlBMSTlTMjJqYlBvcEdfa0tTODduRms0M2drYmQ?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta - The New York Times",
+          "summary": "Google News: frontier labs reported this AI-related development within the latest monitoring window.",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SWTNQUUFGR2FfdzVYTzRjdHRzc3Zfbkg3aFNXYWZwSDZEYmQ0bFkyaVlQMDFTV1dkSndfdG8tRGtIV3ZlN040SDJkM2FRTUw0eC14VjA5TElXSTlHc0cwaUVnelZjMHVTb3JfRl8temdkZw?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "UK calls Meta, Google, OpenAI, Anthropic to AI hearing - Breakingthenews.net",
+          "summary": "UK calls Meta, Google, OpenAI, Anthropic to AI hearing Breakingthenews.net",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXU1alUyck1lUDZwVXotUEFLaDRlaEZfMER3eWwzZXp2VWJ1UUhCWGtidVYwVVd3Q0xyUjV3d2FYOVdFTU1xSzhRbFprTVRWUzFPY2lBSFhNZlhBUzY0VmxRVDhwekdaczBsRDFXb2sxeHh4NnByT3hPWVp2aVhBUlZnaXlLTGRPQm9rNVA5MHFHYjA4SFBqZzB1Ujc?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Don’t be fooled by this summer of AI hype",
+          "summary": "MIT Technology Review reported this AI-related development within the latest monitoring window.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
+        }
+      ],
+      "discordShort": [
+        "Meta, Google, OpenAI and Anthropic invited to appear before Business Committee amid growing AI safety concerns - UK Parliament",
+        "Meta, Google, OpenAI and Anthropic to face MPs amid AI safety concerns - lbc.co.uk",
+        "UK lawmakers summon Meta, Google, OpenAI and Anthropic over AI safety - Invezz",
+        "OpenAI, Meta, Anthropic, Google DeepMind invited to UK parliament AI hearing - MLex",
+        "Meta doesn't need the best AI model — it has something better: you. While OpenAI and Anthropic compete on raw model performance, Meta's new agent wins on data. They know what you want to buy before you do, and now they can finally act on it, cutting out - Yahoo Finance",
+        "What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta - The New York Times",
+        "UK calls Meta, Google, OpenAI, Anthropic to AI hearing - Breakingthenews.net",
+        "Don’t be fooled by this summer of AI hype"
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
