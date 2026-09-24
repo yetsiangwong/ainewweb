@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-09-23T10:42:05+08:00"
+    "lastUpdated": "2026-09-24T10:31:20+08:00"
   },
   "issues": [
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Models & Products: OpenAI and Anthropic Launch New Models. Why They’re No Threat to Meta’s Muse. - Barron's",
+        "Policy & Regulation: The Law of Stop: Interruptibility, Injunctions, and the Governance of Agentic AI",
+        "Policy & Regulation: Auditing Political Alignment in LLM Assistants: Engagement, Stance, and User Identity",
+        "Policy & Regulation: OpenAI, Anthropic ask Australia to ease AI copyright rules, propose limited training exemption - Firstpost",
+        "Industry & Funding: Anthropic Eyes 1 GW Data Center Lease to House Broadcom, Google, and Nvidia Chips - TipRanks"
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "OpenAI and Anthropic Launch New Models. Why They’re No Threat to Meta’s Muse. - Barron's",
+          "summary": "Google News: frontier labs reported this AI-related development within the latest monitoring window.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZkx3VE1vUktzZFF5WG8wQU91dEcwcldOX2pEXzVveEpfRTM3Z2VLQVRZOEVOcV9VMENKcU5TZWJaOHZ5b05zZnlMV2FkNEZZLWJGc0tjRHI4YkxhS2tSVWlxQmRncHZzT1JBMUlJaWhaemg4Rk14TVJ4ZEx1VVYwd2trWFA?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "The Law of Stop: Interruptibility, Injunctions, and the Governance of Agentic AI",
+          "summary": "arXiv:2609.22882v1 Announce Type: cross Abstract: On June 12, 2026, the U.S.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2609.22882"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Auditing Political Alignment in LLM Assistants: Engagement, Stance, and User Identity",
+          "summary": "arXiv:2609.23039v1 Announce Type: cross Abstract: LLM-based AI systems answer political questions for hundreds of millions of people.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2609.23039"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "OpenAI, Anthropic ask Australia to ease AI copyright rules, propose limited training exemption - Firstpost",
+          "summary": "OpenAI, Anthropic ask Australia to ease AI copyright rules, propose limited training exemption Firstpost",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTFFRWE5hd1RYZXhJcHJpeHRyX3RLN1BuaUlmcVhjYWs1ZEtIZGRZdUVCNU91QU9hWUR3T0VuQmZWYWt5Q1VlYXFUMzZCTHJleGRUeWZGOTAwLWdzcHNnMWl4eE9zNVdjbC1ULVFiUFBNaHZsampKSGQyVjJfb0FoZGYyUm84eVFMcFBNam5zSDlJeU5GZ3k5cDNEc0kzUlluTnpGQWRPcXVFTXZFZjAtZ2VrdWNMRG5fbVhLYTlHWkd6YndVbFRmblJPMnE1TmYwMTNj0gHYAUFVX3lxTE9NamdLOV9ka0x5ZG1hd1BGemt3cWg3N0M4a2tvZ0wtMzhrZDFpcGRDYm1MMVFQWm9PREM3VnRZRy0xeWYtajlhdWhjbTNzOXVVN084X2h2Zndjb0o1R2RJRlZXVEpGUi1Ldi1fQjBWSlZ1RUNpWmJwSndobkxRa2xQQ1dsQzNKX2xPSHFtd1RyOEJlb0gwRDNYZDZVdVE0MjJsUDdodU9veGlEMVhLU3JURTRUS2FvZHRGc0lUTlRwM1lzM1NkdloxUm1JN0pJdm00dGJMWWZlWA?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "Anthropic Eyes 1 GW Data Center Lease to House Broadcom, Google, and Nvidia Chips - TipRanks",
+          "summary": "Anthropic Eyes 1 GW Data Center Lease to House Broadcom, Google, and Nvidia Chips TipRanks",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVHZMdzBVTlFzVTAyYTVjVG0yLUd3eGgwd2ROM3VQTEVqNy1TczF2Ui1TcHlwY21RREJYdTluUXd1VEZMbjczNGlpSS1OYzgyVDBuRkFsN2VpcFZ5R3dCbnJkUEZHYm50Wks2LWM2U0w1Ym0zU25PY1pUZDk2dU4yaVVSSFBkQWdmVjR1UDdXUVBpd1kySmFmcmxHVmN0cDRqR2tTZHJ5LWNZVVRLb0E?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "The AI Hype Index: AI loves cheating",
+          "summary": "Brace yourself: It turns out AI is being optimized for cheating.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/"
+        },
+        {
+          "category": "Models & Products",
+          "title": "DUMA-Bench: A Dual-Control Multi-Agent Benchmark for Evaluating LLM Agent Security",
+          "summary": "arXiv:2609.24662v1 Announce Type: new Abstract: LLM-based agents increasingly operate in environments where they interact with users, tools, and external systems.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://arxiv.org/abs/2609.24662"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Partner-Specific Affective Precision in Social Active Inference",
+          "summary": "arXiv:2609.24876v1 Announce Type: new Abstract: In multi-agent social settings, model reliability varies across relationships.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2609.24876"
+        }
+      ],
+      "discordShort": [
+        "OpenAI and Anthropic Launch New Models. Why They’re No Threat to Meta’s Muse. - Barron's",
+        "The Law of Stop: Interruptibility, Injunctions, and the Governance of Agentic AI",
+        "Auditing Political Alignment in LLM Assistants: Engagement, Stance, and User Identity",
+        "OpenAI, Anthropic ask Australia to ease AI copyright rules, propose limited training exemption - Firstpost",
+        "Anthropic Eyes 1 GW Data Center Lease to House Broadcom, Google, and Nvidia Chips - TipRanks",
+        "The AI Hype Index: AI loves cheating",
+        "DUMA-Bench: A Dual-Control Multi-Agent Benchmark for Evaluating LLM Agent Security",
+        "Partner-Specific Affective Precision in Social Active Inference"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Risk, Safety & Copyright: Meta, Google, OpenAI and Anthropic invited to appear before Business Committee amid growing AI safety concerns - UK Parliament",
