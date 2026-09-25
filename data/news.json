@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-09-24T10:31:20+08:00"
+    "lastUpdated": "2026-09-25T10:48:22+08:00"
   },
   "issues": [
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Models & Products: Google’s Gemini 4 could launch 'much earlier’ than year-end, says DeepMind exec as AI battle with OpenAI, Anthropic, Meta heats up - MSN",
+        "Models & Products: Google, OpenAI, and Anthropic Plan to Form Independent AI Safety Standards Body, Potentially Launching by Year-End - finance.biggo.com",
+        "Risk, Safety & Copyright: OpenAI, Google and Anthropic Join Forces to Set AI Safety Standards - PYMNTS.com",
+        "Models & Products: ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+        "Policy & Regulation: Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning"
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "Google’s Gemini 4 could launch 'much earlier’ than year-end, says DeepMind exec as AI battle with OpenAI, Anthropic, Meta heats up - MSN",
+          "summary": "Google’s Gemini 4 could launch 'much earlier’ than year-end, says DeepMind exec as AI battle with OpenAI, Anthropic, Meta heats up MSN",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPdXp0RkgxTTh3MzNHbGxTb3VQcWJ0MDd0V2pCM1hRd2YzVVNTTy1kV2JyVzNQUDNYZHJYS2pIS3E3a2dIdjFqRTkwZWQyTXlDVkJYblprS2tRMHFBRmptU1FudVdFYmR5MDVfNVVOejJ1aXNIRHNxLWwwVjZVSVVtcDVjY19FUlhHVGZXV2NMd3NOdDFmbGp5dURwM3hOLWtkeXV0X2dod3dGODFKcE5vSVZRYThPUi1nRmNoT053TmVLTjRlbUpiRWVjS0hhZmdXUWVQUkhES3pjd1I1Y1RsTEdhS1I5TXA5eXRoaW1PTjFJS1lac2VtUDlVSExkN3NONHNfNw?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google, OpenAI, and Anthropic Plan to Form Independent AI Safety Standards Body, Potentially Launching by Year-End - finance.biggo.com",
+          "summary": "Google, OpenAI, and Anthropic Plan to Form Independent AI Safety Standards Body, Potentially Launching by Year-End finance.biggo.com",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LTzhzUWdETkJqVFZPVG8ySGpVVkxJSVZNOXFPU3RZaUFFNTlwUnRmbTJSM3hKanJlaXdnbTkyeGYyNmVnX1c2U0dxNmhFTW1sUnlqWkhqZTlUQ0RiQWVZM2pPNkFibW1tdGRrWXpUQThHel84VVE?oc=5"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "OpenAI, Google and Anthropic Join Forces to Set AI Safety Standards - PYMNTS.com",
+          "summary": "OpenAI, Google and Anthropic Join Forces to Set AI Safety Standards PYMNTS.com",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMEJ6b0dzel84NjZLVGRhcVM2VHltQW5QVEZwX24wTWJLU0tBc3ZaazZWM2NaSGRSYmhKZmJrd3VXSXh1Q1p3N2ZmbXh1aXBWMW5WZ21DeW1jV294MFVHS0R5ZWI1U00ySk9xTld1b0ZySktfRlo2bmpoWmRnQ05tSmRFOHIwbXViM2VfWm5NaGM1OWJqZXdYTEVERVFwLTRWQlhabE4wbUgwUE1nUFd1U3VTOE1hZUpFZjZXdHZNd045UQ?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+          "summary": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup Stocktwits",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUi1rTmdESUx0bHNtd3BaSFpHTVVNR2UwMkx1TjRpUW9fcFlZb1ZMRDlyMEgta0VsbDB5MVpSakhWZjE4dEdRcGpDY3JwRkhWb2NTcUJxbWhJdFNhZk81a3VrU2hNQVB3V3FMV1J6RWZPdnB6eFVjdE9aRmNKa2dpY3F1UDNyN3FxV1daN0M1U2VIU29CMkcwZi1JMHF2MmROOGxwanpiU2xuSFpjQ0FWdUxHTzhTLXZYcTVXVXllNmhnSG9odExfUDZCVWNMVEE?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning",
+          "summary": "arXiv:2607.21653v3 Announce Type: replace-cross Abstract: Agentic reinforcement learning requires rapid experimentation with agents and learning algorithms, yet large policies and long, multimodal trajectories demand substantial distributed infrastructure.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2607.21653"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google's Answer To Meta’s Muse AI? DeepMind Chief Says Gemini 4 Launch Is Coming 'Much Earlier' - Stocktwits",
+          "summary": "Google News: frontier labs reported this AI-related development within the latest monitoring window.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcXJDc1N3VmNFZlpBQ2ZhREdsemZQaFlLZC1BTnNQX21mR1RuQW5GTDY2NHBwd05USzcyRXZ1QVFuVk1QZmhDcXlaeWEwV3lKbkhpa3NZQzlac2MtbVlQbEVTNVR3RGNudVE5aE1VTUdxUVhraDlZRkhUWVdmSmc3NGRWNzRyLTNHVENuQ1dsTkJtaDFOa0doaXBaUEFkQmE4SHI1V2NiUG1ZQnBWNXhnU0xkeHBUaFp3RTVRZGRHYVdENktwNHBnWFdXbGZLc3paVEJzREN3Q0xuRG9fXzBjSTBBUk9mVWx1VWpOTWxtTGQ3M1dWZnhtWTFMem8?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google Races to Launch Gemini 4 Early to Catch up with OpenAI and Anthropic - androidheadlines.com",
+          "summary": "Google Races to Launch Gemini 4 Early to Catch up with OpenAI and Anthropic androidheadlines.com",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOW5fb3BLUlRrYlFfYW5uYUx2Y29acjk1Q2ZJc1hBYXV2SEVCQ0VxOG9hM2tIdVVINk1GakthNnNmQk0zbE1VbHFmbXZWU2VKVE5DVGRYdnFwSnNQbFFmV0Z4THVMV2k2QVcwUlhIT2N6WVNqYmZVYWhwUi1LWVFvamxTdXY0MDZxWTdmdHdSb2VPbnh1?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Africa Built Its Own AI from Scratch: The MORENA AI Model Outperformed Google, Meta, and Alibaba - Root-Nation.com",
+          "summary": "Africa Built Its Own AI from Scratch: The MORENA AI Model Outperformed Google, Meta, and Alibaba Root-Nation.com",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FSWRZSldCUmltQm9sMmtJdGE5QlRHUUtKREs4WFdDRnNEQVdCQnhIdnFETnpKN19WRWpvU0dSMG5vMWhXSEN0dGxkWGh4b1VDMldMaTRzc3d6YzFrLWxzN3ZTLW1ydlU5Nll5Q01WczVIMG81R2lQNVRNOEw?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Google’s Gemini 4 could launch 'much earlier’ than year-end, says DeepMind exec as AI battle with OpenAI, Anthropic, Meta heats up - MSN",
+        "Google, OpenAI, and Anthropic Plan to Form Independent AI Safety Standards Body, Potentially Launching by Year-End - finance.biggo.com",
+        "OpenAI, Google and Anthropic Join Forces to Set AI Safety Standards - PYMNTS.com",
+        "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+        "Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning",
+        "Google's Answer To Meta’s Muse AI? DeepMind Chief Says Gemini 4 Launch Is Coming 'Much Earlier' - Stocktwits",
+        "Google Races to Launch Gemini 4 Early to Catch up with OpenAI and Anthropic - androidheadlines.com",
+        "Africa Built Its Own AI from Scratch: The MORENA AI Model Outperformed Google, Meta, and Alibaba - Root-Nation.com"
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: OpenAI and Anthropic Launch New Models. Why They’re No Threat to Meta’s Muse. - Barron's",
