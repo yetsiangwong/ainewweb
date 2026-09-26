@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-09-25T10:48:22+08:00"
+    "lastUpdated": "2026-09-26T10:51:41+08:00"
   },
   "issues": [
     {
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Models & Products: Google’s Gemini 4 Could Launch 'Much Earlier’ Than Year-End, Says DeepMind Exec as AI Battle With OpenAI, Anthropic, Meta Heats up - Yahoo Tech",
+        "Models & Products: Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+        "Industry & Funding: Google DeepMind employees explore funding for AI startup at London breakfast meeting - Crypto Briefing",
+        "AI Companies: Meta's Muse AI outpaces OpenAI and Anthropic, a... - Pluang",
+        "Industry & Funding: Israeli Startup Irregular Linked to String of Rogue AI Breaches at OpenAI, Meta, Google - finance.biggo.com"
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "Google’s Gemini 4 Could Launch 'Much Earlier’ Than Year-End, Says DeepMind Exec as AI Battle With OpenAI, Anthropic, Meta Heats up - Yahoo Tech",
+          "summary": "Google’s Gemini 4 Could Launch 'Much Earlier’ Than Year-End, Says DeepMind Exec as AI Battle With OpenAI, Anthropic, Meta Heats up Yahoo Tech",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGpiQmRtRjlZdUlUejZLaW1aTDExMTZTYXdXOUNBd2lUMGVDbHNOTV9lcE8wQ1g2eFdqV09rc2dBMlJUcWRjV0hqem5FT05XRFZDTkFhRi03TkJQX183UlBkc2h1cnp3LV95RGpYTUNHY215ZndIM3h6Wk5NSGR2eDRvNFlEWm41NkV2Y0tR?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+          "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace?",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "Google DeepMind employees explore funding for AI startup at London breakfast meeting - Crypto Briefing",
+          "summary": "Google DeepMind employees explore funding for AI startup at London breakfast meeting Crypto Briefing",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FLW9IemI1T1ZmTm4wOXVUUkR1TTZxd01PWDJQWFJFazlzZGlmNDd6MTROeW9IcldPd0ItbWZoTTF1T3lNVnhTb0tqV2xNZWhGaUhDV214OTkxeFgtUXFmTTMtamotQXRFaEF0X2hteHVYZDQ?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Meta's Muse AI outpaces OpenAI and Anthropic, a... - Pluang",
+          "summary": "Meta's Muse AI outpaces OpenAI and Anthropic, a...",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOejcxMWR2cGNFOXFzUi1Ib3VzNk02MEtjRzF4RFBWYXVyRDdaN1doRlc3RXVkSmJzeXJ3MWI1aTBUazFLdTNMcVlvcnUwcWpweGZCaElrcTZwd3VQbml2ZkhaVXA3Wk04S2RMdkVXRVlPc3hZSjlBV1VzYlhKbnNQcUFLVms0amxBTU5uTm5qOA?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "Israeli Startup Irregular Linked to String of Rogue AI Breaches at OpenAI, Meta, Google - finance.biggo.com",
+          "summary": "Israeli Startup Irregular Linked to String of Rogue AI Breaches at OpenAI, Meta, Google finance.biggo.com",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DZFFJb25LVHJEaUlhVmRNampxLVNsaUJ1U25hSjh6WV9nSnhTTGQxN2dUQ2FXUXRrbXRXdmFYM3R6LUpYUEsydU9hdkRqUWU0SG93UldGT0VIT1VOUXdGOUFKZVhDVEQ5aU9EdklXMWZhMEdjdlE?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google's Answer To Meta’s Muse AI? DeepMind Chief Says Gemini 4 Launch Is Coming 'Much Earlier' - Stocktwits",
+          "summary": "Google News: frontier labs reported this AI-related development within the latest monitoring window.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcXJDc1N3VmNFZlpBQ2ZhREdsemZQaFlLZC1BTnNQX21mR1RuQW5GTDY2NHBwd05USzcyRXZ1QVFuVk1QZmhDcXlaeWEwV3lKbkhpa3NZQzlac2MtbVlQbEVTNVR3RGNudVE5aE1VTUdxUVhraDlZRkhUWVdmSmc3NGRWNzRyLTNHVENuQ1dsTkJtaDFOa0doaXBaUEFkQmE4SHI1V2NiUG1ZQnBWNXhnU0xkeHBUaFp3RTVRZGRHYVdENktwNHBnWFdXbGZLc3paVEJzREN3Q0xuRG9fXzBjSTBBUk9mVWx1VWpOTWxtTGQ3M1dWZnhtWTFMem8?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Amazon is blocking Meta's shopping AI agent, and plans to block Google and OpenAI's too - TechSpot",
+          "summary": "Amazon is blocking Meta's shopping AI agent, and plans to block Google and OpenAI's too TechSpot",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWFhEMjBBMF9kUjFGbmdHWmdfMXNDMlVKeko4TFJhSVhoaGlaQ2xPajBpWlpMR05mY2kyR3czZUR6S1EzMWNfMXRJOEhDbTZOWU5uZGtiY2tuaGF5NHlPWDIzN2tYVGl3bUJocXVZcUJkQ1RwYWU5RmpqZjZFRFJwQVlWYWVPN2pab2pMX2NWcUJ0a25jbnFpLXRB?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "MITO AI Highlights Integration of Google DeepMind’s Lyria 3.5 Music Model - TipRanks",
+          "summary": "MITO AI Highlights Integration of Google DeepMind’s Lyria 3.5 Music Model TipRanks",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRXJ4TVhRRDFwN3ppRUEtUXpmd1hFTzZOSGlRcWNhOS1lWkcxaS1DazJ0Wjd3cTU4ODk2RFBqSW5tSjlUVm9NS2FjdVRJQzV3SWd6dUtHbWVlcFNkU1YtelBfckFHUlh2RXFzMUQtQ0t3bERadktHbWtTN3JkcHduc0ZTcHFwT0h5TWN6TWFSZjdiR0F6N0UzR0lZSHdDV0FUYzRISDBHbUpRRXFrRTI0MDNzMy1VRDYwWXdGeA?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Google’s Gemini 4 Could Launch 'Much Earlier’ Than Year-End, Says DeepMind Exec as AI Battle With OpenAI, Anthropic, Meta Heats up - Yahoo Tech",
+        "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+        "Google DeepMind employees explore funding for AI startup at London breakfast meeting - Crypto Briefing",
+        "Meta's Muse AI outpaces OpenAI and Anthropic, a... - Pluang",
+        "Israeli Startup Irregular Linked to String of Rogue AI Breaches at OpenAI, Meta, Google - finance.biggo.com",
+        "Google's Answer To Meta’s Muse AI? DeepMind Chief Says Gemini 4 Launch Is Coming 'Much Earlier' - Stocktwits",
+        "Amazon is blocking Meta's shopping AI agent, and plans to block Google and OpenAI's too - TechSpot",
+        "MITO AI Highlights Integration of Google DeepMind’s Lyria 3.5 Music Model - TipRanks"
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: Google’s Gemini 4 could launch 'much earlier’ than year-end, says DeepMind exec as AI battle with OpenAI, Anthropic, Meta heats up - MSN",
