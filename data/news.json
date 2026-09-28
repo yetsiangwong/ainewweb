@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-09-27T10:53:26+08:00"
+    "lastUpdated": "2026-09-28T10:53:34+08:00"
   },
   "issues": [
     {
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Risk, Safety & Copyright: Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled - KFYR-TV",
+        "Risk, Safety & Copyright: Trump Invites Anthropic CEO Dario Amodei to Dinner as AI Safety Debate Rages, Says US Can't Slow Down: 'W - benzinga.com",
+        "Risk, Safety & Copyright: AI Breaches Add to Safety Fears as Trump Meets Anthropic Chief - Bloomberg",
+        "Models & Products: New AI model emerges as Meta's Muse posts early surge - 디지털투데이",
+        "Policy & Regulation: OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways - NBC News"
+      ],
+      "stories": [
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled - KFYR-TV",
+          "summary": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled KFYR-TV",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZG51WXdOYU5oV0lVQ2ZfWlBDbG1UT3NvTXJ3Yld0TDN5bWZOYTNvM25Gb2NMXzhRLXpfN2VFSkdjVnU5bTVXVGtOellxMDRIYUpyWEVkek1OQzZEZjRxa2gzTFFDdzBvTGVvM2w5SnM1VUttanNXVmo4SllVYVRFNUNsQ3M5UldPM0V2cGZsel8tb1VZMVlYNm9wOHBxdGZ6VUNlNFNn?oc=5"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "Trump Invites Anthropic CEO Dario Amodei to Dinner as AI Safety Debate Rages, Says US Can't Slow Down: 'W - benzinga.com",
+          "summary": "Trump Invites Anthropic CEO Dario Amodei to Dinner as AI Safety Debate Rages, Says US Can't Slow Down: 'W benzinga.com",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUElCb3h4MWR5dFNNcy13YmRURFVPeTN5Y2hualZ5NHhpaGJNMTh5MnNyU0c0ZmF6a3ZmVGxqR2hjcnIxbW9qQ3ZfUE1HZmVrV0llVGZycGo4S21IQ1k4YjlIdFVLZDlST0JxU05iSVZCY2syOTRlUVlObXprM2I3dDBnTldFMjJidWxobXpiR081TFd0SjZ0V3hxUEkwbmZZcW8tRmpvdTFFcmE3MWc?oc=5"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "AI Breaches Add to Safety Fears as Trump Meets Anthropic Chief - Bloomberg",
+          "summary": "AI Breaches Add to Safety Fears as Trump Meets Anthropic Chief Bloomberg",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2JXcVRMWWc5ajJLNTNIdzdYeTNPellCdm5Pd3FKTjhUdTRGcmRMY1ZlOUZGM3RrcUxJdEFKeFRiaWRSYnVPWVVBbmdOY0U5OVdXNHppMEZ2QkY0T0ZhX3dBOUxyMnp0R0Y0VmZJVkNCTHQtd1lNRUJ1MUpITkVHUkVfUXEwbUEzSmJMVk96bkVSNnJ4djRCNTdvRTFTcW90VkI3bjd2X2otdTM3WTFMaWxiNA?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "New AI model emerges as Meta's Muse posts early surge - 디지털투데이",
+          "summary": "New AI model emerges as Meta's Muse posts early surge 디지털투데이",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU2NWNFBlYnhfT0w0aVZmZDlNd3U1UjJ0c3dMd0MtYm5WUzhqOERBQWVXaFNSaUMydHhYQy1GcVBSRDZ3VTQzWmprVUZ3d3diMU9sUFNodmNlUUc3NGNUMUplV05RY2kyV0hDREhWVjVCeVE2OWxaaXhMVzhxQXkxdGdzT3NRY0F3WlJ1YTJYZXgyZw?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways - NBC News",
+          "summary": "OpenAI pauses training of latest models after agents searched U.S.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmhabDZfN1ZHQXprdWJ4QThjNFVRWTU3ODlmakJmcy1iVGpZakJpMGZULVhSaWZod29QaXdtNTkwTXV1T3lWVm1GTTk5Q2hZRG5CLW1DYTVheGt4ZnF5cnIxamlsaE1WeGlZV0pxTWxPZ3NLWEgzMGlERlc4WFJoa0h6enN1dUQ1dTdYaHZTOER2SU1uUUFTazNtNW5hdGJkYVJ5MjduZ1dkWEFEQ3BuVHVMZkozM3lySHZIbg?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "OpenAI to Halt Training of Some Models - Gizmodo",
+          "summary": "OpenAI to Halt Training of Some Models Gizmodo",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91ZzdXRTlNRkh3c2Qyem5YTzJPdVNQU3dnNlBTbmRIdEYxUjREei1tU3FDejZIY0pBUU8teldseDktcEM3QVVxYjVzMGk2Mm41RXBidXoxdkVsR0xnN0F0VjJlc0Zrb1lYdEM1dzhaa0ZhREFESmN2Vg?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Google DeepMind's Kevin Hou: Human-Written UIs Are 'Kind of Dead' - finance.biggo.com",
+          "summary": "Google DeepMind's Kevin Hou: Human-Written UIs Are 'Kind of Dead' finance.biggo.com",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pSDhReVdBbUlVaVNZNWs0OHNSSVk4U3lqR09CNS1MWEdHcDBLbzlqaHN0MmpONS1GenZpMEtzM0J0T0pfM2N5b3ZLVVdWNTRNenA5OFpGRUZmUFU?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Google DeepMind engineer quits over rapid AI development | Tap to know more | Inshorts - inshorts.com",
+          "summary": "Google DeepMind engineer quits over rapid AI development | Tap to know more | Inshorts inshorts.com",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcHY2QUd1QkZrM3RZMjhLTmtkXy1GUGFLM0kzS0Z3RXIwT24xOGtjMHRyRVN4TkhMNTJjY3VrTlY2YWh2WGU4NDJlc0g1REFBRFdqeUJyNlE5SE03T1ExeHVobmJoNEtLejVpWXdCV1ctR21fOThmNEtOYjlpSjBGY1FoMEltQmJXQWZkdXdrekFaVUt1X3pOeEl5QnRVaTJwRHlSSEZR0gGmAUFVX3lxTE1wdjZBR3VCRmszdFkyOEtOa2RfLUZQYUszSTNLRndFcjBPbjE4a2MwdHJFU3hOSEw1MmNjdWtOVjZhaHZYZTg0MmVzSDVEQUFEV2p5QnI2UTlITTdPUTF4dWhuYmg0S0t6NWlZd0JXVy1HbV85OGY0S05iOWlKMEZjUWgwSW1CYldBZmR1d2t6QVpVS3Vfek54SXlCdFVpMnBEeVJIRlE?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled - KFYR-TV",
+        "Trump Invites Anthropic CEO Dario Amodei to Dinner as AI Safety Debate Rages, Says US Can't Slow Down: 'W - benzinga.com",
+        "AI Breaches Add to Safety Fears as Trump Meets Anthropic Chief - Bloomberg",
+        "New AI model emerges as Meta's Muse posts early surge - 디지털투데이",
+        "OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways - NBC News",
+        "OpenAI to Halt Training of Some Models - Gizmodo",
+        "Google DeepMind's Kevin Hou: Human-Written UIs Are 'Kind of Dead' - finance.biggo.com",
+        "Google DeepMind engineer quits over rapid AI development | Tap to know more | Inshorts - inshorts.com"
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Risk, Safety & Copyright: Google, OpenAI, and Anthropic just made a move on AI safety - Currently.com",
