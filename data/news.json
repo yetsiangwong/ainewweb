@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-09-28T10:53:34+08:00"
+    "lastUpdated": "2026-09-29T11:34:02+08:00"
   },
   "issues": [
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Policy & Regulation: Top AI executives from Anthropic, OpenAI, Meta, and Microsoft urge policymakers to regulate self-improving AI - cryptobriefing.com",
+        "Risk, Safety & Copyright: OpenAI, Anthropic, Meta set for first public safety hearing; SpaceXAI ghosts NY Council - interestingengineering.com",
+        "Models & Products: Meta Model API Adopts OpenAI and Anthropic SDK Compatibility - FourWeekMBA",
+        "Policy & Regulation: A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents",
+        "Models & Products: OpenAI cancels release of new AI model over safety concerns - France 24"
+      ],
+      "stories": [
+        {
+          "category": "Policy & Regulation",
+          "title": "Top AI executives from Anthropic, OpenAI, Meta, and Microsoft urge policymakers to regulate self-improving AI - cryptobriefing.com",
+          "summary": "Top AI executives from Anthropic, OpenAI, Meta, and Microsoft urge policymakers to regulate self-improving AI cryptobriefing.com",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5VXppYWtOVW00bEI5R28zWWM4QzcwYTFoQjk0bGhtbDFUUXlwWml0NEpkTDJKUDlsbHIzN0x6SUo4ZEotaXA5RGRZVlpqOTVvN1V5Mmd1S252bkVTbUpzTm9vRkFCVVc5ZXJPUDdrV3MycnFJUjRIWlNzZmh1SHM?oc=5"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "OpenAI, Anthropic, Meta set for first public safety hearing; SpaceXAI ghosts NY Council - interestingengineering.com",
+          "summary": "OpenAI, Anthropic, Meta set for first public safety hearing; SpaceXAI ghosts NY Council interestingengineering.com",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRHlDSEV3R0UxZFlIWmdoZ1dMcDBsT3lSWEVjblVIdUpGby1aTThidlZ3VHFDbV94QUxtSVRWZDlEQkw0VjRfMUJPdExyZ3J1VUZrLUlCVzJEYndhRFJvdWc0Y2tqajgzRTdGeE1adFRqLXAtOXp6b0FLeVg2anlEWHhsUjB4SHEwSnhXTUtteENaLTNBT1ptNTBMRnNIRWc?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta Model API Adopts OpenAI and Anthropic SDK Compatibility - FourWeekMBA",
+          "summary": "Meta Model API Adopts OpenAI and Anthropic SDK Compatibility FourWeekMBA",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Bd3gybjVUWEZRdVZwSzg5X0dwdllCa3B4WW5NTy1oeGtJQkNBXzg5LTk0dG9TSnNsNEdOSmlxRnBjbVhVbGhHaklxMnVhWFRuQUhNOHdFSnR3aGlqVVNZbnVUMnhvX3FfQm1QZEhSZDFMZmExU2NV?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents",
+          "summary": "arXiv:2609.31358v1 Announce Type: cross Abstract: The Model Context Protocol (MCP) provides a common interface through which AI applications discover and use external resources and tools.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2609.31358"
+        },
+        {
+          "category": "Models & Products",
+          "title": "OpenAI cancels release of new AI model over safety concerns - France 24",
+          "summary": "OpenAI cancels release of new AI model over safety concerns France 24",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWxZWUZOZVZyVWZZVzV3eTVqUkROOWtsQ0JiSkItZ01rdDJtTjhOTDV5Qk5XSzk1ZlFMZFcxa3NQangzY1lJalVKVzlHMkl4QTkydHRIdXZkMEhDZjF1Vi1BOVA4VHZfZFExYWs3aVNacDAyTzI4d0c0LVVsMmZJYVhVeEFKTGYwdWtTMWc3VnZ0T1BUWXdscldzWlFSQQ?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "OpenAI scraps rollout of new model over safety concerns - BBC",
+          "summary": "OpenAI scraps rollout of new model over safety concerns BBC",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWbzNuakJ3LVhhLTFCNncwcGVBQ0dWNVljVHZqaVRqbFVLZEROd1RvX0J6V1hlSUhxZmNxSjVzekQ5ellmMmxrUWthZm82VXdEVlZvQXdjV2RwSzQ?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "OpenAI scraps release of new ‘Astra’ model over safety concerns - Washington Examiner",
+          "summary": "OpenAI scraps release of new ‘Astra’ model over safety concerns Washington Examiner",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGVlWHlUWEN3TV8yajJyUk5rWnEyOC10ajducUE4a1ZIM2hJY0VIZGhHYjRyU2hwRlFmb3h6T1c5dFlBeE1pX2xmcnRibWkyNTc1a0l2UnlyY0QzZGlwdlFQRmczUGlzTTdVQ3lST3h1Uk1vVXpXVnAxa2JFZ2JNdTdGRzF6VWtpTW0zdUVvbEI5TDBSaWxncGJpUk9Rd3FXMDE4eDJaYjFSX01Ndk9NQg?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "OpenAI scraps release of new AI model over safety concerns - CBC",
+          "summary": "OpenAI scraps release of new AI model over safety concerns CBC",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXJheHpkM3AyQVR1SmpPVm5fZ0ZzaWltaEdpa1JfSzk2SWZ4anNNRlJWRVJkX3ZRaXF2OUNKWjBlSzdWeUxtYk5JdG5lOFE1QzIzLWpwNjBWYnBkLUZ2UFFJUVJUT2FNTEpNdXZrU3RIajZYc2QzMUxZbmVwbkFFNnNaSlZkQVY1TTRn?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Top AI executives from Anthropic, OpenAI, Meta, and Microsoft urge policymakers to regulate self-improving AI - cryptobriefing.com",
+        "OpenAI, Anthropic, Meta set for first public safety hearing; SpaceXAI ghosts NY Council - interestingengineering.com",
+        "Meta Model API Adopts OpenAI and Anthropic SDK Compatibility - FourWeekMBA",
+        "A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents",
+        "OpenAI cancels release of new AI model over safety concerns - France 24",
+        "OpenAI scraps rollout of new model over safety concerns - BBC",
+        "OpenAI scraps release of new ‘Astra’ model over safety concerns - Washington Examiner",
+        "OpenAI scraps release of new AI model over safety concerns - CBC"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Risk, Safety & Copyright: Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled - KFYR-TV",
