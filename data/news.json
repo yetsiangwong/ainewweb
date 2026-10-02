@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-01T11:25:52+08:00"
+    "lastUpdated": "2026-10-02T11:26:25+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Policy & Regulation: Nvidia, Meta Clash With Anthropic as AI Safety Regulation Debate Grows - TipRanks",
+        "AI Companies: OpenAI, Anthropic, Meta, and Google, since last week. - Pakistan Today",
+        "Models & Products: Frontier Model at $2 Per Million Tokens: Google Unveils Gemini 4 Argon to Challenge OpenAI and Meta - TradingView",
+        "Policy & Regulation: What's In Google, Meta, OpenAI White House Accord on 'Super Intelligence'? Four-Layer Safety Oversight - ibtimes.sg",
+        "Models & Products: Can OpenAI and Anthropic Still Justify Premium Model Pricing? - CMSWire"
+      ],
+      "stories": [
+        {
+          "category": "Policy & Regulation",
+          "title": "Nvidia, Meta Clash With Anthropic as AI Safety Regulation Debate Grows - TipRanks",
+          "summary": "Nvidia, Meta Clash With Anthropic as AI Safety Regulation Debate Grows TipRanks",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeU8wUnBZeU95V2gwRUNWQ09zX1hzOUZPdUV4R1BUSmN6QlNvMkNseGpnM0FUVDUtUjFGUmJ4bS1wQl96bkRJeUFfQVBqNlAtc2hHX3UyWE5lY2JITGZLMTFfVm1IbDVFTkwzSHBtZUtJS0JkR0pmZUJnUnBTSVdoVXozdkE5dWFndjRaelctUXkzWWdTaUR6NFYwN1U0U0hz?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "OpenAI, Anthropic, Meta, and Google, since last week. - Pakistan Today",
+          "summary": "OpenAI, Anthropic, Meta, and Google, since last week.",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOblVDdXdwbThBbzNuSXVuVVZlQVAxSHlPT0MyQTlzNU9oSGpKYWlpZ096QWVhV084RnQ0cTU5THhic251ZHZoa0szZTNuT3V3ZnF5T0ppMXljTk5JNEp6VjZKeDdEOUFDM19mOFVqeTZHRWk5ellvemRTQnJnOHYySVpKeWJqekR4X1JlUEhB?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Frontier Model at $2 Per Million Tokens: Google Unveils Gemini 4 Argon to Challenge OpenAI and Meta - TradingView",
+          "summary": "Frontier Model at $2 Per Million Tokens: Google Unveils Gemini 4 Argon to Challenge OpenAI and Meta TradingView",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdEtwbXh3YVh1T3VOTWtYb0FUT2ZoLVE1b2d6eEtQd1ByTU05QU53LUxneG9WZHpvbmZfWEZkal9nR0d3QTk1NG5IMVJsLTdNelc5cEt2WGlCXzVWd2RkaDhNZTZ0YzBDMERaUmtZU0dMbHVlNUhlTklLeFFndnk0TW9LT2EyYThBMXZCckc4ZDlBYVhKZXRicDBJbjZFZnRQTlhKYS1kWVpnRFlLNFVVX19KTWREd0dIWU1NOWJoOGdwX3N5eUVfMDF2ZDBZN0hqaWUyNW5rOVNtZGJxcDZ3VUxkOFhQWVEwSm9raw?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "What's In Google, Meta, OpenAI White House Accord on 'Super Intelligence'? Four-Layer Safety Oversight - ibtimes.sg",
+          "summary": "What's In Google, Meta, OpenAI White House Accord on 'Super Intelligence'?",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeFZWZ3FwaUkyTGNLdWQ1RUZHVE4tNVhGdGdwTC1KNkZEOG45Yzh5UGd2ZEFYRHpyMWw0MDFXb0VhbEN3ZWlwcHk2emFDQlJYMzJxWmlVbGZoc2RYNFdEWXA5ZVdfR21LeW1QbGswM2ozSFB4MTlOX210TjFhRXF6YzQwUGxueng0NkltenEzZ2h0XzJrb3hYX1pxMnViaHpfa1NFbTRsTkdRdVdPdE9QaGdLdGIxQUFNSmpB?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Can OpenAI and Anthropic Still Justify Premium Model Pricing? - CMSWire",
+          "summary": "Can OpenAI and Anthropic Still Justify Premium Model Pricing?",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0VFZERGVVJSc0NUNXM5allCbkh2NTZMSElEVWxqLUZIbm1qUUdBSlVua1hGUk9uUk5sMXZqa0JjTThuamRDdDhzODBhcHNKazFXcGxfQ2lXeTVPeFlDWU9hV3RxRUlMOHRNTm0zd1hlb1pMMDg2Q3BsWFZ3RUhOQ1hXTGdMWUFodHI2clRmTzBfbnluOHFoSl8yZjc0THhpZ3FGNGpfUldOdWxKcTBJV29mTXI?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Google Claims New AI 'Argon' Beats OpenAI, Anthropic - Newsmax",
+          "summary": "Google Claims New AI 'Argon' Beats OpenAI, Anthropic Newsmax",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbnVmbTJqTlRKX3pKNGxaR21HaUhrUzg4amVxSDFQVDdMVnJnNzNUaGN3NUlreTFKeHBqQlFmb3RJZkhqZlB0bGpXa0xBM0dpbDV0Q2NYbWN1U2tqbkpGTGJqTngxYjhVVmZ6R2tSQUdIOFpCZjNHaFlIYjV0NmkxTE93?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal - Yahoo Finance Australia",
+          "summary": "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal Yahoo Finance Australia",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdlZHSnh0ZExYbndvZ2NuZ3dFSW5rdEJUMGtPaTBTT3hvTy1NODZHQ3pPUWVETXVkTEpWd2JuOFpodWp4TmNuU3E1cHRjMDdLZHhObTlpX29UbTZvQm8tWjdlVW82RmhoT0NZQzFtaWVOLXJKWFdON0x3ZEZBRV9mWHhpcXBqY2JIdTJr?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "OpenAI Launches \"Dots\" AI Assistant With 4,000+ Tool Integrations To Rival Meta Muse And Grok Bot - foreignpolicyjournal.com",
+          "summary": "OpenAI Launches \"Dots\" AI Assistant With 4,000+ Tool Integrations To Rival Meta Muse And Grok Bot foreignpolicyjournal.com",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbFpIVWZmZlV5RjJmYkJ0djdMcmRCb1MycjdxNGNvTmhTakJ2aWY4N1BKbHRMMS1iQ2NjeE1HeTlWNmxxcU83eWZ0bmJGbmptV2NYLXJtYmp4WlNfX1h0cmViMmszcHZ5TE1fYzFhdmdtZ2dfYzhQMUNHUm9qY2lPNkZOVVdnZ2RvTldVWk9BTmt6UkVYOU54cVZkMzlzT0F3Mjc5bm5qNUxSWlNNeXRwbHAwRGdhYjJFNDVDVmZ4T253QTZCME5fU1hRSVhqV2pCMzI0NFRxQlZoUQ?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Nvidia, Meta Clash With Anthropic as AI Safety Regulation Debate Grows - TipRanks",
+        "OpenAI, Anthropic, Meta, and Google, since last week. - Pakistan Today",
+        "Frontier Model at $2 Per Million Tokens: Google Unveils Gemini 4 Argon to Challenge OpenAI and Meta - TradingView",
+        "What's In Google, Meta, OpenAI White House Accord on 'Super Intelligence'? Four-Layer Safety Oversight - ibtimes.sg",
+        "Can OpenAI and Anthropic Still Justify Premium Model Pricing? - CMSWire",
+        "Google Claims New AI 'Argon' Beats OpenAI, Anthropic - Newsmax",
+        "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal - Yahoo Finance Australia",
+        "OpenAI Launches \"Dots\" AI Assistant With 4,000+ Tool Integrations To Rival Meta Muse And Grok Bot - foreignpolicyjournal.com"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Policy & Regulation: Trump AI Safety Pact: Tech Giants Agree to Voluntary Safety Measures, Data Centre Expansion; What OpenAI, Google, Meta, Nvidia and Anthropic Agreed at White House Meeting - The Sunday Guardian",
