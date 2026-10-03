@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-02T11:26:25+08:00"
+    "lastUpdated": "2026-10-03T11:10:41+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-02",
+      "date": "2026-10-03",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Models & Products: Verbal tics in frontier language models: A critical review of current releases, research evidence, and public discussion",
+        "Policy & Regulation: Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+        "Policy & Regulation: It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+        "Policy & Regulation: Tokenized Key-Gated Adapter Routing: A Secure Access Control Mechanism Against Private Data Leakage in LLMs",
+        "Models & Products: Anthropic Pushes Its $2 Trillion IPO to November, Meta’s Muse Hits #1, and a $40M Seed for a Model That Doesn’t Talk: The Latest 20VC x SaaStr - saastr.com"
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "Verbal tics in frontier language models: A critical review of current releases, research evidence, and public discussion",
+          "summary": "arXiv:2604.19139v4 Announce Type: replace-cross Abstract: Repeated praise, canned reassurance, familiar contrasts, and conspicuous vocabulary are recurring subjects in discussions of large language models.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://arxiv.org/abs/2604.19139"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+          "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+          "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Tokenized Key-Gated Adapter Routing: A Secure Access Control Mechanism Against Private Data Leakage in LLMs",
+          "summary": "arXiv:2610.00309v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly deployed in privacy-critical domains (e.g., healthcare, finance, and government), but their propensity to memorize and disclose personally identifiable information (PII) poses serious security and compliance risks.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.00309"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Anthropic Pushes Its $2 Trillion IPO to November, Meta’s Muse Hits #1, and a $40M Seed for a Model That Doesn’t Talk: The Latest 20VC x SaaStr - saastr.com",
+          "summary": "Anthropic Pushes Its $2 Trillion IPO to November, Meta’s Muse Hits #1, and a $40M Seed for a Model That Doesn’t Talk: The Latest 20VC x SaaStr saastr.com",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPU3AxMGItSWd5QloyX3l2aVljeUVvcjJTRTk4aXVrYmZfTUNwenRJdkZ1SkRKU2xIUk9yM056c05FQ3lDUFctaW5HazU5SmRFM2QxcVhrd3V4Zk9tbUN0WXRRRXdVQjR5VWRpLXozMkhsQ1ZhcXZ6al9DTS10TTJFbGpCWmluME11bEQwTUR0VmN2RUlWTVU2czVzbXpTY0g0WmpjMnl4SFJfNWhyTTdOblg2VnYxYjZDc25rSXJMZjdfbGFyR3lia3RPRU45RUtNS3pFNGx1MkVrS0hrMzVla2tqdEJWdXFtRWhjN1B3OA?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Elizabeth Warren Probes AI Tax Breaks at Amazon, Google, Meta, Microsoft - Gadget Review",
+          "summary": "Elizabeth Warren Probes AI Tax Breaks at Amazon, Google, Meta, Microsoft Gadget Review",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaklqSldROFJTcHdIQ1VPZnZNRl95VmtxMDJkTVFRWjhuLXNYY2tLcm55UmlZekFuTG1fbFdWSS1WdWVQTWJURWZQR1BZUHpZQUhNQzBBSGlCanNZbWJKdkhrSnVIajRMdllLam93c1lkQ1ZTSmVUTUZTempUUDlnWTdwWU5ndm5fWUNOblRxdjR5b1RKTFpKWGxXOGRsU0k?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Elizabeth Warren Probes Federal Tax Cuts for Amazon, Google, Meta and Microsoft - TechStory",
+          "summary": "Elizabeth Warren Probes Federal Tax Cuts for Amazon, Google, Meta and Microsoft TechStory",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdGpiaTFxbGxzdk93am1TZ0JqMll0SDJoZnFTdzZPRjR1RDFFUEtYRTkwXzgwNnp1UFZvSjN3TXNXSC1fX1pkaVpuN1UzYkFhWE15WnlQR2VEaDJNR0x2ZU9SQklpZjZmNzJKY0d3YU53ZG0yaFFQcWRuMEJQX1lNeHNES2c3b1BEbTNQWWszTUM4VnJiN0NxbkEtQ3hEbEMwem1BV0VwVGowdzJHbGN1SmR2Tmhtc0E2UEZTUjFnZWFzWlBGLXprSG1fd3QzOE9I?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Meta, OpenAI, NVIDIA: What is the White House Accord on AI? - AI Magazine",
+          "summary": "Meta, OpenAI, NVIDIA: What is the White House Accord on AI?",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT2x4V1ZXX3FtUFJrSUdnYXFmRjh2MExsME9fUTRNa18wT0VoWjk4TDA4a1N6aV9FZmM3dWNOWnp0MnU2QmFOQlBxU2tXbzN5eEp1LXNpVVdzNS1VclQ3c2V6cVlVbl8tcVd2NE9senBJMFJDNDhYdW5SSzdVM1hYQzRtUFUtSUxwZXVF?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Verbal tics in frontier language models: A critical review of current releases, research evidence, and public discussion",
+        "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+        "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+        "Tokenized Key-Gated Adapter Routing: A Secure Access Control Mechanism Against Private Data Leakage in LLMs",
+        "Anthropic Pushes Its $2 Trillion IPO to November, Meta’s Muse Hits #1, and a $40M Seed for a Model That Doesn’t Talk: The Latest 20VC x SaaStr - saastr.com",
+        "Elizabeth Warren Probes AI Tax Breaks at Amazon, Google, Meta, Microsoft - Gadget Review",
+        "Elizabeth Warren Probes Federal Tax Cuts for Amazon, Google, Meta and Microsoft - TechStory",
+        "Meta, OpenAI, NVIDIA: What is the White House Accord on AI? - AI Magazine"
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Policy & Regulation: Nvidia, Meta Clash With Anthropic as AI Safety Regulation Debate Grows - TipRanks",
