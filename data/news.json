@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-03T11:10:41+08:00"
+    "lastUpdated": "2026-10-04T11:38:42+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Risk, Safety & Copyright: Trump AI Agreement | Superintelligence Safety | OpenAI Google Meta Anthropic xAI - Aaj English TV",
+        "Models & Products: Google's Answer To Meta’s Muse AI? DeepMind Chief Says Gemini 4 Launch Is Coming 'Much Earlier' - Stocktwits",
+        "Risk, Safety & Copyright: FTC is investigating OpenAI and Anthropic over possible risks to consumers - Texarkana Gazette",
+        "AI Companies: OpenAI's Sam Altman criticises Anthropic’s push to explore AI consciousness and religion - The Times of India",
+        "Risk, Safety & Copyright: OpenAI safety leader resigns, warns culture of developing the technology is 'broken' - Firstpost"
+      ],
+      "stories": [
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "Trump AI Agreement | Superintelligence Safety | OpenAI Google Meta Anthropic xAI - Aaj English TV",
+          "summary": "Trump AI Agreement | Superintelligence Safety | OpenAI Google Meta Anthropic xAI Aaj English TV",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oZHpJQUFYT2NFTk1rdkgwZjBlQlRmaHZMSDl1RGFudHVCWDQxZnA3RFdFQ21DS2FQcFlHakh2aVVxVUd1MVNjc3pEN2tNdw?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google's Answer To Meta’s Muse AI? DeepMind Chief Says Gemini 4 Launch Is Coming 'Much Earlier' - Stocktwits",
+          "summary": "Google News: frontier labs reported this AI-related development within the latest monitoring window.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcXJDc1N3VmNFZlpBQ2ZhREdsemZQaFlLZC1BTnNQX21mR1RuQW5GTDY2NHBwd05USzcyRXZ1QVFuVk1QZmhDcXlaeWEwV3lKbkhpa3NZQzlac2MtbVlQbEVTNVR3RGNudVE5aE1VTUdxUVhraDlZRkhUWVdmSmc3NGRWNzRyLTNHVENuQ1dsTkJtaDFOa0doaXBaUEFkQmE4SHI1V2NiUG1ZQnBWNXhnU0xkeHBUaFp3RTVRZGRHYVdENktwNHBnWFdXbGZLc3paVEJzREN3Q0xuRG9fXzBjSTBBUk9mVWx1VWpOTWxtTGQ3M1dWZnhtWTFMem8?oc=5"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "FTC is investigating OpenAI and Anthropic over possible risks to consumers - Texarkana Gazette",
+          "summary": "FTC is investigating OpenAI and Anthropic over possible risks to consumers Texarkana Gazette",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVkdRLUhMUzZGQU1QVk9kdllkeEtBUGNrb1lqTmVjeFFSRXljYXl5eFBRY3JZMjBMNG1EdGJYM2hRc0xwU0ZEeEMwdXozMkd3Y29aTkR4Y0ZNRklxak15dXJhUnRRdEc1RV9zVTVGSXZ1VU5aME1mR2pUTUxnYkhydkVIcEtYOThqeXB6UVVLWnFyV1NIY05SWlNyeklMZw?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "OpenAI's Sam Altman criticises Anthropic’s push to explore AI consciousness and religion - The Times of India",
+          "summary": "OpenAI's Sam Altman criticises Anthropic’s push to explore AI consciousness and religion The Times of India",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQV9yRmJ1MVhGdEIwYTRKY19MOG0yWVBmQy03NU5vdTBncFBmTk8yVTVzel9ITTFkSXdzLW80NGg3T3dqQmdNVWFsYWRJeVM3LUU5MEtPY050R0MzZl9LUjJBX1JMczctc2lwV01GU2NRb1NrYUVYWjVpZnlpVTFXaEhMVHd2d2djcGNLRnF3eV9yeF9zTHRkUXhDRGhtSWNHVGV6cG1HTS1IRV9rY1RMRGUtNkdUREhSQmFvSDdKcjFPQjdORy1lMk9pdGZlUGdzSjV3aUJhdkpSci15aDZMOTV6RUFVbGZXYmhmajZB0gHzAUFVX3lxTFBCVUl3akwxYW9ZR3lqS0NNekMza0x5Q1pmVWFxQlRSei1zbkdaSEw5c0t5NEozYldIUGptczJEM1V0RzNsQmtCM2xpUkJYVWs2S2NUTEItdmZOU09CSEZ4cFNfNGVBSElfcHU3SjBjMFZaSkIxUncxUWpDaFVHQ0VLX1I3bk9lMDZzaUVncDczcDB4eC0tcjFUSEd5ZVc3cFZxa3lIZnBINHZ3RmRJX0gwLUlhdlFXZ1VXYThzNElmNzdRVzdhbVQxYzRCYmpUNXNfMW0zTEoxQmdEa25iT2JNa0otZ1pxZEdsQ0hoeFlOZzMyMA?oc=5"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "OpenAI safety leader resigns, warns culture of developing the technology is 'broken' - Firstpost",
+          "summary": "OpenAI safety leader resigns, warns culture of developing the technology is 'broken' Firstpost",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdHlHT2JiMXJsNENzLVFMWi1OWW1Nd3JseEtfVmc5d0NGdFdrbG9QR0xIMzJnZnNVM2Y2VEsza2ZEU3ZxRnFvcDNPVWlTcExiOUt0TWdXVlVTellLVW5aQ3h2UzZ5bDlnQkFyT2RVVmlwOXJFUjAzMFQ5NWpWdUdOaVc2ZlF6X0RpZ2VadWdJLU1TS2wxZ0otVXNILVF3aGhONkZmaUpoQ0tDQUFOY3J6dWxCaVNZdGxfTlZKMkFCSGRJOVY00gHKAUFVX3lxTE9fM2RpeGk1alZxUnBYUXN2NmFad08yRHBkMFQwMVh4NGxoZ0ltaVdvcVRBdk56WEFVMHdlLW1tOFdYbjVHOFJ3NHdoRVU3YnNWVEZxVWRSVElWRXJUSE9oWF9waGJkYmd0bkdZQ2RUb0QwbTBqRlVxNGtkSjdZX19HcTV6aDVzdDNMUlNqWU1rNFRGb3YzWlBiVEZ6V2lFX2NUdWhEaUFlMDRzN1N2clVvejJJTzc4WXlUVjVoeTJLdEJ1d3lhcmhjdUE?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "AI needs safety layers like nuclear plants, says former OpenAI engineer - Free Malaysia Today",
+          "summary": "AI needs safety layers like nuclear plants, says former OpenAI engineer Free Malaysia Today",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUnBSWkdlSElDOWRyTVpNd1ZyWWNIdmgyMFpwS1lNdndlLUtZTVUtS3ExMFNJdVJXdlJuaFMySXRZRzBMOXV3TGp3NTFuc0pYOExFLUdReUsxaW1IbHVLM3AtbjVCM2FVeHBfNE80Nm1WTzY2RGFGMUYtcmJXUUFUSno2VXVfSlpJQ1dSbGhNWFJBRW9ZTEtCcEVaN1hMUjFQOHBOWkUxMHVpdkY2ZG1uUFhOR3QzMEZOQ0Q4aDlEbUFTdm1sUnlJR1VGcGJIMlk?oc=5"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "AI needs safety layers like aviation or nuclear plants, says ex-OpenAI engineer David Robinson - TRT World",
+          "summary": "AI needs safety layers like aviation or nuclear plants, says ex-OpenAI engineer David Robinson TRT World",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNR0lXTGNUVEhOQnFrMmhYQ2tjcjA2QTZxUFpyODYwRENZNmtXZDhBNmxYejlvbzZRWUxGNkRTU2d3Z21JRGlrXzhMQlpNV3lidGgzWm5fcFg4NkljRHdqb3cwdkhkX3lpQmJPYldEaWllWXdtbzhaMXR6U2VTRDhycjBzbkMyU0ZmSDZ3cUhnTllmbDNCcUtjZl9PRHgxTGtSZmgtbWRWemg4a0VXaDlLdW4xczltdUFScTF1RW5kb21KZ2ZrZ0k5Szl2TWlnYXg1dThCaHZKMEJlN1lXNm9rQjdhYUpYQQ?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind's Ivan Leo Says the Coding Agent Era Needs APIs That Hoard Secrets - finance.biggo.com",
+          "summary": "Google DeepMind's Ivan Leo Says the Coding Agent Era Needs APIs That Hoard Secrets finance.biggo.com",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkYk13TzVzclpCSW1NaWItd1puYkg3M2VoN2dmM1RJTmFlTkM1bm5TTExLblJaR1Z2S211ZG1nQWg4OUJoTTYxcGp4bXk0eE45Y01TVU5xTm8zVXc?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Trump AI Agreement | Superintelligence Safety | OpenAI Google Meta Anthropic xAI - Aaj English TV",
+        "Google's Answer To Meta’s Muse AI? DeepMind Chief Says Gemini 4 Launch Is Coming 'Much Earlier' - Stocktwits",
+        "FTC is investigating OpenAI and Anthropic over possible risks to consumers - Texarkana Gazette",
+        "OpenAI's Sam Altman criticises Anthropic’s push to explore AI consciousness and religion - The Times of India",
+        "OpenAI safety leader resigns, warns culture of developing the technology is 'broken' - Firstpost",
+        "AI needs safety layers like nuclear plants, says former OpenAI engineer - Free Malaysia Today",
+        "AI needs safety layers like aviation or nuclear plants, says ex-OpenAI engineer David Robinson - TRT World",
+        "Google DeepMind's Ivan Leo Says the Coding Agent Era Needs APIs That Hoard Secrets - finance.biggo.com"
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: Verbal tics in frontier language models: A critical review of current releases, research evidence, and public discussion",
