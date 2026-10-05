@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-04T11:38:42+08:00"
+    "lastUpdated": "2026-10-05T11:22:08+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Models & Products: ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+        "Models & Products: Trump Launches New AI ‘Super Intelligence Force.’ What It Means for Nvidia, Meta and Google Stocks - Stocks Down Under",
+        "Policy & Regulation: Meta Platforms (NASDAQ: META) Gains Early Edge In AI-Agent Race As Truist Weighs Muse Against OpenAI's Dots - foreignpolicyjournal.com",
+        "Models & Products: Google to restrict free access to Gemini AI models - Qazinform",
+        "Policy & Regulation: Amazon, Google, and Meta Face Senate Scrutiny Over Billions Saved on AI Tax Deductions - Android Headlines"
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+          "summary": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup Stocktwits",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUi1rTmdESUx0bHNtd3BaSFpHTVVNR2UwMkx1TjRpUW9fcFlZb1ZMRDlyMEgta0VsbDB5MVpSakhWZjE4dEdRcGpDY3JwRkhWb2NTcUJxbWhJdFNhZk81a3VrU2hNQVB3V3FMV1J6RWZPdnB6eFVjdE9aRmNKa2dpY3F1UDNyN3FxV1daN0M1U2VIU29CMkcwZi1JMHF2MmROOGxwanpiU2xuSFpjQ0FWdUxHTzhTLXZYcTVXVXllNmhnSG9odExfUDZCVWNMVEE?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Trump Launches New AI ‘Super Intelligence Force.’ What It Means for Nvidia, Meta and Google Stocks - Stocks Down Under",
+          "summary": "Trump Launches New AI ‘Super Intelligence Force.’ What It Means for Nvidia, Meta and Google Stocks Stocks Down Under",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PWThCS2dZYzRQdGF6R1AxTHdxSnJSXzljcFNjRUFCdjd3T3pwSl9SdjM2Y2xnaG10eTVHbW5ZajVjYzBtckZGQkRyLUxqX0JETFI3X0pxcE5vTTVOMkpHdktacFZHdVU5RzRFWjRHUHVMQ3kwUlM2T2l0M0NQakk?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Meta Platforms (NASDAQ: META) Gains Early Edge In AI-Agent Race As Truist Weighs Muse Against OpenAI's Dots - foreignpolicyjournal.com",
+          "summary": "Meta Platforms (NASDAQ: META) Gains Early Edge In AI-Agent Race As Truist Weighs Muse Against OpenAI's Dots foreignpolicyjournal.com",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaWVpZkgyU01fYXFWVmI2a1UzTkt5aWFweWwxU2FLRDlzVVZxQzJaSndmNlBFZlNfSUs1NHNCRk03QUlSSVVKQkZDc0Y0STJqNWRQVHN2S20zUW50Z1BCbE5lZ0FjcEVlMTJFTm8tUjU0T0pSQmpGak1HTWRhZm52Mi1MQUhDNnRWMzdnbXBtU2VuR2F0WTZhWjVHMkNLUGNXeHc4Y216d0RYRWl0LUpZOEJsUkFoWWd0eWVaekxIZXBtUXMzd0FTMnB5TGd5NEYzQTNwRTdqMDhUckltMXNtWTZYdW1tRXM?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google to restrict free access to Gemini AI models - Qazinform",
+          "summary": "Google to restrict free access to Gemini AI models Qazinform",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdUxFQmZBUGlPOGZqV1p6WFVCdnpPZ0daSHFzRm1KZTM0Y25SSmwwaG5JNk1TM1d1LXdxamdVaU95ZzBVVjMwMVhpSnc5QmFhblZ0QXRuZUZjbkpsVW56T0ROYjlkalVHYlQ2RnpYVzI5R0NiQV9Nd1BxWnRoREJoZmFwaW9kSVo2M0tKeNIBjAFBVV95cUxQakxmYll3MUl1SU8wWmxDNU52akpSd2lWOGVLNUM1Y1hFN2NtNlk0MWx3cmJtTFlTOWdUckZtWGtENnhhcFYtRm5oT0pOcVFMV25JbWN2bDVjZXJKTWl0clpBQ1lJdGhITmRwSGRDc0dNaDRtZ293UUNsQWNQTVRocGcwc29hYkptWkJiVg?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Amazon, Google, and Meta Face Senate Scrutiny Over Billions Saved on AI Tax Deductions - Android Headlines",
+          "summary": "Amazon, Google, and Meta Face Senate Scrutiny Over Billions Saved on AI Tax Deductions Android Headlines",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQODlDUDRMUkhGbWx0Szg3TnBLZnoybEpiTV9tT2ZiQVVSc0dPeS03LXZWbFNibGdvRFJKd19Ha0k4eUJPT25yXzN5T1Y2ODhkS3NFcnRiYmcydk55S0M3eERUbUIxSERPVWlGWXVOYTVaLU9teURpV2p6bzBkb3A3WDdSSnNiZXJ1TTYtX0g2Q2IxSlNzVjk5cnFEOW9hMFZvX2Jj?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Google DeepMind Introduces SynthID Bio to Identify AI-Designed Proteins -- Teknuzu - PRLog",
+          "summary": "Google DeepMind Introduces SynthID Bio to Identify AI-Designed Proteins -- Teknuzu PRLog",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUlQzUERfR19Cemc3SzdsekxPMkdYWHZRT3lLbzZQTDRCSzU3VVJadTBjZlVKZDhFMTEwWWZMVkpZM1NYZlR1dlJMSDNZMlF0Y2ROZUgxUnhKUnRMT2JrTFNaNFVSUTlwSzBOUFpSbUNablp4ZldDUlJtV3lxbWE4T1hmZTZoRjMybV9PdHZ2ZFNwb09yVnJOSWx4NFBzQk1PYVhVUHFXWEtoMnc?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind Introduces Gemini 4 Argon - Techiexpert.com",
+          "summary": "Google DeepMind Introduces Gemini 4 Argon Techiexpert.com",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNWDR6OW9YYS1Kc0YxOXBZeWFQRUp1NGFFN3VKZk5kbmdIamR3NTNBajllQzlZXzB3M2lqaWhlWG1WVUc1ODRENDBEN1p1UUFja1M1cWNNTjVTV1JRbGdHZkp1Rlo5UnlDcVlrM0E1TTNEMDdf?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Alphabet (NASDAQ: GOOGL) Holds The Edge Over Meta Platforms (NASDAQ: META) In The AI Stock Battle - foreignpolicyjournal.com",
+          "summary": "Alphabet (NASDAQ: GOOGL) Holds The Edge Over Meta Platforms (NASDAQ: META) In The AI Stock Battle foreignpolicyjournal.com",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT2hHdG1vYnAtZFJRM3JiVTVLNlpzczJNSEVrVEJCa0ZFTXdIWUg5RE00Y1lhSmdoOTBFNlp3LVFUeTlZdHFEWURpX2lHMWNweE8wUmJrX2RhQjdtV3ZMMjJ6M0ZWdThtVXF1d3BGVTJHc0g1TUZFTDg0Q0c4cHJ1TThPVk9HWExlVXpkTmFLUlVMN2YxRnUyeFBFd0NqbXdfTU9XdFRaTDUyUGZoY2FLTzl0T1R5VFMxQS1INUNUSDFCUDlEMzVPSk84YmlNM1JqaGJ3T3FQVQ?oc=5"
+        }
+      ],
+      "discordShort": [
+        "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+        "Trump Launches New AI ‘Super Intelligence Force.’ What It Means for Nvidia, Meta and Google Stocks - Stocks Down Under",
+        "Meta Platforms (NASDAQ: META) Gains Early Edge In AI-Agent Race As Truist Weighs Muse Against OpenAI's Dots - foreignpolicyjournal.com",
+        "Google to restrict free access to Gemini AI models - Qazinform",
+        "Amazon, Google, and Meta Face Senate Scrutiny Over Billions Saved on AI Tax Deductions - Android Headlines",
+        "Google DeepMind Introduces SynthID Bio to Identify AI-Designed Proteins -- Teknuzu - PRLog",
+        "Google DeepMind Introduces Gemini 4 Argon - Techiexpert.com",
+        "Alphabet (NASDAQ: GOOGL) Holds The Edge Over Meta Platforms (NASDAQ: META) In The AI Stock Battle - foreignpolicyjournal.com"
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Risk, Safety & Copyright: Trump AI Agreement | Superintelligence Safety | OpenAI Google Meta Anthropic xAI - Aaj English TV",
