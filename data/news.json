@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-05T11:22:08+08:00"
+    "lastUpdated": "2026-10-06T12:09:13+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Risk, Safety & Copyright: Anthropic, Google, Meta, and OpenAI Execs Testify Before NYC Council on AI Safety Risks - Windows Report",
+        "Risk, Safety & Copyright: Google, Meta, OpenAI, Anthropic among tech companies to testify in AI safety hearing - Fox News",
+        "Risk, Safety & Copyright: NYC council to hear from Anthropic, OpenAI, Google and Meta on AI safety risks - firstpost.com",
+        "Risk, Safety & Copyright: NYC Council Speaker Julie Menin Presses Anthropic, OpenAI, Google, Meta on AI Catastrophic Risks - NewsCord",
+        "AI Companies: Anthropic, OpenAI, Google, Meta Executives to Testify at New York City AI Hearing - NTD News"
+      ],
+      "stories": [
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "Anthropic, Google, Meta, and OpenAI Execs Testify Before NYC Council on AI Safety Risks - Windows Report",
+          "summary": "Anthropic, Google, Meta, and OpenAI Execs Testify Before NYC Council on AI Safety Risks Windows Report",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXlqVkJLWVZYdnZLTTZVcXhQZGpwWFpWOWtmVXpEUnl4MDFkRnkzdHBZcERvR2NkN3JJcHdzblRRb29ENEotQWRVcVdzU2ZyVnk3WGtOWTNGNFA5R1VEUDU3c1cyVUlhMnp6Y0JQQk1zVTdnaFU1dzRfNmpKT3ZpWEdZNmFYcWhSUVVUN09uNVMzX2Z1TnBwaFRhVGlWZWpEZjVVOHQySUU5RllHaDlPUg?oc=5"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "Google, Meta, OpenAI, Anthropic among tech companies to testify in AI safety hearing - Fox News",
+          "summary": "Google, Meta, OpenAI, Anthropic among tech companies to testify in AI safety hearing Fox News",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4WmViX041LTZuT3lGVFRHeFFoVkM2a0VOa2NYYjItUXcxVVY0WUFhLUxzVVpaeUY0UXFZa1NUSFUycU5xN2ZPa05uaHNRelVsUk5Lakl3?oc=5"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "NYC council to hear from Anthropic, OpenAI, Google and Meta on AI safety risks - firstpost.com",
+          "summary": "NYC council to hear from Anthropic, OpenAI, Google and Meta on AI safety risks firstpost.com",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSVkzeXRDRU5uOVdnaWlmeHJnNllkZzZEM0dIN0pJZ09LZWRDUVA3Wmx2TTltM09lNjRibnZsUE9jZ01LR205ZEp2R1VjdWdHV3dnZEpYZEwxTHZyd0w4YlIzTDFJaFdOSUtiRmwyNktNWG5aYmZKdEpBQ0hPSnNTWUNkLXZRSFBRLVJ3WHR3N2V1SUc3UjFvZVFYTnQzSDB0bnFjZzlXRDdkbklyWEF0MkVJa2Ywd09pSEhQTlVn0gHDAUFVX3lxTE4zcWIxU25CZXRxNnlXYXBfaG1oanBIcWRRSktUc2FLM0R1SkZfajVROFVpcTZ6SGVhTXotN2tJdGtFV0VpdVliUlJ5ZUx3MHRjWW9vVURZczVRc1ZHMlRlX28zOG92YjAzMF94X2hSa1FnSGZhbUYySExLR3VYcEVyUFhiWEtIdXRucDR3anRvN0xqVFRPeElBYTNZb0lkSkxGNFotR0g2Y0Ezbk5IMUZYREowdWYzYzZlQTJ1VnBqUHVQMA?oc=5"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "NYC Council Speaker Julie Menin Presses Anthropic, OpenAI, Google, Meta on AI Catastrophic Risks - NewsCord",
+          "summary": "NYC Council Speaker Julie Menin Presses Anthropic, OpenAI, Google, Meta on AI Catastrophic Risks NewsCord",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZHd4bkZ6SktfaS1JVnVqWlFta1otdmtvZ1lPdGY1U0FWNUtRMkVhb1p4OWMtbW1IWHJYOFJKVDJqWUd0dGYzUk9TR29hQ2pVWkVJaDZ4RkRMS1FPUGxTOUt1bzFOa1JzN1JkbE4xWTRfR21uMGtQbE5YUkMtOVdvWlFWTUxoU0poV2R6UEN3X2xNbVpwOGtySnBzOUZrQ0tSMjA3ekloMGRzaVByMmVzdHlBd0pHVDUtYUQyLXY1eTlpZlJZcEcyMkgzN0sxQnRsc0dLQ2paYmwwcDlhT0JRN1BiRDVORXRONVE?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Anthropic, OpenAI, Google, Meta Executives to Testify at New York City AI Hearing - NTD News",
+          "summary": "Anthropic, OpenAI, Google, Meta Executives to Testify at New York City AI Hearing NTD News",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZEhqeVp1NGlhV2FpaDZ3bUtjWnNwWGFIWXFXVmRCTkFCNWl4bkk1TVpSMVczSXpidUxfYjFZX3J4Q0VHQTlIYWtpQV9iUVBQazVOcWx3Z1dzdG45ZVM3NjFqc1VtQ2VoYzdXMnBBdEs0T3ctU2FLOGpkblhPck1JTnpxYl9idmI4RU1PRVdvYVpMR1VnMjdoemNadk1yVkswVmdGWjN0M3pMRVZHSDh2RTk0VkltanJnR2t3?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "OpenAI, Anthropic, Google, and Meta are testifying under oath before NYC lawmakers today - qz.com",
+          "summary": "OpenAI, Anthropic, Google, and Meta are testifying under oath before NYC lawmakers today qz.com",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDdlNFRDVPMWE3TS1iLVdKZlo2NUlSR3YyQXpGRmVaQzJ6bTlWZlFOMHRIMHhKcUFSbGpSSjNFWjQwRWFFMHNBX0VmVHlQYXl1LXlJQTROYU9WTTg1ODg5R0U1NUtKdGNYTFNaNTNqUk9zXzJxVzB3LUNYcU1QUQ?oc=5"
+        },
+        {
+          "category": "Research & Open Source",
+          "title": "Why AI Researchers Are Leaving OpenAI, Anthropic and Google DeepMind - winbuzzer.com",
+          "summary": "Why AI Researchers Are Leaving OpenAI, Anthropic and Google DeepMind winbuzzer.com",
+          "whyItMatters": "Research and open-source work often signals where the next product wave or safety debate will move.",
+          "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS01wUm02eUVDd3JnYnN4bmZtWk92bXJCWVVKTWVEVGtnY1lPa0pVVVc5TGUwRjRsdm1aRmpFZ2ttTDFJdm9lcDh2WEppcWZHakwwS0JCUWxkWUlwUjZWTVEwOEhlZldrOVFvUlVmUVJpMG5nOC1RU01vdDlyY0dESVdGbVBibVhWaXdzdDBZdnBsVjR0QWctOW9wMGY2QXdvbWdj?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "White House Reveals Voluntary AI Safety Pledge Signed by OpenAI, Nvidia, Alphabet and Meta - TIKR.com",
+          "summary": "White House Reveals Voluntary AI Safety Pledge Signed by OpenAI, Nvidia, Alphabet and Meta TIKR.com",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWhEWndJZXhWcjd3dzFTMEZGTzRXMFg4ZFA2em5NMDh0VVQzT1VKTU55anFyNDVibklDcy1SaWFWRTJtcmw4ZU5SaDBCWEcxUGMtZ0dQbHhaRjQtRVhDZGoyY1JWZ3dzdGJHMGtFNHRqY00zQlNKSGpJdlg3RnBsMVNoNnE5eXROWE9KOWtucWVsUms?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Anthropic, Google, Meta, and OpenAI Execs Testify Before NYC Council on AI Safety Risks - Windows Report",
+        "Google, Meta, OpenAI, Anthropic among tech companies to testify in AI safety hearing - Fox News",
+        "NYC council to hear from Anthropic, OpenAI, Google and Meta on AI safety risks - firstpost.com",
+        "NYC Council Speaker Julie Menin Presses Anthropic, OpenAI, Google, Meta on AI Catastrophic Risks - NewsCord",
+        "Anthropic, OpenAI, Google, Meta Executives to Testify at New York City AI Hearing - NTD News",
+        "OpenAI, Anthropic, Google, and Meta are testifying under oath before NYC lawmakers today - qz.com",
+        "Why AI Researchers Are Leaving OpenAI, Anthropic and Google DeepMind - winbuzzer.com",
+        "White House Reveals Voluntary AI Safety Pledge Signed by OpenAI, Nvidia, Alphabet and Meta - TIKR.com"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
