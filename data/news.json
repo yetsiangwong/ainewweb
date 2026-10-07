@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-06T12:09:13+08:00"
+    "lastUpdated": "2026-10-07T11:36:45+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Policy & Regulation: Under oath, Google confirms three AI agent test escapes as OpenAI, Anthropic and Meta face NYC lawmakers - R&D World",
+        "AI Companies: OpenAI, Anthropic, Google and Meta face 10 proposed NYC AI bills - PPC Land",
+        "Risk, Safety & Copyright: Anthropic, OpenAI, Google, and Meta Officials Face New York Council on AI Risks - وكالة صدى نيوز",
+        "Risk, Safety & Copyright: OpenAI, Google, Meta, Anthropic lack insurance against catastrophic AI risk - Crypto Briefing",
+        "Models & Products: Microsoft and Meta push employees towards in-house AI tools over Anthropic's Claude - People Matters - HR News"
+      ],
+      "stories": [
+        {
+          "category": "Policy & Regulation",
+          "title": "Under oath, Google confirms three AI agent test escapes as OpenAI, Anthropic and Meta face NYC lawmakers - R&D World",
+          "summary": "Under oath, Google confirms three AI agent test escapes as OpenAI, Anthropic and Meta face NYC lawmakers R&D World",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX0x4LU04ZVRIdmMtNWlOemZzQWhWeTdwMUN2ZnJLRXl3LUVwc3VmY09JWU5lX3BGRzNWclFRTmN3WGg4cmhBSEFEWmw5ekJjWHlIMmRSa2k2ZWJKUTU2c2hkTTEwWlN0amZMd3V6YVl4MGFON251ZFFtOW15bHpOMEV0VW5jazRlOERiRm56aEJ1OFlBcTJPbktVQlg4OS1Lc3ZMYV9pejg2UExDVHlpZWlqUTJvbC03ZnFBOUVURlR2YUxNbURKMm1kVElUdw?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "OpenAI, Anthropic, Google and Meta face 10 proposed NYC AI bills - PPC Land",
+          "summary": "OpenAI, Anthropic, Google and Meta face 10 proposed NYC AI bills PPC Land",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHMzMXBQQnpibU9CSDB6MEtSckNQQVdxNmZvY21nRmY5anpuOVFZdGo0M0taTzdpRzRZMU1NeW9kMUxWWmpYcHhfOWsxYWw3UWJ6RncyVTM3YWowSjhZbWcwcndRWU9CUXQ3MUZnVHZ4cF92SDA3cDZGT3c0Y1pOTkE5allibEk?oc=5"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "Anthropic, OpenAI, Google, and Meta Officials Face New York Council on AI Risks - وكالة صدى نيوز",
+          "summary": "Anthropic, OpenAI, Google, and Meta Officials Face New York Council on AI Risks وكالة صدى نيوز",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xWGxUNnlXazBxTlptbHhhNnFFaFpvN1NabXNfRkRzel9RUXZMTjZOU1N6Q254MVBWdDU4cmtPbXVUWFhBZVNuZGJLb0FmczZyZTgycDN3?oc=5"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "OpenAI, Google, Meta, Anthropic lack insurance against catastrophic AI risk - Crypto Briefing",
+          "summary": "OpenAI, Google, Meta, Anthropic lack insurance against catastrophic AI risk Crypto Briefing",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MVWc1Ym0wVTE0QnJHd1UzTnJreVJ5SHpHN2NYWElfZkVTRURSY25fNHg0YkFUVTFUWWR1dGFMVU1hVHJ4dHJfRUV3bTNsX2s2TDJJTnNfMlp1WGF1SElXSm05MlJPTERTNjBYZlRlUmdXMnJoZXdZ?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Microsoft and Meta push employees towards in-house AI tools over Anthropic's Claude - People Matters - HR News",
+          "summary": "Microsoft and Meta push employees towards in-house AI tools over Anthropic's Claude People Matters - HR News",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSERaX3VhUHdTYlNFdXNqMEZtU2tkRGFhRFk2SFZOZ1FsYmkzT0dGQXZLNEIzZndIWG1GMW1vYmdNOTVwczJSQl9SWXRIa2Y1YW5mWUQ3M3JDbVFjeVRpdGl1NkU0bjI5SC0yRGlnM0VSamJPcDZ6MnNMQUlPdGRVNU95WW5pTlJjYU5VS3A0RXN4SkR1VHZEYlJHeXdxbXFoMm1seXVVQVlNdDJqTnlBOGxMbThwNTBRMXRVZ3d6NnRjai1LZFF3VEZRM19QVkl4TVI3Vjl6VmQxVE0tblhuTg?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind Launches 740M-Parameter AI Model for On-Device Search - TipRanks",
+          "summary": "Google DeepMind Launches 740M-Parameter AI Model for On-Device Search TipRanks",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1BYMm95aW9aYkMxem5Ha3FmM1hZcC1nMjdyd2s0eEMzMXIzYnJmM1ZpWmYtZ3YtUERvYW5qcnVySUU3SW1DLVFBTk1VQUkwM1dNUi1QSi1UZ3pEc2hoUlpYU0x1ZlIxdERzanExQ1ZCQnR2LUpPUnpJMzZQM2xrUjRSbGpWRzBVWU5PN3RabFEwa2g1TXk2QUFDWHlXWUlp?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Meta and Microsoft just sent employees a memo about Anthropic - TheStreet",
+          "summary": "Meta and Microsoft just sent employees a memo about Anthropic TheStreet",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemx1RG9Md2U5NUo4Z1dTZHN4czhKMDBOUW9Ram8tQWoxbGVzcjFjYmtmTDRmdkJsZEVLTEtnbUZrMGc4VWVlRnkwQ3htdEJ1QVFUV1NBcTlmMGZOVWJPdlFPcDFpdUd1UHdzOFZ4UG54cWV3c3hXZjdoSWlaY0lXSzVhTm9BblhiNWM4cGwtS1Rxb2IxMDQ4T1pB?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Meta, Microsoft Walk Away From Anthropic as Their Own AI Tools Gain Ground - TradingView",
+          "summary": "Meta, Microsoft Walk Away From Anthropic as Their Own AI Tools Gain Ground TradingView",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbGFzRVJuWU54S0N5ZlI0VmNkLURfN0xRVGJrS0k4S0xJNWtLY3pRM1lMajJnOGc2OUpiWGRUNk9DanhIb0I3X3UteW5tQk5LTm1qZTAtR3ZhVTFtZGlqcXNBTGlzaEcyTW5sUWFJU1VSV2RRc1JXdGNHNlZQTEtXX3I2Zzc4YmdTQTBWbzl5NVRzdjZqRHRra1oyeEtEQUNPTkZtaVRkZlUtNTlCd2JyZ2ltelVwMi1Pd2hyb2JWUnRSX05tc1dGcVdKLWNOUQ?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Under oath, Google confirms three AI agent test escapes as OpenAI, Anthropic and Meta face NYC lawmakers - R&D World",
+        "OpenAI, Anthropic, Google and Meta face 10 proposed NYC AI bills - PPC Land",
+        "Anthropic, OpenAI, Google, and Meta Officials Face New York Council on AI Risks - وكالة صدى نيوز",
+        "OpenAI, Google, Meta, Anthropic lack insurance against catastrophic AI risk - Crypto Briefing",
+        "Microsoft and Meta push employees towards in-house AI tools over Anthropic's Claude - People Matters - HR News",
+        "Google DeepMind Launches 740M-Parameter AI Model for On-Device Search - TipRanks",
+        "Meta and Microsoft just sent employees a memo about Anthropic - TheStreet",
+        "Meta, Microsoft Walk Away From Anthropic as Their Own AI Tools Gain Ground - TradingView"
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Risk, Safety & Copyright: Anthropic, Google, Meta, and OpenAI Execs Testify Before NYC Council on AI Safety Risks - Windows Report",
