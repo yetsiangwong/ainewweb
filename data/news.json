@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-07T11:36:45+08:00"
+    "lastUpdated": "2026-10-08T11:50:54+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Models & Products: ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+        "AI Companies: Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - Stocktwits",
+        "AI Companies: Google DeepMind and Meta Join Biohub’s $1.8 Billion AI Biology Push - Yahoo Finance",
+        "AI Companies: Biohub, Google DeepMind and Meta back $1.8 billion AI biology push - Crypto Briefing",
+        "AI Companies: Andrew Huberman Predicts Meta, OpenAI, Anthropic Will Enter Biotech - Meta Platforms (NASDAQ:META) - Benzinga"
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+          "summary": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup Stocktwits",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUi1rTmdESUx0bHNtd3BaSFpHTVVNR2UwMkx1TjRpUW9fcFlZb1ZMRDlyMEgta0VsbDB5MVpSakhWZjE4dEdRcGpDY3JwRkhWb2NTcUJxbWhJdFNhZk81a3VrU2hNQVB3V3FMV1J6RWZPdnB6eFVjdE9aRmNKa2dpY3F1UDNyN3FxV1daN0M1U2VIU29CMkcwZi1JMHF2MmROOGxwanpiU2xuSFpjQ0FWdUxHTzhTLXZYcTVXVXllNmhnSG9odExfUDZCVWNMVEE?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - Stocktwits",
+          "summary": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage Stocktwits",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYlk0Vk4zZWExRU05OXIzZElDelgybXFPMG10UVZHODBMaGdCVTBhUGJBZUlxcDZ1bGg5bWJDU3FaUVdNVERtYTRURUdXUm0tSG1lTGpBNmVleWtYeVlvWUhjZi1GZzJpS0xTaDRKQm4yai1lS0NPZXdLVTdPWHFBWXFfS1BiYnNHMGlkV0U2ZGlPRFlzMDRVN0g5Sk9iV3RvaVZ5TUZwWmdxOFJER05yTEh1a2lKTHY2TVNWcTdsZGNMd3VtSWxvNDh0ako5bHZhNzBQcHdVSWlQRmFyckhJdEgwSV9KMUxyRF9ibg?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Google DeepMind and Meta Join Biohub’s $1.8 Billion AI Biology Push - Yahoo Finance",
+          "summary": "Google DeepMind and Meta Join Biohub’s $1.8 Billion AI Biology Push Yahoo Finance",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNazRJeTVMSS1jcHhBMWZZTmt1SGVTcXN5UHBCQjY3OEt4SDRNLUVvOVZkUVlRVEZKUDJ5aWpkX2tqeEJLSGhYTUd1V0w3LTlfaEFJNWhBdWVvZ2pRQ1pSMG5qaGI1OFdqMjFNZHFlQjZLWWdCbG55WVBmVm5aLUpsRWpROWVTMFRVcjgxOGNIX0Q1X0ZCdGFLeDd6RmQ?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Biohub, Google DeepMind and Meta back $1.8 billion AI biology push - Crypto Briefing",
+          "summary": "Biohub, Google DeepMind and Meta back $1.8 billion AI biology push Crypto Briefing",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMUJ6Mk9oVTV5dzVNa1lIOHdsalVyVHFNNDhYWTZwWDZIdFRncDV4V2wwekRKcF94VHl1bXBJSzc1Y1FDVWtBaTVfVUZOdFNNSzVkakhrYV9zLVZub1I1M2cwdGFRT3FWcjh3N0c2TTVCMG9HRHpZdFJyYUFXVjlnTg?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Andrew Huberman Predicts Meta, OpenAI, Anthropic Will Enter Biotech - Meta Platforms (NASDAQ:META) - Benzinga",
+          "summary": "Andrew Huberman Predicts Meta, OpenAI, Anthropic Will Enter Biotech - Meta Platforms (NASDAQ:META) Benzinga",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQazI0U3FTbE02R2g2WGNhdS1hQ3dpLXBSQnAwSWV2TGotZ2NqR0t6QzFLY3NxRFZ0eFFmSktpMVhvbEwyNXlkbWlvbHIxTERUOGxHZ3hfUlEwWDRoR2lILUx2R0FwdkxJM1ByaHNsWUhvbmhFdFVRTXBVVW1zTTRPUVpnSnkzX2MxNjBlNG9fbFZPTjByZHdDcHh6Q094OTBMLVRkMmVkbzFBMEdkQUxHZmxwZU40QQ?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google's Answer To Meta’s Muse AI? DeepMind Chief Says Gemini 4 Launch Is Coming 'Much Earlier' - Stocktwits",
+          "summary": "Google News: frontier labs reported this AI-related development within the latest monitoring window.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcXJDc1N3VmNFZlpBQ2ZhREdsemZQaFlLZC1BTnNQX21mR1RuQW5GTDY2NHBwd05USzcyRXZ1QVFuVk1QZmhDcXlaeWEwV3lKbkhpa3NZQzlac2MtbVlQbEVTNVR3RGNudVE5aE1VTUdxUVhraDlZRkhUWVdmSmc3NGRWNzRyLTNHVENuQ1dsTkJtaDFOa0doaXBaUEFkQmE4SHI1V2NiUG1ZQnBWNXhnU0xkeHBUaFp3RTVRZGRHYVdENktwNHBnWFdXbGZLc3paVEJzREN3Q0xuRG9fXzBjSTBBUk9mVWx1VWpOTWxtTGQ3M1dWZnhtWTFMem8?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "When Does AI Supervision Help? A Role-Aware Study of Network Fraud Decision Management with Blockchain Auditability",
+          "summary": "arXiv:2610.07434v1 Announce Type: new Abstract: When does a second artificial intelligence (AI) component improve a primary network-fraud decision rather than add operational burden?",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.07434"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Toward Alignment Scaling Laws: A Framework and First Preregistered Measurements",
+          "summary": "arXiv:2610.08540v1 Announce Type: new Abstract: Whether alignment gets easier or harder as models grow is often argued from isolated findings, as if alignment were one property.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.08540"
+        }
+      ],
+      "discordShort": [
+        "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+        "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - Stocktwits",
+        "Google DeepMind and Meta Join Biohub’s $1.8 Billion AI Biology Push - Yahoo Finance",
+        "Biohub, Google DeepMind and Meta back $1.8 billion AI biology push - Crypto Briefing",
+        "Andrew Huberman Predicts Meta, OpenAI, Anthropic Will Enter Biotech - Meta Platforms (NASDAQ:META) - Benzinga",
+        "Google's Answer To Meta’s Muse AI? DeepMind Chief Says Gemini 4 Launch Is Coming 'Much Earlier' - Stocktwits",
+        "When Does AI Supervision Help? A Role-Aware Study of Network Fraud Decision Management with Blockchain Auditability",
+        "Toward Alignment Scaling Laws: A Framework and First Preregistered Measurements"
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Policy & Regulation: Under oath, Google confirms three AI agent test escapes as OpenAI, Anthropic and Meta face NYC lawmakers - R&D World",
