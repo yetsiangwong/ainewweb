@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-08T11:50:54+08:00"
+    "lastUpdated": "2026-10-09T11:56:10+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Policy & Regulation: OpenAI, Anthropic, Google, Microsoft flag Australian copyright barriers to AI training - MLex",
+        "AI Companies: OpenAI, Google, Meta, Anthropic face legal questions at NYC hearing - Crypto Briefing",
+        "Policy & Regulation: OpenAI, Anthropic Face Copyright Backlash as Australian Music Industry Warns of AI Exploitation - Law Commentary",
+        "Policy & Regulation: OpenAI, Microsoft Get AI Books Report Struck From Copyright Case - Bloomberg Law News",
+        "Models & Products: OpenAI, Anthropic, Meta questioned by UK privacy regulator over rogue AI agents - MLex"
+      ],
+      "stories": [
+        {
+          "category": "Policy & Regulation",
+          "title": "OpenAI, Anthropic, Google, Microsoft flag Australian copyright barriers to AI training - MLex",
+          "summary": "OpenAI, Anthropic, Google, Microsoft flag Australian copyright barriers to AI training MLex",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVUJPWTlKZjNmSWV3OHBQd2xLcFJqVlVxSzNwb1l6N282M1d3d3dfUHJlSUxOdko3ZENLYVBhRkFmZ3FzTk9SNVNDMi1iUmJNUHJIZEhIVlFVNDB6a2FwemtObGphSmNhUkVodDdjMGJYeVdJdVR3QTVTYU1sMVloM2lkU2pESlkweFh3emgzUGtuNnBvTnZjeFJDaUwxNUNZZlF1czBDR3ZZa0VVQlFnR0dmUUlLNGpUQTJIZ0RTbEVHTDFB0gFaQVVfeXFMUGtQdVBBaHpZMG5ZVWx4TWxrclRnVWFtYm1NakF0SlN5dGtfQi1oamVSTUJkQ043bi1Da1ZjMkJtUVVoM1JhcWhLUm9yVzFieXV5V29IdXhJSVFB?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "OpenAI, Google, Meta, Anthropic face legal questions at NYC hearing - Crypto Briefing",
+          "summary": "OpenAI, Google, Meta, Anthropic face legal questions at NYC hearing Crypto Briefing",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcVRobWV5MVRMWUU0OU9MM2tGLTlYa1JTSFB1RjZJb1lCWmQ5VmtwQ0NzYjIzY1gzajExNTJ6ckMyb3NLV0pMMG1UVXFyVUV0cWo1azg4TFdIYXlucm9fQldBd3NyTUNQNnJJeVI0QThxZ3RkemFKRmFNQkhPbVhHNlkwZ09Gdw?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "OpenAI, Anthropic Face Copyright Backlash as Australian Music Industry Warns of AI Exploitation - Law Commentary",
+          "summary": "OpenAI, Anthropic Face Copyright Backlash as Australian Music Industry Warns of AI Exploitation Law Commentary",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUXBZQnNBZlpMVlZDSGo0clowLWFKMVlvWGV6Wk5oakwtYlh6WXJjUjVjVjlZZnVfQU5OZGtBZjNNYnc1amVSQ0ZzcXN4QjRMQWF2bjRKb2YyZnFSOTdNRG12WE90TFJzX0tmdXk5SGdQa3p0SzdNeXd0M3NlS0s5VURiZlhtcW1NcmVkelpkY1E?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "OpenAI, Microsoft Get AI Books Report Struck From Copyright Case - Bloomberg Law News",
+          "summary": "OpenAI, Microsoft Get AI Books Report Struck From Copyright Case Bloomberg Law News",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaE1wcGRUQ3RPRzQ4eE9QU25BNmZJdGtxQ2tEemZ1NWt3X1YzcDFtWXRkTUlXY0toazNtY2NoNU00YjlhajVPa092UXdtd1p3SkZSVkZWY2ItWlFLRGQ1c1ZQYml1aWZ3SEY1bGh0ZmhwYkhFaGlHVHVTaEF6eEM0ZG4yQmM3TFRmN3o0cmdsUnAzZ2x4MURsMk1ibEdxVnNPUFh4VjNUU3pGUQ?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "OpenAI, Anthropic, Meta questioned by UK privacy regulator over rogue AI agents - MLex",
+          "summary": "OpenAI, Anthropic, Meta questioned by UK privacy regulator over rogue AI agents MLex",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMlNmcGRfZDQ3a1lHQkM4LWttRkFwQWt4eDU1Qkc0Q0E3NzB1VURNaXlyR25qbkRja3NlUHliRVJkbDQ1STcyNjlqTDZqSmYyRGFadmtZVUItbEs2TV9lY09MY1htVjYtZjdLay1uUkRoR19FdUtZVENBWEF0aTF3WTM2ZTJqY2Zoc0c3T1pCTGJMelNwSWY1bUp2REl2M19tVklONHJUa2RkWGx6ZFhMMmF2VC1JUWc0NUJqQ9IBWkFVX3lxTE1fZEQzeUhLYzVtVmRkLXZGckxWUWQ2VW1WMWZWRlNyNzEwYm1FNzQ1WFdpeXhUaXU5RUd3Z0NCUzdSR0JVblA4cGNsanh4YlBCQ1AzQWhsSzFaZw?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Meta, Google, OpenAI Lead Scramble for AI-Centric Web Domains as ICANN Opens Rare Application Window - BigGo Finance",
+          "summary": "Meta, Google, OpenAI Lead Scramble for AI-Centric Web Domains as ICANN Opens Rare Application Window BigGo Finance",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14bGxlam82Y2k4Ylp4U3lsdGdEMGh0UkFGZUxPTmlEOXBYQUpWRmp2N2R5X1hHU19MNmtiYnA4dlNNVF9RVUdXMHo4ZTVVLXAtM1VxMkRPbDZOYnA5V2tJUDZOMG9FeXZVbHUtUmVJdUFSOGJaLWc?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "UK privacy regulator questions OpenAI, Anthropic and Meta over AI agents that reportedly slipped their guardrails - Dealroom",
+          "summary": "UK privacy regulator questions OpenAI, Anthropic and Meta over AI agents that reportedly slipped their guardrails Dealroom",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTjN3cmRLVDF0LTdnWDdCLUJWYjJGSGI1VlJZLXdRMUdUVUhrV0ZqQ2VzbU5fc0hxTDQ5ZWVHRXJQUzNJWC1PcDBLMzdCbWhLSHdXZ0JwZUt5SFk4TmVMblROOEVmRU1yaHpzZjdXUk9GT0pmSGl0ejBqSVltX1Zxa3FZOTFPM1l6UU5tTUFXQzN5UzdlRVhzVnp6aEUyU1l4OHNCT1VmSUt3cnNjN1duNjZ4enJQQm9INWZsTFRqU3plaS1RdDJ1b0dZMVNEMnhQbjZMQUZPeThoYTBSVmc4?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Microsoft, Meta And Google Just Silenced AI Spending Critics In One Earnings Night As Big Tech Capex Swells To $725B - Stocktwits",
+          "summary": "Microsoft, Meta And Google Just Silenced AI Spending Critics In One Earnings Night As Big Tech Capex Swells To $725B Stocktwits",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQ2ZDQkRWWGZaNVdBV1UwS0FEY0RvVVJqUFUxNXd2eHpWM1haeXltLUNpaXB2TW5kcHlJRFo0WFNOQWZFaGNDZ2p3WlcwZjhPVndrYkQwWVAxR0tVVnotaFdDNnZHT1IxZ1BJVHJXZXFpVG5ROUlMcGZoR29iczhkOGM4VG9UMEVWWHJoUEY5TlBCN0RiTEotLTFWNVdFZHZpUmVBOHBuYWVaN0xYMEJzSkgtSno4WHhuc2x4TmpMUkV5bHJDaTNqVHFKalBIMl9pZ01MSjF2a0hpczUtYjMxUHk1OGt0VUxxbHRuaHZ3Nkt4ekRLTl9YZzVQX04wYjFUS25wLUZwWUJwTFU?oc=5"
+        }
+      ],
+      "discordShort": [
+        "OpenAI, Anthropic, Google, Microsoft flag Australian copyright barriers to AI training - MLex",
+        "OpenAI, Google, Meta, Anthropic face legal questions at NYC hearing - Crypto Briefing",
+        "OpenAI, Anthropic Face Copyright Backlash as Australian Music Industry Warns of AI Exploitation - Law Commentary",
+        "OpenAI, Microsoft Get AI Books Report Struck From Copyright Case - Bloomberg Law News",
+        "OpenAI, Anthropic, Meta questioned by UK privacy regulator over rogue AI agents - MLex",
+        "Meta, Google, OpenAI Lead Scramble for AI-Centric Web Domains as ICANN Opens Rare Application Window - BigGo Finance",
+        "UK privacy regulator questions OpenAI, Anthropic and Meta over AI agents that reportedly slipped their guardrails - Dealroom",
+        "Microsoft, Meta And Google Just Silenced AI Spending Critics In One Earnings Night As Big Tech Capex Swells To $725B - Stocktwits"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
