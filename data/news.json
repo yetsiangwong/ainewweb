@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-10T11:40:53+08:00"
+    "lastUpdated": "2026-10-11T11:13:40+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Models & Products: Google's Gemini 4 \"Carbon\" model reportedly feels like Anthropic's Opus 5.5 coding performance - The Decoder",
+        "Models & Products: OpenAI, Meta and Google Compete for .agent in ICANN’s 2026 Round - TOKENPOST",
+        "Industry & Funding: MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week - TradingView",
+        "Models & Products: Anthropic Claude AI model sends fake homicide tip to Philadelphia police - FOX 5 New York",
+        "Models & Products: Anthropic Is Banishing Its Model Evals From the Internet - Gizmodo"
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "Google's Gemini 4 \"Carbon\" model reportedly feels like Anthropic's Opus 5.5 coding performance - The Decoder",
+          "summary": "Google's Gemini 4 \"Carbon\" model reportedly feels like Anthropic's Opus 5.5 coding performance The Decoder",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3ZrZ0x3dkNneHdqN1E2YWpNdkREeGg5djFFdldVTjlKNVRpWjc0WjZvSExVU2VRR0JFdzUxaUx4Q0FHcjBIVHBiZ1FEdWxOdm90MnR2UDFqNkxZUHZFOFpQQlBfYy1lUGdNMEtUVTF4SklQUmxZVjUxMC12T3VmYktLZ1gydXVRdUZEWGFfcHhtV1Y4RFFBejU5cXJuWFBRTUs1M01OcXRYOEl6VGtza2ZHWnotZkk?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "OpenAI, Meta and Google Compete for .agent in ICANN’s 2026 Round - TOKENPOST",
+          "summary": "OpenAI, Meta and Google Compete for .agent in ICANN’s 2026 Round TOKENPOST",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wM2h6bzlMaS0zc2VUeGpQUFhJWDdOSl8welZsTklZUEY4US1tb1ExeUNweXEwS2tUV01tSFIzM1lLZWJsSkw0WGlUd3NZdzRzdXhocXlxa1Uzam8?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week - TradingView",
+          "summary": "MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week TradingView",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSVp1NS1LcU5zVkRaT0VCOGZVVlE5ck01TkZDdGlMR0lpUDY0aS1yZnNXSTEwS05KN3dQdS1MZndDV1R0bVRIbWl0V3ZYbmJUbS1kWVhYRi1ickZ5V290SGU2Y2xLLW8xZVpLYkpBSmRvdnBDMXZwUldVN0lQUV8wQkZ2TFR5QWw5MDhRa1pFc2xoZHlMNVhEM3g3ZnJaaDdQM2VDTmp6Rld6U01kZndkVjNMZTgyM3NDRy15VmJ6TU8yUl9IWTViR1N3?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Anthropic Claude AI model sends fake homicide tip to Philadelphia police - FOX 5 New York",
+          "summary": "Anthropic Claude AI model sends fake homicide tip to Philadelphia police FOX 5 New York",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeFpBb2tuRXRYU29WZTZXX2RLZE5obTY5XzJtMUZYbG9WNlVMMEVpOUlzVVM4WTdZcEh3Rk1paVZIb3hMcXF6dU0yNGFEYXlKX3hVS2l0LTlqa2prUDV1ZllzekgyQkI4dVcwZUtUZ2piVXNjcFpDRGg2czdLcXFwUzNfZFB6aDllSFN5R3ZvNkx2dGpLT2QyNzFyTFdSZw?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Anthropic Is Banishing Its Model Evals From the Internet - Gizmodo",
+          "summary": "Anthropic Is Banishing Its Model Evals From the Internet Gizmodo",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNW1PNnNxaUY1ZHEzS21SMk9HZDE5ajZnTEhSZUNyNUZtVnVzRk93ak1IUS1nQWRJYndEOV9FQUc1dENmSEFPSm40dDJFMGItdW4wQjhkSmpZd1Y3aWpHbkx6NTR2TlRMS0YzaF9SU0xWYms2VzhZajI0OUVhMl9QMi1ITnJ6ZlNWRldsc1lCeHk?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Anthropic AI model sends police false tip about unsolved homicide - upi",
+          "summary": "Anthropic AI model sends police false tip about unsolved homicide upi",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONF9HNmlYRWFNSVpZLXpLTnFqQnh5dEtDUVpuN3pyV3VZZjVtZ1J3X2xIOF8zYnRXLWZ0X1pialdzajBBdDJ0RGRaaVlJcTNxd0xSdVpGcFJBellQd3ZtdnlHaVI2MlZmUGhNWjJfQXQxVHhYa2RCQm5xR2FyUDRWUmcwc3o2a0sxSFlBbDZJN1ZNWXoxT09BNjln0gGfAUFVX3lxTE9WNWdwLU1ZV1pqRDE0SFFOb2RkTG9FZHg5ckR5VGRIbHZaNW5iUnh0blZBVXJWcGlGekRlVVlMd2F5blo2VGZ1T0VZb05pR1cwVGhkUFc5Z1BsbzUxWGplb0ZRdEN0dFkzNXB3MkNEdjc2WHZUMnJGenZ3SG9LUWlXZXpORzlEeG9Zc2txNTBCb0o3dEJVQ04zZGVsQTN6bw?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Nvidia Reportedly in Talks to Acquire Reflection AI, Betting on Open-Weight Models and New AI Computing Demand - TradingKey",
+          "summary": "Nvidia Reportedly in Talks to Acquire Reflection AI, Betting on Open-Weight Models and New AI Computing Demand TradingKey",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVTdoMzRYOXY0WFJUQ3FrbmNCSjlyWUx5TFE3VXFlS1NTdjJJdEpVbFJPQjBTY3VmS2FMbE41SF9RbTBrd3FaZFBuNWtqVDlVdU90ckdBTTdZdXNQdWctdWpSWU16SGhXVUpCckpWWTM1dTI2RVl4bDRPaFdHaWRZTWQ0eU1YYktMY01SaUU3WVotVEJ2c09OTjl6Wm5RZHAzXy1sdnNGSW9hSE8yd2MwVXA0emNsNXpXSDZja2N3aWZpSGllTW9tZ0czQV9sa2R2ZUUwWkFIS0I?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Philadelphia police receive false homicide tip from Anthropic AI model - The Hill",
+          "summary": "Philadelphia police receive false homicide tip from Anthropic AI model The Hill",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDd5WGx1ZzZpQU5XblFlR1VXUkZIeXQ2NU9qb3VicEZZaDJLakJrVHo3cnFlU21zLVkzaHNHWFpwRVU2cWZiSFlvaFpRNER1OFFsYVlsUWdwM19PUWF5R090cTVYOUItcW5Fa1EtNUFmV0N3Y0pPQXRvMlIwZGNEa2lReUfSAYoBQVVfeXFMTy05SzV2eFh0VEdUMkRBQTdmbkRtSS0wLTdBbDlQUDJ6Y1VtOHpiTlJiM3UtaXM2ZWtrNEFlU0E5bFF5U1B0aUNrclU3cU10UklJVWlJc3RSalBvVDJZYU5HWUZFbkZBOXZMMnpUeVBkbkxTT1VtZ0twQUhGNkY3YUR5b1J5dzl5S0Fn?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Google's Gemini 4 \"Carbon\" model reportedly feels like Anthropic's Opus 5.5 coding performance - The Decoder",
+        "OpenAI, Meta and Google Compete for .agent in ICANN’s 2026 Round - TOKENPOST",
+        "MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week - TradingView",
+        "Anthropic Claude AI model sends fake homicide tip to Philadelphia police - FOX 5 New York",
+        "Anthropic Is Banishing Its Model Evals From the Internet - Gizmodo",
+        "Anthropic AI model sends police false tip about unsolved homicide - upi",
+        "Nvidia Reportedly in Talks to Acquire Reflection AI, Betting on Open-Weight Models and New AI Computing Demand - TradingKey",
+        "Philadelphia police receive false homicide tip from Anthropic AI model - The Hill"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: As Google, OpenAI and Meta Push A.I. Agents, Enterprises Need Models That Think Less - Observer",
