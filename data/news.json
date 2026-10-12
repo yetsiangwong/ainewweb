@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-11T11:13:40+08:00"
+    "lastUpdated": "2026-10-12T11:36:44+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Policy & Regulation: AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer - NDTV Profit",
+        "Industry & Funding: Nvidia, Microsoft, Google Expand AI Push, But OpenAI Revenue Gap Raises Questions This Week - Stocktwits",
+        "Research & Open Source: Biohub, Google DeepMind, and Meta expands $1.8 billion effort to build virtual cells for disease research - EdTech Innovation Hub",
+        "Models & Products: Google DeepMind's Thor Schaeff: Native Audio Models Will Replace Cascading Voice Agents - BigGo Finance",
+        "AI Companies: Microsoft, Meta, Google AI Capex Hits $725B [2026] - https://tech-insider.org/"
+      ],
+      "stories": [
+        {
+          "category": "Policy & Regulation",
+          "title": "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer - NDTV Profit",
+          "summary": "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer NDTV Profit",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV242dFNfSVJ4UXZpcVU4MWxwT1phNzc2czRxeThEQ2FVcTJXbXh3YVVRTmhGLVhTbjZ0UjVYVzJrenZveEhEU2FnVFdiUE1QYjdXWGhwY3VEaF9tOHc2MG12WnRoQVBLNmtUX3ZZZ1Vxdkh2UjY1X04zVG1QVGFjZ0gtRG14MGVDSWcxRUxjaDhaN1EtYUFfOTRmcUdXVWk3MVBaOU96eGd2SGtVNkYtZW9MUUlxZEhIMFVObjhBbmc1TjVZdWNPcHZhZFJmR05TWDRBS29oYlpqdWpuQkZHcnMxX1J6VDJaMmFqeTM5c9IB9wFBVV95cUxQWlNfbFJWSHItaFhtUXRsWUY1Uml6dlBjMGhsT0hQRHZqNldoU0VKOVVMZ1dfQ0hhVnVLaEIxLWxIdUc0RkN1aEw3QUUzaHE4a3hkdVlBVFo2bVd1OEdmd19PT002eU5XUmpMZFBldW5PZXJBWmxCTlM5clZqRklaNUpTdFUxZEJlaXdlLVRaYVVsQkE0TlFxOGNaWVNXeVJzc1hjOTZIcTB3TXBvRmlsZXdMSVBzNnhaN1JHUWd5S2hZaTZERTJxMjZVTXQxbnFMMEF3cmI4akVSZ0JIczdQNXRoS2JYU1I2TDNfMm1OX1dYTzVyVS00?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "Nvidia, Microsoft, Google Expand AI Push, But OpenAI Revenue Gap Raises Questions This Week - Stocktwits",
+          "summary": "Nvidia, Microsoft, Google Expand AI Push, But OpenAI Revenue Gap Raises Questions This Week Stocktwits",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbWNVdm1sdUNhMXE3eWpxZTYwMUtTLVRDVjM0SFFDZGZKb1JETUM4cVVCQWVFQUJSMWxlZVNwbjlFdGJBaU9BM212REVRcUFoZ3l2MW52bW1kUHdYRlN4OUx4bDhtMVczRWxKUUZHdlIzZFMtVkhfSS1uSWtGMnh1TloyTXpVUm5jQjlFOVdxYmlya3V5bF83QVBZNlhCYTFiTy1JVy1STXpVWjAxVFNQS1ZhMUwtY055WVRUeVZTMVNWOXRzeTBNNVYwaEh4Zw?oc=5"
+        },
+        {
+          "category": "Research & Open Source",
+          "title": "Biohub, Google DeepMind, and Meta expands $1.8 billion effort to build virtual cells for disease research - EdTech Innovation Hub",
+          "summary": "Biohub, Google DeepMind, and Meta expands $1.8 billion effort to build virtual cells for disease research EdTech Innovation Hub",
+          "whyItMatters": "Research and open-source work often signals where the next product wave or safety debate will move.",
+          "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbEdOOTZQX3Z3MnI1bVBSemJuZGZoSGp3UUtTZ3BFdjNManFHVjBCazZrV2Z6MWJzVGhVOGVyektkR3kyR3BXTnBiVVd2NnQ3OTFQNWNJeEdpeVdaVDdnbHJ1STFwWWxTQWpvWnlMZ0FTVjB1c0g0UlA1cXEwUDhESGhoOFl5eC0tYlhzNjZ1NzdWbHJ2VGEtS0paN0kxeFhwT2RjclFXb2Y2VHR6SVFyTFpsR2djbnFS?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind's Thor Schaeff: Native Audio Models Will Replace Cascading Voice Agents - BigGo Finance",
+          "summary": "Google DeepMind's Thor Schaeff: Native Audio Models Will Replace Cascading Voice Agents BigGo Finance",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xWDJwT2s0MDlOQmtnMENDb3g1OUVFLTg0UURvQnFwMXJfX1drWFY0bHNySzhfVVhhdnhsb2hibEtVTjJFSjFJQ3RubUNOT2ZtZXEyaS0xLVYzZUU?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Microsoft, Meta, Google AI Capex Hits $725B [2026] - https://tech-insider.org/",
+          "summary": "Microsoft, Meta, Google AI Capex Hits $725B [2026] https://tech-insider.org/",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UZ2FEbjdRdE5iUDVlYWRtUkFSanFnUU00WEdfZ1NDM3RMRDBOaG4tV0g0NThrZm04VjNfUE1mMFZLMG85MkdONERNdWxpRW5LWWlrSzF6MlV0dGdXTnM0U2oycmY1Vk5vcmY0cFAzQ1Fkd3dBbk13TENNems3Zw?oc=5"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "Can AI Drive Humanity To Extinction? Google DeepMind's Lila Ibrahim On Risks And Safeguards - NDTV Profit",
+          "summary": "Google News: frontier labs reported this AI-related development within the latest monitoring window.",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUHB4MElZRzYxTWhkclN4QWdqSDdKbWl0NXhmM01WSVp2Z2VRNzRGM1FLU3o5VTVZVFoxbVBqRHdjQl92WHlXTHc3WTdpdVNFc1VyNzBVUXQ0UDVoVGEwVWVheE1waUxnUjlyNEhta1B6ZzZob19TaFc0WWU2Rkw0WDJRd2YzdFhYVElKeG10SjFldW1MOHhyY0NHeVIxQVpSVVhwZmExSmRpMFplZGk0YzV6YmFTRTJ2VnlkOWotcVVBYTE1M1lMX0NaZnlJM2p0Sm1uSGFxTHhkVVVfLXlvUtIB6AFBVV95cUxNc0dUVmFvTm5GUHZPVUFTX0w1OWEtMUczU05lUG9oZmRzckZDdWI4MmFiOURmYW1qY04zVEgzMVJ0a3c0WkxoTXdxdzE2YmFiMWV0emRMb3AydWo3ak1haW9CX0V3a3cyZGdIUnpkVnpXTXZINmx0YXVQaFVoS1hSV25qRU40LUJsVHNGQWxnTzBKTXE1T3FxU08xMU9BWk5Ta29WRTRoX1dYXzQ3cTRQejJrdG9YTlZPQmdqLW4xTlJ2WWpFM21yVnJNYjdCYjVDT1dGbkhMYVZEOWt3OExPeWs0QUIyWmc1?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "How OpenAI's Dots differs from Meta's Muse - 디지털투데이",
+          "summary": "How OpenAI's Dots differs from Meta's Muse 디지털투데이",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbzJYVzNlLUZtektudGF2SFdqa3J2VXZCaFpEUndlTVZTVDlkbzlYbmVtaUt1OFRsbmZ4UHFxMVM4TU5HWTJtU1dxdG04VTE5Mi1aWWZkNGVzOEZHQkZFZjFVUi01R3AwMHRGQTlIZ09vd2ZRbU1fUWhsdG53QTZxM0Fzd19Dd0p6ZHNXZGxYVQ?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Naver expands Naver Map navigation to AI glasses in tie-up with Meta, Google and Samsung - 디지털투데이",
+          "summary": "Naver expands Naver Map navigation to AI glasses in tie-up with Meta, Google and Samsung 디지털투데이",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORmxHeXpfNm04M1BCdHZEWFlxUDJ4UjNWNzRXeDZJOWJUNkZSbkZydEtZek1ReDZrRVJxTGpNYnE4cGVKS1lRMVQ3UWQxZTVTcC1XdE14aTV0ZUowNkRwQWp1dG1lNUFNRWN3R21XVzByQUFWNkVjNHh4NzhuM2p6MEFlQzcyOXlpNlRJcHBsUmpOYW5lRjhXVFBKNUdJRmR4MlUxNHY2T2lMc2lnb2s5NUxkeWo4WDZkR0xXTXR5MXlCUmo4VHc4Rw?oc=5"
+        }
+      ],
+      "discordShort": [
+        "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer - NDTV Profit",
+        "Nvidia, Microsoft, Google Expand AI Push, But OpenAI Revenue Gap Raises Questions This Week - Stocktwits",
+        "Biohub, Google DeepMind, and Meta expands $1.8 billion effort to build virtual cells for disease research - EdTech Innovation Hub",
+        "Google DeepMind's Thor Schaeff: Native Audio Models Will Replace Cascading Voice Agents - BigGo Finance",
+        "Microsoft, Meta, Google AI Capex Hits $725B [2026] - https://tech-insider.org/",
+        "Can AI Drive Humanity To Extinction? Google DeepMind's Lila Ibrahim On Risks And Safeguards - NDTV Profit",
+        "How OpenAI's Dots differs from Meta's Muse - 디지털투데이",
+        "Naver expands Naver Map navigation to AI glasses in tie-up with Meta, Google and Samsung - 디지털투데이"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: Google's Gemini 4 \"Carbon\" model reportedly feels like Anthropic's Opus 5.5 coding performance - The Decoder",
