@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-12T11:36:44+08:00"
+    "lastUpdated": "2026-10-13T12:50:25+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Models & Products: Google holds big lead over Anthropic, Meta, OpenAI in race for best October AI model (GOOG:NASDAQ) - Seeking Alpha",
+        "Models & Products: Meta unveils Muse Wonder AI model to challenge OpenAI, Anthropic - Daijiworld",
+        "Models & Products: Meta claims new Muse Wonder AI models rival OpenAI, Anthropic - Cryptonews.net",
+        "Models & Products: Meta joins the frontier AI model race with Muse Wonder, challenging OpenAI and Anthropic - Neowin",
+        "Models & Products: Meta unveils new AI models it says rival OpenAI, Anthropic - Malay Mail"
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "Google holds big lead over Anthropic, Meta, OpenAI in race for best October AI model (GOOG:NASDAQ) - Seeking Alpha",
+          "summary": "Google holds big lead over Anthropic, Meta, OpenAI in race for best October AI model (GOOG:NASDAQ) Seeking Alpha",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaDhHTGhScjZQSk1aWEw0MWgwOVN1OWdiLW9qVE5WM1pEbWc0T0ZvekVxMFJHRkxIQ1dOM3drakZfalZTZzNhdWpDdV93SkZ0RllwelN1b0RoMnBsR1QxWXB1eUdsM2hTNkdJd21EZUhBUVdzLS01UnJrRHZnSlEtUjZRY1Y4RVdZZ29uRW5Ob19QaG1ROW9MQlVYY3JYcmVJc1ZBbjgyWFBhMm95MlExVmZMUEJzQmV3Mkdkbw?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta unveils Muse Wonder AI model to challenge OpenAI, Anthropic - Daijiworld",
+          "summary": "Meta unveils Muse Wonder AI model to challenge OpenAI, Anthropic Daijiworld",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95cjJ4RjNKd2t0dThDNGxmVEZuTkFVRE9fbkJ2ZzdpQTFvX3JxbHppN0Y4amdvTHRtWjNTcVlVOXc3bzNTTjdIdzFsTlMydEszekJHRlZpX1J1Y01rZkFDdU1OTlJfSklLUmc?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic - Cryptonews.net",
+          "summary": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic Cryptonews.net",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2X2pGdTV6QWduekR6Yk9WOHNkbXl6Z0FpSTYxbmNpME5salIzajQwN1hYbXJONHJYYjEyMVlxSENwTGFSM1dZLWRsYUJjWHNhUkJXMnlDRG9TYmM?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta joins the frontier AI model race with Muse Wonder, challenging OpenAI and Anthropic - Neowin",
+          "summary": "Meta joins the frontier AI model race with Muse Wonder, challenging OpenAI and Anthropic Neowin",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNREQ4Mmozb2pPa015ZFVUT2VhSHdGaVVTMHVJSGZtUVBwSlo2dkZidUlOWTAtRjlsMklJcXllcmtXTXNCc3BpaUVSMGkwcTVTQnJLZkJiVEN4NEpPYno3X2Z6aG1pS0ZZVm5EX2NwRjA1QkxCSnlzS3d1NWdtNGM1cl9RYlRQcUNBSnZyUFlaXzFEbGppMksySzFGSlV0R0dxaElUOXVUY2lUcnNwOTlPVDlwSEwzWDg?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta unveils new AI models it says rival OpenAI, Anthropic - Malay Mail",
+          "summary": "Meta unveils new AI models it says rival OpenAI, Anthropic Malay Mail",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV21ZcmNlckJIOUp1c1BMeklISGFPX3BWNXlzS1V5WWxkX0lMaGZVa19yaGZmbHc4NXBfUG1PSDlva0Y3UUxvNmdNQTc5bVNhWDlzdWFMN1Z4RkE0a19temo5WF91eC00VkNlakZTZWl0cVF5cE9tOFNDRnBPT2wyaml6cnRISlgwaE0xRUstb01wWlZIS0ZFS1dLSUNzaXo0VmFvNUpRSWpZa0RZcEV1YWFNYzh5VEgzVlhVcGJkbUbSAcABQVVfeXFMUFdtWXJjZXJCSDlKdXNQTHpJSEhhT19wVjV5c0tVeVlsZF9JTGhmVWtfcmhmZmx3ODVwX1BtT0g5b2tGN1FMbzZnTUE3OW1TYVg5c3VhTDdWeEZBNGtfbXpqOVhfdXgtNFZDZWpGU2VpdHFReXBPbThTQ0ZwT09sMmppenJ0SEpYMGhNMUVLLW9NcFpWSEtGRUtXS0lDc2l6NFZhbzVKUUlqWWtEWXBFdWFhTWM4eVRIM1ZYVXBiZG1G?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta Catches Up to OpenAI and Anthropic, Unveils New AI Model 'Muse Wonder' - news.sbs.co.kr",
+          "summary": "Meta Catches Up to OpenAI and Anthropic, Unveils New AI Model 'Muse Wonder' news.sbs.co.kr",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44RlRLazJ5MXFKRWZUTW0zanhjQkJJZGdSb2xyNzJCX1FzdVE2Q21FdTVqQmF6OHMzT2xJeXpkamkzYkZKVFFzdEl4c1NFSlhFZ1RhU2pwcWxJX01vSjg1S1M2THFfUQ?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta rolls out new frontier AI models to rival Anthropic and OpenAI - Washington Examiner",
+          "summary": "Meta rolls out new frontier AI models to rival Anthropic and OpenAI Washington Examiner",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd1lyb0dSMWZzREVRQjNkQWNlcWpjb0JqMmtfOW1jN1E4OVI5SC0yNElUT2U3TFBJdGVxVFdHT3Z1S3lYbVNpMl9xSkQtQkd1WjltY01laElhdDcxTC00ZGN5S1ZfdFlYZF9ITFQ1SEhIMDZLeE8zZG5HRDBOMUdTU2EyZGNSZ0w5bTcxY2xrS3BvdUU?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta unveils frontier AI models Muse Wonder, takes aim at Anthropic and OpenAI - 디지털투데이",
+          "summary": "Meta unveils frontier AI models Muse Wonder, takes aim at Anthropic and OpenAI 디지털투데이",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVENmTHVZMnNhNHQ0cmlEeUk4SGNTS2x6MTBqZXlCRHNQbjM3VUZxWE9xQlp5UzNDbTU3blBETGROQzFyM1Jnbnh5ZkVsMkFNRmUtZW5VLVgybWxYOEs0My1zOXNhcUJ6cFFtUF9yd1pCQTVGS3lNenJMNGY1Mk8yTW4zb0g0QkJPSFMxcV8xUjJSWnlaUmdncjNSOEpTTTg3NEpSVVU2bG5Va2JpSlVMN0FYeU5aMjQ?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Google holds big lead over Anthropic, Meta, OpenAI in race for best October AI model (GOOG:NASDAQ) - Seeking Alpha",
+        "Meta unveils Muse Wonder AI model to challenge OpenAI, Anthropic - Daijiworld",
+        "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic - Cryptonews.net",
+        "Meta joins the frontier AI model race with Muse Wonder, challenging OpenAI and Anthropic - Neowin",
+        "Meta unveils new AI models it says rival OpenAI, Anthropic - Malay Mail",
+        "Meta Catches Up to OpenAI and Anthropic, Unveils New AI Model 'Muse Wonder' - news.sbs.co.kr",
+        "Meta rolls out new frontier AI models to rival Anthropic and OpenAI - Washington Examiner",
+        "Meta unveils frontier AI models Muse Wonder, takes aim at Anthropic and OpenAI - 디지털투데이"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Policy & Regulation: AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer - NDTV Profit",
