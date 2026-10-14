@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-13T12:50:25+08:00"
+    "lastUpdated": "2026-10-14T10:58:11+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Policy & Regulation: Pressed by UK lawmakers, Anthropic, Google, Meta, OpenAI differ on AI regulation - MLex",
+        "Models & Products: Meta Bets on Wonder AI Models to Challenge OpenAI, Anthropic and Google - digital terminal",
+        "Models & Products: Meta's Muse AI Models Challenge OpenAI, Anthropic - 조선일보",
+        "Models & Products: Meta Introduces New Muse AI Models to Compete With OpenAI and Google - TechJuice",
+        "Models & Products: Meta Steps Up AI Rivalry with Openai, Anthropic With New Models - تسنیم"
+      ],
+      "stories": [
+        {
+          "category": "Policy & Regulation",
+          "title": "Pressed by UK lawmakers, Anthropic, Google, Meta, OpenAI differ on AI regulation - MLex",
+          "summary": "Pressed by UK lawmakers, Anthropic, Google, Meta, OpenAI differ on AI regulation MLex",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa284dU1vUzR1VVNHanJZX1QwRllWcVlWWmNLUWw2M3RFbVNOOXhMU3ZmTmNpa3hRV254QTgxbVV1S1NXb0xCcTFmRlRXNUJVVVowNWhzZzlxOXU4bnctNzc5UU5TQjlmTmdXT0NKU0VSR1hfMVAtNlZJeW15alBQUjlIcWtETjRwN1Fra2hCVWsyV3J0U2stSzZWNTBEeFBXSmdhdEV0M0UyQjFmRzNiMXlTR29WRXl6M3RF0gFaQVVfeXFMUDdXb1BsWVlaZHpDMlBDbXF2U0ZRVWpwbUZTeEtDa0NmRmtmakRlbEI1X1k4S3lqRUh6YlFTTDRDVDhWTWhDT1lFMmE3dGdjc3huLVgxQ1NCZ2xR?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta Bets on Wonder AI Models to Challenge OpenAI, Anthropic and Google - digital terminal",
+          "summary": "Meta Bets on Wonder AI Models to Challenge OpenAI, Anthropic and Google digital terminal",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWhGRmM2Z2I2aDFscUFRRk9pV1ZsVm81dERKXzBFWi1hcTZGU21ia1NkeEVFaGxuTXptdDJneG8xTVNhdnV4S2lRTGZ2bWVrZmdSQzM0NEtyMnlnX1NiWEgtODVtN2dlQTdrR3ZrZmlXa1paUUowdXpCVmhLUE15Qm0tbkpvMGg3TGtNLUZnSHVPVkU5TVpROVBDeWNuWXNVU01HNzV5dGwtZ9IBtwFBVV95cUxObUptZldqOWszbUFPaXhCMzg0b1pKSkZ3VUZ5eElHZVFydGJOcGtlSGRnalhhbnA4c3hnbGJteFFzSjNoSlBfdGljVXllU2RLUnMyZzhXMkhjSEI1dDlKaGVoMnA2VktacnhKTXhudkpCRU92YkM3aWxhRlQwbkFVb1hEWDZiZGV3aHhmYzZydXlIX3AtUUdnNG1kbi1HdTJ6ZlBodEZUZEJyLXlKdGN4RFBnOVhRakE?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta's Muse AI Models Challenge OpenAI, Anthropic - 조선일보",
+          "summary": "Meta's Muse AI Models Challenge OpenAI, Anthropic 조선일보",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM0lhNWpJV29LUVBwSDF4aEdvcDNxczI4SmNUT2hmRy14UEFuazZhdG53UUlUWmdKSlhBcDQ1WC14UURtNHRUdW5wWDY1MTFuOVlEV21seTl4S2pfZE0yTlBHTDVUc2JrdWxFZTF0NWRJWEpHZ3F6Um5CMThrNXpJcV9oaWV0dGJ5?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta Introduces New Muse AI Models to Compete With OpenAI and Google - TechJuice",
+          "summary": "Meta Introduces New Muse AI Models to Compete With OpenAI and Google TechJuice",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTWVJTW01NUM5UXF4SndVUHhmVktNYmRkLXFISkJVM0NRbDlZUUUtVEtEajRRWGl6QmFCSExDd3paakl1ZlZDbjF0U1ZiU0hYaDRRUmVsUVJ0aU9iaF9WS2NRZUFzZXB6cFNBOEhuWDA5V1NkOHFnMWVKcGMtR3h2RXl5U1A3eXhPV1dWU3F5ZHZJZTk3U2dKWjNR?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta Steps Up AI Rivalry with Openai, Anthropic With New Models - تسنیم",
+          "summary": "Meta Steps Up AI Rivalry with Openai, Anthropic With New Models تسنیم",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkI0a203TGYzT2tLM3VtMG9QYVZEQzR0cTMybDM2Y0R1WjVtTW1GVllXa2pXNWFKWkQ4WUdiQTR2RFdoSnlmT2FGNldjMk0xWGtwb0R0SU80ZkhhR1l2eV8wVlg3MEJiNk1nS0VqbklpcV9kRlVnU0c3ZzFtYUQwMHhsWXQydzc0a3pQYTJtalRxZ192elc5d0RvczBYamt0bTBNY19PREt0VDR3MFZ5N295bjV2UdIBuwFBVV95cUxOQzY1NGhqMTVsX0FwcDY2bXVHWFNLT2o1VnlidzNuYl82SlY3Zm84N3hfN2UzUm5nZGl5Q052emhyRm9ZcUlUZHlHbTFTLUVWbnE5N016Z3FXeWU5dWRIdF9WRnFDX3NUTHNlZ2p3VUNTbXdfRks1R0JnY09OTFBPU2JLa0lyNnoyazEzeGEtZVdEeFNOcG0wcDl1UDN2dXpNNDNUSm1UaVktWktWblY1WDBwbEFKeC1jakMw?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta ships ‘Muse Wonder’, its first frontier models to take on OpenAI, Anthropic - The Tech Portal",
+          "summary": "Meta ships ‘Muse Wonder’, its first frontier models to take on OpenAI, Anthropic The Tech Portal",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb1FIRWljYTdYUHlZUjNoMXhRNExkb1Zzb3dNN3FjUGczZ1lySDVGQmFRZDFQTjJoSEw3ZGhyUHJPRUdTS2ZtQWtxMUM0VWRHYlpuVmZ3V1Nldnk0SEVWTEI1dl84YjRBMGNSdjU0amJDd0J4UExWZFlkdWdjNThoeDNUOUhjZ0hWdzUxdTB2UkRhMjZTMFBMQ0t3UmcwU3h1cGktTnVLMjJwNmRUNHJ0b3RSdzRpODU0bHfSAboBQVVfeXFMT29RSEVpY2E3WFB5WVIzaDF4UTRMZG9Wc293TTdxY1BnM2dZckg1RkJhUWQxUE4yaEhMN2RoclByT0VHU0tmbUFrcTFDNFVkR2JablZmd1dTZXZ5NEhFVkxCNXZfOGI0QTBjUnY1NGpiQ3dCeFBMVmRZZHVnYzU4aHgzVDlIY2dIVnc1MXUwdlJEYTI2UzBQTENLd1JnMFN4dXBpLU51SzIycDZkVDRydG90Unc0aTg1NGx3?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta’s New Muse Wonder AI Model Is Closing The Gap to Anthropic and OpenAI - WinBuzzer",
+          "summary": "Meta’s New Muse Wonder AI Model Is Closing The Gap to Anthropic and OpenAI WinBuzzer",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeHNBMFJheDhiWkhoSExiWWQxZE4xdWMtZ3FLM19qR2NPTnBfTmo0WGl0dFBaOUd5ZG81Sk8wajF4WlljaGViM3J2R2NORFc1OGhnQW5rQUVnNVFvdm9vUGtBV2JzMENWMVdhVEJ1YzhZSjNyZi1vMHpNUUhHRWZ3TGhlYnRhTWo4aXRnU0tvNExuSkMx?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic - Axios",
+          "summary": "Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic Axios",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50WlVKQWVQZDJBOUh3M29URVE3aERKWG9CUVNtQjk1eDdKTmN2Sl8wamZQeDRPNEltbU1EelhDWWt5VEtyVFVVUkRJQTJNbWFwcnp1UkVTaU90Vkw4R0pKT0gwN1A1cHZ4Tzg0YkJpVlVZNUJGbnRR?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Pressed by UK lawmakers, Anthropic, Google, Meta, OpenAI differ on AI regulation - MLex",
+        "Meta Bets on Wonder AI Models to Challenge OpenAI, Anthropic and Google - digital terminal",
+        "Meta's Muse AI Models Challenge OpenAI, Anthropic - 조선일보",
+        "Meta Introduces New Muse AI Models to Compete With OpenAI and Google - TechJuice",
+        "Meta Steps Up AI Rivalry with Openai, Anthropic With New Models - تسنیم",
+        "Meta ships ‘Muse Wonder’, its first frontier models to take on OpenAI, Anthropic - The Tech Portal",
+        "Meta’s New Muse Wonder AI Model Is Closing The Gap to Anthropic and OpenAI - WinBuzzer",
+        "Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic - Axios"
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: Google holds big lead over Anthropic, Meta, OpenAI in race for best October AI model (GOOG:NASDAQ) - Seeking Alpha",
