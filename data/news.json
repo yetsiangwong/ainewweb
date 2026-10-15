@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-14T10:58:11+08:00"
+    "lastUpdated": "2026-10-15T10:37:21+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Models & Products: Meta Takes on Anthropic, OpenAI With Its First Frontier AI Models - ExtremeTech",
+        "Models & Products: Meta unveils Wonder AI models, competing with OpenAI and Anthropic for AI dominance - ET CIO",
+        "Models & Products: Meta launches Muse Wonder AI models to challenge OpenAI, Anthropic - TechGig",
+        "Models & Products: Google DeepMind, Google Cloud grant European researchers access to frontier AI models and $3M in compute - The News International",
+        "Risk, Safety & Copyright: Google DeepMind Chair Warns of Serious AI Safety Risks - Pakistan Connect"
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "Meta Takes on Anthropic, OpenAI With Its First Frontier AI Models - ExtremeTech",
+          "summary": "Meta Takes on Anthropic, OpenAI With Its First Frontier AI Models ExtremeTech",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFkxZUQtZHNFQzI5LUhrRGlLUllLTGs0TDR4QXhhX01yYk02ODFpbzhmdU1uSnhPc0wzcW1RZkcxQWlLRkZ4SzVCZXhpa3lzVWlIZTRGMk9BZmlSaEZLMl9zUHp4bTE3RThtbWJyd2RaU3llUkR5MEhnN212bnpyVW1lVG9uQmNST2tDeFA1WTFzLXQ4LXRQUEZZckYxdllXOERxbA?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta unveils Wonder AI models, competing with OpenAI and Anthropic for AI dominance - ET CIO",
+          "summary": "Meta unveils Wonder AI models, competing with OpenAI and Anthropic for AI dominance ET CIO",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVnYwVG5BV2hqcXlkNS04MmZTSnZET1NJWDA4S0JTMDY0RTVLVWFFZzdjbXBrNmp2dEU4NkNNNmZoNGFWbnJnOWhRV19IbE5BdF9wQ1NoY0Y4ZWZhOXk0LWVfMHVDWFdjSXhFNEYtaFctckVWaHpZT0h3V2hfREJVZFNtc25DcUpkdzM0dk05bzV3Yk9QWkEteUYyYXBUdy1KendTWDBRd0JpWE81ZEJMZXo1aTZDaVctZ0U2Zk84VERBbDYyUGdrbWhTM1pTeGRZWXJHeG5oSGw4U2hTY2ZfVUxWcG0xTGFlNjRwckZEbWk4UnUtSXdRcHNR0gH6AUFVX3lxTE5WdjBUbkFXaGpxeWQ1LTgyZlNKdkRPU0lYMDhLQlMwNjRFNUtVYUVnN2NtcGs2anZ0RTg2Q002Zmg0YVZucmc5aFFXX0hsTkF0X3BDU2hjRjhlZmE5eTQtZV8wdUNYV2NJeEU0Ri1oVy1yRVZoellPSHdXaF9EQlVkU21zbkNxSmR3MzR2TTlvNXdiT1BaQS15RjJhcFR3LUp6d1NYMFF3QmlYTzVkQkxlejVpNkNpVy1nRTZmTzhUREFsNjJQZ2ttaFMzWlN4ZFlZckd4bmhIbDhTaFNjZl9VTFZwbTFMYWU2NHByRkRtaThSdS1Jd1Fwc1E?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta launches Muse Wonder AI models to challenge OpenAI, Anthropic - TechGig",
+          "summary": "Meta launches Muse Wonder AI models to challenge OpenAI, Anthropic TechGig",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZjZRUWFwRWJ4RkxCcWRvQzVwRG1oOFY1MFBSMjRpLUZBb2xucEtteHJwRlRqSW1TTnRidHdUSi1yRk9kc00tdS1mRldUbklKaTZuQUxQc3J4a3RVRDJjazNCVUplbHdfWDc1U0VlY04tdVVFaDJJbkZNeWdtZlZKem1xUVJOcGhQT3IwWXB2OEFUcVpMU2JPckdSTGlJNlhHYUdrcG930gGrAUFVX3lxTE9tUmktMjZIZ1hDR1VJejRGdVhTOWhMaWVrY3J1dmdNdmZEZkRhZTU0RURLU1pYTnlZWjNJREZzeU5hV3JTbU5tT1pkclRVNGRENFVlSVozMHlaeVRaUDdfN0FkQkJHNTV3Yzd5VUNic0I5OHBycWJVNmZrSklrem8xRE5BTWtob01fcnNSdXZBbks5OWpVX2J5bUxSc1JINXpPTmQ5dDZHUlJEYw?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind, Google Cloud grant European researchers access to frontier AI models and $3M in compute - The News International",
+          "summary": "Google DeepMind, Google Cloud grant European researchers access to frontier AI models and $3M in compute The News International",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMHlxWVlNQmVIQ0RjRnR3dXRCcEJJd0VDTW8wQTZIVnRobWN4VnE5Mkw0WEQ4ZnYwZVhBZGI3ZzhzRExYY2R5djJya3lVYUNVbFI4ak9MbmVYdlZfRmRhQ0RRWlViRWhXSThBZUJ4aFlib1JzZS1nY1p2cjlXQjhOY0RDaC1RU0J5WGxrdERfdDdSZXBmNVVvRXh2NVBQYjdHOXR5MjN6RGVmRVg2TUJFMkNIeWN1NVhVZnF4WHNZd1ZKRGFWNzBWUWQyZHZGdHpvb0t6NEJTMDMyTjIt0gHYAUFVX3lxTE5OYTRjaFl3ZmZCcDk2LUJPTWpEelMteUtJaENMalJXZGFzaXhXRlJCS2M0ODlWVTRiZVE0SDc0WUJPY21QQUZvOXdZd3lUVlRkWlBzZnlJWlhfZ24yNHRWc1NqTnpjOE9Cdll4aUoycXZUbFlnU2wtdmEwTEg2M1dZQ2xERWgzSy1VYTFWWmp0bEVJRGJlNmFPbUJTOXBIdklWTk1OUjV6ejJJMFNnc2JZYVlDTUR1SGc3SElPY25tc3RVSXIwX25ETjZGN1J6d3JwTGZCWmtWeg?oc=5"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "Google DeepMind Chair Warns of Serious AI Safety Risks - Pakistan Connect",
+          "summary": "Google DeepMind Chair Warns of Serious AI Safety Risks Pakistan Connect",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVjNNODByUll4TkxrT01FMUxEOTZ0VURzRVdfSVVyblhHaUdCMnpVakNySGY2ellCZ1VUUmpqbUZUODYyQThXUzRrLW5zU3NhSkNfR09tbzcwM3Y1VFRaRU9acU94YjVwUEtzejVuYmdQUEJ3dF9ZUlA5MHNiTTVCMkR3SVFDVjRjTGtrZ29zVQ?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind and Google Cloud open frontier AI models to 200 European researchers - news.lavx.hu",
+          "summary": "Google DeepMind and Google Cloud open frontier AI models to 200 European researchers news.lavx.hu",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX212NGFkci1kX2Y1R3VvSk9PWnkyZV8tRnYtVFpyZ2JOcHRmekx0Q3hocVIwUm92anppLVV4QmljV1h6X0xUaERxemluUmJmT1BTdVlPTlVxVWJqUXpmR1pOSER3WFZqNEJ3WmJtQ3NJMDhhQVJlMk5qUExkSkd5Vmg0RG5rLXN1VV9MYVZ1YVFLX01NQUVJTU56Y3lWNEZ6UlhGbVg0S0JmOEVmbFo2d1ZMZw?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind, Google Cloud to give European researchers access to AI models (GOOG:NASDAQ) - Seeking Alpha",
+          "summary": "Google DeepMind, Google Cloud to give European researchers access to AI models (GOOG:NASDAQ) Seeking Alpha",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTkxLTF4Si03SWZwWlZHOUo3NDZveVoxU0RPY3cyQzJCdElHLXNncmVsTGhRWEhEWlJpT2sxQmhsWFkyRzdISGItSzBXYTFQYmwxdC1YcEwzUTVzZjc5ZmlteXZSSnI4cnZPb01nVGk2TDFVOHkyUVUtSWQ3d19sM0VhRlJKYjdMS0kzV2dIVkFudHFFc1AzUS1NVUpDNjJFNE40MURfQ1VTdnkteFo2SHBKb3BDdw?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Meta, Google, and Microsoft Intensify Race for $4.8 Trillion Global AI Market - TipRanks",
+          "summary": "Meta, Google, and Microsoft Intensify Race for $4.8 Trillion Global AI Market TipRanks",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHVSRUllSzJzaFlSSnE0Y0g2X2R0bjdSM01HOEZrWkFrSWpja3JZb3c2MmROclRBRENqRXhWZ1RmMGpESEozRnl0ZkNmb3k1UDZwT1hUMnZRblBwNUZiQTlpb2RINmp6NmE2YXF2bmIwM3l2Y1JCNWFYZnF6amhVNjBGXzU3cjJ5Q3lwdFJUOC1pNkFTZUw0WkduT2FVZFg2TnNHQnItTQ?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Meta Takes on Anthropic, OpenAI With Its First Frontier AI Models - ExtremeTech",
+        "Meta unveils Wonder AI models, competing with OpenAI and Anthropic for AI dominance - ET CIO",
+        "Meta launches Muse Wonder AI models to challenge OpenAI, Anthropic - TechGig",
+        "Google DeepMind, Google Cloud grant European researchers access to frontier AI models and $3M in compute - The News International",
+        "Google DeepMind Chair Warns of Serious AI Safety Risks - Pakistan Connect",
+        "Google DeepMind and Google Cloud open frontier AI models to 200 European researchers - news.lavx.hu",
+        "Google DeepMind, Google Cloud to give European researchers access to AI models (GOOG:NASDAQ) - Seeking Alpha",
+        "Meta, Google, and Microsoft Intensify Race for $4.8 Trillion Global AI Market - TipRanks"
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Policy & Regulation: Pressed by UK lawmakers, Anthropic, Google, Meta, OpenAI differ on AI regulation - MLex",
