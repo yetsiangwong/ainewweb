@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-15T10:37:21+08:00"
+    "lastUpdated": "2026-10-16T10:32:49+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Policy & Regulation: Meta (NASDAQ: META) Launches Muse Wonder AI Model In Direct Challenge To Anthropic And OpenAI - Foreign Policy Journal",
+        "Models & Products: Meta Introduces New Muse AI Models to Compete With OpenAI and Google - TechJuice",
+        "Policy & Regulation: Open-MMUnlearning: Unifying Methods and Evaluation for MLLM Unlearning",
+        "Risk, Safety & Copyright: FTC subpoenas Anthropic and OpenAI over artificial intelligence safety concerns - www.the-independent.com",
+        "AI Companies: Meta has an AI advantage OpenAI and Anthropic can't replicate - Yahoo Finance"
+      ],
+      "stories": [
+        {
+          "category": "Policy & Regulation",
+          "title": "Meta (NASDAQ: META) Launches Muse Wonder AI Model In Direct Challenge To Anthropic And OpenAI - Foreign Policy Journal",
+          "summary": "Meta (NASDAQ: META) Launches Muse Wonder AI Model In Direct Challenge To Anthropic And OpenAI Foreign Policy Journal",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc0F6Qk9odHhSZDhreFRDLTBrRE12QlVtN2xldUxYcmNvLW90M3NuMVVOdmllVmUyc2VRdm82aXpqVzcwM25XZTQxUEt1VkNTVGRIX2xULU5oeUd0djV5T2lVR1JrN2sxY1U0UXA3SFZPUFE2UlA3TGlSaUZqbzB1bEY1UkZnYzJfd2NKa1R0UjdqZ19zTlZzT1A2dG5rZEZjbHVtdWJfRnAyTU9aNC1lUFVIUnhqMk9OZWl5b0pUdmJyMmlpXzZjS3FYMTR3cERWZ3NOTmFR?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta Introduces New Muse AI Models to Compete With OpenAI and Google - TechJuice",
+          "summary": "Meta Introduces New Muse AI Models to Compete With OpenAI and Google TechJuice",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTWVJTW01NUM5UXF4SndVUHhmVktNYmRkLXFISkJVM0NRbDlZUUUtVEtEajRRWGl6QmFCSExDd3paakl1ZlZDbjF0U1ZiU0hYaDRRUmVsUVJ0aU9iaF9WS2NRZUFzZXB6cFNBOEhuWDA5V1NkOHFnMWVKcGMtR3h2RXl5U1A3eXhPV1dWU3F5ZHZJZTk3U2dKWjNR?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Open-MMUnlearning: Unifying Methods and Evaluation for MLLM Unlearning",
+          "summary": "arXiv:2610.10358v2 Announce Type: replace Abstract: As multimodal large language models (MLLMs) become more capable and widely deployed, concerns about privacy and safety have become increasingly pressing.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.10358"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "FTC subpoenas Anthropic and OpenAI over artificial intelligence safety concerns - www.the-independent.com",
+          "summary": "FTC subpoenas Anthropic and OpenAI over artificial intelligence safety concerns www.the-independent.com",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUmQ5bkZBUjlMb3c2R0g3ZHEtZVpfc2lMOGZpcjhaOV85LWUwNXdIS1RwVlNBUUYxVFVDcm1HeWtyc0FpTXJlbUN5Unl2OGdhVjFtanE4Si1FMVg2QXhXV29JWVlhZGhxMVpPc2dzcWlmcmFRLU4ya1lXdllWcWlvbTR2UW9QajB2QXN5anNMR1lOOUx3VHVmVjAtdlE?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Meta has an AI advantage OpenAI and Anthropic can't replicate - Yahoo Finance",
+          "summary": "Meta has an AI advantage OpenAI and Anthropic can't replicate Yahoo Finance",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkh1U3hwN0V0OWc2SWp1S1Zpa204RldpMm1qUUJ6cGRMT3BuOHhWbGtNbGJla3B6RXZFb3dSZkN4NTE0NTJOYmNoLTVLVnV4RS14Zkx2ZTFUbXR1ckpfQUNDM1gyVmJESTc3ZHd4YnVoNjNpYmtrUWNBYTZEU3JwV0JfQWc1SkM4M1ZMbzBlUDVyQU5PbjVSTndGdHlzOEFTNkctekxTSXlSSG5qNlc4WDR1UmFZNjdCMUg3Zg?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Microsoft, Meta And Google Just Silenced AI Spending Critics In One Earnings Night As Big Tech Capex Swells To $725B - Stocktwits",
+          "summary": "Microsoft, Meta And Google Just Silenced AI Spending Critics In One Earnings Night As Big Tech Capex Swells To $725B Stocktwits",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQ2ZDQkRWWGZaNVdBV1UwS0FEY0RvVVJqUFUxNXd2eHpWM1haeXltLUNpaXB2TW5kcHlJRFo0WFNOQWZFaGNDZ2p3WlcwZjhPVndrYkQwWVAxR0tVVnotaFdDNnZHT1IxZ1BJVHJXZXFpVG5ROUlMcGZoR29iczhkOGM4VG9UMEVWWHJoUEY5TlBCN0RiTEotLTFWNVdFZHZpUmVBOHBuYWVaN0xYMEJzSkgtSno4WHhuc2x4TmpMUkV5bHJDaTNqVHFKalBIMl9pZ01MSjF2a0hpczUtYjMxUHk1OGt0VUxxbHRuaHZ3Nkt4ekRLTl9YZzVQX04wYjFUS25wLUZwWUJwTFU?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Visualizing the World Model in an Agent's Value Function",
+          "summary": "arXiv:2610.14186v1 Announce Type: new Abstract: Could model-free reinforcement learning algorithms actually be learning a model of the environment?",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.14186"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "CUSE: Fine-Grained Multimodal Unlearning with Counterfactual Guidance and On-Policy Self-Distillation",
+          "summary": "arXiv:2610.14763v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) can reproduce sensitive, copyrighted, or unsafe information from their training data.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.14763"
+        }
+      ],
+      "discordShort": [
+        "Meta (NASDAQ: META) Launches Muse Wonder AI Model In Direct Challenge To Anthropic And OpenAI - Foreign Policy Journal",
+        "Meta Introduces New Muse AI Models to Compete With OpenAI and Google - TechJuice",
+        "Open-MMUnlearning: Unifying Methods and Evaluation for MLLM Unlearning",
+        "FTC subpoenas Anthropic and OpenAI over artificial intelligence safety concerns - www.the-independent.com",
+        "Meta has an AI advantage OpenAI and Anthropic can't replicate - Yahoo Finance",
+        "Microsoft, Meta And Google Just Silenced AI Spending Critics In One Earnings Night As Big Tech Capex Swells To $725B - Stocktwits",
+        "Visualizing the World Model in an Agent's Value Function",
+        "CUSE: Fine-Grained Multimodal Unlearning with Counterfactual Guidance and On-Policy Self-Distillation"
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: Meta Takes on Anthropic, OpenAI With Its First Frontier AI Models - ExtremeTech",
