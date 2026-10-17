@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-16T10:32:49+08:00"
+    "lastUpdated": "2026-10-17T10:25:15+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Research & Open Source: Who Actually Gets Paid When Microsoft, Google and Meta Spend $100 Billion on AI Infrastructure? - Coinpaper",
+        "Models & Products: Google DeepMind, GovTech Singapore jointly develop on-device model to flag chat scams - TNGlobal",
+        "AI Companies: Microsoft’s Record Patch, Meta Breach and OpenAI’s Cyber Bid - UC Today",
+        "Models & Products: An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+        "Models & Products: Physical AI is more than robots, says the Nvidia veteran now investing in it"
+      ],
+      "stories": [
+        {
+          "category": "Research & Open Source",
+          "title": "Who Actually Gets Paid When Microsoft, Google and Meta Spend $100 Billion on AI Infrastructure? - Coinpaper",
+          "summary": "Who Actually Gets Paid When Microsoft, Google and Meta Spend $100 Billion on AI Infrastructure?",
+          "whyItMatters": "Research and open-source work often signals where the next product wave or safety debate will move.",
+          "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSERKZDZWVUhGTjNvWUV3OGJycWlaRHJkTk1tX2w2WWliY0pOeWJJUFlHRmxxZUZUR2YwM3VtbHk3emhIekhPLUd1aXFIdS1CUGdXQ09rOVEwckNOenM2ZFcyZmJjLURVWWZwMmJxX21UMEJ1ZlpVQVY5X291WjFSNkNYMlF1bjhwYkVoZ0FCcTFYV3FxYzhjUko3WkJHLXdlRl9TVjhQem93THN5cVl6OUdXNEoyTnllb09jVQ?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind, GovTech Singapore jointly develop on-device model to flag chat scams - TNGlobal",
+          "summary": "Google DeepMind, GovTech Singapore jointly develop on-device model to flag chat scams TNGlobal",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd3NxdjRNQkxlemc3TGE1Q1BadzRkSGZ0VWhHNE9JZkV1Tkd0QzNFdHhRdWJBajlQZFg5amxQUXJqM25WbWd5cm5iRkxwQjltaUNfeFRDdHlxazgyT2QyZWk4TDZZVk4xZWdrZXBObkt1M19aSkVjVEhVSVg5RE1PMnVVV2x5QW1kblBnNWZQRWhoVVFLcmlhRUcwRXp0S0tuTXUyMkNDUVotaGhHOW42clhjZTZFZkdMYy0xeQ?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Microsoft’s Record Patch, Meta Breach and OpenAI’s Cyber Bid - UC Today",
+          "summary": "Microsoft’s Record Patch, Meta Breach and OpenAI’s Cyber Bid UC Today",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRnVzUm5OUWgtX3lHWGdwSm5GSkxZN1l6M3I5aHVCTGVYQ2xVdDFFdWM3VFd6VUVsLUVnWTBvekp5eG1ZT1g5T3c0eUpJaVZtNFNfTkpqT3VaamVrcHAydndwM0hjSExleDhseEpaaW44UWFwLVFsNzViblFpRGpXWDhfQQ?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "PROBE: Learning to Audit Policy Compliance in Tool-Using LLM Agents",
+          "summary": "arXiv:2610.22124v1 Announce Type: new Abstract: Modern agentic systems extend language models with external tools, enabling them to complete complex tasks through multi-turn interactions.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.22124"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Approve What, Exactly? Effect Binding and Trusted Rendering for Agent Step-Up Authorization",
+          "summary": "arXiv:2610.21063v1 Announce Type: cross Abstract: AI agents now pause for approval before they send money, delete files or email outsiders, and that approval is usually treated as a second factor.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.21063"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "When is a better LLM worth paying for? Stochastic Optimization with Switching Mixed-Fidelity Oracles",
+          "summary": "arXiv:2610.21139v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used upstream of decision-making to clean data, detect label errors, and reconstruct missing values.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.21139"
+        }
+      ],
+      "discordShort": [
+        "Who Actually Gets Paid When Microsoft, Google and Meta Spend $100 Billion on AI Infrastructure? - Coinpaper",
+        "Google DeepMind, GovTech Singapore jointly develop on-device model to flag chat scams - TNGlobal",
+        "Microsoft’s Record Patch, Meta Breach and OpenAI’s Cyber Bid - UC Today",
+        "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+        "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+        "PROBE: Learning to Audit Policy Compliance in Tool-Using LLM Agents",
+        "Approve What, Exactly? Effect Binding and Trusted Rendering for Agent Step-Up Authorization",
+        "When is a better LLM worth paying for? Stochastic Optimization with Switching Mixed-Fidelity Oracles"
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Policy & Regulation: Meta (NASDAQ: META) Launches Muse Wonder AI Model In Direct Challenge To Anthropic And OpenAI - Foreign Policy Journal",
