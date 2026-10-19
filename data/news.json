@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-18T10:25:28+08:00"
+    "lastUpdated": "2026-10-19T10:39:37+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Models & Products: ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+        "Models & Products: Anthropic Pushes Its $2 Trillion IPO to November, Meta’s Muse Hits #1, and a $40M Seed for a Model That Doesn’t Talk: The Latest 20VC x SaaStr - saastr.com",
+        "AI Companies: Meta, Google, Amazon, Microsoft Near $750B of 2026 Capex - FourWeekMBA",
+        "Models & Products: Anthropic Unveils Internal Employment Report: AI Agents Work 6x Longer Than Humans, Ushering in the \"Meta-Work Era\" - 36Kr",
+        "Risk, Safety & Copyright: Anthropic Takes Its AI Safety Proposals to Capitol Hill - PYMNTS.com"
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+          "summary": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup Stocktwits",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUi1rTmdESUx0bHNtd3BaSFpHTVVNR2UwMkx1TjRpUW9fcFlZb1ZMRDlyMEgta0VsbDB5MVpSakhWZjE4dEdRcGpDY3JwRkhWb2NTcUJxbWhJdFNhZk81a3VrU2hNQVB3V3FMV1J6RWZPdnB6eFVjdE9aRmNKa2dpY3F1UDNyN3FxV1daN0M1U2VIU29CMkcwZi1JMHF2MmROOGxwanpiU2xuSFpjQ0FWdUxHTzhTLXZYcTVXVXllNmhnSG9odExfUDZCVWNMVEE?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Anthropic Pushes Its $2 Trillion IPO to November, Meta’s Muse Hits #1, and a $40M Seed for a Model That Doesn’t Talk: The Latest 20VC x SaaStr - saastr.com",
+          "summary": "Anthropic Pushes Its $2 Trillion IPO to November, Meta’s Muse Hits #1, and a $40M Seed for a Model That Doesn’t Talk: The Latest 20VC x SaaStr saastr.com",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPU3AxMGItSWd5QloyX3l2aVljeUVvcjJTRTk4aXVrYmZfTUNwenRJdkZ1SkRKU2xIUk9yM056c05FQ3lDUFctaW5HazU5SmRFM2QxcVhrd3V4Zk9tbUN0WXRRRXdVQjR5VWRpLXozMkhsQ1ZhcXZ6al9DTS10TTJFbGpCWmluME11bEQwTUR0VmN2RUlWTVU2czVzbXpTY0g0WmpjMnl4SFJfNWhyTTdOblg2VnYxYjZDc25rSXJMZjdfbGFyR3lia3RPRU45RUtNS3pFNGx1MkVrS0hrMzVla2tqdEJWdXFtRWhjN1B3OA?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Meta, Google, Amazon, Microsoft Near $750B of 2026 Capex - FourWeekMBA",
+          "summary": "Meta, Google, Amazon, Microsoft Near $750B of 2026 Capex FourWeekMBA",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQkhEVXZPUW5LN3J2bFBXMjI3NVN6Ui1PMUZMR1FhcS1GaHRVdERKZGlfQi1XblZJTGNoYmdBNldhN19LRm5tUFBIX1BaczdCOVRRZl81M1Bpa3paVUxVQ2dpTk04OEl2WW55aVgtdDllSlItX2xEWG4tM2I0QW53SGpsYWJsVWc?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Anthropic Unveils Internal Employment Report: AI Agents Work 6x Longer Than Humans, Ushering in the \"Meta-Work Era\" - 36Kr",
+          "summary": "Anthropic Unveils Internal Employment Report: AI Agents Work 6x Longer Than Humans, Ushering in the \"Meta-Work Era\" 36Kr",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOcXc3N1lvLXRGUkxRVHVWekRPLWozNnc3SVlKLUZvWEV0dDFlX1B2VWZxd0ZLeUxmMUx6M1J2V21SaVVxeE1uWTF5aDhmMjNvX1dv?oc=5"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "Anthropic Takes Its AI Safety Proposals to Capitol Hill - PYMNTS.com",
+          "summary": "Anthropic Takes Its AI Safety Proposals to Capitol Hill PYMNTS.com",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeFNrVTI0LUJlVDFHcjJHUXVUcko4bkF2QXJaeVlhWThyWFBrb1V2ZngyWFFyUkNyRDJGRTlkY0FPVzhFcEIxeTB3ZEMwM2p2VFlFM0FVRHowV29mZXplaXp5dkd1OUZ4WlE5TGZvdkNvbFdpQ2szd2MxaWpGQW1HN2pVSDFXZk5NamZuUlpCWVhLV1hObjdGVDFNR19wRmg3SUszbV91aXR4NWUzUjdjS1pDYw?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta blames Anthropic's Claude for wrongly suspending No Kings Instagram - Startup Fortune",
+          "summary": "Meta blames Anthropic's Claude for wrongly suspending No Kings Instagram Startup Fortune",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbzE3Y1l2ai02VGx4ZGQxWVdwUGNoZW41WnVrazJmSlZocWJhMmNFQ1BBRmZGZk5HWlpKemIzSjE5S19hY3o1ajZqVTlkTTZ2N21yZDc3SlhxNUNtRGo5ZmZ3RkpFLTN5Vm9wdXFFZ2s4VmNVSnR1RGtxbjlXQktXYkJVZ0dKYWZUUzRwUnZVSUdoT3BUWHk3QWo3SEc0TjIt?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "AI and the Future of Learning | Google DeepMind’s Lila Ibrahim | Corner Office Conversation - The Economic Times",
+          "summary": "AI and the Future of Learning | Google DeepMind’s Lila Ibrahim | Corner Office Conversation The Economic Times",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV1h5YkxWaU5nR0hMUHAzbHRxNDlBVFVKSUlRU2pCS19CaGQ5R05Ec2hWTU9nM0F2aGo3LXhLaUQ2Q3ItNGFEaDU2amt3RGE0cURISWdGSUdfb0s1OTJHR3JicXYwMFZlcHRoYXlSNUlpcVhmdXR5TXZPRW1ic1hqOGkyN0twMHpOUjl4dzdobDBDd01XYVVYTXNta2FYX01RM2p3TS1QNjVRN1ZVdFRXVXBpRnlBMXJPQUlUTXpGeGJVQnREM2dFSEQxQUFMU21aM2JMQ09ORTNWbW96QzNpQnFUSdIB6AFBVV95cUxNQzBMQlNaVTFPdTBoM05TdWNlS3RNemlJN1dBd280Y0pxQWxXZUxmV3RWWGlYVU9yZ0E4MDRnM0EyTDVGRUxhN185TThjWlJkeEVzRXNqaUk1bFkwOEtfWmYzN2MzRzlOVE5wcE1seTJqVTdMcUhCbzJ6Wl8yOWlOTm9ieS16UERIT0JwUDRURlJlSHQ4LVdzU2NLLWNGVE9kX0ZBN1padk4xTU45T0sxazNmTUZad1hPRTI4cWthNm1GMVRmOHJEUnNualJTcG1Gc1JnRlVCUTJPX0dWTUMzWUVEZTU0Q2xl?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "AI responsibility must be natively built & community-driven: Google DeepMind’s Lila Ibrahim - The Economic Times",
+          "summary": "AI responsibility must be natively built & community-driven: Google DeepMind’s Lila Ibrahim The Economic Times",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPY3ZNTFlqd2FXSGc2UmRxY2RzX291Wnc2QlZKVWVYWTN6RzJMamJFQlpKWUpxWVVpa0JBaHlSRnU5emk3OW9qdnNoTE5yZ2RSQ2ZDN0hmQ0VuQTVNRERGbUlDWFB1RUJXdzA2SDBLQnN6TmJ0YVJGczV4WEVpQW11aFFhMDZxel9Cb0NDZkkwZXk5MVVmMDRIbklaOVJPc0xwVFgyU3hISnpMR3d4eUFtQW9KVVJxZ1NFYkg1TnM5Q2k0N0o3VERXNlhvQ3NIV1IxeHRhaFFJd1Q5bjhFSENfZHRQeWszZDB5SkJTUWhNVmJMN0VRWk5BeXlrcVdKYzjSAYQCQVVfeXFMT3FSRWJGQzI5QWpRbnpnY19JdmlkZldaRlBnOGsyWFNnUFdSM3hYTTRkWi1oQmI2OTF0aFhYemFzd2JjdU9Vcnl0WHdtXzQzWGJrWWJ3NjZtSWhDWkVZSnJnUFZhYWJaR3NtcGdURl9lcEhvT3k4c0ZORU94VFlzYkxEejNFX29xellQNlpRZ1hCVmwwS3QyQXozSTdBZEZmUDRTUERrN3ZQR1FqenhBdFdEa0JBZE51X0g3TmpEd2pDeW9IN2MxTk42NGNmbVQ2SmMzTTEwVF9PYWFDby1VTTFSTUUxMV9BQjEzZ2gyelhfUGVuQktkbE1pdnRrSEpMM2otVUg?oc=5"
+        }
+      ],
+      "discordShort": [
+        "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+        "Anthropic Pushes Its $2 Trillion IPO to November, Meta’s Muse Hits #1, and a $40M Seed for a Model That Doesn’t Talk: The Latest 20VC x SaaStr - saastr.com",
+        "Meta, Google, Amazon, Microsoft Near $750B of 2026 Capex - FourWeekMBA",
+        "Anthropic Unveils Internal Employment Report: AI Agents Work 6x Longer Than Humans, Ushering in the \"Meta-Work Era\" - 36Kr",
+        "Anthropic Takes Its AI Safety Proposals to Capitol Hill - PYMNTS.com",
+        "Meta blames Anthropic's Claude for wrongly suspending No Kings Instagram - Startup Fortune",
+        "AI and the Future of Learning | Google DeepMind’s Lila Ibrahim | Corner Office Conversation - The Economic Times",
+        "AI responsibility must be natively built & community-driven: Google DeepMind’s Lila Ibrahim - The Economic Times"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: Anthropic Pushes Its $2 Trillion IPO to November, Meta’s Muse Hits #1, and a $40M Seed for a Model That Doesn’t Talk: The Latest 20VC x SaaStr - saastr.com",
