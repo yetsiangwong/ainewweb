@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-19T10:39:37+08:00"
+    "lastUpdated": "2026-10-20T10:51:48+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Models & Products: Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+        "Policy & Regulation: OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning",
+        "Models & Products: AgentRivet: an automated system for producing Rivet routines from journal publications",
+        "Policy & Regulation: Rethinking GRPO for Large Reasoning Model Safety Alignment",
+        "Policy & Regulation: GEMS: Molecular Structure Elucidation as Learned Search over Isomer Graphs"
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+          "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning",
+          "summary": "arXiv:2610.23670v1 Announce Type: new Abstract: Chain-of-Thought (CoT) monitoring offers actionable evidence for oversight AI systems, with the potential to enable early detection and intervention.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.23670"
+        },
+        {
+          "category": "Models & Products",
+          "title": "AgentRivet: an automated system for producing Rivet routines from journal publications",
+          "summary": "arXiv:2606.13535v5 Announce Type: replace-cross Abstract: Particle physics collider experiments provide Rivet routines as part of the analysis preservation strategy for model-independent measurements.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://arxiv.org/abs/2606.13535"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Rethinking GRPO for Large Reasoning Model Safety Alignment",
+          "summary": "arXiv:2610.23085v1 Announce Type: new Abstract: Large reasoning models (LRMs) exhibit strong reasoning capabilities but remain vulnerable to unsafe outputs.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.23085"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "GEMS: Molecular Structure Elucidation as Learned Search over Isomer Graphs",
+          "summary": "arXiv:2610.23617v1 Announce Type: new Abstract: Identifying small-molecule structures from molecular formulas and tandem mass spectra remains a bottleneck in untargeted metabolomics and natural-product discovery.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.23617"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Reason-guided Human Reward Modeling for Preference-based Reinforcement Learning",
+          "summary": "arXiv:2610.23550v1 Announce Type: cross Abstract: Reinforcement learning (RL) policies optimized for task rewards may produce behaviors that are efficient but misaligned with human expectations, safety preferences, or intent.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.23550"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "PresenceBench: An Exploratory Evaluation of Large Language Model Adaptation to User State",
+          "summary": "arXiv:2610.23625v1 Announce Type: cross Abstract: Presence-aware intelligence is the capacity of an AI system's intelligence layer to adapt appropriately to the functional state of the person it serves (here readiness, flow, and stability) while preserving task quality and safety.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.23625"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Who Can Change Course? An Integrative Review of AI Sovereignty and Collective Learning Capacity",
+          "summary": "arXiv:2606.00729v3 Announce Type: replace Abstract: This paper examines AI sovereignty as national learning capacity, using France as an application.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2606.00729"
+        }
+      ],
+      "discordShort": [
+        "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+        "OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning",
+        "AgentRivet: an automated system for producing Rivet routines from journal publications",
+        "Rethinking GRPO for Large Reasoning Model Safety Alignment",
+        "GEMS: Molecular Structure Elucidation as Learned Search over Isomer Graphs",
+        "Reason-guided Human Reward Modeling for Preference-based Reinforcement Learning",
+        "PresenceBench: An Exploratory Evaluation of Large Language Model Adaptation to User State",
+        "Who Can Change Course? An Integrative Review of AI Sovereignty and Collective Learning Capacity"
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
