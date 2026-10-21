@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-20T10:51:48+08:00"
+    "lastUpdated": "2026-10-21T10:45:57+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Models & Products: Anthropic pitches AI safety bill that may block a model if 50+ people could be killed - TechCrunch",
+        "Models & Products: Rehearsals Launches Human Behavior Bench With Google DeepMind and Kaggle to Measure How Well AI Models Understand Humanity - Fortune",
+        "Industry & Funding: NVIDIA Is Finally “Too Big to Fail.” Here’s Why Meta and Google Aren’t. - TIKR.com",
+        "Policy & Regulation: Canadian News Publishers Sue Anthropic Over AI Copyright Infringement - OECD AI Policy Observatory",
+        "Models & Products: Google DeepMind’s Gemini 4 Argon builds a 3D periodic table synced to a song - Crypto Briefing"
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed - TechCrunch",
+          "summary": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed TechCrunch",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDFyYXc1VXhSNWszSTJjeHpqMzhfNnJyaU44UURVY2tKdl9PdVh1TXRnQ3lrRktDV1VhMEttU25ERGFKaXFKZmlsN0tZZDlGWVhPM0VKMXA1VHZlN0pja1BNSExXUnFTRUtES2xoM3hXdG95MDNSSjFDZTFOck1ZaXlVMDZwMW56VWlRVzVXTzY5TmdrZnoxVG51ZmhGQl8zeC1DeTcwalM3RzhISi1ncUE1Z2FXYUZOTXlB?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Rehearsals Launches Human Behavior Bench With Google DeepMind and Kaggle to Measure How Well AI Models Understand Humanity - Fortune",
+          "summary": "Rehearsals Launches Human Behavior Bench With Google DeepMind and Kaggle to Measure How Well AI Models Understand Humanity Fortune",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYTNIaC1PeVF1T1ZCRmJadzc4X3gwUkNiYmN6Mk82M1daeEV4OG5WTDIwbVVwdnpaREw5dk1uUXNjSElBRC1QR09XT0ctUFVyVG10RjNQTkN1VkNNdlFIM3dVdG5pN0t2bUd0VTctbWNNc2J1bjZTNDVMVGdUbDVYcXo2U21kUm45bkgwTjRPOUw3Uk5nWkVNZkdXUlJ3czl4OGNhUm5B?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "NVIDIA Is Finally “Too Big to Fail.” Here’s Why Meta and Google Aren’t. - TIKR.com",
+          "summary": "NVIDIA Is Finally “Too Big to Fail.” Here’s Why Meta and Google Aren’t.",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWFJmMkUtYXRqMEJTUXVsM3pxRGsxeUItQXZaZHlxdTdoblNmREozeUtRMGhYYkxoX3dTcTZ4SnNTUk4tZWloalhjRDVWYTc5Q0dUd0pOZ0ljVzNYWUpvdFZXSy1aRk9ucnpYbjd6N0xETEhBZ2s5ZG96ODFCTGhQOTh6elBkcUE5TnY5eS1RZmQzd3d2LUE?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Canadian News Publishers Sue Anthropic Over AI Copyright Infringement - OECD AI Policy Observatory",
+          "summary": "Canadian News Publishers Sue Anthropic Over AI Copyright Infringement OECD AI Policy Observatory",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IakphYjI2NjR4X3BHQi1mNDlhYnp6ZWFRUXM4LXRIRlZJYnNFOXpmelFaQ1dhbzh2QlhFWmRJdERCV1ZtcTNfM2MwaDVKajJscHVoSXJXaw?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind’s Gemini 4 Argon builds a 3D periodic table synced to a song - Crypto Briefing",
+          "summary": "Google DeepMind’s Gemini 4 Argon builds a 3D periodic table synced to a song Crypto Briefing",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42bEJQdXJ1cGFXUnBYX2x6bnNCYmZfS1FHVERMV2JWV1hUdk9naHJQZ0hfQnpEdFJEWEpUcm1QQy0zc3hoQTNVbEpteW1VZGhEM1cyb1MzSmJ1MzFGRWZOUjRTV2x4YlF6MHZjX19rcUtDTjg?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Authors Bring Copyright Suits Targeting Meta's AI Training - Law360",
+          "summary": "Authors Bring Copyright Suits Targeting Meta's AI Training Law360",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IZ3V2RnhjS3BmU1lHU194eXdTenZLZ3IwT3BYcGMwVFZhNmlmdTQyNTZ0RFFJT0R1ZVlWWDhQVWZ3Q1JhdU8zaW1hM0JVY3NvVFVFX2JB0gFWQVVfeXFMTkhndXZGeGNLcGZTWUdTX3h5d1N6dktncjBPcFhwYzBUVmE2aWZ1NDI1NnREUUlPRHVlWVZYOFBVZndDUmF1TzNpbWEzQlVjc29UVUVfYkE?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Four Gemini 4 Argon Agents Beat Minecraft’s Ender Dragon — Google Deepmind Minecraft Ai Agents - شبكة تواصل الإخبارية",
+          "summary": "Four Gemini 4 Argon Agents Beat Minecraft’s Ender Dragon — Google Deepmind Minecraft Ai Agents شبكة تواصل الإخبارية",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YaXpuZm1MdXZPTi1zR3hCRnpFeE1oc3Z3S0o1Q1RxM0RZZjJ6YzZzTFVXejE5MzZFeFdSanRXRUZUc2NPcEtIcTBxYk1UR2drVFN3?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google Launches PyTorch Tool to Break Nvidia's GPU Lock-In - The Tech Buzz",
+          "summary": "Google Launches PyTorch Tool to Break Nvidia's GPU Lock-In The Tech Buzz",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXRGcmVfOWdwZVZVZVJHOTRqanJUZk5VZnJlSlhIZlB1X3ZyNnRsZ0Nva3JSb1lQanVUQjF1MlU1OHU2NTg5YkVBdWozeEI5MXl1TVp5cUt5V3FPRHlIVE5lY256YkV2VlhoWm9DZk1RQ19FU3BNNEh0ZHVHdV9USzc2b05FX0luckVnWW5XWXF6MzBONkE?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed - TechCrunch",
+        "Rehearsals Launches Human Behavior Bench With Google DeepMind and Kaggle to Measure How Well AI Models Understand Humanity - Fortune",
+        "NVIDIA Is Finally “Too Big to Fail.” Here’s Why Meta and Google Aren’t. - TIKR.com",
+        "Canadian News Publishers Sue Anthropic Over AI Copyright Infringement - OECD AI Policy Observatory",
+        "Google DeepMind’s Gemini 4 Argon builds a 3D periodic table synced to a song - Crypto Briefing",
+        "Authors Bring Copyright Suits Targeting Meta's AI Training - Law360",
+        "Four Gemini 4 Argon Agents Beat Minecraft’s Ender Dragon — Google Deepmind Minecraft Ai Agents - شبكة تواصل الإخبارية",
+        "Google Launches PyTorch Tool to Break Nvidia's GPU Lock-In - The Tech Buzz"
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
@@ -2404,62 +2484,6 @@
         "New Filing Shows OpenAI and Microsoft Debated AI Threats to the Web - The Mac Observer",
         "Nvidia boss rejects AI extinction fears as 'doomsday narratives' - BBC",
         "OpenAI’s Cash Burn Could Approach $280 Billion by 2030 - PYMNTS.com"
-      ]
-    },
-    {
-      "date": "2026-07-13",
-      "label": "Archive",
-      "status": "Archived from the previous Chinese daily digest and translated into English for presentation.",
-      "highlights": [
-        "OpenAI was pushing ChatGPT from an individual tool into household, caregiver and senior-user scenarios.",
-        "Meta removed an Instagram AI image feature after backlash over consent and misuse risks.",
-        "Apple sued OpenAI over alleged trade-secret issues, potentially affecting OpenAI’s hardware ambitions.",
-        "Generative AI capital expenditure remained a major investor concern.",
-        "Copyright and training-data litigation continued to pressure AI companies’ data governance."
-      ],
-      "stories": [
-        {
-          "category": "Models & Products",
-          "title": "OpenAI advances GPT-5.6 and workplace products",
-          "summary": "The archived brief reported OpenAI’s GPT-5.6 family, including Sol, Terra and Luna variants, aimed at enterprise, coding and scientific workflows. It also referenced ChatGPT Work as part of a broader productivity push.",
-          "whyItMatters": "The model race was shifting from raw capability toward cheaper, faster and workflow-specific deployment.",
-          "source": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Meta enters the AI coding race with Muse Spark 1.1",
-          "summary": "Meta’s Muse Spark 1.1 was described as a multimodal agentic coding model for multi-step reasoning, tool use and enterprise workflows. Its reported pricing strategy targeted lower-cost enterprise usage.",
-          "whyItMatters": "Coding assistants became one of the most important commercialization fronts for frontier models.",
-          "source": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/"
-        },
-        {
-          "category": "AI Companies",
-          "title": "OpenAI targets family, caregiver and senior-user experiences",
-          "summary": "The brief noted OpenAI hiring for product leadership focused on families, caregivers and older users. The likely product direction included household plans, child profiles, parental controls and care reminders.",
-          "whyItMatters": "Consumer AI safety requirements become stricter when products move into family and child-facing environments.",
-          "source": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "Meta removes controversial Instagram AI image feature",
-          "summary": "Meta removed an Instagram feature that let users generate or alter images using public-account photos without automatically notifying the referenced person. The feature was withdrawn after backlash from users and representatives.",
-          "whyItMatters": "AI image features must handle consent, likeness rights, harassment and deepfake risks before scale.",
-          "source": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "NYT accuses OpenAI of hiding evidence in copyright case; OpenAI denies it",
-          "summary": "The New York Times and Daily News accused OpenAI of insufficient disclosure related to training data and chat-log search capabilities. OpenAI denied the allegations and argued the plaintiffs sought unrelated private user conversations.",
-          "whyItMatters": "Copyright cases increasingly focus on what AI companies store, search and disclose, not only whether training qualifies as fair use.",
-          "source": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/"
-        }
-      ],
-      "discordShort": [
-        "OpenAI moved GPT-5.6 and ChatGPT Work further into enterprise workflows.",
-        "Meta’s Muse Spark 1.1 entered the crowded AI coding market.",
-        "OpenAI showed interest in family and caregiver product experiences.",
-        "Meta pulled an Instagram AI image feature after consent concerns.",
-        "NYT vs OpenAI highlighted copyright, evidence and user-privacy tensions."
       ]
     }
   ]
