@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-21T10:45:57+08:00"
+    "lastUpdated": "2026-10-22T10:44:10+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Industry & Funding: Google DeepMind expands SynthID Detector globally, adds OpenAI and NVIDIA support - news.lavx.hu",
+        "Models & Products: The ‘Zuck has entered the building … Meta says its new AI models on par with OpenAI, Anthropic - IOL",
+        "Industry & Funding: Google, Meta and Amazon Challenge Nvidia's CUDA Dominance - www.thelec.net",
+        "Models & Products: Anthropic launches Claude Duet AI agent to rival Meta's Muse, OpenAI's Dots - Anadolu Ajansı",
+        "Models & Products: Anthropic launches Claude Duet, its answer to Meta and OpenAI's personal agents - Business Insider"
+      ],
+      "stories": [
+        {
+          "category": "Industry & Funding",
+          "title": "Google DeepMind expands SynthID Detector globally, adds OpenAI and NVIDIA support - news.lavx.hu",
+          "summary": "Google DeepMind expands SynthID Detector globally, adds OpenAI and NVIDIA support news.lavx.hu",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ3FGbEx6UXNNZzhQZUltaldsd2JNbndQRlZOQXc3UGhodWg0NnZFRndEQmJYZ0V1VG5HejFrRlF1TDdqNGd3bkh3QmoyalVtZ25xT1FtV2FCSWVtZmtFaHN2OE5tTHhMMzZpQUd6VEhuQjBnYVE5TllqUlM0VHBabkMyY0VjWG5rN0Zaa1hycFRVWDJBNFFvWUNLZGp4SXFnVk43X0FGb0dXUExVVlE?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "The ‘Zuck has entered the building … Meta says its new AI models on par with OpenAI, Anthropic - IOL",
+          "summary": "The ‘Zuck has entered the building … Meta says its new AI models on par with OpenAI, Anthropic IOL",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObkJ1bGh2OUlkRmZaMW51b3dXN2NRTU1YOVFvY0xqTW5rMVlNZ043N0NEQjZpNHJzSUtJU25iYVF0aW1nUGhLa2dEbFNiXzV1aHNhRU05dHRmc0J2R0VZSVZJUUhUUnMzVzlQZWdmZU9fV191amg0d0NCWE16YjBtUDRCRDZ5OXppUmZxVVZ4UW13clEtQmR6a0EtZ0pnX0gwNlZnQWZlZjV3ZHVBSFNVdWlhZk44ckxKSTRWUU0xQkEzQmw4QTZSQlY5OFd2T29Oa195TnljMDl0aXFsaHBQbFNxN3E3a2Y5?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "Google, Meta and Amazon Challenge Nvidia's CUDA Dominance - www.thelec.net",
+          "summary": "Google, Meta and Amazon Challenge Nvidia's CUDA Dominance www.thelec.net",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GMHN0VzZwOTBoNGZnOUdSRlR1TzgwZDlJUmthdHB4OVh2MEo1Y1hjNHNHVVJUOW04RGM2dlJsRHV1MGZpZDRxWmRGUjhvVmNmRzhybTVPTWVxV2JHeDhkUTZLMElBbjA?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Anthropic launches Claude Duet AI agent to rival Meta's Muse, OpenAI's Dots - Anadolu Ajansı",
+          "summary": "Anthropic launches Claude Duet AI agent to rival Meta's Muse, OpenAI's Dots Anadolu Ajansı",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRDJYNEVlX0RpSXZrNldLY2dmYjZtNVgwcERJTEN1MklkQVh5QUNoX25RX1hLYl9zWi1UMG90Ym5US2dsNEJKLU83aUhzOTNZVWp1WExoaEJwUC1sSFNEZEVjNmwwZF9fNjFqWFFYOGRieW1zQmg4aXhKdVVqa1phQ21DN0dMeW1BTDZjcW5zRHBRLWFVTXo0YzBzMWJUWm9kajQ5ZjJpZDFzclBsSFg0?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Anthropic launches Claude Duet, its answer to Meta and OpenAI's personal agents - Business Insider",
+          "summary": "Anthropic launches Claude Duet, its answer to Meta and OpenAI's personal agents Business Insider",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQkZFNGVZc2Q2Q3VJYWVFNjFlOUh1NE1aNWFrZHlzOFlEMVpQU0xFQkFDSW4ydXljV1gtRnBBVzZjWi11Z3dMQ0sxdl9EdXdJOWl0TWlYMnl1M1o5S3d4LXRuOW9lLUd3bS1lYkloUnFGVnhqbFNJSGtVRUt4ZnlWSVg1Q01YOHlrWF9tZ0RsQXptUjljR0MxVFVaWW0xTXMweUE?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Anthropic Launches Claude Duet AI Agent to Take On Meta and OpenAI - The Tech Buzz",
+          "summary": "Anthropic Launches Claude Duet AI Agent to Take On Meta and OpenAI The Tech Buzz",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcm85NURDZEFFWGNUb0V4anVHWllXX0tieUdJLThVZEFRVTFkVGYzcXhtSFNGbW5aZjJCZHhoeDVRNEZjRjh1N2E1THk3TTB4ckxucUVxSlRmUHdBTTBIdktEUFNYREc3blNEaEY2SktVd3BXdlJVcll1TnUtZHE4a1RrSGxhWnY5c0JhdV9qeUI5TzcydDIzcnJCTWg3UzN6?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "OpenAI vs Google DeepMind: How the AI drug discovery race is shaping up - Digit",
+          "summary": "OpenAI vs Google DeepMind: How the AI drug discovery race is shaping up Digit",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdTkwMmxQUTlZM21JdTAyeDJMTlQyWnZkMkdJbEFoczFzTkZNaE96TVF1eGw4d0pWdjBUSmZpdkg0X0RwNlNYUnFuUFZMc1VvZThkX3FlbTVsSE9HUG1xUzBwSE5IOFIzaDFXTWZudk9yZi1MM3JiYVNhNV9Va1NUM3dMbHVsNUs0ZjlqMUtzZzNlcGdWLVh6Z296TWViLXh2Vjk3TE9CU3p4S0sxUEtPdnowONIBugFBVV95cUxNalRHUXQ2NkNhUF9HQ0FUM1U1Y2psR1RsQ2hjbUhnUm5MXzd3em80ak9VSEpkZXRpbmZZSmticFZyU1ZlcjRxRTNBUHVXQ0w1c0ctOGVjd0xQQlB5MGFuUEN3NDBsTjlzbmxqZHBsQUxZUlhvamMwS0hVa1B2ZlhQRmZxNEZaLXVULWh3M3R4U0NnVkhKY3llQ0Vnd19EWWVUb2VKM3gzQU84b0hTaVctUnpLelBKRFRJTHc?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google Cloud, DeepMind, and the EU: A New Model for AI-Driven Science - Cloud Wars",
+          "summary": "Google Cloud, DeepMind, and the EU: A New Model for AI-Driven Science Cloud Wars",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc1B2cEV6Q1pqUWMxS013SzNJcHI2NF9ZUm5jZ3REN0pKbndraEo3bl9pMlU1YlZ0dWJuMVZvZnR5cVlQYU5PUGtGNmM2VlJUZ0ZBdEFjZTFndmowYjF5VUc2UUxVdUE0QjRocHFDeWljWTQyRjJZQjhJNVVNTzI4bl8zLW55dFVZU09zZU0telhwUHRvUWRUemxseEZhQS15WEphSlhFak55b00?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Google DeepMind expands SynthID Detector globally, adds OpenAI and NVIDIA support - news.lavx.hu",
+        "The ‘Zuck has entered the building … Meta says its new AI models on par with OpenAI, Anthropic - IOL",
+        "Google, Meta and Amazon Challenge Nvidia's CUDA Dominance - www.thelec.net",
+        "Anthropic launches Claude Duet AI agent to rival Meta's Muse, OpenAI's Dots - Anadolu Ajansı",
+        "Anthropic launches Claude Duet, its answer to Meta and OpenAI's personal agents - Business Insider",
+        "Anthropic Launches Claude Duet AI Agent to Take On Meta and OpenAI - The Tech Buzz",
+        "OpenAI vs Google DeepMind: How the AI drug discovery race is shaping up - Digit",
+        "Google Cloud, DeepMind, and the EU: A New Model for AI-Driven Science - Cloud Wars"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: Anthropic pitches AI safety bill that may block a model if 50+ people could be killed - TechCrunch",
@@ -2404,86 +2484,6 @@
         "Subscribers Sue OpenAI, Anthropic, Google and xAI Over AI Slowdown - ProPakistani",
         "Publishers accuse OpenAI and Microsoft of “unprecedented” copyright infringement - cybernews.com",
         "Why OpenAI, Anthropic, Google Sued by AI Users Over Antitrust Claims? - coingabbar.com"
-      ]
-    },
-    {
-      "date": "2026-09-21",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "AI Companies: OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks. - Yahoo Finance",
-        "Policy & Regulation: Antitrust lawsuit targets Anthropic, OpenAI, Google, SpaceXAI AI slowdown - qz.com",
-        "Policy & Regulation: Anthropic, OpenAI, SpaceXAI, Google made ‘illegal’ agreement on AI slowdown, says new lawsuit - Livemint",
-        "Models & Products: Anthropic Mulls New AI Model Amid Investors’ Pre-IPO Worries - PYMNTS.com",
-        "Models & Products: The AI Agent Wars Just Got Personal: Google’s CC vs. Meta’s Muse - 24/7 Wall St."
-      ],
-      "stories": [
-        {
-          "category": "AI Companies",
-          "title": "OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks. - Yahoo Finance",
-          "summary": "OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone.",
-          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
-          "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2Z3amJrbEJUU0wtOGFSVjdfU2h2cHBYTnlMc0oxRHhLaVpaMWJQLUhlRTZ6Z2JmVkJmNXJrT3pKODJOa0F5LWNXbGlRdVBuZlhXczhSdWVKeWNDTEdGSkNpMTRDSHhSTjRVY1BqY29lQ1dDUURhcjJxZWtycG9rQnVxSlFNTVljRW42UWkxQmtXcm5wOERr?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "Antitrust lawsuit targets Anthropic, OpenAI, Google, SpaceXAI AI slowdown - qz.com",
-          "summary": "Antitrust lawsuit targets Anthropic, OpenAI, Google, SpaceXAI AI slowdown qz.com",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcHBiS2tSYUVPMi1YRjVtOWdKNHNLdmg1amtkTkdFUnF6NzZzYWRiSGg0SkRPMzdHaEJfTzFiOWwzVm90LURvMC1KWjdKdGYzRnVwaS03eEtPUDVDWFVEcnFrcDUtTUtYdTJweFMtZk80YWYzcWZ0Mk5QNFhKbDZXUk5JWUlpS0VEZ1F5Yg?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "Anthropic, OpenAI, SpaceXAI, Google made ‘illegal’ agreement on AI slowdown, says new lawsuit - Livemint",
-          "summary": "Anthropic, OpenAI, SpaceXAI, Google made ‘illegal’ agreement on AI slowdown, says new lawsuit Livemint",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTG1xa3VyUGRibUZnc09VMlgyNnBPclpCZHQyQzlTbThya2RfZWNlR0VHMjZ3OXZUV0VHTWk4RERGNGlJTC1GdDRQa2kwTXRFVHd5OHFCakQ1ZkNLUDdobDZZZnBtdnVDRlFaSGhxdjVqSHczajI3X3JudmFaX2RxdnNBU3Y5U2R6SkNNV2JxQzFWN1Z1azRfWnVhSFdwSlVLTFdTRXNvZmpxczRicmZxenJKZ01ENXNsRTVGb0J1bVVkX185WVUteDJOZ9IB0AFBVV95cUxPNFZpTkJGS3hDNHJyTlZ2NDVJRVdNdmlKYUJURzZZNnpkZDBaS1ptWERmemMzX0J5b1MyTFdXQmJkUzZVbENFSkJpSkxPMGpDbnhucnpVWjBFZU9kam5YMFhlbEVSMHNITXUtb0FZaWdxazljOEZucmxOWjRjR2Y5RUd4TGRLNGNpbFZpc21VVThIZmRld0x1U2lrT243blYySThaVS1KT0NoTmpvMlJqMnpHTkNtcktBbDkwdGg0V0ZLUHR4YzF1MGF6cmZkemx6?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Anthropic Mulls New AI Model Amid Investors’ Pre-IPO Worries - PYMNTS.com",
-          "summary": "Anthropic Mulls New AI Model Amid Investors’ Pre-IPO Worries PYMNTS.com",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWp5cTZXc0VwMGkzZWNRM29aQ09xbG0ta1BvaEVxT3AxLW1PdHZzMEV4MEZBemgyVFNjVEpEMHUtUTg3TVZwcElQNkJtUDhybzNTdFh2Sk5iTjM1a3pUUkNyTVBBbDl2dTR5U2t0MTJxN3NWbzZaX0p4UzB1RTJiRklSeno3WUtRdk5IUWxMZ1hQb05RUjJ5cVFhVFE5Y0IxOVdfTEdkemhMRVRpMnp1LUJPQVJaWFNk?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "The AI Agent Wars Just Got Personal: Google’s CC vs. Meta’s Muse - 24/7 Wall St.",
-          "summary": "The AI Agent Wars Just Got Personal: Google’s CC vs.",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR0ttVDY0dFZiM09pVDJ1UXBQV05EU2M2NlhLaWN3ZW51TWloVy1ybG1JaUQ3ajh3N0xQRUhJZjJ1ckZYaGFabFhKeXhVaGRJOERjVUFqN2NRNFltUHJZQnQwWUxOclBYcE10OEtxZFd3bGx1bG5kWFk4OG1JZ1JBZnRJSmV3N3pOZ2hMZE85ZkFVMExTdVJpN3dJc2JyTWpsVWtJR3NDcw?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "New Filing Shows OpenAI and Microsoft Debated AI Threats to the Web - The Mac Observer",
-          "summary": "New Filing Shows OpenAI and Microsoft Debated AI Threats to the Web The Mac Observer",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU20tbVlTeWZUVEJXaVRtX1JNMzRHWXpMR1pGV3M1LVZHZF84NThJLTliWmhwWkRpWF9BWEhTYmVlRmNTY1ZnU25KaGY1Qm1BSTk3SkRjSEtVMTZ0M2F2RkRJYUthSWc5NFBXTlI0WXA4YTN6bkNPeHpOcTg1M2ZyR2g2eG42ZXNQ?oc=5"
-        },
-        {
-          "category": "Industry & Funding",
-          "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives' - BBC",
-          "summary": "Nvidia boss rejects AI extinction fears as 'doomsday narratives' BBC",
-          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
-          "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mVWNJR2FxMmFqSFU0ajJGZEJwRlBWR3FibTdQbDh0R1k1T3ZGVFZRU09iVTJUam4zcGdfQzZ5c1V0MkU3ODI0WXR2Y1lkVzJadVR0dWpxZzJmajQ?oc=5"
-        },
-        {
-          "category": "AI Companies",
-          "title": "OpenAI’s Cash Burn Could Approach $280 Billion by 2030 - PYMNTS.com",
-          "summary": "OpenAI’s Cash Burn Could Approach $280 Billion by 2030 PYMNTS.com",
-          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
-          "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQzVyRTlFV0dtTFY5YV90UXpGVzBHVDUzRDNublNaSlludm43QlE3czllNFBVTE1mQUpSVHEydk5rU0M3OUpYWUtkOWhFaVFBbzRxaHBQTnB5Zm1fUzdGbVlfekRsbWJwbm85SnJqV09GdVozTzdFQ3RVNGEtbEtTSndtZTRfZHV6SXpPWHVfS0ZPbXl0cy1LUnU1NlRqUzNkcmI0bmlReS1od18yWUFn?oc=5"
-        }
-      ],
-      "discordShort": [
-        "OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks. - Yahoo Finance",
-        "Antitrust lawsuit targets Anthropic, OpenAI, Google, SpaceXAI AI slowdown - qz.com",
-        "Anthropic, OpenAI, SpaceXAI, Google made ‘illegal’ agreement on AI slowdown, says new lawsuit - Livemint",
-        "Anthropic Mulls New AI Model Amid Investors’ Pre-IPO Worries - PYMNTS.com",
-        "The AI Agent Wars Just Got Personal: Google’s CC vs. Meta’s Muse - 24/7 Wall St.",
-        "New Filing Shows OpenAI and Microsoft Debated AI Threats to the Web - The Mac Observer",
-        "Nvidia boss rejects AI extinction fears as 'doomsday narratives' - BBC",
-        "OpenAI’s Cash Burn Could Approach $280 Billion by 2030 - PYMNTS.com"
       ]
     }
   ]
