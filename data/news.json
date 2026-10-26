@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-25T10:35:34+08:00"
+    "lastUpdated": "2026-10-26T10:34:31+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Risk, Safety & Copyright: Google, OpenAI and Anthropic back £100m UK AI biosecurity lab - City AM",
+        "Models & Products: UK Launches £100 Million AI Biosecurity Lab with Google, OpenAI, and Anthropic - TipRanks",
+        "Industry & Funding: Corporate Renewable Energy PPAs 2026: How Amazon, Google, Microsoft and Meta Are Driving Clean Energy Investment - GreentechLead",
+        "AI Companies: Tech Layoffs 2026: Job cuts near 2 lakh globally as big tech like Microsoft, Google, Oracle, Meta & more pivot to AI - Livemint",
+        "Industry & Funding: Google DeepMind staff resign over AI deals with US military, raise safety concerns: Report - The Financial Express"
+      ],
+      "stories": [
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "Google, OpenAI and Anthropic back £100m UK AI biosecurity lab - City AM",
+          "summary": "Google, OpenAI and Anthropic back £100m UK AI biosecurity lab City AM",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRGxlUzNmVlZtSTlxODFSNTdJTDl0cFdBTkozTGlKTWdmQjdSZzA4bTc0UFIxWWlOaHBzUXl3bDZLaS1obFRlaW5VMTdpWW1xZjh2QXQyX0h4aFhPc29CSWxxdmNWLWxHOUJIUHNsZ0ZQdzZBS19mSUxfc0Z3eGdjd1NiRm9FVUZYQklz?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "UK Launches £100 Million AI Biosecurity Lab with Google, OpenAI, and Anthropic - TipRanks",
+          "summary": "UK Launches £100 Million AI Biosecurity Lab with Google, OpenAI, and Anthropic TipRanks",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNakItN3ZfRm8yQzZ1OEpfZ0RkRnBfY3U5ektYX19sVHhxNUl2MFNCcTV5QVh1dk81WmJNLWJxcFFDcUFwSU1wdmxHZjJacVB1RWw0a0xiOXpscmZqVzlWYUhXY3pteGlZeUhtMWpNbVJaaTRsR3daZlY3Z2E3V1JKVDdScENFRURtLUlpbkk2WVpNUUhvWjE1cjFBTXI3Zk96MnFWNDlMelc?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "Corporate Renewable Energy PPAs 2026: How Amazon, Google, Microsoft and Meta Are Driving Clean Energy Investment - GreentechLead",
+          "summary": "Corporate Renewable Energy PPAs 2026: How Amazon, Google, Microsoft and Meta Are Driving Clean Energy Investment GreentechLead",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORjExT0FkWkQ5OGpwNlpkWEtNbFdQZFVLc0xPMk81clNIZFY4czQ0XzRmR25FQ1dUTlRod2xuQnhHeTBxd0pWTldmeUJFWEJZOGl4MU9PX1VKVkVTUHVIZVhMLUd5bEcxbzNLQm5kTHl0T3YwZ2lNODduMDMyZWRHOFc0cEItbUJiTVJsbTJJSk1SQ3ltbTZrRElaalM3SDY4dEthMWJnTEdfaEFydzdrSVlsZU5CaGg5MllPSDh5dVN4QmcxREUxQnpwS242dWxJdFhTLUFHWUFHTGpYdTNjaXJpMUhqOGVPakc4Z3hzOA?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Tech Layoffs 2026: Job cuts near 2 lakh globally as big tech like Microsoft, Google, Oracle, Meta & more pivot to AI - Livemint",
+          "summary": "Tech Layoffs 2026: Job cuts near 2 lakh globally as big tech like Microsoft, Google, Oracle, Meta & more pivot to AI Livemint",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSDdKS1Vqa1ZteEFhdXlTRHI1U1JOZUtBWUp3Wnkxd0tOQ05zSzNqelhfYTJCUXEtZzUxbUgwaHIyeWJmajRITS04TXotXzZRS1FRUlliaVYtUGlFd1NLOVA1VE5uaWg0UzVRMlFnTzFWazloNTNQRzJHMFFkZGlYdEdsSHJiWWZwSUlndzJNRlR1enZEYVh2U1Q3dWpEMUpsSFJxSUNZazB0aUMzYl8teG5SQjVUaXZTQlJWUW5yNktncjZsdmRPLUl6aHBlMDFhei0yQ0tTcWt4WVBnSlNsRk5VVndXN0ZYUzRwUVp2T2lFekhSYl9rcVhEX0FMWF80QUdtNEJlTdIBjAJBVV95cUxOeTc1T1hLNlRXOXdEZWNQQ09FZDIya2hqV0RLcGdHVndHY3NNa19vODZteVlTWllsYV9PTjZub1YyZHFWcUpBWTRZQUJ4VUhGVDg1Vnc5REZMSUt4ai1xaE5JelRFc3BCeHA2LWZ6bnFTX3MzMjFPaFFyd2lBQnBzaDVYOHdMckZIRkc2YkxZZDNxSjlKYWp4enBUQUltUjBIMjh2MFBsMjNjTUN5ekQtU1ZNcVJKTzJIZlBnZVNrb3ZTU0pyWlJXUUV1WHJOeU5DTjlCZVo1SjJLSUdFVndkTHlrc3hENUJXQ2xZTWp2bFdvaTQyQmFNemhPVERUVWdaLXZNT2ZZdFdaSFEz?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "Google DeepMind staff resign over AI deals with US military, raise safety concerns: Report - The Financial Express",
+          "summary": "Google DeepMind staff resign over AI deals with US military, raise safety concerns: Report The Financial Express",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZHNQT281eUF2MmF0U0huMUhsRERTcU5BLW1zSnREZGVna1NQT3p2R3FpX1JVd0J4NEhKVGZoblE3akhublFKZjVJUFc5M3puSDBwSHFCaHo5cm8tRjRmbG8tU1B6bTBGdzJKSzEtOERmcWM3aTVlaTJ1WDVMOU1fOFllR0YxUWJBQm4yMWwta1ZjZ2o3amZabzQ4dzZJQ2hSWW55WWhuUGZjWWR3ZmlPNjdOVnp0TDRhYmM5NFM3WEpxdTJHUlZINTJXRFQzZDlLWXJUYUJIQldPNXl1WmtEVVdUQdIB6gFBVV95cUxNaWtGMGt3SV9JeWpqN280QVhZNzB0TXBqWm1qUjJFcVl0SnQxM2hCalVDc0pMM0NQalFVTTlSUHBMbEVzS29JYTUteDVRN3ZiSGFEOXdNMzNnUTNjaVdRYm1ZbTdlTWZCYlVZSzRBWnhKeGQ0SFQ4Q3dOcG1ScDR5eFd3LTlkclhnUjdKcFZGa0dDZTZVUWZwT0lwS1hibUpUaXI0OW1OazNXZTBVQVZQbkJ1aXc0NVpKLU5HNGxsN0NBSlQyb3RKNFVNS2VoZktHdURjME90SDhIMmR0Y1ROR3U5aGFFUmNsa2c?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "OpenAI, Microsoft executives’ quotes on AI training threaten copyright defense, news outlets argue - DD News",
+          "summary": "OpenAI, Microsoft executives’ quotes on AI training threaten copyright defense, news outlets argue DD News",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWTZuNFRvQkI3c3VuSEJac1d2X3hYeERxYUhzZVhwWXVCQ0FpbFl6VlFHc29DemdiVzJ5MmhLUVh6cldxNm5DeGxvYzg5dGlMWWxyUFhNVHVDbkVDcURhd2FfbXZ4bEdvdW5FTjdUQ1dWbHRlMG91RGxxVlJUT0JfQzRmcEd3em1GVjdQNFBkVmN0U1lKakpWN1hFRFI2MEZpS212NmIyeUZjNjFtQWkydngyR2RnUjhlbmthT3dn?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Microsoft AI Agents: Nadella, 11,000 Models [2026] - shattered.io",
+          "summary": "Microsoft AI Agents: Nadella, 11,000 Models [2026] shattered.io",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOUQ4NkdmaEF6TW9IcVAwSDNLTDBUWXhmNUFWR2VNUUFtLVlVSnRvWHlXTlFTb2NYOWQtblpFM0NRdE5URUwzdGYwTzAwTG5VT2xmUS1ZWkJkTTFRbW5RYzZ0TEpNUmcxSGNtQVhaSHhLYVBCazlLOXh0NklsVGV5QjhtS1lNWWl5cHhqYWNVTQ?oc=5"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "Anthropic is pitching Congress its own AI safety bill, report says - Mashable",
+          "summary": "Anthropic is pitching Congress its own AI safety bill, report says Mashable",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15NjVPYUtCV2RwQTJVZ0MtcDFJdV9INE9mOUpFdmUxQXg0bXI3WkJhVHNyN2ExOGFJRXAyZmpwWjY5SnMxYW05R2UtVVJzRHJGdldDcEdaU3RlcE1DdGFqT19CXzgwZnNUdk4zNEY1cUJXSWpsVVFn?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Google, OpenAI and Anthropic back £100m UK AI biosecurity lab - City AM",
+        "UK Launches £100 Million AI Biosecurity Lab with Google, OpenAI, and Anthropic - TipRanks",
+        "Corporate Renewable Energy PPAs 2026: How Amazon, Google, Microsoft and Meta Are Driving Clean Energy Investment - GreentechLead",
+        "Tech Layoffs 2026: Job cuts near 2 lakh globally as big tech like Microsoft, Google, Oracle, Meta & more pivot to AI - Livemint",
+        "Google DeepMind staff resign over AI deals with US military, raise safety concerns: Report - The Financial Express",
+        "OpenAI, Microsoft executives’ quotes on AI training threaten copyright defense, news outlets argue - DD News",
+        "Microsoft AI Agents: Nadella, 11,000 Models [2026] - shattered.io",
+        "Anthropic is pitching Congress its own AI safety bill, report says - Mashable"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Industry & Funding: AI: Anthropic’s $750B Compute Bill, OpenAI’s Trim, Nvidia’s Safety Net & More. AI-RTZ #1249 - AI: Reset to Zero",
@@ -2404,86 +2484,6 @@
         "Google's Answer To Meta’s Muse AI? DeepMind Chief Says Gemini 4 Launch Is Coming 'Much Earlier' - Stocktwits",
         "Amazon is blocking Meta's shopping AI agent, and plans to block Google and OpenAI's too - TechSpot",
         "MITO AI Highlights Integration of Google DeepMind’s Lyria 3.5 Music Model - TipRanks"
-      ]
-    },
-    {
-      "date": "2026-09-25",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "Models & Products: Google’s Gemini 4 could launch 'much earlier’ than year-end, says DeepMind exec as AI battle with OpenAI, Anthropic, Meta heats up - MSN",
-        "Models & Products: Google, OpenAI, and Anthropic Plan to Form Independent AI Safety Standards Body, Potentially Launching by Year-End - finance.biggo.com",
-        "Risk, Safety & Copyright: OpenAI, Google and Anthropic Join Forces to Set AI Safety Standards - PYMNTS.com",
-        "Models & Products: ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
-        "Policy & Regulation: Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning"
-      ],
-      "stories": [
-        {
-          "category": "Models & Products",
-          "title": "Google’s Gemini 4 could launch 'much earlier’ than year-end, says DeepMind exec as AI battle with OpenAI, Anthropic, Meta heats up - MSN",
-          "summary": "Google’s Gemini 4 could launch 'much earlier’ than year-end, says DeepMind exec as AI battle with OpenAI, Anthropic, Meta heats up MSN",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPdXp0RkgxTTh3MzNHbGxTb3VQcWJ0MDd0V2pCM1hRd2YzVVNTTy1kV2JyVzNQUDNYZHJYS2pIS3E3a2dIdjFqRTkwZWQyTXlDVkJYblprS2tRMHFBRmptU1FudVdFYmR5MDVfNVVOejJ1aXNIRHNxLWwwVjZVSVVtcDVjY19FUlhHVGZXV2NMd3NOdDFmbGp5dURwM3hOLWtkeXV0X2dod3dGODFKcE5vSVZRYThPUi1nRmNoT053TmVLTjRlbUpiRWVjS0hhZmdXUWVQUkhES3pjd1I1Y1RsTEdhS1I5TXA5eXRoaW1PTjFJS1lac2VtUDlVSExkN3NONHNfNw?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Google, OpenAI, and Anthropic Plan to Form Independent AI Safety Standards Body, Potentially Launching by Year-End - finance.biggo.com",
-          "summary": "Google, OpenAI, and Anthropic Plan to Form Independent AI Safety Standards Body, Potentially Launching by Year-End finance.biggo.com",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LTzhzUWdETkJqVFZPVG8ySGpVVkxJSVZNOXFPU3RZaUFFNTlwUnRmbTJSM3hKanJlaXdnbTkyeGYyNmVnX1c2U0dxNmhFTW1sUnlqWkhqZTlUQ0RiQWVZM2pPNkFibW1tdGRrWXpUQThHel84VVE?oc=5"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "OpenAI, Google and Anthropic Join Forces to Set AI Safety Standards - PYMNTS.com",
-          "summary": "OpenAI, Google and Anthropic Join Forces to Set AI Safety Standards PYMNTS.com",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMEJ6b0dzel84NjZLVGRhcVM2VHltQW5QVEZwX24wTWJLU0tBc3ZaazZWM2NaSGRSYmhKZmJrd3VXSXh1Q1p3N2ZmbXh1aXBWMW5WZ21DeW1jV294MFVHS0R5ZWI1U00ySk9xTld1b0ZySktfRlo2bmpoWmRnQ05tSmRFOHIwbXViM2VfWm5NaGM1OWJqZXdYTEVERVFwLTRWQlhabE4wbUgwUE1nUFd1U3VTOE1hZUpFZjZXdHZNd045UQ?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
-          "summary": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup Stocktwits",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUi1rTmdESUx0bHNtd3BaSFpHTVVNR2UwMkx1TjRpUW9fcFlZb1ZMRDlyMEgta0VsbDB5MVpSakhWZjE4dEdRcGpDY3JwRkhWb2NTcUJxbWhJdFNhZk81a3VrU2hNQVB3V3FMV1J6RWZPdnB6eFVjdE9aRmNKa2dpY3F1UDNyN3FxV1daN0M1U2VIU29CMkcwZi1JMHF2MmROOGxwanpiU2xuSFpjQ0FWdUxHTzhTLXZYcTVXVXllNmhnSG9odExfUDZCVWNMVEE?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning",
-          "summary": "arXiv:2607.21653v3 Announce Type: replace-cross Abstract: Agentic reinforcement learning requires rapid experimentation with agents and learning algorithms, yet large policies and long, multimodal trajectories demand substantial distributed infrastructure.",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://arxiv.org/abs/2607.21653"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Google's Answer To Meta’s Muse AI? DeepMind Chief Says Gemini 4 Launch Is Coming 'Much Earlier' - Stocktwits",
-          "summary": "Google News: frontier labs reported this AI-related development within the latest monitoring window.",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcXJDc1N3VmNFZlpBQ2ZhREdsemZQaFlLZC1BTnNQX21mR1RuQW5GTDY2NHBwd05USzcyRXZ1QVFuVk1QZmhDcXlaeWEwV3lKbkhpa3NZQzlac2MtbVlQbEVTNVR3RGNudVE5aE1VTUdxUVhraDlZRkhUWVdmSmc3NGRWNzRyLTNHVENuQ1dsTkJtaDFOa0doaXBaUEFkQmE4SHI1V2NiUG1ZQnBWNXhnU0xkeHBUaFp3RTVRZGRHYVdENktwNHBnWFdXbGZLc3paVEJzREN3Q0xuRG9fXzBjSTBBUk9mVWx1VWpOTWxtTGQ3M1dWZnhtWTFMem8?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Google Races to Launch Gemini 4 Early to Catch up with OpenAI and Anthropic - androidheadlines.com",
-          "summary": "Google Races to Launch Gemini 4 Early to Catch up with OpenAI and Anthropic androidheadlines.com",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOW5fb3BLUlRrYlFfYW5uYUx2Y29acjk1Q2ZJc1hBYXV2SEVCQ0VxOG9hM2tIdVVINk1GakthNnNmQk0zbE1VbHFmbXZWU2VKVE5DVGRYdnFwSnNQbFFmV0Z4THVMV2k2QVcwUlhIT2N6WVNqYmZVYWhwUi1LWVFvamxTdXY0MDZxWTdmdHdSb2VPbnh1?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Africa Built Its Own AI from Scratch: The MORENA AI Model Outperformed Google, Meta, and Alibaba - Root-Nation.com",
-          "summary": "Africa Built Its Own AI from Scratch: The MORENA AI Model Outperformed Google, Meta, and Alibaba Root-Nation.com",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FSWRZSldCUmltQm9sMmtJdGE5QlRHUUtKREs4WFdDRnNEQVdCQnhIdnFETnpKN19WRWpvU0dSMG5vMWhXSEN0dGxkWGh4b1VDMldMaTRzc3d6YzFrLWxzN3ZTLW1ydlU5Nll5Q01WczVIMG81R2lQNVRNOEw?oc=5"
-        }
-      ],
-      "discordShort": [
-        "Google’s Gemini 4 could launch 'much earlier’ than year-end, says DeepMind exec as AI battle with OpenAI, Anthropic, Meta heats up - MSN",
-        "Google, OpenAI, and Anthropic Plan to Form Independent AI Safety Standards Body, Potentially Launching by Year-End - finance.biggo.com",
-        "OpenAI, Google and Anthropic Join Forces to Set AI Safety Standards - PYMNTS.com",
-        "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
-        "Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning",
-        "Google's Answer To Meta’s Muse AI? DeepMind Chief Says Gemini 4 Launch Is Coming 'Much Earlier' - Stocktwits",
-        "Google Races to Launch Gemini 4 Early to Catch up with OpenAI and Anthropic - androidheadlines.com",
-        "Africa Built Its Own AI from Scratch: The MORENA AI Model Outperformed Google, Meta, and Alibaba - Root-Nation.com"
       ]
     }
   ]
