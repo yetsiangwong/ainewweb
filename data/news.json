@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-27T11:09:08+08:00"
+    "lastUpdated": "2026-10-28T11:22:48+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Policy & Regulation: Multi-Objective Reinforcement Learning Using Routed Ensembles and Trajectory Attribution",
+        "Industry & Funding: OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips - The Information",
+        "Industry & Funding: ‘Racing Far & Wide’ in AI. Anthropic, Nvidia & Google. ARD #193 - AI: Reset to Zero",
+        "Models & Products: Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google - The American Bazaar",
+        "Industry & Funding: Anthropic IPO Filing, Meta's $95 Billion Stock Sale Reopen AI Equity Funding Spigot - BigGo Finance"
+      ],
+      "stories": [
+        {
+          "category": "Policy & Regulation",
+          "title": "Multi-Objective Reinforcement Learning Using Routed Ensembles and Trajectory Attribution",
+          "summary": "arXiv:2610.35733v1 Announce Type: cross Abstract: Multi-objective reinforcement learning is a fundamental problem for modern AI, with applications spanning post-training, reasoning models, and robotic control.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.35733"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips - The Information",
+          "summary": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips The Information",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHVUUUdOMmpGd3dxdWhJS0t6c3FlVmh1eXg1ckptWEFhX2JGbVByMGozdHZRQks4YUV0dzM2dWI0Tm05cmlXcG53Q09IYXNJYlFab3BjV0NSVnNoR05TQXFLQ2thQlV0OVFWdDJyM2wzOFVCdG13X0hsSHVQNFRTQ2hGNThFeFJjeWhqMlZLTW1RQ1RUNVU4UnBtMU93eEk?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "‘Racing Far & Wide’ in AI. Anthropic, Nvidia & Google. ARD #193 - AI: Reset to Zero",
+          "summary": "Google News: frontier labs reported this AI-related development within the latest monitoring window.",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ocTZ1V2FnQnZ6QXZ0UlI3VlJTSFN4amVoTHRpWU5ZRHJDa18wXzVIdFRMVWhlaXpnYnVqMzBDeXU2R0lTandKV01DbjVNb0xVdDZGWlNPVVI2Q3cwM2lSTjVzNmRSb1h3YmNNeXhDVTdmdjZVcXVOdWxZTmU?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google - The American Bazaar",
+          "summary": "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google The American Bazaar",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONE9IZVFmbnBCZEpIQXZ4LUJldEluNnVTR2ZneEpLWGllY0RGWEgyOUsySWNOWFdaMEgzc3dkd1JmRV9HQ2N2ZHQyRnlnOTRvcDhOVVhDWFlnVzNFYnNYY1lFb0FiM2NfVW44Wk5SOW02Nk9qVm9pa3hJNFlnLV9pQm1QekNIOHZhSlBLeTVfQnpYZjMtcnl1UkxKLXFjdTFtMlJURjBIeEo1V0NocXFucEJweHgxOElHSWU0UlVSTU93cVhxWDJWNkR3V0RfXzFxQ3RKNVVRLU5QNVZNa2pv?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "Anthropic IPO Filing, Meta's $95 Billion Stock Sale Reopen AI Equity Funding Spigot - BigGo Finance",
+          "summary": "Anthropic IPO Filing, Meta's $95 Billion Stock Sale Reopen AI Equity Funding Spigot BigGo Finance",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xNktvRXFPZUFDT1B5cGJ1STNud29HTmNNWk96OTdGX3lOTUxMMWhRZ3d5cU5CWWNfZmRYTWJfMjFUc05RSG0wQV84MW9LekdGNmxLa0J1cDdYUzFCYkdfeU1PaDlMa3dPTUlOZmhXRldPTXNWYkE?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind is unveiling Genie 4, its most realistic AI world model yet - Quartz",
+          "summary": "Google DeepMind is unveiling Genie 4, its most realistic AI world model yet Quartz",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmSUx1cW1BWnBETElWNmlYMjdTY3VBZFJmRkx2eVNOcktkWXhiUlVBQUd5eEE2ZUt0YWJMTGRNejV2MTlpUDlnM1hTVVZHd0RKY3hXOTQtd0hyX2dHbFdRd1p3eVRKVmVtdFVzaVp5bHM?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind unveils Genie 4, the world model that once tanked gaming stocks - Startup Fortune",
+          "summary": "Google DeepMind unveils Genie 4, the world model that once tanked gaming stocks Startup Fortune",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNnJvM0FKTEs1TGFxYkEtejRtOWJjN2J2WXlCZnNZZHAzcGdiSEtlUXVhWlZxVlRkWkRxeUNDazZtQzVnYUE2X2xHWV9lVFlGOWtWT3BjWGlyVndCdlFmQ25vaDZYWFFUTUZhLVd4V1pfOW5JSXBwZ29qR2JfZmpiallhclN1c3ZKd0tsbnZmUFltQzNJLWRTMG5OY3lueHFBTldQdlZpb1NvUQ?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind Rolls Out Genie 4 World Model in Research Preview - Unite.AI",
+          "summary": "Google DeepMind Rolls Out Genie 4 World Model in Research Preview Unite.AI",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcHN4SmZSeVRRQkVWMjFxdVAtTnd1MzRJSFZXbE9Cenc3U2RCeTFnZjRWeFo5RGpaZUxwZEV5ZW9vaHBkRUFMS19HVFUtdEhmcV9YQ1A1MHI0UWlxNENHNE5DaEI5VzRsOTdCejZBNlFaTlh0VkNQRGhxTnBRa1lTUlhTX0lyemlHNWxwMExsZ1E?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Multi-Objective Reinforcement Learning Using Routed Ensembles and Trajectory Attribution",
+        "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips - The Information",
+        "‘Racing Far & Wide’ in AI. Anthropic, Nvidia & Google. ARD #193 - AI: Reset to Zero",
+        "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google - The American Bazaar",
+        "Anthropic IPO Filing, Meta's $95 Billion Stock Sale Reopen AI Equity Funding Spigot - BigGo Finance",
+        "Google DeepMind is unveiling Genie 4, its most realistic AI world model yet - Quartz",
+        "Google DeepMind unveils Genie 4, the world model that once tanked gaming stocks - Startup Fortune",
+        "Google DeepMind Rolls Out Genie 4 World Model in Research Preview - Unite.AI"
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Risk, Safety & Copyright: OpenAI, Anthropic, and Google DeepMind Join UK’s New AI Biosecurity Mission - Brave New Coin",
@@ -2404,86 +2484,6 @@
         "OpenAI to Halt Training of Some Models - Gizmodo",
         "Google DeepMind's Kevin Hou: Human-Written UIs Are 'Kind of Dead' - finance.biggo.com",
         "Google DeepMind engineer quits over rapid AI development | Tap to know more | Inshorts - inshorts.com"
-      ]
-    },
-    {
-      "date": "2026-09-27",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "Risk, Safety & Copyright: Google, OpenAI, and Anthropic just made a move on AI safety - Currently.com",
-        "Policy & Regulation: Lawsuit alleges Anthropic, OpenAI, SpaceXAI, Google colluded to slow AI development - The North State Journal",
-        "Policy & Regulation: Google, OpenAI and Anthropic are building their own AI regulator, with no government in it - WION",
-        "Models & Products: AI’s Trillion-Dollar Bet Faces a New Challenge as Cheap Chinese Models Threaten Anthropic, OpenAI’s Revenue - Tekedia",
-        "Models & Products: OpenAI halts training of latest models as reports mount of AI agents going rogue - The Guardian"
-      ],
-      "stories": [
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "Google, OpenAI, and Anthropic just made a move on AI safety - Currently.com",
-          "summary": "Google, OpenAI, and Anthropic just made a move on AI safety Currently.com",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObVktUk13WkpvU3JNaGpoQWIwVGdjNU5xb1RUb2RxZGFMd0plNXhxX3Q0Wl9RSGY5N0JhUlZpR0dqVlg0QmItbjBMazlRZGx3Yl9BMjVCZjZrbTNyTlVsREg4OXZNTUNKX3J2MEQxWEQ2V1d2MjRRY2UwUlZaSEhtQjhGVFgtZTdSdS13Mg?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "Lawsuit alleges Anthropic, OpenAI, SpaceXAI, Google colluded to slow AI development - The North State Journal",
-          "summary": "Lawsuit alleges Anthropic, OpenAI, SpaceXAI, Google colluded to slow AI development The North State Journal",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmhyWWM2OUlRY1BrQUtQcjU1NW55Z0NXcUtqWUJnV1NUNDRSSTRIN2tJOFRXci1JYjg0RHJxa052QzRKYUtPR1ZKeVh6VXFaLWxVZndwUkVxV3pra0g2Tkd1NjEtbFI0Y2RmVDJsTTJPWWo1S1d2Q0h5b3dwamZkSjlhUHppUXNlQm1oemJ6Smp2REdRRFFpNjhGNERGbzhWc0pNelRaVk1jTDJMNXBndlhEblV3MXZKMmpv?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "Google, OpenAI and Anthropic are building their own AI regulator, with no government in it - WION",
-          "summary": "Google, OpenAI and Anthropic are building their own AI regulator, with no government in it WION",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcG1TMERWYkkyTjlZZ184dWk5RVVaWlB5c1VrRFp1bE1pQ0JFeEVUaVFBdGpkbzNyV1JqRERoMkNZX3RIX3Zjck5QSnlGN2FTN3BjUWtZMU5yZ181VUVSY1NWMWNRLW5FeTBaUnVBZUJWNHoweE0xV1VFM2VQQXctaGhTWXJVTkthMWNvZnRsbFlTYzBvbWJFVkUtdGk4dzB6QkpsMHJwU24yVUxhTmZlTnQxLXpnRER6c1BZSkJjVlFPN3pUaU1kTE1NQzdIeVdFdXfSAdIBQVVfeXFMT3BtUzBEVmJJMk45WWdfOHVpOUVVWlpQeXNVa0RadWxNaUNCRXhFVGlRQXRqZG8zcldSakREaDJDWV90SF92Y3JOUEp5RjdhUzdwY1FrWTFOcmdfNVVFUmNTVjFjUS1uRXkwWlJ1QWVCVjR6MHhNMVdVRTNlUEF3LWhoU1lyVU5LYTFjb2Z0bGxZU2Mwb21iRVZFLXRpOHcwekJKbDBycFNuMlVMYU5mZU50MS16Z0REenNQWUpCY1ZRTzd6VGlNZExNTUM3SHlXRXV3?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "AI’s Trillion-Dollar Bet Faces a New Challenge as Cheap Chinese Models Threaten Anthropic, OpenAI’s Revenue - Tekedia",
-          "summary": "AI’s Trillion-Dollar Bet Faces a New Challenge as Cheap Chinese Models Threaten Anthropic, OpenAI’s Revenue Tekedia",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeDJ4dFZ2ZHROTWxFa3huNm9UMUFnRko0WGtXZGRqLTZKZXpYNW04cEZfQXB1UjJSaEN1R3V1aDR0UW1vS0lORTlzM3haLXRCdHp0Y0FuMW1pdlFHajdHWmtQcWVOcXFXWUt4eFVWNDZrbF83MmRfTHFVSXpMQjZRUVVnY1NFTUJQM3pBUjl6S0FKeDdMWm1hOUxQZXo5UGdfOFJERE1DdVlOWTZoQkRmSFBIYWxnVEN6ZHNqRUhzaUlZVW9SUEhadA?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue - The Guardian",
-          "summary": "OpenAI halts training of latest models as reports mount of AI agents going rogue The Guardian",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWZCRDBDd0E2YnBTeGJZNXhZLURBOXlJZTR2dGhwY0c1bWlNX3N6MkhWcVRiSF9oNjJLWmJfY0Nwcy05SFB0RGJ2ckhaNjdueWFxMjdnWHhodFM1MEJkRXVnUzJZTTJidXdGckk1ZkI0RDZRNmVQQXYyTmxtbnJKZFdMNFRMbFhwcWY5RHdFeGpIY3prOVo1RWstRWhPVVRldXgyV1E1Q2FaOEZxSC1rTld2eFFHWnJTcXk2WmgxRG15a0ViblgzYzh3TQ?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Why Developers Are Running AI Models on Mac Minis Instead of Nvidia GPUs - Startup Fortune",
-          "summary": "Why Developers Are Running AI Models on Mac Minis Instead of Nvidia GPUs Startup Fortune",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTV0SndLQUthZGpkRFRhNzRjdWc4ZnVIQ0FpS2J6S25IRk5QbU1CdHNYMmVwV3N3aEJ2SEhkYUtjS1ZQVFA3VUxUZ0tTZ1Z2cEg5ZkMyblNia3BUVy1vRlZpaFRvZkx4NEZCajJKRW4zYWZrZFRBVUEtdnRyY095LUtRcXg3ZVBmbzZRMk04R1ZuVUU3amdkdFB4ZS1VUXpBcFE?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways - Bozeman Daily Chronicle",
-          "summary": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways Bozeman Daily Chronicle",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNTnVnb0pnTDVqczlkZFQ3LVRLN1VndzJ1WHEzWEotWmhIOGZJZG95Zklvb21DcHd1TTRqeHNGWkZVb2tVclFwMVd2c0tTY1gzbVZBbU0zSWdmOWlWbnhBR3pHR2JKMUNwdnVPMzdMOS1JOHgtSzRWNzN2VVBXQk5ldUhqZDI2b21PUkJkTjd4WHlwaHhmUFlWVDl4N3oxaF9OaE5FVkxtZVQwRHREWFZWeUU3NWhoUXFfY216SzdGZTJuN2w3RkJYWHpfWl9iZ1Z3T2pGbmFrUVJ0ZWpUMjlRYUVpTDVjNk9LY3otYzNPWkY3STdVY3FUV01mckJtTkotZFpRbUJiMnc4YlZtVTBaSGZjZV9LRWVkSVFWOTRrMGZucmh5Rzdr?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "‘Don’t Ship Products Until They’re in Control’: Nvidia’s Huang Weighs In on AI Safety Debate - Barron's",
-          "summary": "‘Don’t Ship Products Until They’re in Control’: Nvidia’s Huang Weighs In on AI Safety Debate Barron's",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTkJodzhIRXBvQk81alloWkhvUGZlZVUwdDBCNDNORmo0ZFAzMHViX0NHaVNldDhnVVl3ZmY5eHdGT3JYR3lIUklILXJZUFRqdGlpY0lySTE2Y3hTUkpKU2ZocmQwQUtSVWx4RHhEbmNocHQ5cWQ5bUluVGtrMkJ3VmY4QTJaVnBfRFJobVVLdUxIcktKZURkS29OVXBpUUg4Mmc?oc=5"
-        }
-      ],
-      "discordShort": [
-        "Google, OpenAI, and Anthropic just made a move on AI safety - Currently.com",
-        "Lawsuit alleges Anthropic, OpenAI, SpaceXAI, Google colluded to slow AI development - The North State Journal",
-        "Google, OpenAI and Anthropic are building their own AI regulator, with no government in it - WION",
-        "AI’s Trillion-Dollar Bet Faces a New Challenge as Cheap Chinese Models Threaten Anthropic, OpenAI’s Revenue - Tekedia",
-        "OpenAI halts training of latest models as reports mount of AI agents going rogue - The Guardian",
-        "Why Developers Are Running AI Models on Mac Minis Instead of Nvidia GPUs - Startup Fortune",
-        "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways - Bozeman Daily Chronicle",
-        "‘Don’t Ship Products Until They’re in Control’: Nvidia’s Huang Weighs In on AI Safety Debate - Barron's"
       ]
     }
   ]
