@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-29T11:45:47+08:00"
+    "lastUpdated": "2026-10-30T11:49:01+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Models & Products: Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT) - Benzinga",
+        "Models & Products: Google DeepMind unveils Genie 4: Why Sundar Pichai calls it ‘our most realistic and interactive world model' - CNBC TV18",
+        "Policy & Regulation: Anthropic sued over Elvis catalog — and the 274-song copyright battle shows the AI industry's 'fair use' excuses are getting old - TechRadar",
+        "AI Companies: Meta Capex Up to $145B vs Google’s Search Defense [2026] - shattered.io",
+        "Policy & Regulation: Anthropic warns AI models could soon copy themselves in small devices - ABC7 Bay Area"
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT) - Benzinga",
+          "summary": "Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT) Benzinga",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0t1WGo1ZEJfVnRkMUUzbzJUdVdJRG5BYVVRdDRBa2xNbFpIand2MGt1Qng1VHBLbGlfMEVxLXhlN2F5dG5FVWpfdFRvVFh2NE0wLThDQVFtV3ZyODJ6Ui00end4TWVTdmdJcFNKYUJWbGlEZ2dVMGdPanotM2lwUU1XamsteTdLbFFObFlrZHRqaTA1a1lVSVM1Vy1SZ3o0eHZOYUxLQVp2RTNZU3hrbGJCYw?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind unveils Genie 4: Why Sundar Pichai calls it ‘our most realistic and interactive world model' - CNBC TV18",
+          "summary": "Google DeepMind unveils Genie 4: Why Sundar Pichai calls it ‘our most realistic and interactive world model' CNBC TV18",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObHNCLWw0ZHRxUHlOeHR3VnhMaVBJUUxyU1QzMkZRQUR6MVVGOEdJMXVmNkl2QnNBU3lxNV9lWjA5bjVaUmczTG1qQ0xhRjhDRmJacnZLbDJHcVNTRHpqZnIzczlDYzJwZzRBV0doVUNiUHR0S2JOU2Y4S29PTGlIMVduemQyNmg3WkNQSzdQTjZRbkhnTFFMVDR5c2o5RDEtQm13dGtsN1hvaGpzSm9BVnZ5T1U5Q2l0dTREaGRDekRORk5kYzlmdE5xTUUxZUhGR1UyQkc5a1dkcE9mUUNhSU8tT1hQUGNoRmfSAe8BQVVfeXFMTThiWV8zRWZtNE9UVnpxQ21fVzVJb0wyNjktWVd4clA5WHkwRGY4WENjWkx6aDllYVpzeWtFMEsxa0dIV1lPZVVyVzYtTlAwZ2s2RGFNY3Y0NGFxemFWOXFqV0tNTzY5YUtfbFNkU1Q1cFZVYndsYlg3V3prc3JRblZycl9xbTRxMFZ3ZVlzWFN3VDNub3BhMjdmaFVPN0FkdXlwM3R0YkE2NWhpeXRLX2phbDZhMTVJMDJhQnFrdjRTdUxUcFFBR3NxTlhkRHE0NFlQWDB3V1dDM1F3ODRyQjZOWWFVYzRCWkFxV3NNd2c?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Anthropic sued over Elvis catalog — and the 274-song copyright battle shows the AI industry's 'fair use' excuses are getting old - TechRadar",
+          "summary": "Anthropic sued over Elvis catalog — and the 274-song copyright battle shows the AI industry's 'fair use' excuses are getting old TechRadar",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNa2Z3VjdTZ0RCOVBWZTJRRkduZU16TUYtaVdfR0lJS2hMbXFnZzdSMHBoZW5sV25CVndXUEtXeTVPMDVDTWhhTTZIajZhUEZOMzJOTWE3WWNlVDI1YlZzYV9BNVFZaU9QbjRUQi1JYXB3ak9QR2Q0dkNBZ0pZTmUyWmVUMnBmd3NYNHJKbi1sT2JYX3l4dG5LTzh0ZWxjc2dyaGUzazhwNXFQbzZuMEFtNFhsUEdBSExsaTdpR1dlVzhWZk1oYV9UbWlXdjBGa0RzTzhrVVdEbnBrMVY5TTZjUVQzckQ0ZnN5Ul94dkNXX3JPd3BQb0c0Q3FWYVZKLTEt?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Meta Capex Up to $145B vs Google’s Search Defense [2026] - shattered.io",
+          "summary": "Meta Capex Up to $145B vs Google’s Search Defense [2026] shattered.io",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd1pPM0puamt5b29ELVY0eXRaQ1ZrYjBQUjJhNjVEYzBZY1dLU1hVZ2lHbFFFU2lyZUdyZHVVTC00Z0VDYllXRTU0RHNUdEducFdvV09xbU15TFhvZFBpNXpmOG9Fb29keEpudXFqclVFOG9xRUd5NUxLSHd3Rlp4WkNjSjRjcXlX?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Anthropic warns AI models could soon copy themselves in small devices - ABC7 Bay Area",
+          "summary": "Anthropic warns AI models could soon copy themselves in small devices ABC7 Bay Area",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMingtBVV95cUxQd3hFaGVFT1lnRU9VYm9PUjByV3VxbnpWckpiMXJUQTJ5YTRiTG4wWFpUMndlMGpobURxZE0yZ3R6WTNNemZjWW5KdmNsVGdueXRTVndEbjdna1BzT3Yxemg3MVltOHZuc1ZLUHNheTRnaW5fZW1FeGhfby1PZGZGMTF6eHV3MkhzRVBITGtfREdpek9GUDVmZnlvaHhad1lPcmJXT0ZMVHF6TDUwYVpOd0xZekg4ZGlQWXpOdHdJYWdMdTNnSkFkcjdfTkoxVnVvWG51NXhnaXZXRnZFLTZ3SkF1RlgtdndMWFRPajFKMFVfaXpITWxua3pGTXk4VUxvVzIyS2h2a3dUeEVaeC1kQjN2WE55VGQ1VlBnYUEtdlpIRVB6TGd1bkhDbkc1Q0RfMmdfNkJ1dTVFUWlCdEs0ZTZST2ZuUU1ZSlV0bjFxTlFDZnBQWjBRVDlKcmdLeHY1MjRIdmNPeDlwdHhQR1pxMU0zSTlpRG9DUWVHMjh1dGV1SFhuYUl0T0xpZHZDdEhNT01ic0RKcHlSelZzMVZzMHJWTlB6VWwxZWR6VE9ib0lHSkE1QllMOHZPUHFXclpoQS01UlVaanpoZmxGd0RtZmZkYTBmLWZKTnV0ZkRxRkhhNFZ2dG5tc1VwTnAxeFZ1azFsN2FOcC1XeVJJU2tOcUlLWmEwWmhBcTVReVlrUTJWMWxGSWFlMWs0end1UFloZkVCNlBRamZ2cW83UFBQMVcwbC10dWZRTkc2a2s5M1FfMHlRdWJ3dHJpWUxsNDZoWjRpdG5lT3F1dG5nOVlvZmduSzJnYkNsR3I3aDlxc01paVJYOUdjYjN0d2lWcWZnaWk2amlvbzdtOURCeFMyMmUwZ1F2UXltcFA2ZkZyc3FhRU43cUtZaUw4T2xUUktFdHM5REVQbWQ1a1N3REhBYWd6ZUZBdEtZdEtuaUpsTk5Ya0ZXOGJfUjdkTnkwODY5YXpNaHdTczFWME81M1hYcDFfZ1pZVkJrMVlhUE90ckJxdXRpem9VWFpQNnE2V0o3SHE2VzhsSm1VRFNkNWdvSnhIemxvNTdRUFA3WThrZlcyNUpZVnQ4RGxCYmYzMlNFMGdzNkRCdVVOUVBiV0gyQ1U3UVhNODdXZjBQM2FteEJqbDA0dUk1aHlBRWl4MU10MGMxdkNBbUVGZEtBRkJVTUN6T2hUaEg1Qnh2M08tcGJHNGFUVnBhUUc2MlAxSU5BdUVwWmNFbXRHa1BsUFoxdVVUUk1nRWZ1TkZnQUxUa2VacWhranhHcWE0Q2t4b2kyYndLVGhqTTJmamJuWDRJSF9mV0xQWktiSTJ4RmFTTmRYZjJsODQzd1BXMm14NjdUbWpsX05GQWZESmgxRnptalIzMXlURFV6U2F6aFBBcFd2Y2c5eHFOaWVfa0dGbzNTTkdIdVozSVdPZjdkc1VMb1ZYMm05RW5EV3BSLXViWmZXVmRNNHR3TlhMVGVYWlVaQjRoT0JMUWpHUnlvdlVJMS05VUMybS14N3dsQVNfd3l5NWhLWS1yZ3dkb1pGeWk0blg3bHdiTU51TkRMUk1Pb2ZrVlVRZ3VyYV9qVnpUaFFqOE5Lc1VCRm91WTRwLUQzTDlIZUVIX0M0REZiUTRxQkkwTUY3WnBlV1o2Rms2cDFoT0w0N2s4S3p6dDN3R2Q2dWVVdzlWNEp2X1YwWkE5YUdWQ3JjTU5nVE5JZllKYmxMUUVJS0FMeTc4RENGbGJWWnppeGprUGZDclRKbUh3a0txem13QlNQTGpNNHlmTjJTTXdINlNVR1NoQ1k1Y0hUSm50SU1JMHBwNHd4MGFtdV84c3hnMWRodkJ3UzdPV01vZUoyZHVjTWZsZ3FsSHo4dmkwMEVoR3duc1lUaTZ5SU1LX3ZKMXNORTR6cG93?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Google Tops AI Smarts Ranking as OpenAI Slashes Prices - PYMNTS.com",
+          "summary": "Google Tops AI Smarts Ranking as OpenAI Slashes Prices PYMNTS.com",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNjFkLTNGNTRuazhTTFlkZUNnVEhKc0x6UVNWXzVXNUJHN05fODNIU2E0OTdaQnhJZmVEYWliNHd4NHg5MnBWVHJHVFBNd1gtM09kOVUycFpsTm83ckcybkJsellhSFZBdzRMZFUtUXJId2lhS1k5M1l1Y2V6S00tNXU0OEtKRFJUTVRuaTNxUEdsWk1Qa3ROMS1GdkZleTN3cWU0VzFNY3N0OGNQSzZiam1B?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Google, Amazon and Meta Lined Up $325B as Capex Outran Cash - FourWeekMBA",
+          "summary": "Google, Amazon and Meta Lined Up $325B as Capex Outran Cash FourWeekMBA",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ19ZZGxtdGJGRUVoSmMxWEF6VVBXM0lKcGxhVWQzLXdkVWctQWEyMHByVFA3QlhUXzVEYy00aWhabTZRMW5PYXUtOVVHWDNHVUp2N3NKaXlqTDdpT1BoOTBqbjBFTnloZ1UzT1V1R1ZiYTVvdGw3VS0zcmhLcDVuX2pNcEJ6d2tZQ1NwYzh3?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Meta Took 57% of the Ad Growth at Google, Meta and Amazon - FourWeekMBA",
+          "summary": "Meta Took 57% of the Ad Growth at Google, Meta and Amazon FourWeekMBA",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlE2OExGMC1tN2ltVU9HaHE2SE52MXdUSkliY2RiR2lTUDJLU0pMQ3kwZW1QdHJjN0ROckFhM0NrU1hqTmxOMVBIdFFSSlhQQXFLMUE4QzgxZDhmMkw2eU1MVFJZbVd1ZkludmwzOVdLVU9lWXJPNi1veUFjTWthTjRKSjBsUkRTb3VR?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT) - Benzinga",
+        "Google DeepMind unveils Genie 4: Why Sundar Pichai calls it ‘our most realistic and interactive world model' - CNBC TV18",
+        "Anthropic sued over Elvis catalog — and the 274-song copyright battle shows the AI industry's 'fair use' excuses are getting old - TechRadar",
+        "Meta Capex Up to $145B vs Google’s Search Defense [2026] - shattered.io",
+        "Anthropic warns AI models could soon copy themselves in small devices - ABC7 Bay Area",
+        "Google Tops AI Smarts Ranking as OpenAI Slashes Prices - PYMNTS.com",
+        "Google, Amazon and Meta Lined Up $325B as Capex Outran Cash - FourWeekMBA",
+        "Meta Took 57% of the Ad Growth at Google, Meta and Amazon - FourWeekMBA"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: The ‘Zuck has entered the building … Meta says its new AI models on par with OpenAI, Anthropic - IOL",
@@ -2404,86 +2484,6 @@
         "OpenAI, Google DeepMind researchers flag safety risks in race to self-improving AI systems - Telegraph India",
         "First Thing: Anthropic warns of AI ‘existential risk’ as concerns emerge over Meta’s Muse and OpenAI’s model - The Guardian",
         "A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents"
-      ]
-    },
-    {
-      "date": "2026-09-29",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "Policy & Regulation: Top AI executives from Anthropic, OpenAI, Meta, and Microsoft urge policymakers to regulate self-improving AI - cryptobriefing.com",
-        "Risk, Safety & Copyright: OpenAI, Anthropic, Meta set for first public safety hearing; SpaceXAI ghosts NY Council - interestingengineering.com",
-        "Models & Products: Meta Model API Adopts OpenAI and Anthropic SDK Compatibility - FourWeekMBA",
-        "Policy & Regulation: A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents",
-        "Models & Products: OpenAI cancels release of new AI model over safety concerns - France 24"
-      ],
-      "stories": [
-        {
-          "category": "Policy & Regulation",
-          "title": "Top AI executives from Anthropic, OpenAI, Meta, and Microsoft urge policymakers to regulate self-improving AI - cryptobriefing.com",
-          "summary": "Top AI executives from Anthropic, OpenAI, Meta, and Microsoft urge policymakers to regulate self-improving AI cryptobriefing.com",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5VXppYWtOVW00bEI5R28zWWM4QzcwYTFoQjk0bGhtbDFUUXlwWml0NEpkTDJKUDlsbHIzN0x6SUo4ZEotaXA5RGRZVlpqOTVvN1V5Mmd1S252bkVTbUpzTm9vRkFCVVc5ZXJPUDdrV3MycnFJUjRIWlNzZmh1SHM?oc=5"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "OpenAI, Anthropic, Meta set for first public safety hearing; SpaceXAI ghosts NY Council - interestingengineering.com",
-          "summary": "OpenAI, Anthropic, Meta set for first public safety hearing; SpaceXAI ghosts NY Council interestingengineering.com",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRHlDSEV3R0UxZFlIWmdoZ1dMcDBsT3lSWEVjblVIdUpGby1aTThidlZ3VHFDbV94QUxtSVRWZDlEQkw0VjRfMUJPdExyZ3J1VUZrLUlCVzJEYndhRFJvdWc0Y2tqajgzRTdGeE1adFRqLXAtOXp6b0FLeVg2anlEWHhsUjB4SHEwSnhXTUtteENaLTNBT1ptNTBMRnNIRWc?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Meta Model API Adopts OpenAI and Anthropic SDK Compatibility - FourWeekMBA",
-          "summary": "Meta Model API Adopts OpenAI and Anthropic SDK Compatibility FourWeekMBA",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Bd3gybjVUWEZRdVZwSzg5X0dwdllCa3B4WW5NTy1oeGtJQkNBXzg5LTk0dG9TSnNsNEdOSmlxRnBjbVhVbGhHaklxMnVhWFRuQUhNOHdFSnR3aGlqVVNZbnVUMnhvX3FfQm1QZEhSZDFMZmExU2NV?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents",
-          "summary": "arXiv:2609.31358v1 Announce Type: cross Abstract: The Model Context Protocol (MCP) provides a common interface through which AI applications discover and use external resources and tools.",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://arxiv.org/abs/2609.31358"
-        },
-        {
-          "category": "Models & Products",
-          "title": "OpenAI cancels release of new AI model over safety concerns - France 24",
-          "summary": "OpenAI cancels release of new AI model over safety concerns France 24",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWxZWUZOZVZyVWZZVzV3eTVqUkROOWtsQ0JiSkItZ01rdDJtTjhOTDV5Qk5XSzk1ZlFMZFcxa3NQangzY1lJalVKVzlHMkl4QTkydHRIdXZkMEhDZjF1Vi1BOVA4VHZfZFExYWs3aVNacDAyTzI4d0c0LVVsMmZJYVhVeEFKTGYwdWtTMWc3VnZ0T1BUWXdscldzWlFSQQ?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "OpenAI scraps rollout of new model over safety concerns - BBC",
-          "summary": "OpenAI scraps rollout of new model over safety concerns BBC",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWbzNuakJ3LVhhLTFCNncwcGVBQ0dWNVljVHZqaVRqbFVLZEROd1RvX0J6V1hlSUhxZmNxSjVzekQ5ellmMmxrUWthZm82VXdEVlZvQXdjV2RwSzQ?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "OpenAI scraps release of new ‘Astra’ model over safety concerns - Washington Examiner",
-          "summary": "OpenAI scraps release of new ‘Astra’ model over safety concerns Washington Examiner",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGVlWHlUWEN3TV8yajJyUk5rWnEyOC10ajducUE4a1ZIM2hJY0VIZGhHYjRyU2hwRlFmb3h6T1c5dFlBeE1pX2xmcnRibWkyNTc1a0l2UnlyY0QzZGlwdlFQRmczUGlzTTdVQ3lST3h1Uk1vVXpXVnAxa2JFZ2JNdTdGRzF6VWtpTW0zdUVvbEI5TDBSaWxncGJpUk9Rd3FXMDE4eDJaYjFSX01Ndk9NQg?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "OpenAI scraps release of new AI model over safety concerns - CBC",
-          "summary": "OpenAI scraps release of new AI model over safety concerns CBC",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXJheHpkM3AyQVR1SmpPVm5fZ0ZzaWltaEdpa1JfSzk2SWZ4anNNRlJWRVJkX3ZRaXF2OUNKWjBlSzdWeUxtYk5JdG5lOFE1QzIzLWpwNjBWYnBkLUZ2UFFJUVJUT2FNTEpNdXZrU3RIajZYc2QzMUxZbmVwbkFFNnNaSlZkQVY1TTRn?oc=5"
-        }
-      ],
-      "discordShort": [
-        "Top AI executives from Anthropic, OpenAI, Meta, and Microsoft urge policymakers to regulate self-improving AI - cryptobriefing.com",
-        "OpenAI, Anthropic, Meta set for first public safety hearing; SpaceXAI ghosts NY Council - interestingengineering.com",
-        "Meta Model API Adopts OpenAI and Anthropic SDK Compatibility - FourWeekMBA",
-        "A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents",
-        "OpenAI cancels release of new AI model over safety concerns - France 24",
-        "OpenAI scraps rollout of new model over safety concerns - BBC",
-        "OpenAI scraps release of new ‘Astra’ model over safety concerns - Washington Examiner",
-        "OpenAI scraps release of new AI model over safety concerns - CBC"
       ]
     }
   ]
