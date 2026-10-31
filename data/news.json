@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-30T11:49:01+08:00"
+    "lastUpdated": "2026-10-31T11:32:11+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Models & Products: Microsoft Has a Tool That 'Governs and Contains Agents,' Says Satya Nadella — Meta's Muse, OpenAI, Anthropic Are Lining Up - Yahoo Finance",
+        "Policy & Regulation: Amicus Brief: OpenAI and Microsoft Cannot Use Copyright Infringement as a Competitive Advantage - Open Markets Institute",
+        "Industry & Funding: INSEAD establishes Thrive Lab with US$3 million funding from Google.org and Google DeepMind - The Malaysian Reserve",
+        "Industry & Funding: Nvidia, Meta, Anthropic, and SpaceX’s Massive AI Investments and Financing Deals - Tekedia",
+        "Policy & Regulation: Meta, OpenAI Agents’ Cuddly Appearance Sparks Child Safety Fears - Bloomberg Law News"
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "Microsoft Has a Tool That 'Governs and Contains Agents,' Says Satya Nadella — Meta's Muse, OpenAI, Anthropic Are Lining Up - Yahoo Finance",
+          "summary": "Microsoft Has a Tool That 'Governs and Contains Agents,' Says Satya Nadella — Meta's Muse, OpenAI, Anthropic Are Lining Up Yahoo Finance",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMlBQZlcyNy1DYjl2MlpFa01vb2xKWkFmcWQ1cDFUb3FUdndBNFRlRVFvcV9oakc3S3MxT09jbG4yYlZUYlJWWXJYQTluVW5KRVg2RmlKS19rMlhKc0xnWlR3NzIyaU1MOW9YVFZ4YnU0QXlnNTVFWm9tTWxqRmhNZ3JjbGh4NGtHOWU1cWZZdkxNNXl5ZF9TZWktSGJoNllJb3VYZQ?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Amicus Brief: OpenAI and Microsoft Cannot Use Copyright Infringement as a Competitive Advantage - Open Markets Institute",
+          "summary": "Amicus Brief: OpenAI and Microsoft Cannot Use Copyright Infringement as a Competitive Advantage Open Markets Institute",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM0dETFVUWHFzeFpKUTFYWDFISmRuN19fTk9SUXNjMHZFYTRjOVBkV2hXR3FhSEZxZ3JkUHlJVkd2a05jdlhRODU5UE9LTmY2Rmk5Sm10WEp6SVpnX0w3SW5aaDE0VE1WRGNDQlVQM184Y0xDOHEzSEpST3h0dm9BRW95dlNYeGMxT3g0LXFjX1E0VVdDNnRQXzNxUEJxaUptM2NLeXFWV0c4OTE4SmU5MHBZaDNqY1U1RGhEcHBsWnBDRk5RbWF3QTFLWQ?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "INSEAD establishes Thrive Lab with US$3 million funding from Google.org and Google DeepMind - The Malaysian Reserve",
+          "summary": "INSEAD establishes Thrive Lab with US$3 million funding from Google.org and Google DeepMind The Malaysian Reserve",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWEQyOW9TOS1YMmZ2eHB5cXZiNDhhV08xQ1dvdjVrTWc1eWtSdmJuWG5DR3ZWU0cwOWxtWFZIUWh3ZDU0MG12em1VTGZMWU0zZ0xhY3QwV3EtOWQxTDBTNW1kWkllamNxWnNZU3lJX0xVQWR3dTFad3RKeWIyLTFfVTVNMEdzNS15eE54TDNTcmhSbFRPZkEtY3JqRnY0a3hzYVZ4d0pVT2JZZ2E2QWMxbnotZFVJLWxybU5QcGJNT0lmMV85VnVmbVpCMk1UdHM?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "Nvidia, Meta, Anthropic, and SpaceX’s Massive AI Investments and Financing Deals - Tekedia",
+          "summary": "Nvidia, Meta, Anthropic, and SpaceX’s Massive AI Investments and Financing Deals Tekedia",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPckVmUUZ4YXU0bUhHSjcyWno0VXg0T1Vudk1MYTljbXBVa3paS2hBWi1NMjVpdnNGOUtFYUJWbUNrOTJoMkhlZTlGSnJ3SjQzaW82ZVlySTVIQkk3Y1cyNU9QNG0yMFBvQ3JDT3pORi1DRVpxSVYwTnc4Ujc1UW1sVzJtN0NQeE5veU9SWDBYZGdicUxraU5Fd1BwcWZ6Z3NaQXlR?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Meta, OpenAI Agents’ Cuddly Appearance Sparks Child Safety Fears - Bloomberg Law News",
+          "summary": "Meta, OpenAI Agents’ Cuddly Appearance Sparks Child Safety Fears Bloomberg Law News",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaldCWU1ZcEYxcWxCMWNUVTA5ei00bWF2UV9WUjlpWDRyUEM4QlNleld6S1VlWnZyb0xPRU1PMXhxNzNuYlhxSnVhU0JGU2phRUVqQ0xIeHpUdksyTGNmX09rRXoyal9IdGM4anNjY2Y0dXVxYWh4cVdTajQzOXJEOHpGcWdHWlotcE9qd1E0LVNuY3VjUkg4dzU2MFg1SXpza1kyYXhn?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Google, Anthropic and others to support new AI crawling opt-out standard - SiliconANGLE",
+          "summary": "Google, Anthropic and others to support new AI crawling opt-out standard SiliconANGLE",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTU1QMktQeEhFWklOeXpIQVhHVWxCbGY3WEpSLUJpR2s3RG0zTFIzckVCa0JncDdhdHRRaUxiLWh4Qkk3V25fczRwODliV3FpNkt5QU1TVzFjak10aW96Z2ZZMFlQWmw0SzlQdGNNejB1SGFyU0FzUjdEbHA0bHNHX3NON2h5VE5rRVpOTVJ0QmFwTmZHYWN5N0d2eXZUNGc5dGh2SVQweUhVWjhS?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Wikimedia Takes on the AI Copyright Debate: What It Wants From OpenAI - Analytics Insight",
+          "summary": "Wikimedia Takes on the AI Copyright Debate: What It Wants From OpenAI Analytics Insight",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcDBCT2I5TDU2aVFBNVRwZTY4c2JEclhiUWNWVlhhRHM0SmRtV0F4U0RsWjU1QVRLYkhXeTQ5OTRUX3plUUxYeHVRSW81eDR0VVpfMjhnSmpCUVJiQ2ZNNTlxVVBlWVNTX3h2dTNVMnZ5YnFFbF9Vb2lRUXFLQ3l1RDFXSXN6dHE5Rld2SkkxeFN1b0hkc2NPS1pFS1B0alR4ZEQzMU9kZ1FhY01lNjJFNWhWTUVlYU3SAbcBQVVfeXFMTnAwQk9iOUw1NmlRQTVUcGU2OHNiRHJYYlFjVlZYYURzNEpkbVdBeFNEbFo1NUFUS2JIV3k0OTk0VF96ZVFMWHh1UUlvNXg0dFVaXzI4Z0pqQlFSYkNmTTU5cVVQZVlTU194dnUzVTJ2eWJxRWxfVW9pUVFxS0N5dUQxV0lzenRxOUZXdkpJMXhTdW9IZHNjT0taRUtQdGpUeGREMzFPZGdRYWNNZTYyRTVoVk1FZWFN?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Google DeepMind’s Alexandre Moufarek on AI and Gaming - AI Magazine",
+          "summary": "Google DeepMind’s Alexandre Moufarek on AI and Gaming AI Magazine",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVnNiZDlXU3c2WGNSRDlzQXhuWmFSZFRMeld1Q3BiQU81bGtxWWE0MVNPTVEtcmFZYm5VR3dGWXhtRFVPbm8wSl9JcXhFNmdLaXY5R0VaNlc1R1BUMFVjaVZJRy1lODNmWXltbElpVElnNnNSaGZDeG03OTdfZ0pQNWhlT1I1UQ?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Microsoft Has a Tool That 'Governs and Contains Agents,' Says Satya Nadella — Meta's Muse, OpenAI, Anthropic Are Lining Up - Yahoo Finance",
+        "Amicus Brief: OpenAI and Microsoft Cannot Use Copyright Infringement as a Competitive Advantage - Open Markets Institute",
+        "INSEAD establishes Thrive Lab with US$3 million funding from Google.org and Google DeepMind - The Malaysian Reserve",
+        "Nvidia, Meta, Anthropic, and SpaceX’s Massive AI Investments and Financing Deals - Tekedia",
+        "Meta, OpenAI Agents’ Cuddly Appearance Sparks Child Safety Fears - Bloomberg Law News",
+        "Google, Anthropic and others to support new AI crawling opt-out standard - SiliconANGLE",
+        "Wikimedia Takes on the AI Copyright Debate: What It Wants From OpenAI - Analytics Insight",
+        "Google DeepMind’s Alexandre Moufarek on AI and Gaming - AI Magazine"
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT) - Benzinga",
@@ -2404,86 +2484,6 @@
         "Trump AI Agreement | Superintelligence Safety | OpenAI Google Meta Anthropic xAI - Aaj English TV",
         "Google, OpenAI, Meta, Anthropic sign Trump’s AI safety accord. Here’s what it leaves out - MediaNama",
         "OpenAI, Google and Meta Sign White House AI Safety Pact With Outside Audits - FinanceFeeds"
-      ]
-    },
-    {
-      "date": "2026-09-30",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "Industry & Funding: Meta, OpenAI, Anthropic, Google, Nvidia sign voluntary AI safety pact with Trump admin - Exchange4Media",
-        "Industry & Funding: Donald Trump Secures “Morally Binding” Voluntary AI Safety Pact With OpenAI, Meta, Google, Nvidia - NewsCord",
-        "Risk, Safety & Copyright: At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves - The New York Times",
-        "Risk, Safety & Copyright: OpenAI, Anthropic, Google and Meta to testify before New York City Council on AI risks - The Eastleigh Voice",
-        "Industry & Funding: As AI fears ‘spread’, Donald Trump to meet CEOs of Meta, Google, Nvidia, Anthropic and other tech compani - timesofindia.indiatimes.com"
-      ],
-      "stories": [
-        {
-          "category": "Industry & Funding",
-          "title": "Meta, OpenAI, Anthropic, Google, Nvidia sign voluntary AI safety pact with Trump admin - Exchange4Media",
-          "summary": "Meta, OpenAI, Anthropic, Google, Nvidia sign voluntary AI safety pact with Trump admin Exchange4Media",
-          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
-          "source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdGpCdXZORlM0UEtnSVRXMHotcEhVMjVqZXRYaWpyMm9tRDNuUm5maS1BSVBiVUdSMzBNMlNyak9fQkFKR0FFTzhLbDB5WFoxbEZlUUpPZVNWVW15ckpoc2hZTU11TEl1T1Y4UlN1OXVHdFZqcXRTZXR3OGxOSm8xMTRrMVRZS1dLbVhaa0p3Uk5GdjVOM1NEUE5aTEgzZXotUG5HV3c1NW9mdy1UUnhWbFlYV1ppQ2toUExjZUozSjM2YnlrNDY1R1FtTVp5dzJYR1otSw?oc=5"
-        },
-        {
-          "category": "Industry & Funding",
-          "title": "Donald Trump Secures “Morally Binding” Voluntary AI Safety Pact With OpenAI, Meta, Google, Nvidia - NewsCord",
-          "summary": "Donald Trump Secures “Morally Binding” Voluntary AI Safety Pact With OpenAI, Meta, Google, Nvidia NewsCord",
-          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
-          "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMkNlcUY3eEV4VFF5RnBkemVMNjJyUDJ4cUtrZjRDQTNGQmg2cU9ISnV2TVI1RV9lMkxxTHlJSWhuSGI0VW1YYlRCb0o2SGMzNnlMZ3A4YUlPYlpiWlh3Y3pBU3lCX0pYVnluZXBZNTNzdldmd2VHWnM5OXFxMzFKQ0dxX3Y1UzFtajNKTVM3N2NuUzhCVkpXUk5EV2t5aU9zVjA0M3pwXzllOVRocnVmc3BieklZTXdIdERUWkR4ZkxLQW9tTDBBUnF1UWtteWc?oc=5"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves - The New York Times",
-          "summary": "Google News: global AI reported this AI-related development within the latest monitoring window.",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDMxeU5wLWV6cXdTcHk5T0k2d0VDbnRoT3BSNUFULW9DYmh1VTdSUy1aU3k5cksta1dXTV9DU0Joa2Rib19WLWV4alc5OW5DYkU0d2lrcUVKR0I0NGpkOVRvSVkyR1hXU2JybG1DUmc3emt3ajJmcDB2WlFtcUpBd0V4Q3NJU1lma2c?oc=5"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "OpenAI, Anthropic, Google and Meta to testify before New York City Council on AI risks - The Eastleigh Voice",
-          "summary": "OpenAI, Anthropic, Google and Meta to testify before New York City Council on AI risks The Eastleigh Voice",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX21aUVNMWHpXSWp4TTVhSkgtajVwMWJJOVYtWkViUTZQeVRmUWNidU1yRTV4aWhnQlo1a3FTOTBzeWNoNjE1T2VQSjRvX1RVV2NhdUlyWkMxNTYwUWNCbUxkY1c1RDdfV0N3T2xZZE9TYmtDSlVIVndCOHd5czNYQm1ycEs4bnVKVnZFQTRDUG50TEZzN3MwS2lGS25YTzZEN3B1eVpwa3RDV1VxWUllamVBRVRqb2F1QjJQbG1ib3YtTlFSQ0xvakhCVQ?oc=5"
-        },
-        {
-          "category": "Industry & Funding",
-          "title": "As AI fears ‘spread’, Donald Trump to meet CEOs of Meta, Google, Nvidia, Anthropic and other tech compani - timesofindia.indiatimes.com",
-          "summary": "As AI fears ‘spread’, Donald Trump to meet CEOs of Meta, Google, Nvidia, Anthropic and other tech compani timesofindia.indiatimes.com",
-          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
-          "source": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTXZmX2dzTHhDWGpiaEFscFJxQ1c4TFNoZzdZTUJnenNHWmJBbEtwRWZXQWhKMENUdUpZMVdvVWdUZURmWGs2LWhxM2RZWk0yUkxGdVhQZklHQnc2cHdaUjhIVHpXdDRsaG9RU1BBc19TdkNEcFFkekNTTklLTUdhR3dMZFpjblBTYXpuRFZaWWNCRVd0R1BXMDV1VWVTVHJ1d1hTZmNERU14NmI3OTZLYzRrRzRuS2NoMXRwb3pfUkN6U0xJQ1diOUt4b3RDNndKaUNjYzhGWGQ2eDVoaHFnS1VueFpwbGVVb2sxVnZfWGt4b1pOMk55U0U3d2dMZl9pcU9ld29POWs0MEY2WUdrZTNR0gGXAkFVX3lxTE5UNWdSUEpoaXRQYVVucVFVZlA5QWpBbnRBNEhMNDRVRjM1dzFKLUFnQVVpZGFLZXpzWlR3ZW1vN2dLVXZEOEl4eG9Sb01RUVJlZEFReFh5VWc0LUZPQ1AtWTdxaWhubUQtNVB1Mk9lLWVLYnZ2WkNsMUNkd25xaU1kMWJ1a2tGQnZkbGdKNThCT1h6OFBPOHRJVllrSWQtSEdWZkJCZXdnN2dEYkZiSDc2bW4wcUtpTEZHMXE5NlNINDZKdXRhQWFWOTdDTDNRR3ZKb0dyX0Z0QzZIUWlUbWFGWXhJSVJQcHNGZWFTSWt5QmdTS1BHLThlNXhPLVViWUdSa1d6ZFQwUmtiNHNDSGFhY2thak1HNA?oc=5"
-        },
-        {
-          "category": "Research & Open Source",
-          "title": "OpenAI, Google DeepMind researchers flag safety risks in race to self-improving AI systems - Telegraph India",
-          "summary": "OpenAI, Google DeepMind researchers flag safety risks in race to self-improving AI systems Telegraph India",
-          "whyItMatters": "Research and open-source work often signals where the next product wave or safety debate will move.",
-          "source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb3h5TmFwdW5nU1VwUkl0eU5jaElxeFBCME5mdHgtWGNOTHRDczdEajNFRV96RlRmczBsMHZsd3pBaUlyQVFlYjdWd1Fpa1Fjek8xTS00RUdiV3pqX3VURFFXdzR2TUFnTldaNWEwTTUyZm5mWW9yMXR4NTJPZWZjR2JwVmdCVktiSVlhcDdfNVF0ekVfVl9CSm1qSmhJc0RwbFJLT2RoMUQ0WTN5V1dhMzF0anNOZTVOUDNvN3lJVDAxWUNaSHRmLTNYbmNqMmkwelZmdXNwbEd4cERVamdBQ9IB4AFBVV95cUxOb3h5TmFwdW5nU1VwUkl0eU5jaElxeFBCME5mdHgtWGNOTHRDczdEajNFRV96RlRmczBsMHZsd3pBaUlyQVFlYjdWd1Fpa1Fjek8xTS00RUdiV3pqX3VURFFXdzR2TUFnTldaNWEwTTUyZm5mWW9yMXR4NTJPZWZjR2JwVmdCVktiSVlhcDdfNVF0ekVfVl9CSm1qSmhJc0RwbFJLT2RoMUQ0WTN5V1dhMzF0anNOZTVOUDNvN3lJVDAxWUNaSHRmLTNYbmNqMmkwelZmdXNwbEd4cERVamdBQw?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "First Thing: Anthropic warns of AI ‘existential risk’ as concerns emerge over Meta’s Muse and OpenAI’s model - The Guardian",
-          "summary": "First Thing: Anthropic warns of AI ‘existential risk’ as concerns emerge over Meta’s Muse and OpenAI’s model The Guardian",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOUZxOExJS0h3RWQ5NHlxVVhyejRQZ2RMT3pXNjJfRHUwV3BGc0txQ1dBNjUzcXBMdkZ0eFd3TjNQTnRiMk81NXNiSlQtTUhsYXdDQmNtdzZQR2x5bjY0Q2otQlpwZVowcGJhZUdEYWZmN3hpV1NoV0cydkY1Q3Z5cE4xTk55RmdnY1VIV1FLWnhVRmF5WUZDR1drMVcwSlhBVkxScWFiNHYzQQ?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents",
-          "summary": "arXiv:2609.31358v1 Announce Type: cross Abstract: The Model Context Protocol (MCP) provides a common interface through which AI applications discover and use external resources and tools.",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://arxiv.org/abs/2609.31358"
-        }
-      ],
-      "discordShort": [
-        "Meta, OpenAI, Anthropic, Google, Nvidia sign voluntary AI safety pact with Trump admin - Exchange4Media",
-        "Donald Trump Secures “Morally Binding” Voluntary AI Safety Pact With OpenAI, Meta, Google, Nvidia - NewsCord",
-        "At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves - The New York Times",
-        "OpenAI, Anthropic, Google and Meta to testify before New York City Council on AI risks - The Eastleigh Voice",
-        "As AI fears ‘spread’, Donald Trump to meet CEOs of Meta, Google, Nvidia, Anthropic and other tech compani - timesofindia.indiatimes.com",
-        "OpenAI, Google DeepMind researchers flag safety risks in race to self-improving AI systems - Telegraph India",
-        "First Thing: Anthropic warns of AI ‘existential risk’ as concerns emerge over Meta’s Muse and OpenAI’s model - The Guardian",
-        "A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents"
       ]
     }
   ]
