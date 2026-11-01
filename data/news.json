@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-10-31T11:32:11+08:00"
+    "lastUpdated": "2026-11-01T11:38:23+08:00"
   },
   "issues": [
     {
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Policy & Regulation: Training Natural Schemers: RL Can Amplify Oversight-Conditional Behavior",
+        "AI Companies: Anthropic's Frenemies Meta and Google Are Showing Cracks In the AI Trade. What That Tells Us About the Anthropic IPO. - Barchart.com",
+        "Industry & Funding: Meta’s $97.5 billion AI funding plan, OpenAI’s scientific claims: This week’s tech highlights - L'Orient Today",
+        "Industry & Funding: Google TPU vs Nvidia GPU: What Meta's TorchTPU Changes - Memeburn",
+        "Policy & Regulation: Value Probes: Learned Value Functions for Beam-Search Red Teaming"
+      ],
+      "stories": [
+        {
+          "category": "Policy & Regulation",
+          "title": "Training Natural Schemers: RL Can Amplify Oversight-Conditional Behavior",
+          "summary": "arXiv:2610.26551v2 Announce Type: replace Abstract: One of the central concerns for the safety of advanced AI is scheming: when a model strategically complies under oversight but pursues its own goals when unobserved.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.26551"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Anthropic's Frenemies Meta and Google Are Showing Cracks In the AI Trade. What That Tells Us About the Anthropic IPO. - Barchart.com",
+          "summary": "Anthropic's Frenemies Meta and Google Are Showing Cracks In the AI Trade.",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYkpBamk3Ni1QRk0xSkZoNWhuMElEeWhNYXVyamhOMEhuc0RBeEZKQkpkODQwZmo5ZE93ODNFZ3ZSY1ZZbjFuUjdVMm94Q3R6aE9zblQ5eU84LXViVEtOYjlsNmtFRkd3dkhEZ3lIQVM1OXdkTzVSYm5KLVg2NnNIeV9rdmZxZl9QQ2lveFEzV1JfVGlmdldhZ2ZCbXVmZmtuVF9seXZuNFlzVXZCRF9OeEJkVWJ3MFE2a0dnYmtpZ1FJekhnNnMxUkpCU21KQmZDOUhsUU9WSUhLa2ExZjR3TTJCOUlnVjZYanp2UVJXVkI?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "Meta’s $97.5 billion AI funding plan, OpenAI’s scientific claims: This week’s tech highlights - L'Orient Today",
+          "summary": "Meta’s $97.5 billion AI funding plan, OpenAI’s scientific claims: This week’s tech highlights L'Orient Today",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSEpJX2h1ZzIxV2NuY2ZwdFlGOUdrN2IxNlRrT2pFcXJueDhWa0M2TWxVSV91V0ZxYzdHR1pYYVRUNmh6eThyVzVfSGVtVjR2UDFaMTRKSnczUkZoTjlIdnhmM2xSbVBFS1dmRzN3cndRd0pJSGladTVxVk82RC1UM0NzSzE3clZHaXZaRHFybUppenRXbGNScW90eFVWOEQtN3NUeE1CekpIUXdMbXh1aWFsVFktM2dPaUd5eHBUTFJSbHRKQ1VLTWZJUWtZMUZfTXV1bDhB?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "Google TPU vs Nvidia GPU: What Meta's TorchTPU Changes - Memeburn",
+          "summary": "Google TPU vs Nvidia GPU: What Meta's TorchTPU Changes Memeburn",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkOF9ESUtFR2NMVGF5ZWRrcFd2am5tRkEzbkZZSDR3VlFjTURTMTczVjhuOWVKV1pmbFNtYU84Yk1sbGEtbmRxQWJBekp3TUhrSEdOTEROT2RjbWhlTk1qNlN0NHBKRnl0XzFjemYyV3pFWE9WUU90SXk2c0JvYzA?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Value Probes: Learned Value Functions for Beam-Search Red Teaming",
+          "summary": "arXiv:2610.38526v1 Announce Type: new Abstract: Automated red-team auditing of language models is an important way to evaluate safety-relevant behaviors.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.38526"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Agentic process evidence",
+          "summary": "arXiv:2610.40071v1 Announce Type: new Abstract: The way software gets built is changing dramatically.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.40071"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "What Can Firms Do in the Face of Model Distillation?",
+          "summary": "arXiv:2610.38088v1 Announce Type: cross Abstract: Model distillation has become a major concern in the rapidly growing generative AI discourse.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.38088"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "LLM-PowerTrace: A Dataset of Time-Resolved GPU Power Traces for AI Compute",
+          "summary": "arXiv:2610.38315v1 Announce Type: cross Abstract: AI compute is becoming large and fast-changing electrical loads.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.38315"
+        }
+      ],
+      "discordShort": [
+        "Training Natural Schemers: RL Can Amplify Oversight-Conditional Behavior",
+        "Anthropic's Frenemies Meta and Google Are Showing Cracks In the AI Trade. What That Tells Us About the Anthropic IPO. - Barchart.com",
+        "Meta’s $97.5 billion AI funding plan, OpenAI’s scientific claims: This week’s tech highlights - L'Orient Today",
+        "Google TPU vs Nvidia GPU: What Meta's TorchTPU Changes - Memeburn",
+        "Value Probes: Learned Value Functions for Beam-Search Red Teaming",
+        "Agentic process evidence",
+        "What Can Firms Do in the Face of Model Distillation?",
+        "LLM-PowerTrace: A Dataset of Time-Resolved GPU Power Traces for AI Compute"
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: Microsoft Has a Tool That 'Governs and Contains Agents,' Says Satya Nadella — Meta's Muse, OpenAI, Anthropic Are Lining Up - Yahoo Finance",
@@ -2404,86 +2484,6 @@
         "Google Claims New AI 'Argon' Beats OpenAI, Anthropic - Newsmax",
         "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal - Yahoo Finance Australia",
         "OpenAI Launches \"Dots\" AI Assistant With 4,000+ Tool Integrations To Rival Meta Muse And Grok Bot - foreignpolicyjournal.com"
-      ]
-    },
-    {
-      "date": "2026-10-01",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "Policy & Regulation: Trump AI Safety Pact: Tech Giants Agree to Voluntary Safety Measures, Data Centre Expansion; What OpenAI, Google, Meta, Nvidia and Anthropic Agreed at White House Meeting - The Sunday Guardian",
-        "Policy & Regulation: President Trump and Google, Anthropic, Meta, OpenAI, SpaceX AI, and NVIDIA sign the 'White House Superintelligence Agreement' aimed at ensuring the safety of AI. - GIGAZINE",
-        "Risk, Safety & Copyright: Trump gets OpenAI, Google, Meta and Anthropic to sign AI safety pact: What’s in the deal and why critics... - Moneycontrol.com",
-        "Policy & Regulation: Google, Anthropic, Meta, Nvidia, OpenAI, xAI Executives Sign White House Accord on 'Super Intelligence' - Yahoo Finance",
-        "Risk, Safety & Copyright: OpenAI, Google, Meta, and Anthropic, along with Trump, agreed on new AI safety rules - Inbox.lv"
-      ],
-      "stories": [
-        {
-          "category": "Policy & Regulation",
-          "title": "Trump AI Safety Pact: Tech Giants Agree to Voluntary Safety Measures, Data Centre Expansion; What OpenAI, Google, Meta, Nvidia and Anthropic Agreed at White House Meeting - The Sunday Guardian",
-          "summary": "Trump AI Safety Pact: Tech Giants Agree to Voluntary Safety Measures, Data Centre Expansion; What OpenAI, Google, Meta, Nvidia and Anthropic Agreed at White House Meeting The Sunday Guardian",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOUmNFelk4ZXJEc0swaDU4akRuaWJENDI0b3hyYUJLQV9HQ2FrQTVUenZOWFltMGsyU19xSDFfcEk4MFJJaEJ0S0dtbnowWGN0LUszbGFCWk0tM190dDN0Rm50YzhmaFNiOC1zXzByMVg0bFQ3TzQ2alJwdUlKNE1jQ2ExeHZ2dlpEdHhfT0ZpMVV1LVpqVHpGc0hjQmV6WVM2SWxXQWtiaEFWbTlocm9rTEpVTHN0MHNwS0FmekRkZ1pVT0hKWndaZVRBNUw2MGFvQ04yTnd4bkJfNFl0c2tGNzFZdmVBUTR6aUN3YnB3M2I4NXJDellZMkJVcm5GUUtfX3FrblJTRXVPb1JKTWtzbVlmYmJKY3NIeGZmQUhlVlh4RkZuTDlHNVduVXRCNTFzNHlHdjlKRVE?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "President Trump and Google, Anthropic, Meta, OpenAI, SpaceX AI, and NVIDIA sign the 'White House Superintelligence Agreement' aimed at ensuring the safety of AI. - GIGAZINE",
-          "summary": "President Trump and Google, Anthropic, Meta, OpenAI, SpaceX AI, and NVIDIA sign the 'White House Superintelligence Agreement' aimed at ensuring the safety of AI.",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FU243ZU1BXzBUQXNrT0dIOGdLc3ZvOVJlMHRzWDhGNF9VcTF6dHhWRk1uQjdfTklmUGhpY29zZTRhaU5KaldoaU1XeVFuanhYQTd1UU1tTzJoUkZkQU9xOHRDS0tGWTMwSHdpblZqaWpLSVloWlJmZ2c2Z1RPQQ?oc=5"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "Trump gets OpenAI, Google, Meta and Anthropic to sign AI safety pact: What’s in the deal and why critics... - Moneycontrol.com",
-          "summary": "Trump gets OpenAI, Google, Meta and Anthropic to sign AI safety pact: What’s in the deal and why critics...",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZFgzVGR4dDlEMzlqc0QxUU5JTl9pcy0wZ3psakxJT1BaQlNSclcwYXpGQ1ZLdHdtUUlDZ0k1dUxCYUc0OENob0dvUUt2SjZaYnIweGpIV0t5d0xrY0kxN0V6ZW5SdDhZREphZjdkNHhmeS1YeWthSElPWC1QTnQwWUpXeTB0Q1V2d0pHT1NuX25nM1Jic1JIVjFRNFRJNWlqSTVVSW16T0J3SFI3LTY5VDV6Rjh1S2VCVExOZjIzYTRGSjM3SnZ3Nk5wX0pxMlJKYlZUTlRuWGlDdXlwSjU0UjdrZnJPeHFDZVE2RjY1YldCSUhEWUYtaTRmZ2kyY0lzS0HSAYcCQVVfeXFMTW1JTXc5UllySmotenF3cFVCQkNwZ3RTTzhMTmNlUmE0WUJQczhSM0gxSS1ZQ2RILWhfRGllVEx6cl91Q0xpaG5wR2c0VnFhTm4wZnltcUlHZDlxM01EaUtJSnJ4UFg1NTlOb1N5V3R6NWpYLTJ3N3lMdDVHbFgtMm9PMHN5TnRZbjhJVk9Ud3g4eVJmV3FZNWlwMlZJZ2Q1NzBpcGM0b0VwNXhZbnY3Vjl2R0xxeXVhd0FKWE9lb2VoT25QVlVPenhfRHlLdmFyRDRhRWhPeDYtamtCMVAybDlxMkp1UXduZXZWUWJjZzVvOXBVekhxc05sOGVGZ0d0YmZmVHEwc2M?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "Google, Anthropic, Meta, Nvidia, OpenAI, xAI Executives Sign White House Accord on 'Super Intelligence' - Yahoo Finance",
-          "summary": "Google, Anthropic, Meta, Nvidia, OpenAI, xAI Executives Sign White House Accord on 'Super Intelligence' Yahoo Finance",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3k5ZWFxWHZkQ05GdFhnMktDd0x6dy0zNWhveWdiUXdleFVjbGdVQVV3NGoyZnJ0N000bm9MY0kyOTdBVEhzSklXVzhIdkNWZHdTX1BUeWVwdW9KalRYYlhna0hHaDE1Uy14cDYzUkZwSUl1VGdYVzg3TFNObk5aaTkyeG9WVmdycFRLVkdzRzNKd3ZLT1ZnaVEwbGxEMFlf?oc=5"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "OpenAI, Google, Meta, and Anthropic, along with Trump, agreed on new AI safety rules - Inbox.lv",
-          "summary": "OpenAI, Google, Meta, and Anthropic, along with Trump, agreed on new AI safety rules Inbox.lv",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMGFZUi1zNF9MSVc0RTB4RVVhNUJRblprM2g2Yi15dmpiN3BkLXRwME5kM0k5YVVsdVJHSjRvRmNCeWh1LUR3cVVGdGtOcnItTGdyT2ZtVjd6R1ItMlFnV0Z2b3MtdktSc1lHUXVoMG1WbjVTdHpEQlNidHpwX3E3YzJUTHQ4QzE5UzV2c3c3SV9VMjV2eGJUS3RlZl9abXAtZnJ6N3dyUll4bUUxYkd0T1ZBTGY1R0dSbnZUMGxB?oc=5"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "Trump AI Agreement | Superintelligence Safety | OpenAI Google Meta Anthropic xAI - Aaj English TV",
-          "summary": "Trump AI Agreement | Superintelligence Safety | OpenAI Google Meta Anthropic xAI Aaj English TV",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM043bl9GVjlOaWhhd2FpYkptUjFDRURaS3JFS2xhVU5vblJKUHZYazFzSnotT0Q5a2dLdGtyNzcwcjRKTE8ybmxOZWluN3BVRDB6Z2hLcHl0LVZQYk5QOHpKTFNBN3F4RzQ4ZmRIMFNYUy1XcGhDSnBaVjBzZHpldGlvTTJpNDRHX3UwSUYzQ0l4ZEpTeDBleFJtYnhySnUxYWdUaDFvSU5ubm8tUlpSdGNUWTBTTU1WSTk3TDhpMjI?oc=5"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "Google, OpenAI, Meta, Anthropic sign Trump’s AI safety accord. Here’s what it leaves out - MediaNama",
-          "summary": "Google, OpenAI, Meta, Anthropic sign Trump’s AI safety accord.",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkllb1RNb3UyU2NVV24wcG01dVo4TnRTZ2VTRXJuazBCTlhUMVhuTmgtSVdtdE1GM0xJN00zX0V0bHFoVk02YUJwS3ZsVElRazZPeWVVUnNwYnF1ZDZnMXFIa3VBTnNEODB5YzNUcG1TenhVTUNfLTNVelA5U0dQQWlUcC15RXZuVlR2b1ZkZUJ3Mlh0?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "OpenAI, Google and Meta Sign White House AI Safety Pact With Outside Audits - FinanceFeeds",
-          "summary": "OpenAI, Google and Meta Sign White House AI Safety Pact With Outside Audits FinanceFeeds",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTUk5TThiQWtjRzJVYlJJUUxIUEJmSlp5Ri1teDdqQkhsRy1GcmdETTVZZkI4S1dLd0QtU2JfTmVTbDBOUktUdDV6dnNCUjJUSkFpNFlxclpXWHIwZ2owV3g3NVlab2tLanVhX01HeU1DWmtmQ1J0TmJqemxocmN5d3BRT1FLSFBfaDdGLUQ3NElBVGg1NWxaVG5YcGRuMUVMSVE?oc=5"
-        }
-      ],
-      "discordShort": [
-        "Trump AI Safety Pact: Tech Giants Agree to Voluntary Safety Measures, Data Centre Expansion; What OpenAI, Google, Meta, Nvidia and Anthropic Agreed at White House Meeting - The Sunday Guardian",
-        "President Trump and Google, Anthropic, Meta, OpenAI, SpaceX AI, and NVIDIA sign the 'White House Superintelligence Agreement' aimed at ensuring the safety of AI. - GIGAZINE",
-        "Trump gets OpenAI, Google, Meta and Anthropic to sign AI safety pact: What’s in the deal and why critics... - Moneycontrol.com",
-        "Google, Anthropic, Meta, Nvidia, OpenAI, xAI Executives Sign White House Accord on 'Super Intelligence' - Yahoo Finance",
-        "OpenAI, Google, Meta, and Anthropic, along with Trump, agreed on new AI safety rules - Inbox.lv",
-        "Trump AI Agreement | Superintelligence Safety | OpenAI Google Meta Anthropic xAI - Aaj English TV",
-        "Google, OpenAI, Meta, Anthropic sign Trump’s AI safety accord. Here’s what it leaves out - MediaNama",
-        "OpenAI, Google and Meta Sign White House AI Safety Pact With Outside Audits - FinanceFeeds"
       ]
     }
   ]
