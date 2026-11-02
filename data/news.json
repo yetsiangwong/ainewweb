@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-11-01T11:38:23+08:00"
+    "lastUpdated": "2026-11-02T11:43:47+08:00"
   },
   "issues": [
     {
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Models & Products: ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+        "AI Companies: Microsoft leads big tech with strong cash flow and AI focus amid rising CapEx by Amazon, Google, and Meta. - Pluang",
+        "Industry & Funding: Meta Advertising Revenue Surges 26%, Outpacing Google Search Growth Amid AI Boom - Hokanews",
+        "AI Companies: The advertising businesses of the two tech giants reach a 'watershed moment': AI empowers Meta Platforms but becomes a constraint on Google Search - Moomoo",
+        "AI Companies: The advertising businesses of the two tech giants are at a turning point: AI has propelled Meta, yet it has become a \"tightening noose\" for Google Search. - 富途牛牛"
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+          "summary": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup Stocktwits",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUi1rTmdESUx0bHNtd3BaSFpHTVVNR2UwMkx1TjRpUW9fcFlZb1ZMRDlyMEgta0VsbDB5MVpSakhWZjE4dEdRcGpDY3JwRkhWb2NTcUJxbWhJdFNhZk81a3VrU2hNQVB3V3FMV1J6RWZPdnB6eFVjdE9aRmNKa2dpY3F1UDNyN3FxV1daN0M1U2VIU29CMkcwZi1JMHF2MmROOGxwanpiU2xuSFpjQ0FWdUxHTzhTLXZYcTVXVXllNmhnSG9odExfUDZCVWNMVEE?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Microsoft leads big tech with strong cash flow and AI focus amid rising CapEx by Amazon, Google, and Meta. - Pluang",
+          "summary": "Microsoft leads big tech with strong cash flow and AI focus amid rising CapEx by Amazon, Google, and Meta.",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTHM3amJsUC1vczNoRWREWUdOT2ZpQjV2NWFsTndQaE9GeVJrQVM0cVk3MTNlWTA1NmNIdkJwSVFCYnEzdW1OM2NHSXNOeXpPOEo2ekdUMjVlYmstbmtDNWYtQllYX2k3a295WDNLWVdFUEhJZkNuNnp4U3lfYkhTV1JmZzFCVE5mcTQ0bHRRVm5TY2RFejNDblhldzhUQlRwNWtWYXhR?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "Meta Advertising Revenue Surges 26%, Outpacing Google Search Growth Amid AI Boom - Hokanews",
+          "summary": "Meta Advertising Revenue Surges 26%, Outpacing Google Search Growth Amid AI Boom Hokanews",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44MmVlckNWX2VGS2RpOTFHMEhNUi1SRnVzN0ZxM0xUcW9MaDhOcGJzUUVKZ0xjTUUtZVprcnFJRXZPbTA3dVJQSFIxMmJ3SEhlYUFpRjZTT2p5YWhkd3pfTjhLUFlNbnYweGFpdUtNN3ZOUUxjTHNkLWEzVFo?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "The advertising businesses of the two tech giants reach a 'watershed moment': AI empowers Meta Platforms but becomes a constraint on Google Search - Moomoo",
+          "summary": "The advertising businesses of the two tech giants reach a 'watershed moment': AI empowers Meta Platforms but becomes a constraint on Google Search Moomoo",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3htcHk5ZUJ2WkI3c3lrTHRPY2s5VllpdldDdDktSEVGbXJDbUFYb1E3X3FfdERxcW10X2R4ZXBfQjF5TjJjRk1hZXV0UkdOcll0RFBYWXNWNEc1UHV0Z1BDS3BXLUh6cHFya3dfVjdNbU05cVJnR053bGI4VkRHcjNXOURad2pwZWlwNnRvRHljNlpDLXFhWHR1dmp0ci0wR3hN?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "The advertising businesses of the two tech giants are at a turning point: AI has propelled Meta, yet it has become a \"tightening noose\" for Google Search. - 富途牛牛",
+          "summary": "The advertising businesses of the two tech giants are at a turning point: AI has propelled Meta, yet it has become a \"tightening noose\" for Google Search.",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXp0cFVUUHA1ci1Ja21EbW51QjRWZllUdUtwQUVMNlNSc0tPWjJqZk9xQzFXaEYtZEhtWUswalpuYThJTzR1QXlheHpkbU9rNEw4T3gwVHk1c19jbmFsMy04UmNzSERVWGllTkRJaUw5c0xxbE9FVm1OVTZIR0ZTOThydW1MVDdueC1KSTRFQWgtZW52ekN2MUgxZGk5Ulox?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "The advertising businesses of the two tech giants have reached a 'turning point'! AI boosts Meta (META.US) but acts as a constraint on Google's (GOOGL.US) search business. - Moomoo",
+          "summary": "The advertising businesses of the two tech giants have reached a 'turning point'!",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQVRmeW5nSGpFRkpOWlBKVkJSNV9EV2ZhNVR5Tk96dEZ1TTFpVzZIVW9fQ0JOUW91OXRueTF5WTJ6dWw1cnZBZ2s3bWRhaklfR0xfdHg0R096Y1RidDJhUDdVSzJXQnkyVHRBRThPemVtNDZ1NmJ3cmdjS3ZwU0d5RlFhb3hMU2hTenZncEZZaHNMbjRfY25rVHROaWlpUmY4bkl1UzhpNWw1dw?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Microsoft AI Chief Mustafa Suleyman: Models Have No Consciousness, and We Shouldn't Build It Into Them - BigGo Finance",
+          "summary": "Microsoft AI Chief Mustafa Suleyman: Models Have No Consciousness, and We Shouldn't Build It Into Them BigGo Finance",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXRVpGRFYyUTZZcU9STWMtTHBIYVJVM1FqS3JZTDBLVVUwYzA3RERwblRJcDl2MEtDQWp1bFZzUkNLem8tZlpYb2xDaGpVVFdzZ2pES2pvZ1hyNmtjaGNLdWVMd241RDR5MlJ1ZEZQNGJZaDY0MVE?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "OpenAI Cuts Funding Target by $10 Billion as Investor Jitters Shake AI Markets - PYMNTS.com",
+          "summary": "OpenAI Cuts Funding Target by $10 Billion as Investor Jitters Shake AI Markets PYMNTS.com",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZFlfRFRVcWY1U2JQWW1wSEpaSEE0NDVYLVRvb21mdnpGRzdnbkh0eW9HSGkxNXhWNkVwX1J1RURXR1QtVG5rTnYyQTY0aEdzN1ZmeVZ1MEt5ZVFXMldQbTh1VEh2OWJQN3dsUTBleUdROTVQaVU5ZzJ5MUI1V0o1Vy1nR1hsanZXN3U2a1BrbzNFZ3RfbDQ0M1ljYllrNzFrOXpUWVZ0Vi1HYnA0N3hqTC1Qb0x5UjJiRzQzampJV3lReFk1VGtsVktfdERWcWNN?oc=5"
+        }
+      ],
+      "discordShort": [
+        "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+        "Microsoft leads big tech with strong cash flow and AI focus amid rising CapEx by Amazon, Google, and Meta. - Pluang",
+        "Meta Advertising Revenue Surges 26%, Outpacing Google Search Growth Amid AI Boom - Hokanews",
+        "The advertising businesses of the two tech giants reach a 'watershed moment': AI empowers Meta Platforms but becomes a constraint on Google Search - Moomoo",
+        "The advertising businesses of the two tech giants are at a turning point: AI has propelled Meta, yet it has become a \"tightening noose\" for Google Search. - 富途牛牛",
+        "The advertising businesses of the two tech giants have reached a 'turning point'! AI boosts Meta (META.US) but acts as a constraint on Google's (GOOGL.US) search business. - Moomoo",
+        "Microsoft AI Chief Mustafa Suleyman: Models Have No Consciousness, and We Shouldn't Build It Into Them - BigGo Finance",
+        "OpenAI Cuts Funding Target by $10 Billion as Investor Jitters Shake AI Markets - PYMNTS.com"
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Policy & Regulation: Training Natural Schemers: RL Can Amplify Oversight-Conditional Behavior",
@@ -2404,86 +2484,6 @@
         "Elizabeth Warren Probes AI Tax Breaks at Amazon, Google, Meta, Microsoft - Gadget Review",
         "Elizabeth Warren Probes Federal Tax Cuts for Amazon, Google, Meta and Microsoft - TechStory",
         "Meta, OpenAI, NVIDIA: What is the White House Accord on AI? - AI Magazine"
-      ]
-    },
-    {
-      "date": "2026-10-02",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "Policy & Regulation: Nvidia, Meta Clash With Anthropic as AI Safety Regulation Debate Grows - TipRanks",
-        "AI Companies: OpenAI, Anthropic, Meta, and Google, since last week. - Pakistan Today",
-        "Models & Products: Frontier Model at $2 Per Million Tokens: Google Unveils Gemini 4 Argon to Challenge OpenAI and Meta - TradingView",
-        "Policy & Regulation: What's In Google, Meta, OpenAI White House Accord on 'Super Intelligence'? Four-Layer Safety Oversight - ibtimes.sg",
-        "Models & Products: Can OpenAI and Anthropic Still Justify Premium Model Pricing? - CMSWire"
-      ],
-      "stories": [
-        {
-          "category": "Policy & Regulation",
-          "title": "Nvidia, Meta Clash With Anthropic as AI Safety Regulation Debate Grows - TipRanks",
-          "summary": "Nvidia, Meta Clash With Anthropic as AI Safety Regulation Debate Grows TipRanks",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeU8wUnBZeU95V2gwRUNWQ09zX1hzOUZPdUV4R1BUSmN6QlNvMkNseGpnM0FUVDUtUjFGUmJ4bS1wQl96bkRJeUFfQVBqNlAtc2hHX3UyWE5lY2JITGZLMTFfVm1IbDVFTkwzSHBtZUtJS0JkR0pmZUJnUnBTSVdoVXozdkE5dWFndjRaelctUXkzWWdTaUR6NFYwN1U0U0hz?oc=5"
-        },
-        {
-          "category": "AI Companies",
-          "title": "OpenAI, Anthropic, Meta, and Google, since last week. - Pakistan Today",
-          "summary": "OpenAI, Anthropic, Meta, and Google, since last week.",
-          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
-          "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOblVDdXdwbThBbzNuSXVuVVZlQVAxSHlPT0MyQTlzNU9oSGpKYWlpZ096QWVhV084RnQ0cTU5THhic251ZHZoa0szZTNuT3V3ZnF5T0ppMXljTk5JNEp6VjZKeDdEOUFDM19mOFVqeTZHRWk5ellvemRTQnJnOHYySVpKeWJqekR4X1JlUEhB?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Frontier Model at $2 Per Million Tokens: Google Unveils Gemini 4 Argon to Challenge OpenAI and Meta - TradingView",
-          "summary": "Frontier Model at $2 Per Million Tokens: Google Unveils Gemini 4 Argon to Challenge OpenAI and Meta TradingView",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdEtwbXh3YVh1T3VOTWtYb0FUT2ZoLVE1b2d6eEtQd1ByTU05QU53LUxneG9WZHpvbmZfWEZkal9nR0d3QTk1NG5IMVJsLTdNelc5cEt2WGlCXzVWd2RkaDhNZTZ0YzBDMERaUmtZU0dMbHVlNUhlTklLeFFndnk0TW9LT2EyYThBMXZCckc4ZDlBYVhKZXRicDBJbjZFZnRQTlhKYS1kWVpnRFlLNFVVX19KTWREd0dIWU1NOWJoOGdwX3N5eUVfMDF2ZDBZN0hqaWUyNW5rOVNtZGJxcDZ3VUxkOFhQWVEwSm9raw?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "What's In Google, Meta, OpenAI White House Accord on 'Super Intelligence'? Four-Layer Safety Oversight - ibtimes.sg",
-          "summary": "What's In Google, Meta, OpenAI White House Accord on 'Super Intelligence'?",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeFZWZ3FwaUkyTGNLdWQ1RUZHVE4tNVhGdGdwTC1KNkZEOG45Yzh5UGd2ZEFYRHpyMWw0MDFXb0VhbEN3ZWlwcHk2emFDQlJYMzJxWmlVbGZoc2RYNFdEWXA5ZVdfR21LeW1QbGswM2ozSFB4MTlOX210TjFhRXF6YzQwUGxueng0NkltenEzZ2h0XzJrb3hYX1pxMnViaHpfa1NFbTRsTkdRdVdPdE9QaGdLdGIxQUFNSmpB?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Can OpenAI and Anthropic Still Justify Premium Model Pricing? - CMSWire",
-          "summary": "Can OpenAI and Anthropic Still Justify Premium Model Pricing?",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0VFZERGVVJSc0NUNXM5allCbkh2NTZMSElEVWxqLUZIbm1qUUdBSlVua1hGUk9uUk5sMXZqa0JjTThuamRDdDhzODBhcHNKazFXcGxfQ2lXeTVPeFlDWU9hV3RxRUlMOHRNTm0zd1hlb1pMMDg2Q3BsWFZ3RUhOQ1hXTGdMWUFodHI2clRmTzBfbnluOHFoSl8yZjc0THhpZ3FGNGpfUldOdWxKcTBJV29mTXI?oc=5"
-        },
-        {
-          "category": "AI Companies",
-          "title": "Google Claims New AI 'Argon' Beats OpenAI, Anthropic - Newsmax",
-          "summary": "Google Claims New AI 'Argon' Beats OpenAI, Anthropic Newsmax",
-          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
-          "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbnVmbTJqTlRKX3pKNGxaR21HaUhrUzg4amVxSDFQVDdMVnJnNzNUaGN3NUlreTFKeHBqQlFmb3RJZkhqZlB0bGpXa0xBM0dpbDV0Q2NYbWN1U2tqbkpGTGJqTngxYjhVVmZ6R2tSQUdIOFpCZjNHaFlIYjV0NmkxTE93?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal - Yahoo Finance Australia",
-          "summary": "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal Yahoo Finance Australia",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdlZHSnh0ZExYbndvZ2NuZ3dFSW5rdEJUMGtPaTBTT3hvTy1NODZHQ3pPUWVETXVkTEpWd2JuOFpodWp4TmNuU3E1cHRjMDdLZHhObTlpX29UbTZvQm8tWjdlVW82RmhoT0NZQzFtaWVOLXJKWFdON0x3ZEZBRV9mWHhpcXBqY2JIdTJr?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "OpenAI Launches \"Dots\" AI Assistant With 4,000+ Tool Integrations To Rival Meta Muse And Grok Bot - foreignpolicyjournal.com",
-          "summary": "OpenAI Launches \"Dots\" AI Assistant With 4,000+ Tool Integrations To Rival Meta Muse And Grok Bot foreignpolicyjournal.com",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbFpIVWZmZlV5RjJmYkJ0djdMcmRCb1MycjdxNGNvTmhTakJ2aWY4N1BKbHRMMS1iQ2NjeE1HeTlWNmxxcU83eWZ0bmJGbmptV2NYLXJtYmp4WlNfX1h0cmViMmszcHZ5TE1fYzFhdmdtZ2dfYzhQMUNHUm9qY2lPNkZOVVdnZ2RvTldVWk9BTmt6UkVYOU54cVZkMzlzT0F3Mjc5bm5qNUxSWlNNeXRwbHAwRGdhYjJFNDVDVmZ4T253QTZCME5fU1hRSVhqV2pCMzI0NFRxQlZoUQ?oc=5"
-        }
-      ],
-      "discordShort": [
-        "Nvidia, Meta Clash With Anthropic as AI Safety Regulation Debate Grows - TipRanks",
-        "OpenAI, Anthropic, Meta, and Google, since last week. - Pakistan Today",
-        "Frontier Model at $2 Per Million Tokens: Google Unveils Gemini 4 Argon to Challenge OpenAI and Meta - TradingView",
-        "What's In Google, Meta, OpenAI White House Accord on 'Super Intelligence'? Four-Layer Safety Oversight - ibtimes.sg",
-        "Can OpenAI and Anthropic Still Justify Premium Model Pricing? - CMSWire",
-        "Google Claims New AI 'Argon' Beats OpenAI, Anthropic - Newsmax",
-        "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal - Yahoo Finance Australia",
-        "OpenAI Launches \"Dots\" AI Assistant With 4,000+ Tool Integrations To Rival Meta Muse And Grok Bot - foreignpolicyjournal.com"
       ]
     }
   ]
