@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-11-06T12:30:51+08:00"
+    "lastUpdated": "2026-11-07T11:57:20+08:00"
   },
   "issues": [
     {
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Models & Products: ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+        "Industry & Funding: OpenAI, Google, Meta Face 5 State Levers on AI Data Centers - FourWeekMBA",
+        "Models & Products: Redacting Personal Data: A Speed and Accuracy Comparison of Regex, Presidio and Hybrid Designs",
+        "Policy & Regulation: WeLM-Image: A Unified Image Generation Model towards Visual Intelligence",
+        "Policy & Regulation: ARMs: Adaptive Red-Teaming Agent against Multimodal Models with Plug-and-Play Attacks"
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+          "summary": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup Stocktwits",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUi1rTmdESUx0bHNtd3BaSFpHTVVNR2UwMkx1TjRpUW9fcFlZb1ZMRDlyMEgta0VsbDB5MVpSakhWZjE4dEdRcGpDY3JwRkhWb2NTcUJxbWhJdFNhZk81a3VrU2hNQVB3V3FMV1J6RWZPdnB6eFVjdE9aRmNKa2dpY3F1UDNyN3FxV1daN0M1U2VIU29CMkcwZi1JMHF2MmROOGxwanpiU2xuSFpjQ0FWdUxHTzhTLXZYcTVXVXllNmhnSG9odExfUDZCVWNMVEE?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "OpenAI, Google, Meta Face 5 State Levers on AI Data Centers - FourWeekMBA",
+          "summary": "OpenAI, Google, Meta Face 5 State Levers on AI Data Centers FourWeekMBA",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMmEtaEhIYVNDdzhBcmJBc1I2aVUySEh6anlucEYyVVN5REQzbHFRNERtTkdIdnV1VUU2N2QyVDlrOS1qNkV4ODJZeGQxMWU4UTcxZ21lMWVaM3ZGYS1HcXJINnpWZkgzWV9HeDZHT3pOUTBFOUZpREUzUldvMnRBUFl6RFZROUdzVGxOZmpB?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Redacting Personal Data: A Speed and Accuracy Comparison of Regex, Presidio and Hybrid Designs",
+          "summary": "arXiv:2611.07633v1 Announce Type: new Abstract: Many enterprise projects now pass free text to large language models (LLMs), and that text often contains personally identifiable information (PII) such as names, phone numbers, email addresses, home addresses and dates of birth.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://arxiv.org/abs/2611.07633"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "WeLM-Image: A Unified Image Generation Model towards Visual Intelligence",
+          "summary": "arXiv:2611.07392v1 Announce Type: cross Abstract: We present \\textbf{WeLM-Image}, a unified image foundation model that integrates multimodal understanding into text-to-image generation, instruction-guided editing, and multi-reference synthesis.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2611.07392"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "ARMs: Adaptive Red-Teaming Agent against Multimodal Models with Plug-and-Play Attacks",
+          "summary": "arXiv:2510.02677v2 Announce Type: replace Abstract: As vision-language models (VLMs) gain prominence, their multimodal interfaces also introduce new safety vulnerabilities, making the safety evaluation challenging and critical.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2510.02677"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "From Siloed Algorithms to Compliance-First Agentic Platforms: A Multi-Layered Architecture for Hospital AI Systems",
+          "summary": "arXiv:2608.06112v2 Announce Type: replace Abstract: Hospitals are rapidly adopting artificial intelligence for triage, imaging, scheduling etc., yet most deployments remain isolated point solutions locked inside departmental silos, resulting in duplicated effort, hidden risks, and unrealized enterprise value.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2608.06112"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Self-Improving Training & Thinking",
+          "summary": "arXiv:2601.21343v4 Announce Type: replace-cross Abstract: Large language models are classically trained in stages: pretraining on raw text followed by post-training for instruction following and reasoning.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2601.21343"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Alignment Collapse Under KV Cache Quantization: Diagnosis and Mitigation",
+          "summary": "arXiv:2606.09864v3 Announce Type: replace-cross Abstract: Key-value (KV) cache quantization is widely used to reduce LLM inference memory, yet existing evaluations focus only on perplexity and accuracy without assessing the safety impact.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://arxiv.org/abs/2606.09864"
+        }
+      ],
+      "discordShort": [
+        "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
+        "OpenAI, Google, Meta Face 5 State Levers on AI Data Centers - FourWeekMBA",
+        "Redacting Personal Data: A Speed and Accuracy Comparison of Regex, Presidio and Hybrid Designs",
+        "WeLM-Image: A Unified Image Generation Model towards Visual Intelligence",
+        "ARMs: Adaptive Red-Teaming Agent against Multimodal Models with Plug-and-Play Attacks",
+        "From Siloed Algorithms to Compliance-First Agentic Platforms: A Multi-Layered Architecture for Hospital AI Systems",
+        "Self-Improving Training & Thinking",
+        "Alignment Collapse Under KV Cache Quantization: Diagnosis and Mitigation"
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: Iterated creation, grading, and revision of data science projects by language models",
@@ -2404,86 +2484,6 @@
         "Google's Answer To Meta’s Muse AI? DeepMind Chief Says Gemini 4 Launch Is Coming 'Much Earlier' - Stocktwits",
         "When Does AI Supervision Help? A Role-Aware Study of Network Fraud Decision Management with Blockchain Auditability",
         "Toward Alignment Scaling Laws: A Framework and First Preregistered Measurements"
-      ]
-    },
-    {
-      "date": "2026-10-07",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "Policy & Regulation: Under oath, Google confirms three AI agent test escapes as OpenAI, Anthropic and Meta face NYC lawmakers - R&D World",
-        "AI Companies: OpenAI, Anthropic, Google and Meta face 10 proposed NYC AI bills - PPC Land",
-        "Risk, Safety & Copyright: Anthropic, OpenAI, Google, and Meta Officials Face New York Council on AI Risks - وكالة صدى نيوز",
-        "Risk, Safety & Copyright: OpenAI, Google, Meta, Anthropic lack insurance against catastrophic AI risk - Crypto Briefing",
-        "Models & Products: Microsoft and Meta push employees towards in-house AI tools over Anthropic's Claude - People Matters - HR News"
-      ],
-      "stories": [
-        {
-          "category": "Policy & Regulation",
-          "title": "Under oath, Google confirms three AI agent test escapes as OpenAI, Anthropic and Meta face NYC lawmakers - R&D World",
-          "summary": "Under oath, Google confirms three AI agent test escapes as OpenAI, Anthropic and Meta face NYC lawmakers R&D World",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX0x4LU04ZVRIdmMtNWlOemZzQWhWeTdwMUN2ZnJLRXl3LUVwc3VmY09JWU5lX3BGRzNWclFRTmN3WGg4cmhBSEFEWmw5ekJjWHlIMmRSa2k2ZWJKUTU2c2hkTTEwWlN0amZMd3V6YVl4MGFON251ZFFtOW15bHpOMEV0VW5jazRlOERiRm56aEJ1OFlBcTJPbktVQlg4OS1Lc3ZMYV9pejg2UExDVHlpZWlqUTJvbC03ZnFBOUVURlR2YUxNbURKMm1kVElUdw?oc=5"
-        },
-        {
-          "category": "AI Companies",
-          "title": "OpenAI, Anthropic, Google and Meta face 10 proposed NYC AI bills - PPC Land",
-          "summary": "OpenAI, Anthropic, Google and Meta face 10 proposed NYC AI bills PPC Land",
-          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
-          "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHMzMXBQQnpibU9CSDB6MEtSckNQQVdxNmZvY21nRmY5anpuOVFZdGo0M0taTzdpRzRZMU1NeW9kMUxWWmpYcHhfOWsxYWw3UWJ6RncyVTM3YWowSjhZbWcwcndRWU9CUXQ3MUZnVHZ4cF92SDA3cDZGT3c0Y1pOTkE5allibEk?oc=5"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "Anthropic, OpenAI, Google, and Meta Officials Face New York Council on AI Risks - وكالة صدى نيوز",
-          "summary": "Anthropic, OpenAI, Google, and Meta Officials Face New York Council on AI Risks وكالة صدى نيوز",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xWGxUNnlXazBxTlptbHhhNnFFaFpvN1NabXNfRkRzel9RUXZMTjZOU1N6Q254MVBWdDU4cmtPbXVUWFhBZVNuZGJLb0FmczZyZTgycDN3?oc=5"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "OpenAI, Google, Meta, Anthropic lack insurance against catastrophic AI risk - Crypto Briefing",
-          "summary": "OpenAI, Google, Meta, Anthropic lack insurance against catastrophic AI risk Crypto Briefing",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MVWc1Ym0wVTE0QnJHd1UzTnJreVJ5SHpHN2NYWElfZkVTRURSY25fNHg0YkFUVTFUWWR1dGFMVU1hVHJ4dHJfRUV3bTNsX2s2TDJJTnNfMlp1WGF1SElXSm05MlJPTERTNjBYZlRlUmdXMnJoZXdZ?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Microsoft and Meta push employees towards in-house AI tools over Anthropic's Claude - People Matters - HR News",
-          "summary": "Microsoft and Meta push employees towards in-house AI tools over Anthropic's Claude People Matters - HR News",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSERaX3VhUHdTYlNFdXNqMEZtU2tkRGFhRFk2SFZOZ1FsYmkzT0dGQXZLNEIzZndIWG1GMW1vYmdNOTVwczJSQl9SWXRIa2Y1YW5mWUQ3M3JDbVFjeVRpdGl1NkU0bjI5SC0yRGlnM0VSamJPcDZ6MnNMQUlPdGRVNU95WW5pTlJjYU5VS3A0RXN4SkR1VHZEYlJHeXdxbXFoMm1seXVVQVlNdDJqTnlBOGxMbThwNTBRMXRVZ3d6NnRjai1LZFF3VEZRM19QVkl4TVI3Vjl6VmQxVE0tblhuTg?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Google DeepMind Launches 740M-Parameter AI Model for On-Device Search - TipRanks",
-          "summary": "Google DeepMind Launches 740M-Parameter AI Model for On-Device Search TipRanks",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1BYMm95aW9aYkMxem5Ha3FmM1hZcC1nMjdyd2s0eEMzMXIzYnJmM1ZpWmYtZ3YtUERvYW5qcnVySUU3SW1DLVFBTk1VQUkwM1dNUi1QSi1UZ3pEc2hoUlpYU0x1ZlIxdERzanExQ1ZCQnR2LUpPUnpJMzZQM2xrUjRSbGpWRzBVWU5PN3RabFEwa2g1TXk2QUFDWHlXWUlp?oc=5"
-        },
-        {
-          "category": "AI Companies",
-          "title": "Meta and Microsoft just sent employees a memo about Anthropic - TheStreet",
-          "summary": "Meta and Microsoft just sent employees a memo about Anthropic TheStreet",
-          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
-          "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemx1RG9Md2U5NUo4Z1dTZHN4czhKMDBOUW9Ram8tQWoxbGVzcjFjYmtmTDRmdkJsZEVLTEtnbUZrMGc4VWVlRnkwQ3htdEJ1QVFUV1NBcTlmMGZOVWJPdlFPcDFpdUd1UHdzOFZ4UG54cWV3c3hXZjdoSWlaY0lXSzVhTm9BblhiNWM4cGwtS1Rxb2IxMDQ4T1pB?oc=5"
-        },
-        {
-          "category": "AI Companies",
-          "title": "Meta, Microsoft Walk Away From Anthropic as Their Own AI Tools Gain Ground - TradingView",
-          "summary": "Meta, Microsoft Walk Away From Anthropic as Their Own AI Tools Gain Ground TradingView",
-          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
-          "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbGFzRVJuWU54S0N5ZlI0VmNkLURfN0xRVGJrS0k4S0xJNWtLY3pRM1lMajJnOGc2OUpiWGRUNk9DanhIb0I3X3UteW5tQk5LTm1qZTAtR3ZhVTFtZGlqcXNBTGlzaEcyTW5sUWFJU1VSV2RRc1JXdGNHNlZQTEtXX3I2Zzc4YmdTQTBWbzl5NVRzdjZqRHRra1oyeEtEQUNPTkZtaVRkZlUtNTlCd2JyZ2ltelVwMi1Pd2hyb2JWUnRSX05tc1dGcVdKLWNOUQ?oc=5"
-        }
-      ],
-      "discordShort": [
-        "Under oath, Google confirms three AI agent test escapes as OpenAI, Anthropic and Meta face NYC lawmakers - R&D World",
-        "OpenAI, Anthropic, Google and Meta face 10 proposed NYC AI bills - PPC Land",
-        "Anthropic, OpenAI, Google, and Meta Officials Face New York Council on AI Risks - وكالة صدى نيوز",
-        "OpenAI, Google, Meta, Anthropic lack insurance against catastrophic AI risk - Crypto Briefing",
-        "Microsoft and Meta push employees towards in-house AI tools over Anthropic's Claude - People Matters - HR News",
-        "Google DeepMind Launches 740M-Parameter AI Model for On-Device Search - TipRanks",
-        "Meta and Microsoft just sent employees a memo about Anthropic - TheStreet",
-        "Meta, Microsoft Walk Away From Anthropic as Their Own AI Tools Gain Ground - TradingView"
       ]
     }
   ]
