@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-11-09T11:55:18+08:00"
+    "lastUpdated": "2026-11-10T13:29:06+08:00"
   },
   "issues": [
     {
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Models & Products: Meta Launches Muse Ember, Its Smallest AI Model, on the Day Anthropic Unveiled Fable 5.2 and Mythos 5.2 - Startup Fortune",
+        "Models & Products: Meta and Anthropic Push AI Models Into More Complex Work - PYMNTS.com",
+        "Models & Products: Google, Amazon, Microsoft, Meta could dominate AI agents, Open Markets warns - PPC Land",
+        "Models & Products: OpenAI Squeezed At The Frontier-End By Anthropic’s Claude Fable 5.2, While Meta’s Muse Ember Gives Its Bargain-Class GPT-6 Luna A Bruise - Wccftech",
+        "Policy & Regulation: BMMS: Policy-Conditioned Measurement of Behavioral Compliance in Language Models"
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "Meta Launches Muse Ember, Its Smallest AI Model, on the Day Anthropic Unveiled Fable 5.2 and Mythos 5.2 - Startup Fortune",
+          "summary": "Meta Launches Muse Ember, Its Smallest AI Model, on the Day Anthropic Unveiled Fable 5.2 and Mythos 5.2 Startup Fortune",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcklQbkEzZFc4TE05dk1ONFJSb3FHem5neE5UWjJISUpfQkN1QXhBNEhVb2hUZG10RTJQcHplSXpHRUtMckJVYlY1T3JTLVc5cndfWGNzOVlKYWlGMXA4NmNrQ1JHVVg4RkxGelVsQ2Y3QUxEcDlJck9PelBNVElyd2VUa0Z5VHg4ZDNta3YycXZDMG5FWGlJUnVVcVV0OUV5djdqVHZ5djhTYzhtdVdBcVV4RTBrTDhRTVl1a0lCMkdHSi1MdEE?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Meta and Anthropic Push AI Models Into More Complex Work - PYMNTS.com",
+          "summary": "Meta and Anthropic Push AI Models Into More Complex Work PYMNTS.com",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOElwRU9mVnFBWUNzZnBJQ2JiSGRLSjU4aDRvaDNXZDZCUGlSZ3BnVk9QUWpGT2FkSGQyNGZPUmtrMFc0cEY2NTRhQk5CeWVtWVV4TU1rNUFHbTBHY3FlWC15V00zX3BIM1lZVkVRdGlxZ2ZwamY5RC0yY05xRTBwbC1PWm1GUllOdUtQWW0tWENpbEcxaW80eGQ5OFN3MnFzbDI4aVdyaUhtVkQ0dFlGak94WG4?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google, Amazon, Microsoft, Meta could dominate AI agents, Open Markets warns - PPC Land",
+          "summary": "Google, Amazon, Microsoft, Meta could dominate AI agents, Open Markets warns PPC Land",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0Jlakt2cUlVU3JLQnhSVTJjeHh0dXFkc0E5eHhIOTF5YUg4Y01oRWtyVFNRbFJfSzl1ZF9GLVlSQkZMRVFwQ0pJVE1KQjhUb0NsMHppOGthU3dfYm9xU2xxdEp6S3ZYeHRYMTBkdEczenYyYk55MGxWZVFTMDBDZmhZQkhWTXp5UVBwRWt0NEFUN0tR?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "OpenAI Squeezed At The Frontier-End By Anthropic’s Claude Fable 5.2, While Meta’s Muse Ember Gives Its Bargain-Class GPT-6 Luna A Bruise - Wccftech",
+          "summary": "OpenAI Squeezed At The Frontier-End By Anthropic’s Claude Fable 5.2, While Meta’s Muse Ember Gives Its Bargain-Class GPT-6 Luna A Bruise Wccftech",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYU9UZktRNVJKTWxuSGVvQWNUTzF0cVVVb1RyMlVtZk96N2V3czFMTTRCZTFXOHBrZ3AxSHk2ekZuSjlPbVVVeWktLVJfcGF4dXZGQ25HVW1SQXp4cm9LbmlFUHJUMG80YjItNWxYcG9KQjk1X3dhelk5ckdvajM5SW11N05USGRWYllvVFo1ZmRpZVdDcHBSRHA0eWczRHhnVnB6Nmk0QXBDNkZPMGxSeFQxRExjRHNmVGZ0RThJNUJRZThVLVh0aFUwWktMQ2xuWFk5N09KMFhYdzNpSHRoV2RzeEJFSFNVd01N0gHwAUFVX3lxTE9JaVUwMms2Mk9wMTIxXzQzVWZ6ZlVxSkpybm5BSGFWaWw5UENSaU1VRVBMMC1FN0NtU1dzeTBVeFNlSEtSVUZ6d1NSZFV6R01JTmxVWmxxdlpMbXVnX2lJVldnSUp3U3BNQ1NLQ0x1X05uR0hSV1JiYTV3XzVqUnlMeUoxVkU1akJlNlRHU3RlX1hLeWtjMmxWN1V3aWl2NzFDN0MtRGx3TXBabEs4dkVqcmFYQWM4Q3dWWnpuNTdZYUl3ajk0dV9hRWRmdlNMemZIT25WQzlfRWRPNHRyMUMxRWFYLTZyU1Z2NHRua2RXaQ?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "BMMS: Policy-Conditioned Measurement of Behavioral Compliance in Language Models",
+          "summary": "arXiv:2611.09147v1 Announce Type: cross Abstract: Behavioral evaluation of language models fixes its dimensions in advance: hallucination, sycophancy, toxicity, over-refusal.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2611.09147"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Australia to launch AI safety regulator after OpenAI's breach of a government portal - New Haven Register",
+          "summary": "Australia to launch AI safety regulator after OpenAI's breach of a government portal New Haven Register",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbV9ud05wYWZ4MHZzTTRVQ3JqNlg0UEVmaGphOFNkVFpHN2JxUmZPcEgwUGR4eDNvZldxSDBQNE5aTlNxWXctWGFvam9LRUtVSllEZFM2bjY1dmZmQ3RNRVhPc2g2dGI0eklPQzZDdkdueE5qN0JwVTdLaWM5RTd1Umt4OVNpZWRvUTlhUU5nREJBdGRPRndYMWZyQ2tLVVM1NzdaQ0lYQQ?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure - WIRED",
+          "summary": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure WIRED",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSV9UXzJZbldTTW1URGM4UVozZGNvMTlrZldGaWR1Y3ZjTngwa0JTdVVxWURJcDdsd3kxUjd6bWRZUFBkemdIMjdYX1ZsUExYY1Y0X2pMdTJDVy01WDBfdzZTN0RQblloam5VbUpNU3FzeV9FUWtaS3c1N3pobFBJUk1RMlo3bEk0MFFobVptODFNUWcxRW9wbHRUcWpJcXNCTldn?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind AI agents reduce costs for attacking 1024-bit RSA keys - TechGig",
+          "summary": "Google DeepMind AI agents reduce costs for attacking 1024-bit RSA keys TechGig",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRTE5eldrM3JJWWtBMzFOTjlqRUlLdmVWekJsUS1iX3dMcFIwOUh6LTRlX1pPZ1ZuQmg4aFlsa283VFJ1djRXNkZETmY0TUVBTDVkWW5ScGxLU09pa0RVblB3WmFOd3dfV1F4ZU1aWW5ncngzSEdscHRnRG5mWTJPYUhiSXlYYzhYU19vUXdMekxUNVEwb2FQWkFzT0ljOXhMVHliaWc5aFREb1pEWDE5cUVoVkNJTzdHNTJB0gHAAUFVX3lxTE1uREMxM2o1V2hSZVdFU1VuMXlZVHNKSktzTFdMd1U4N1l5blFURE9CMzVmN0ZYbWpJV3BENE9JUlc4RWNaWHZpNGp1bnZrMjlUVzJoZGNEX042Z1F3N1NnejFCb2lwMTNwNFdiZkFjeE9RRE42QW1pS1NXUVBWX2NERTJhc0ZwTXlpeXpVdnJRanc4aFV4dlZ3Z08weE96WTk5YWhZSkEwRXI2VmFuV1pLY0xsbGFSeUpuV3pvdnZ2Yw?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Meta Launches Muse Ember, Its Smallest AI Model, on the Day Anthropic Unveiled Fable 5.2 and Mythos 5.2 - Startup Fortune",
+        "Meta and Anthropic Push AI Models Into More Complex Work - PYMNTS.com",
+        "Google, Amazon, Microsoft, Meta could dominate AI agents, Open Markets warns - PPC Land",
+        "OpenAI Squeezed At The Frontier-End By Anthropic’s Claude Fable 5.2, While Meta’s Muse Ember Gives Its Bargain-Class GPT-6 Luna A Bruise - Wccftech",
+        "BMMS: Policy-Conditioned Measurement of Behavioral Compliance in Language Models",
+        "Australia to launch AI safety regulator after OpenAI's breach of a government portal - New Haven Register",
+        "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure - WIRED",
+        "Google DeepMind AI agents reduce costs for attacking 1024-bit RSA keys - TechGig"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: OpenAI, Anthropic reveal new AI models, products in week 45 of 2026 - Crypto Briefing",
@@ -2404,86 +2484,6 @@
         "Anthropic AI model sends police false tip about unsolved homicide - upi",
         "Nvidia Reportedly in Talks to Acquire Reflection AI, Betting on Open-Weight Models and New AI Computing Demand - TradingKey",
         "Philadelphia police receive false homicide tip from Anthropic AI model - The Hill"
-      ]
-    },
-    {
-      "date": "2026-10-10",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "Models & Products: As Google, OpenAI and Meta Push A.I. Agents, Enterprises Need Models That Think Less - Observer",
-        "Models & Products: From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
-        "Models & Products: Arbiter: Detecting Interference in LLM Agent System Prompts",
-        "Industry & Funding: MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week - TradingView",
-        "AI Companies: OpenAI, Google and Meta battle for AI internet domains as crypto firms target .bitcoin and .wallet - CryptoSlate"
-      ],
-      "stories": [
-        {
-          "category": "Models & Products",
-          "title": "As Google, OpenAI and Meta Push A.I. Agents, Enterprises Need Models That Think Less - Observer",
-          "summary": "Google News: frontier labs reported this AI-related development within the latest monitoring window.",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IaDZmcWp2UVZ6SUxRXzhsZ3dlTTgwQzF0OGRNcUgtR2Y3RzVMbUN2Vk1fTUJEeUdmbE94bV9XVkxhQVgzS2ZnRVV5ZXhSbDNiTXpfT3NhQUd5NzdrR0FveU9MVzFNZ0hzTFozNmhn?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
-          "summary": "arXiv:2610.12463v1 Announce Type: cross Abstract: In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope.",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://arxiv.org/abs/2610.12463"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Arbiter: Detecting Interference in LLM Agent System Prompts",
-          "summary": "arXiv:2603.08993v2 Announce Type: replace-cross Abstract: System prompts for LLM-based coding agents are software artifacts that govern agent behavior, yet lack the testing infrastructure applied to conventional software.",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://arxiv.org/abs/2603.08993"
-        },
-        {
-          "category": "Industry & Funding",
-          "title": "MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week - TradingView",
-          "summary": "MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week TradingView",
-          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
-          "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSVp1NS1LcU5zVkRaT0VCOGZVVlE5ck01TkZDdGlMR0lpUDY0aS1yZnNXSTEwS05KN3dQdS1MZndDV1R0bVRIbWl0V3ZYbmJUbS1kWVhYRi1ickZ5V290SGU2Y2xLLW8xZVpLYkpBSmRvdnBDMXZwUldVN0lQUV8wQkZ2TFR5QWw5MDhRa1pFc2xoZHlMNVhEM3g3ZnJaaDdQM2VDTmp6Rld6U01kZndkVjNMZTgyM3NDRy15VmJ6TU8yUl9IWTViR1N3?oc=5"
-        },
-        {
-          "category": "AI Companies",
-          "title": "OpenAI, Google and Meta battle for AI internet domains as crypto firms target .bitcoin and .wallet - CryptoSlate",
-          "summary": "OpenAI, Google and Meta battle for AI internet domains as crypto firms target .bitcoin and .wallet CryptoSlate",
-          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
-          "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYXVKUUUyWkJ4bmlZM1UzajFpTVB6cmtsRU1oTmFFSmJ5S0hwaElxZXVFdlpyOFNCVzFtQmhyV2NCSTVIOUo3LXdwdkZjaFlvejN3c181eTdFbWNGdlo3WUdxbHkxbjBCTVBnemFlUHpOOFJmSDRFekkzVE16MlVuNEQyZ25kNnZNTXBxakpZSzRNVnlveU5XVDFSc0xlQmdDR3JaWHh4RVhCM0Y1QTZYZnA5N1lXNjB1dGdzRA?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "OpenAI, Meta & Anthropic face UK scrutiny over rogue AI agents - BusinessCloud",
-          "summary": "OpenAI, Meta & Anthropic face UK scrutiny over rogue AI agents BusinessCloud",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQS1rRDg0b2l0ZTNSdGhHNDhUS1RGVUtSbWZiRXNfNHBqeE9oMVBzMUFwQlVJNlZ4WFBxSFVwOVU2NkJ1SWxfMG1MR1dGVG5seHNkdzl1cURBWEFoQWxCTWU0UTdfOWhLYjJ6cmJMVFVmMS0yLVI0NHh2VWk?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "OpenAI, Anthropic, Meta asked by EU about AI law compliance, tech chief says - MLex",
-          "summary": "OpenAI, Anthropic, Meta asked by EU about AI law compliance, tech chief says MLex",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVDBrNXJBeVBKVTlQT3dERDg5YVpZei1WRlhVdFBfc0ZEVmI4cXBMTzloNkJKU2RDaE5ZR3hEdVIyOEprX2hMVjRTb3dRd1d6VTdSM1E5QzJ0WkZLc0dFc0tXcjhEUkQwcVRScllSQm1SNmFGVXFPRnlfY0MwYUdpNkpoQkJZOEdYbXp3dUY1TW5BckZNYlJZVGJXclZuY3NwZHFDWTdkMDhUTm5fcWp6UHVtbDYxSmvSAVpBVV95cUxNRFNMMzhKS2wtOFpfbHFMRXVvN0JTYkU4NGM3VjZxRUlMd05wOURlQVpMTTJ1TmotOXdvZlZzdUZSX2JQeGFMNG5Ja0M5YlctN0pLSERtZmxWQ1E?oc=5"
-        },
-        {
-          "category": "AI Companies",
-          "title": "UK ICO Secures Data Protection Commitments From OpenAI, Google, Microsoft, and Seven Other AI Developers - gHacks",
-          "summary": "UK ICO Secures Data Protection Commitments From OpenAI, Google, Microsoft, and Seven Other AI Developers gHacks",
-          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
-          "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcVhqenpuUlJzZlBMT281alExTmpiNEg1Qmlhc0lQWW5iQ18yRGZTbkkxMXFlTUhUNng5UlVERmlJRGxnTks5anZDaFlJRDVWLThCVkEtNHl5eWMtRjJfbXlsckR5bGNfUHBvbXFxLXVuSHBuTjd5VEpxaDNmc2l6Y01OV1lqdmx2QzBOaFdWbUdhSkdWMGx6X0VuUVgydVQ3UGFkbmt0dXR3cWExS0J3R2p0c2R1TnpVbWxzNFVUbkxfbTNubDRJak1IWjRiazdPWEE?oc=5"
-        }
-      ],
-      "discordShort": [
-        "As Google, OpenAI and Meta Push A.I. Agents, Enterprises Need Models That Think Less - Observer",
-        "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
-        "Arbiter: Detecting Interference in LLM Agent System Prompts",
-        "MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week - TradingView",
-        "OpenAI, Google and Meta battle for AI internet domains as crypto firms target .bitcoin and .wallet - CryptoSlate",
-        "OpenAI, Meta & Anthropic face UK scrutiny over rogue AI agents - BusinessCloud",
-        "OpenAI, Anthropic, Meta asked by EU about AI law compliance, tech chief says - MLex",
-        "UK ICO Secures Data Protection Commitments From OpenAI, Google, Microsoft, and Seven Other AI Developers - gHacks"
       ]
     }
   ]
