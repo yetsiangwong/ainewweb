@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-11-11T11:59:19+08:00"
+    "lastUpdated": "2026-11-12T13:10:37+08:00"
   },
   "issues": [
     {
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Models & Products: Meta Brings Its Muse AI Models to Google Cloud Beyond Gemini - TelecomTalk",
+        "Policy & Regulation: Technology 24h: Meta, TikTok and Google protest AI copyright laws in Indonesia - Laodong.vn",
+        "Models & Products: AlphaGenome 2: Google DeepMind Model Maps DNA Effects by Cell Type - JournalArta",
+        "Models & Products: Sundar Pichai welcomes Mark Zuckerberg's Meta AI models to Google Cloud with a special message - Business Today",
+        "Policy & Regulation: Meta, TikTok Join Google to Oppose Indonesia’s AI Copyright Law Plan - Analytics Insight"
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "Meta Brings Its Muse AI Models to Google Cloud Beyond Gemini - TelecomTalk",
+          "summary": "Meta Brings Its Muse AI Models to Google Cloud Beyond Gemini TelecomTalk",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81XzBiUEtoMGIyRzZJbVY2ZHhXS0JtNXZmUl9pR0hvSXpTVzdSZVVvR3ZqYXJhRnhZSlJza1hzTjNtT1J4QnI4YmRSRUxNOURJOWhqa2xkOXpLRlZfb0cxNmJrSmxhMGtPSWJCSFM4azhjbmxsMUhUeTgzdG4?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Technology 24h: Meta, TikTok and Google protest AI copyright laws in Indonesia - Laodong.vn",
+          "summary": "Technology 24h: Meta, TikTok and Google protest AI copyright laws in Indonesia Laodong.vn",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZGxQYURXWk0zcDV6WEVNOFNlbXpVTmh3R09YeGRZb21RU0tYSUg1VUJuN0dEZ1k3QTdwekNvQnd3dnpYVGNBT0tpamVUZktvUWZIZnlheFJ2SEZ0RDVBbWI5UFZTNnpwZVBUWjlVZTB0cVNXYnprODFObkVlQU9tYVp0eTlUMzJTeUhkRUM0eWpqeDhRcjl6bGdaSmNJT0JBRmVCZEU2b0xUSzRYUmF4SzNXd3BYNTVYVkNTQkJtSQ?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "AlphaGenome 2: Google DeepMind Model Maps DNA Effects by Cell Type - JournalArta",
+          "summary": "AlphaGenome 2: Google DeepMind Model Maps DNA Effects by Cell Type JournalArta",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZHptY21WdkxSblhQMHM0NkFZb28zcUZoYjMxaUhDWHk3UjhSRTAtWEFVanNrVFR4czZBb3I5bmlacGVPYjA1LTlmd0hrQTl1VlFXY2liell5SzlWQjhRR2Z0cFc1Y0NMNGp0LXpsRmVVWGZLYWg0WUFqbTZWa21YTzYxdi01dTNES1VlZU92Q1ZvYjllUHN5Tm5RWjhTX0hQY0pQM1c1RQ?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Sundar Pichai welcomes Mark Zuckerberg's Meta AI models to Google Cloud with a special message - Business Today",
+          "summary": "Sundar Pichai welcomes Mark Zuckerberg's Meta AI models to Google Cloud with a special message Business Today",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZmZ2bXFFQmpfNzE3aDFadVRrZENjRU5CeUVBbTYwOGNUUUJLR1ZUcXpOQk1oMlc4WWtUMHhzOEVkV3Y0dk5EN25WWFRfRzZMR0daT2JURy1rX0dyZzd2UTBKcUpvQk9DU09QRlJfUDNZOXVBQ1V2ZENENHZJRzFITjdjaTVBR3JrYlJlQ0NkTkdrbWlzTDBXeGZjZWozaXJ1ZjBDc0R1Wm9ySGpZanVMdlR0RW1BUEJ6ejR3MUNVemNnUmlFY1phajl4UzVLdUFtSVl2SktYcEl2VWcxalptaDBuWjlKeExLQ0JxTUV3LTRZWGZm0gH6AUFVX3lxTE1SZ3ZtYnZkSW41blVkOEFZZVBEX0xkU3JYM2hFN2hPZXgzOExHanRwQi1uV1g3TXRfcFRrV05McmRpYWo1ekg4c3JFcVBjZnhfMFl4TGwzbUk1ZkU1cDBCbGtRcXZXWGpRU3BRVURXclc5aFZLYm9vaHNmSUpqVjhIYjVHc19qWGVvbkdvUUhkOHNxX3ZESC1fUUJxUXZSaEpVR3E1WjlQTWR0aXNDVnJSOVdZV3dGdG5zQlk2QVhZSHpVTEZfNXE4b1dkOUNRRmFta1JRTzZxS3Ntb29OTHlwS1FtMXdveWhlbEgxbFlPc0hwNnhlb19hamc?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Meta, TikTok Join Google to Oppose Indonesia’s AI Copyright Law Plan - Analytics Insight",
+          "summary": "Meta, TikTok Join Google to Oppose Indonesia’s AI Copyright Law Plan Analytics Insight",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcjNrQ1ktWDJ5Vy1hakF2ZkZjUkpUZEM4b3ZheG93Z2ZLT1czdGUyR1VtM3d2YlA0Rks3NE9HRWxzdkV5RUxvbnpETTJEZWNNRzVEX3NjVFNBZzAxek00dXR2NlJSVGY1OHZmQVFkMnNNQkUyaWRCdmtQR3JJU3pZYmk2VTNzQm9IVXh3MGh6MkpZSEY1YWoxdlVjMVNsY1BpWXhUUmlkSdIBtAFBVV95cUxPZUF4eEhpcS1hZDRqWlRWblhPbV9maUZRbGxLZmxvVUgwdkI3aHMzOXRSdmN5WlVfMU9yYzdQUWYySUhXNW1PZWR6MTZ5OTRkRGcwVS1Jazh5WGdIZUNqd04wMFpnWEZwcmphbUZsOFI0eWR0R2gzVWNLWUpkMG05X1VtVmxRbVVvVng0NjU0cmxaYjliZHB5ekpVYUVYSGdwWXVBVHBxQ0RSX3UxaHNLWXZKcU0?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Google, Meta And TikTok Oppose Indonesia’s Proposed AI Copyright Law Changes - The 420.in",
+          "summary": "Google, Meta And TikTok Oppose Indonesia’s Proposed AI Copyright Law Changes The 420.in",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORTlOSF8wSXpfLXNzeExKbEc1dWhNQzYwQ0dLNHFuQTNMd1hQb0VmX052dUtDTlBXR2ptZFZ3TndLbmlJc2ZLOGFEWnJuNXk0V25sOVNGQmdpcXlyRjdDZTVpZGxGelBsYWV2R1BvbjlLbXJLWGZhSUloUnVvUE45V3NmOHotYTVGOGZ4RmVQeThrUTRpeE9DZQ?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind launches AlphaGenome 2, AI model predicts gene variants by cell type - TechTimes Vietnam",
+          "summary": "Google DeepMind launches AlphaGenome 2, AI model predicts gene variants by cell type TechTimes Vietnam",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMS1GSENRajhBZC1SWnAzQzJzWEJKMjBSU1Vfd0JDWVVIOTZBaUlUaHVOSGVMT1dfSEgtWWFRbDZoeXNteWMtMmFCQTRxRlQ0T3JpdzR4MTZZUkZzcF81cmVyT2YyczRsU3duTUNTRWR1SzdsODBVSXlJelVYWXpFX0gxUjFDRk90TXVuSGFDNldwUEVGYTNWSVI2ZGlfd1BiZ3RScHBsUjlLaWhhYUE?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model - SiliconANGLE",
+          "summary": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model SiliconANGLE",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRWk4aHJ6dlBrb2g2aVVXMXpGSFZ1TUVod3lfS3ExYndhY2NIUDZIbGw4MHhFYzJqSGlSa19xREZEdXM2Y3Jya05lMzFzTEdsbEZ6djV4b3JLNW9oQk10a05rVnZlQ2tsV0s5S2xDdUxyM3I4TGNuZ3FUWTh3LVVDa0JzR0tQNFoxNzBDRVg2RHNCdGNFbXJtWnY3NVlYN1NMaTNFaS1Cak93SHEyNG1iYzRqZkFCUnlhczhXNjVrVUtqRmc3Ql9BS2tfakd4aWs?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Meta Brings Its Muse AI Models to Google Cloud Beyond Gemini - TelecomTalk",
+        "Technology 24h: Meta, TikTok and Google protest AI copyright laws in Indonesia - Laodong.vn",
+        "AlphaGenome 2: Google DeepMind Model Maps DNA Effects by Cell Type - JournalArta",
+        "Sundar Pichai welcomes Mark Zuckerberg's Meta AI models to Google Cloud with a special message - Business Today",
+        "Meta, TikTok Join Google to Oppose Indonesia’s AI Copyright Law Plan - Analytics Insight",
+        "Google, Meta And TikTok Oppose Indonesia’s Proposed AI Copyright Law Changes - The 420.in",
+        "Google DeepMind launches AlphaGenome 2, AI model predicts gene variants by cell type - TechTimes Vietnam",
+        "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model - SiliconANGLE"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: From Wearable Agent To Heavy Coding: Top AI Releases From Meta, Google, OpenAI, And Anthropic - ETV Bharat",
@@ -2404,86 +2484,6 @@
         "Meta Catches Up to OpenAI and Anthropic, Unveils New AI Model 'Muse Wonder' - news.sbs.co.kr",
         "Meta rolls out new frontier AI models to rival Anthropic and OpenAI - Washington Examiner",
         "Meta unveils frontier AI models Muse Wonder, takes aim at Anthropic and OpenAI - 디지털투데이"
-      ]
-    },
-    {
-      "date": "2026-10-12",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "Policy & Regulation: AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer - NDTV Profit",
-        "Industry & Funding: Nvidia, Microsoft, Google Expand AI Push, But OpenAI Revenue Gap Raises Questions This Week - Stocktwits",
-        "Research & Open Source: Biohub, Google DeepMind, and Meta expands $1.8 billion effort to build virtual cells for disease research - EdTech Innovation Hub",
-        "Models & Products: Google DeepMind's Thor Schaeff: Native Audio Models Will Replace Cascading Voice Agents - BigGo Finance",
-        "AI Companies: Microsoft, Meta, Google AI Capex Hits $725B [2026] - https://tech-insider.org/"
-      ],
-      "stories": [
-        {
-          "category": "Policy & Regulation",
-          "title": "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer - NDTV Profit",
-          "summary": "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer NDTV Profit",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV242dFNfSVJ4UXZpcVU4MWxwT1phNzc2czRxeThEQ2FVcTJXbXh3YVVRTmhGLVhTbjZ0UjVYVzJrenZveEhEU2FnVFdiUE1QYjdXWGhwY3VEaF9tOHc2MG12WnRoQVBLNmtUX3ZZZ1Vxdkh2UjY1X04zVG1QVGFjZ0gtRG14MGVDSWcxRUxjaDhaN1EtYUFfOTRmcUdXVWk3MVBaOU96eGd2SGtVNkYtZW9MUUlxZEhIMFVObjhBbmc1TjVZdWNPcHZhZFJmR05TWDRBS29oYlpqdWpuQkZHcnMxX1J6VDJaMmFqeTM5c9IB9wFBVV95cUxQWlNfbFJWSHItaFhtUXRsWUY1Uml6dlBjMGhsT0hQRHZqNldoU0VKOVVMZ1dfQ0hhVnVLaEIxLWxIdUc0RkN1aEw3QUUzaHE4a3hkdVlBVFo2bVd1OEdmd19PT002eU5XUmpMZFBldW5PZXJBWmxCTlM5clZqRklaNUpTdFUxZEJlaXdlLVRaYVVsQkE0TlFxOGNaWVNXeVJzc1hjOTZIcTB3TXBvRmlsZXdMSVBzNnhaN1JHUWd5S2hZaTZERTJxMjZVTXQxbnFMMEF3cmI4akVSZ0JIczdQNXRoS2JYU1I2TDNfMm1OX1dYTzVyVS00?oc=5"
-        },
-        {
-          "category": "Industry & Funding",
-          "title": "Nvidia, Microsoft, Google Expand AI Push, But OpenAI Revenue Gap Raises Questions This Week - Stocktwits",
-          "summary": "Nvidia, Microsoft, Google Expand AI Push, But OpenAI Revenue Gap Raises Questions This Week Stocktwits",
-          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
-          "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbWNVdm1sdUNhMXE3eWpxZTYwMUtTLVRDVjM0SFFDZGZKb1JETUM4cVVCQWVFQUJSMWxlZVNwbjlFdGJBaU9BM212REVRcUFoZ3l2MW52bW1kUHdYRlN4OUx4bDhtMVczRWxKUUZHdlIzZFMtVkhfSS1uSWtGMnh1TloyTXpVUm5jQjlFOVdxYmlya3V5bF83QVBZNlhCYTFiTy1JVy1STXpVWjAxVFNQS1ZhMUwtY055WVRUeVZTMVNWOXRzeTBNNVYwaEh4Zw?oc=5"
-        },
-        {
-          "category": "Research & Open Source",
-          "title": "Biohub, Google DeepMind, and Meta expands $1.8 billion effort to build virtual cells for disease research - EdTech Innovation Hub",
-          "summary": "Biohub, Google DeepMind, and Meta expands $1.8 billion effort to build virtual cells for disease research EdTech Innovation Hub",
-          "whyItMatters": "Research and open-source work often signals where the next product wave or safety debate will move.",
-          "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbEdOOTZQX3Z3MnI1bVBSemJuZGZoSGp3UUtTZ3BFdjNManFHVjBCazZrV2Z6MWJzVGhVOGVyektkR3kyR3BXTnBiVVd2NnQ3OTFQNWNJeEdpeVdaVDdnbHJ1STFwWWxTQWpvWnlMZ0FTVjB1c0g0UlA1cXEwUDhESGhoOFl5eC0tYlhzNjZ1NzdWbHJ2VGEtS0paN0kxeFhwT2RjclFXb2Y2VHR6SVFyTFpsR2djbnFS?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Google DeepMind's Thor Schaeff: Native Audio Models Will Replace Cascading Voice Agents - BigGo Finance",
-          "summary": "Google DeepMind's Thor Schaeff: Native Audio Models Will Replace Cascading Voice Agents BigGo Finance",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xWDJwT2s0MDlOQmtnMENDb3g1OUVFLTg0UURvQnFwMXJfX1drWFY0bHNySzhfVVhhdnhsb2hibEtVTjJFSjFJQ3RubUNOT2ZtZXEyaS0xLVYzZUU?oc=5"
-        },
-        {
-          "category": "AI Companies",
-          "title": "Microsoft, Meta, Google AI Capex Hits $725B [2026] - https://tech-insider.org/",
-          "summary": "Microsoft, Meta, Google AI Capex Hits $725B [2026] https://tech-insider.org/",
-          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
-          "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UZ2FEbjdRdE5iUDVlYWRtUkFSanFnUU00WEdfZ1NDM3RMRDBOaG4tV0g0NThrZm04VjNfUE1mMFZLMG85MkdONERNdWxpRW5LWWlrSzF6MlV0dGdXTnM0U2oycmY1Vk5vcmY0cFAzQ1Fkd3dBbk13TENNems3Zw?oc=5"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "Can AI Drive Humanity To Extinction? Google DeepMind's Lila Ibrahim On Risks And Safeguards - NDTV Profit",
-          "summary": "Google News: frontier labs reported this AI-related development within the latest monitoring window.",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUHB4MElZRzYxTWhkclN4QWdqSDdKbWl0NXhmM01WSVp2Z2VRNzRGM1FLU3o5VTVZVFoxbVBqRHdjQl92WHlXTHc3WTdpdVNFc1VyNzBVUXQ0UDVoVGEwVWVheE1waUxnUjlyNEhta1B6ZzZob19TaFc0WWU2Rkw0WDJRd2YzdFhYVElKeG10SjFldW1MOHhyY0NHeVIxQVpSVVhwZmExSmRpMFplZGk0YzV6YmFTRTJ2VnlkOWotcVVBYTE1M1lMX0NaZnlJM2p0Sm1uSGFxTHhkVVVfLXlvUtIB6AFBVV95cUxNc0dUVmFvTm5GUHZPVUFTX0w1OWEtMUczU05lUG9oZmRzckZDdWI4MmFiOURmYW1qY04zVEgzMVJ0a3c0WkxoTXdxdzE2YmFiMWV0emRMb3AydWo3ak1haW9CX0V3a3cyZGdIUnpkVnpXTXZINmx0YXVQaFVoS1hSV25qRU40LUJsVHNGQWxnTzBKTXE1T3FxU08xMU9BWk5Ta29WRTRoX1dYXzQ3cTRQejJrdG9YTlZPQmdqLW4xTlJ2WWpFM21yVnJNYjdCYjVDT1dGbkhMYVZEOWt3OExPeWs0QUIyWmc1?oc=5"
-        },
-        {
-          "category": "AI Companies",
-          "title": "How OpenAI's Dots differs from Meta's Muse - 디지털투데이",
-          "summary": "How OpenAI's Dots differs from Meta's Muse 디지털투데이",
-          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
-          "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbzJYVzNlLUZtektudGF2SFdqa3J2VXZCaFpEUndlTVZTVDlkbzlYbmVtaUt1OFRsbmZ4UHFxMVM4TU5HWTJtU1dxdG04VTE5Mi1aWWZkNGVzOEZHQkZFZjFVUi01R3AwMHRGQTlIZ09vd2ZRbU1fUWhsdG53QTZxM0Fzd19Dd0p6ZHNXZGxYVQ?oc=5"
-        },
-        {
-          "category": "AI Companies",
-          "title": "Naver expands Naver Map navigation to AI glasses in tie-up with Meta, Google and Samsung - 디지털투데이",
-          "summary": "Naver expands Naver Map navigation to AI glasses in tie-up with Meta, Google and Samsung 디지털투데이",
-          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
-          "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORmxHeXpfNm04M1BCdHZEWFlxUDJ4UjNWNzRXeDZJOWJUNkZSbkZydEtZek1ReDZrRVJxTGpNYnE4cGVKS1lRMVQ3UWQxZTVTcC1XdE14aTV0ZUowNkRwQWp1dG1lNUFNRWN3R21XVzByQUFWNkVjNHh4NzhuM2p6MEFlQzcyOXlpNlRJcHBsUmpOYW5lRjhXVFBKNUdJRmR4MlUxNHY2T2lMc2lnb2s5NUxkeWo4WDZkR0xXTXR5MXlCUmo4VHc4Rw?oc=5"
-        }
-      ],
-      "discordShort": [
-        "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer - NDTV Profit",
-        "Nvidia, Microsoft, Google Expand AI Push, But OpenAI Revenue Gap Raises Questions This Week - Stocktwits",
-        "Biohub, Google DeepMind, and Meta expands $1.8 billion effort to build virtual cells for disease research - EdTech Innovation Hub",
-        "Google DeepMind's Thor Schaeff: Native Audio Models Will Replace Cascading Voice Agents - BigGo Finance",
-        "Microsoft, Meta, Google AI Capex Hits $725B [2026] - https://tech-insider.org/",
-        "Can AI Drive Humanity To Extinction? Google DeepMind's Lila Ibrahim On Risks And Safeguards - NDTV Profit",
-        "How OpenAI's Dots differs from Meta's Muse - 디지털투데이",
-        "Naver expands Naver Map navigation to AI glasses in tie-up with Meta, Google and Samsung - 디지털투데이"
       ]
     }
   ]
