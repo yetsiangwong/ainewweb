@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-11-13T12:26:45+08:00"
+    "lastUpdated": "2026-11-14T12:22:46+08:00"
   },
   "issues": [
     {
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Risk, Safety & Copyright: Nonprofits Sue OpenAI, Anthropic, Meta, Google and SpaceX Over Advanced AI Risks - Tekedia",
+        "Risk, Safety & Copyright: Nonprofits sue OpenAI, Anthropic, Meta and Google over advanced AI risks - Adgully",
+        "Policy & Regulation: Coalition of Nonprofits Files Landmark Lawsuit to Stop Development of Advanced AI Systems at Anthropic, Google, Meta, OpenAI, and SpaceXSI that Proliferate Bioweapons and Cyberattacks - Benton Institute for Broadband & Society",
+        "Policy & Regulation: OpenAI, Google and Anthropic Face Lawsuit Seeking Freeze on More Powerful AI - fish4news.co.uk",
+        "Industry & Funding: LMSYS Org Forms SGLang Consortium with NVIDIA, AMD, Google and Meta - HPCwire"
+      ],
+      "stories": [
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "Nonprofits Sue OpenAI, Anthropic, Meta, Google and SpaceX Over Advanced AI Risks - Tekedia",
+          "summary": "Nonprofits Sue OpenAI, Anthropic, Meta, Google and SpaceX Over Advanced AI Risks Tekedia",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVXFyVExOY0RvOHdsdWc4TXVhOEFCMXhaMDY5OU93MTA3dXgzejA4N0pJcklIWUpLaWFQQ0s3Ny1ja2ZFc1Y4RmFfdFZYWHljZlJoeVdETDdlWXZaRThPc19qM2dhOGE1X2RQQ0hrdnF5UE9zVHVLbVlzUWlzNlVQZU1HemFOVE5EMDVhZ1BtLTZyU0FyOG9WUnpiTFZmYk55ZENPSA?oc=5"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "Nonprofits sue OpenAI, Anthropic, Meta and Google over advanced AI risks - Adgully",
+          "summary": "Nonprofits sue OpenAI, Anthropic, Meta and Google over advanced AI risks Adgully",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObl93RWlEMG1hRnZ2UjVURER3TFJBeG9BSEZ1TV9vMU90UGJBNXR2UXg4NS1DSkxhUjhCY1d3ZzE4bGJpWG9KMVJJMm0wN3B0cHJHaEJFQTNDWmZJMVBhQV9xWXBDV2RSWU9FSzdiMzZKbUl0b18xSTgzZUpscWxreEFSUUFfS3NOdHdvUFp6M1B6MHA2dEhfQzVJa2JCZUF1NE40SUVodEQ?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Coalition of Nonprofits Files Landmark Lawsuit to Stop Development of Advanced AI Systems at Anthropic, Google, Meta, OpenAI, and SpaceXSI that Proliferate Bioweapons and Cyberattacks - Benton Institute for Broadband & Society",
+          "summary": "Coalition of Nonprofits Files Landmark Lawsuit to Stop Development of Advanced AI Systems at Anthropic, Google, Meta, OpenAI, and SpaceXSI that Proliferate Bioweapons and Cyberattacks Benton Institute for Broadband & Society",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOXhwS0l6UmdZbzNOLXdkbllBQWZIbGNkaXpRMlBNNzZYWjd4dU5UbW5VYk1KWnJZMEVhbmMzNWRuOEJ5aWVsNF9qQk9kOVJpOVhkZFBPelBpZVNJQ2RqZWZESDRQRXZsU2FtdmJqZlkzb1FxaTRTWW1sdm11Y3Fwck9BUGlPWkduMlI4eWJlUXpwTHZHb2gyM0IwR1d3UnBiQzZXX3VZWGdLTWEwc1NKUXF5dmU5NWduT1o1UF9FcXc?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "OpenAI, Google and Anthropic Face Lawsuit Seeking Freeze on More Powerful AI - fish4news.co.uk",
+          "summary": "OpenAI, Google and Anthropic Face Lawsuit Seeking Freeze on More Powerful AI fish4news.co.uk",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa2Z2R3RhSHV1RXdaVlBGNDFUUnlJOVRtN29jUUVvRkJGSndVUHlWUWRfaWJqTktMWE1vaGpWSmZ5Z2Zid09EWG9MbEdpY1BQLUY2N3F2Y0drd3ZXaUNKUVk4Z2Ytc1F2cy1RczhsVkhQR2Q4RDk2ZU5MUmdnVlJnQU9PVVNaYVJhOHc?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "LMSYS Org Forms SGLang Consortium with NVIDIA, AMD, Google and Meta - HPCwire",
+          "summary": "LMSYS Org Forms SGLang Consortium with NVIDIA, AMD, Google and Meta HPCwire",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTjFqZ0Z2T1otQ0huUWtTZDRPVWhUZUJjdVI3Y1JkVm5hQ2IyZkEtUVJPNC1uaW11cFMxZTZLRzE4dDY3QU9EU05LVEkwRW51cC1ObEZIMWE2UWJYMDZ4enk0T0l0SXEycjU3RHJkYV9sbXNOTVlmdXEwRmMydmVMWTEzMW1WaXd4cDExalJNMlRGc1FjUkl4bjMxMHA5QU9NRDl1UUN3cTByUV9Y?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "OpenAI, Google, Anthropic Face Lawsuit Seeking Halt to Advanced AI Development - The 420.in",
+          "summary": "OpenAI, Google, Anthropic Face Lawsuit Seeking Halt to Advanced AI Development The 420.in",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43N3pWQzcxc2RBcVctYW1qb1BxWEZ3czRteV9keTF4SkZZemx4RmlNV3pOb3lfWk1QQ3pXZzdZbmdJYjJab3FWQWwzZFhWRW9JWWZLNDZtdUdvZTFLcThCbklEVHNMWFVIdnFSdmw3dw?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Google, Meta, TikTok Oppose Indonesia’s AI Copyright Bill - TechRepublic",
+          "summary": "Google, Meta, TikTok Oppose Indonesia’s AI Copyright Bill TechRepublic",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOHJDTDVUN1lvMGVfOTRSQWdheDBtX191T0RUV2tTRGV4Z0R3U25oU1FoWmFXUUlrQVcxUlFRRGNRZjBtdURla05Sa3ZHZ3RrUnV0cGJTcmJENi1hUTBaaXRRSUdtandQa25SallHaEdRa0V1N1JJc2RQOG9hS0p5Wi1zZHJtU2FfWS1QekVOeXVpYjg?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind Releases PARDIG and SatWeave Datasets for Weather Modeling - Blockchain News",
+          "summary": "Google DeepMind Releases PARDIG and SatWeave Datasets for Weather Modeling Blockchain News",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03RnFKa0pUdzBjMnR5Sm1vNWdLUWZudTNVODZoM3lYamNaR0xfLWxfSlV4My1yVngtOUZqUHJqaWJWaWE1ZUVhdFJjT1BMS0ZMazYydVMtblVRd0Npa2JCbW8zXzNiTmVEWGM3RFY5aW90bnY5bWlxTQ?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Nonprofits Sue OpenAI, Anthropic, Meta, Google and SpaceX Over Advanced AI Risks - Tekedia",
+        "Nonprofits sue OpenAI, Anthropic, Meta and Google over advanced AI risks - Adgully",
+        "Coalition of Nonprofits Files Landmark Lawsuit to Stop Development of Advanced AI Systems at Anthropic, Google, Meta, OpenAI, and SpaceXSI that Proliferate Bioweapons and Cyberattacks - Benton Institute for Broadband & Society",
+        "OpenAI, Google and Anthropic Face Lawsuit Seeking Freeze on More Powerful AI - fish4news.co.uk",
+        "LMSYS Org Forms SGLang Consortium with NVIDIA, AMD, Google and Meta - HPCwire",
+        "OpenAI, Google, Anthropic Face Lawsuit Seeking Halt to Advanced AI Development - The 420.in",
+        "Google, Meta, TikTok Oppose Indonesia’s AI Copyright Bill - TechRepublic",
+        "Google DeepMind Releases PARDIG and SatWeave Datasets for Weather Modeling - Blockchain News"
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "AI Companies: Nonprofits sue OpenAI, Google, Anthropic, Meta and SpaceX's AI unit to freeze frontier AI development - MLQ.ai",
@@ -2404,86 +2484,6 @@
         "Google DeepMind and Google Cloud open frontier AI models to 200 European researchers - news.lavx.hu",
         "Google DeepMind, Google Cloud to give European researchers access to AI models (GOOG:NASDAQ) - Seeking Alpha",
         "Meta, Google, and Microsoft Intensify Race for $4.8 Trillion Global AI Market - TipRanks"
-      ]
-    },
-    {
-      "date": "2026-10-14",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "Policy & Regulation: Pressed by UK lawmakers, Anthropic, Google, Meta, OpenAI differ on AI regulation - MLex",
-        "Models & Products: Meta Bets on Wonder AI Models to Challenge OpenAI, Anthropic and Google - digital terminal",
-        "Models & Products: Meta's Muse AI Models Challenge OpenAI, Anthropic - 조선일보",
-        "Models & Products: Meta Introduces New Muse AI Models to Compete With OpenAI and Google - TechJuice",
-        "Models & Products: Meta Steps Up AI Rivalry with Openai, Anthropic With New Models - تسنیم"
-      ],
-      "stories": [
-        {
-          "category": "Policy & Regulation",
-          "title": "Pressed by UK lawmakers, Anthropic, Google, Meta, OpenAI differ on AI regulation - MLex",
-          "summary": "Pressed by UK lawmakers, Anthropic, Google, Meta, OpenAI differ on AI regulation MLex",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa284dU1vUzR1VVNHanJZX1QwRllWcVlWWmNLUWw2M3RFbVNOOXhMU3ZmTmNpa3hRV254QTgxbVV1S1NXb0xCcTFmRlRXNUJVVVowNWhzZzlxOXU4bnctNzc5UU5TQjlmTmdXT0NKU0VSR1hfMVAtNlZJeW15alBQUjlIcWtETjRwN1Fra2hCVWsyV3J0U2stSzZWNTBEeFBXSmdhdEV0M0UyQjFmRzNiMXlTR29WRXl6M3RF0gFaQVVfeXFMUDdXb1BsWVlaZHpDMlBDbXF2U0ZRVWpwbUZTeEtDa0NmRmtmakRlbEI1X1k4S3lqRUh6YlFTTDRDVDhWTWhDT1lFMmE3dGdjc3huLVgxQ1NCZ2xR?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Meta Bets on Wonder AI Models to Challenge OpenAI, Anthropic and Google - digital terminal",
-          "summary": "Meta Bets on Wonder AI Models to Challenge OpenAI, Anthropic and Google digital terminal",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWhGRmM2Z2I2aDFscUFRRk9pV1ZsVm81dERKXzBFWi1hcTZGU21ia1NkeEVFaGxuTXptdDJneG8xTVNhdnV4S2lRTGZ2bWVrZmdSQzM0NEtyMnlnX1NiWEgtODVtN2dlQTdrR3ZrZmlXa1paUUowdXpCVmhLUE15Qm0tbkpvMGg3TGtNLUZnSHVPVkU5TVpROVBDeWNuWXNVU01HNzV5dGwtZ9IBtwFBVV95cUxObUptZldqOWszbUFPaXhCMzg0b1pKSkZ3VUZ5eElHZVFydGJOcGtlSGRnalhhbnA4c3hnbGJteFFzSjNoSlBfdGljVXllU2RLUnMyZzhXMkhjSEI1dDlKaGVoMnA2VktacnhKTXhudkpCRU92YkM3aWxhRlQwbkFVb1hEWDZiZGV3aHhmYzZydXlIX3AtUUdnNG1kbi1HdTJ6ZlBodEZUZEJyLXlKdGN4RFBnOVhRakE?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Meta's Muse AI Models Challenge OpenAI, Anthropic - 조선일보",
-          "summary": "Meta's Muse AI Models Challenge OpenAI, Anthropic 조선일보",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM0lhNWpJV29LUVBwSDF4aEdvcDNxczI4SmNUT2hmRy14UEFuazZhdG53UUlUWmdKSlhBcDQ1WC14UURtNHRUdW5wWDY1MTFuOVlEV21seTl4S2pfZE0yTlBHTDVUc2JrdWxFZTF0NWRJWEpHZ3F6Um5CMThrNXpJcV9oaWV0dGJ5?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Meta Introduces New Muse AI Models to Compete With OpenAI and Google - TechJuice",
-          "summary": "Meta Introduces New Muse AI Models to Compete With OpenAI and Google TechJuice",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTWVJTW01NUM5UXF4SndVUHhmVktNYmRkLXFISkJVM0NRbDlZUUUtVEtEajRRWGl6QmFCSExDd3paakl1ZlZDbjF0U1ZiU0hYaDRRUmVsUVJ0aU9iaF9WS2NRZUFzZXB6cFNBOEhuWDA5V1NkOHFnMWVKcGMtR3h2RXl5U1A3eXhPV1dWU3F5ZHZJZTk3U2dKWjNR?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Meta Steps Up AI Rivalry with Openai, Anthropic With New Models - تسنیم",
-          "summary": "Meta Steps Up AI Rivalry with Openai, Anthropic With New Models تسنیم",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkI0a203TGYzT2tLM3VtMG9QYVZEQzR0cTMybDM2Y0R1WjVtTW1GVllXa2pXNWFKWkQ4WUdiQTR2RFdoSnlmT2FGNldjMk0xWGtwb0R0SU80ZkhhR1l2eV8wVlg3MEJiNk1nS0VqbklpcV9kRlVnU0c3ZzFtYUQwMHhsWXQydzc0a3pQYTJtalRxZ192elc5d0RvczBYamt0bTBNY19PREt0VDR3MFZ5N295bjV2UdIBuwFBVV95cUxOQzY1NGhqMTVsX0FwcDY2bXVHWFNLT2o1VnlidzNuYl82SlY3Zm84N3hfN2UzUm5nZGl5Q052emhyRm9ZcUlUZHlHbTFTLUVWbnE5N016Z3FXeWU5dWRIdF9WRnFDX3NUTHNlZ2p3VUNTbXdfRks1R0JnY09OTFBPU2JLa0lyNnoyazEzeGEtZVdEeFNOcG0wcDl1UDN2dXpNNDNUSm1UaVktWktWblY1WDBwbEFKeC1jakMw?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Meta ships ‘Muse Wonder’, its first frontier models to take on OpenAI, Anthropic - The Tech Portal",
-          "summary": "Meta ships ‘Muse Wonder’, its first frontier models to take on OpenAI, Anthropic The Tech Portal",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb1FIRWljYTdYUHlZUjNoMXhRNExkb1Zzb3dNN3FjUGczZ1lySDVGQmFRZDFQTjJoSEw3ZGhyUHJPRUdTS2ZtQWtxMUM0VWRHYlpuVmZ3V1Nldnk0SEVWTEI1dl84YjRBMGNSdjU0amJDd0J4UExWZFlkdWdjNThoeDNUOUhjZ0hWdzUxdTB2UkRhMjZTMFBMQ0t3UmcwU3h1cGktTnVLMjJwNmRUNHJ0b3RSdzRpODU0bHfSAboBQVVfeXFMT29RSEVpY2E3WFB5WVIzaDF4UTRMZG9Wc293TTdxY1BnM2dZckg1RkJhUWQxUE4yaEhMN2RoclByT0VHU0tmbUFrcTFDNFVkR2JablZmd1dTZXZ5NEhFVkxCNXZfOGI0QTBjUnY1NGpiQ3dCeFBMVmRZZHVnYzU4aHgzVDlIY2dIVnc1MXUwdlJEYTI2UzBQTENLd1JnMFN4dXBpLU51SzIycDZkVDRydG90Unc0aTg1NGx3?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Meta’s New Muse Wonder AI Model Is Closing The Gap to Anthropic and OpenAI - WinBuzzer",
-          "summary": "Meta’s New Muse Wonder AI Model Is Closing The Gap to Anthropic and OpenAI WinBuzzer",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeHNBMFJheDhiWkhoSExiWWQxZE4xdWMtZ3FLM19qR2NPTnBfTmo0WGl0dFBaOUd5ZG81Sk8wajF4WlljaGViM3J2R2NORFc1OGhnQW5rQUVnNVFvdm9vUGtBV2JzMENWMVdhVEJ1YzhZSjNyZi1vMHpNUUhHRWZ3TGhlYnRhTWo4aXRnU0tvNExuSkMx?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic - Axios",
-          "summary": "Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic Axios",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50WlVKQWVQZDJBOUh3M29URVE3aERKWG9CUVNtQjk1eDdKTmN2Sl8wamZQeDRPNEltbU1EelhDWWt5VEtyVFVVUkRJQTJNbWFwcnp1UkVTaU90Vkw4R0pKT0gwN1A1cHZ4Tzg0YkJpVlVZNUJGbnRR?oc=5"
-        }
-      ],
-      "discordShort": [
-        "Pressed by UK lawmakers, Anthropic, Google, Meta, OpenAI differ on AI regulation - MLex",
-        "Meta Bets on Wonder AI Models to Challenge OpenAI, Anthropic and Google - digital terminal",
-        "Meta's Muse AI Models Challenge OpenAI, Anthropic - 조선일보",
-        "Meta Introduces New Muse AI Models to Compete With OpenAI and Google - TechJuice",
-        "Meta Steps Up AI Rivalry with Openai, Anthropic With New Models - تسنیم",
-        "Meta ships ‘Muse Wonder’, its first frontier models to take on OpenAI, Anthropic - The Tech Portal",
-        "Meta’s New Muse Wonder AI Model Is Closing The Gap to Anthropic and OpenAI - WinBuzzer",
-        "Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic - Axios"
       ]
     }
   ]
