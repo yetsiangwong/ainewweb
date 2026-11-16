@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-11-15T12:06:58+08:00"
+    "lastUpdated": "2026-11-16T12:06:19+08:00"
   },
   "issues": [
     {
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "AI Companies: Four nonprofits sue Anthropic, OpenAI, Google, Meta and SpaceX to freeze the most powerful AI - Pasquale Pillitteri",
+        "Policy & Regulation: OpenAI, Google and Anthropic Face AI Model Freeze Lawsuit - Cointribune",
+        "Research & Open Source: Why AI Research Labs End Up Inside Product Units: Google Brain, Meta FAIR and Microsoft AI Frontiers Explained - FourWeekMBA",
+        "Policy & Regulation: OpenAI, Anthropic, Google and SpaceX Face New Lawsuit Seeking to Freeze AI Development - Hokanews",
+        "Policy & Regulation: OpenAI, Anthropic, Google Face Lawsuit Seeking Freeze on Advanced AI - Analytics Insight"
+      ],
+      "stories": [
+        {
+          "category": "AI Companies",
+          "title": "Four nonprofits sue Anthropic, OpenAI, Google, Meta and SpaceX to freeze the most powerful AI - Pasquale Pillitteri",
+          "summary": "Four nonprofits sue Anthropic, OpenAI, Google, Meta and SpaceX to freeze the most powerful AI Pasquale Pillitteri",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcDdQcllBa0MzY1JPa2VabTFoS09SR090M09qbVIyU3JrTVgwc2gtbTN1eENOR3JNd1FJQ2JydHdvcmIxT0NQemVZYzJOemJmUV9NNGNvUHJUTHRneGh1b18zMGZQNjloZmlLbzJDTFhkUFJwQzhKQTMxSFJ5eG10OFQ3c3QyZS11ckw1R09MVXBfVUNOQUFxMkhjS1JSX2xtUXBFVlNB?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "OpenAI, Google and Anthropic Face AI Model Freeze Lawsuit - Cointribune",
+          "summary": "OpenAI, Google and Anthropic Face AI Model Freeze Lawsuit Cointribune",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeUFhZ2FMMFZNS003Z2dUQVVmTFBaOHdsNTdOTFUtSVdpdWMwSXhUWVoyeHZMYy14RUUxaFNUbXV1TFRwZzZMOEkwQ0Q4Qnd2by1ubnZ2ei01ZDdwUkswdFMxVDQ1VVF2WVo3ZURNa09wZHBNRkRBU0wyYzNVelBfQkUya19kck56aTBqaWp3VTBmdw?oc=5"
+        },
+        {
+          "category": "Research & Open Source",
+          "title": "Why AI Research Labs End Up Inside Product Units: Google Brain, Meta FAIR and Microsoft AI Frontiers Explained - FourWeekMBA",
+          "summary": "Why AI Research Labs End Up Inside Product Units: Google Brain, Meta FAIR and Microsoft AI Frontiers Explained FourWeekMBA",
+          "whyItMatters": "Research and open-source work often signals where the next product wave or safety debate will move.",
+          "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HTjlCT3NsTzVPVEdYMGdPT2hyQnNTaUJ5RlhVSEU2WW5ObVhDX2lKQ1RYSTZXUlRFVy1aWlQtSHJmQ29HZzhGM0RIaTFabGRNU3hXVnBoMW5RX3lGNVYwYjVkTVlfUUxpTHkyOWhuaVk4VGtkeHF5aA?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "OpenAI, Anthropic, Google and SpaceX Face New Lawsuit Seeking to Freeze AI Development - Hokanews",
+          "summary": "OpenAI, Anthropic, Google and SpaceX Face New Lawsuit Seeking to Freeze AI Development Hokanews",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMkhaVjZPRlFsemFETmM4bzRuZmtBbU1OUW1jRnhMcGVMYjhmbWhGRmZhcURXbFVPVDlMOVVoM1dlWkxGbDNRN2hVRFBzd25BSHZfRkFacTRQU1ptZG9mOV9haVg0NUZUSWJLcE02ZjRwdjg1bU1IWm9yM05MVnV3bVp4QQ?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "OpenAI, Anthropic, Google Face Lawsuit Seeking Freeze on Advanced AI - Analytics Insight",
+          "summary": "OpenAI, Anthropic, Google Face Lawsuit Seeking Freeze on Advanced AI Analytics Insight",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaC1BYUcyT09ncTZia09rVUF6WE9nNlZPMVlBYU1FNnZWSnJNdXAxeUtNcnhER05zMERQcUNSRTBURGhaT0RTOFpiTFpGTEpmMW8tem9kSXh2WnBRSjM4N09iZ3FHXzhxYVJuZGJzSlJmUGZ0R3hSQW1EMlhQTUxTQWt1QVY1ajlvS0lwRENMQkItNHo2eUs3enYySUE5a1NaQXhHdk5WRnpldWdqVW1rOTFEd0LSAbQBQVVfeXFMT2gtQWFHMk9PZ3E2YmtPa1VBelhPZzZWTzFZQWFNRTZ2VkpyTXVwMXlLTXJ4REdOczBEUHFDUkUwVERoWk9EUzhaYkxaRkxKZjFvLXpvZEl4dlpwUUozODdPYmdxR184cWFSbmRic0pSZlBmdEd4UkFtRDJYUE1MU0FrdUFWNWo5b0tJcERDTEJCLTR6NnlLN3p2MklBOWtTWkF4R3ZOVkZ6ZXVnalVtazkxRHdC?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google's Answer To Meta’s Muse AI? DeepMind Chief Says Gemini 4 Launch Is Coming 'Much Earlier' - Stocktwits",
+          "summary": "Google News: frontier labs reported this AI-related development within the latest monitoring window.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcXJDc1N3VmNFZlpBQ2ZhREdsemZQaFlLZC1BTnNQX21mR1RuQW5GTDY2NHBwd05USzcyRXZ1QVFuVk1QZmhDcXlaeWEwV3lKbkhpa3NZQzlac2MtbVlQbEVTNVR3RGNudVE5aE1VTUdxUVhraDlZRkhUWVdmSmc3NGRWNzRyLTNHVENuQ1dsTkJtaDFOa0doaXBaUEFkQmE4SHI1V2NiUG1ZQnBWNXhnU0xkeHBUaFp3RTVRZGRHYVdENktwNHBnWFdXbGZLc3paVEJzREN3Q0xuRG9fXzBjSTBBUk9mVWx1VWpOTWxtTGQ3M1dWZnhtWTFMem8?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "COP31: Microsoft, Google, Amazon, Meta and Oracle Face Climate Risks as AI Data Center Spending Surges 75% - GreentechLead",
+          "summary": "COP31: Microsoft, Google, Amazon, Meta and Oracle Face Climate Risks as AI Data Center Spending Surges 75% GreentechLead",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV1R1NXZVVW9hS203M1hYYXlaUWwtV3RRLXRJcWhiUGltMlBvLVBudGwzUTZBVFFieThpUFBvSFBTSGJtT29lYm01Ul9JNU1aUDI5TFdLUjVTcGZ4a0UyVE9fTlVGUEVBa3B4aVE2N1pkMVNhWGNBdlo0UlZRbUxFRHY4YjRUd0RHLV9kMHBUR19oNWlJRGJVN1o4VUw3OTlTY3FhNnJsNmlqaFp1Mjk0OTM2MjJVeG5ZUFBsNllHTUw0OFpteWJLbVdnRGcwNEd1UnQtNW9YSzE?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Anthropic IPO carries link to metals markets - Construction & Demolition Recycling",
+          "summary": "Anthropic IPO carries link to metals markets Construction & Demolition Recycling",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTRXVVNzRjZ4dDV3OXpWN1JWeHZSUV8wa21kMHl4TWktZ0hfTFo2blpLbzZodi1IMWd6QjdzemJhZC04VG5nSVBzYjZ1YkNMOE1QdXp1MEZ0MjBBS1J1WlZiLVp4OWJDc0JSYV9oYk01M1hLS0VHYlF0WWhKU0JrVFE4MkpWbFdIN3RLYmo5U0IxZWdaQng0?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Four nonprofits sue Anthropic, OpenAI, Google, Meta and SpaceX to freeze the most powerful AI - Pasquale Pillitteri",
+        "OpenAI, Google and Anthropic Face AI Model Freeze Lawsuit - Cointribune",
+        "Why AI Research Labs End Up Inside Product Units: Google Brain, Meta FAIR and Microsoft AI Frontiers Explained - FourWeekMBA",
+        "OpenAI, Anthropic, Google and SpaceX Face New Lawsuit Seeking to Freeze AI Development - Hokanews",
+        "OpenAI, Anthropic, Google Face Lawsuit Seeking Freeze on Advanced AI - Analytics Insight",
+        "Google's Answer To Meta’s Muse AI? DeepMind Chief Says Gemini 4 Launch Is Coming 'Much Earlier' - Stocktwits",
+        "COP31: Microsoft, Google, Amazon, Meta and Oracle Face Climate Risks as AI Data Center Spending Surges 75% - GreentechLead",
+        "Anthropic IPO carries link to metals markets - Construction & Demolition Recycling"
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen",
@@ -2404,86 +2484,6 @@
         "PROBE: Learning to Audit Policy Compliance in Tool-Using LLM Agents",
         "Approve What, Exactly? Effect Binding and Trusted Rendering for Agent Step-Up Authorization",
         "When is a better LLM worth paying for? Stochastic Optimization with Switching Mixed-Fidelity Oracles"
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "Policy & Regulation: Meta (NASDAQ: META) Launches Muse Wonder AI Model In Direct Challenge To Anthropic And OpenAI - Foreign Policy Journal",
-        "Models & Products: Meta Introduces New Muse AI Models to Compete With OpenAI and Google - TechJuice",
-        "Policy & Regulation: Open-MMUnlearning: Unifying Methods and Evaluation for MLLM Unlearning",
-        "Risk, Safety & Copyright: FTC subpoenas Anthropic and OpenAI over artificial intelligence safety concerns - www.the-independent.com",
-        "AI Companies: Meta has an AI advantage OpenAI and Anthropic can't replicate - Yahoo Finance"
-      ],
-      "stories": [
-        {
-          "category": "Policy & Regulation",
-          "title": "Meta (NASDAQ: META) Launches Muse Wonder AI Model In Direct Challenge To Anthropic And OpenAI - Foreign Policy Journal",
-          "summary": "Meta (NASDAQ: META) Launches Muse Wonder AI Model In Direct Challenge To Anthropic And OpenAI Foreign Policy Journal",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc0F6Qk9odHhSZDhreFRDLTBrRE12QlVtN2xldUxYcmNvLW90M3NuMVVOdmllVmUyc2VRdm82aXpqVzcwM25XZTQxUEt1VkNTVGRIX2xULU5oeUd0djV5T2lVR1JrN2sxY1U0UXA3SFZPUFE2UlA3TGlSaUZqbzB1bEY1UkZnYzJfd2NKa1R0UjdqZ19zTlZzT1A2dG5rZEZjbHVtdWJfRnAyTU9aNC1lUFVIUnhqMk9OZWl5b0pUdmJyMmlpXzZjS3FYMTR3cERWZ3NOTmFR?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Meta Introduces New Muse AI Models to Compete With OpenAI and Google - TechJuice",
-          "summary": "Meta Introduces New Muse AI Models to Compete With OpenAI and Google TechJuice",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTWVJTW01NUM5UXF4SndVUHhmVktNYmRkLXFISkJVM0NRbDlZUUUtVEtEajRRWGl6QmFCSExDd3paakl1ZlZDbjF0U1ZiU0hYaDRRUmVsUVJ0aU9iaF9WS2NRZUFzZXB6cFNBOEhuWDA5V1NkOHFnMWVKcGMtR3h2RXl5U1A3eXhPV1dWU3F5ZHZJZTk3U2dKWjNR?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "Open-MMUnlearning: Unifying Methods and Evaluation for MLLM Unlearning",
-          "summary": "arXiv:2610.10358v2 Announce Type: replace Abstract: As multimodal large language models (MLLMs) become more capable and widely deployed, concerns about privacy and safety have become increasingly pressing.",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://arxiv.org/abs/2610.10358"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "FTC subpoenas Anthropic and OpenAI over artificial intelligence safety concerns - www.the-independent.com",
-          "summary": "FTC subpoenas Anthropic and OpenAI over artificial intelligence safety concerns www.the-independent.com",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUmQ5bkZBUjlMb3c2R0g3ZHEtZVpfc2lMOGZpcjhaOV85LWUwNXdIS1RwVlNBUUYxVFVDcm1HeWtyc0FpTXJlbUN5Unl2OGdhVjFtanE4Si1FMVg2QXhXV29JWVlhZGhxMVpPc2dzcWlmcmFRLU4ya1lXdllWcWlvbTR2UW9QajB2QXN5anNMR1lOOUx3VHVmVjAtdlE?oc=5"
-        },
-        {
-          "category": "AI Companies",
-          "title": "Meta has an AI advantage OpenAI and Anthropic can't replicate - Yahoo Finance",
-          "summary": "Meta has an AI advantage OpenAI and Anthropic can't replicate Yahoo Finance",
-          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
-          "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkh1U3hwN0V0OWc2SWp1S1Zpa204RldpMm1qUUJ6cGRMT3BuOHhWbGtNbGJla3B6RXZFb3dSZkN4NTE0NTJOYmNoLTVLVnV4RS14Zkx2ZTFUbXR1ckpfQUNDM1gyVmJESTc3ZHd4YnVoNjNpYmtrUWNBYTZEU3JwV0JfQWc1SkM4M1ZMbzBlUDVyQU5PbjVSTndGdHlzOEFTNkctekxTSXlSSG5qNlc4WDR1UmFZNjdCMUg3Zg?oc=5"
-        },
-        {
-          "category": "AI Companies",
-          "title": "Microsoft, Meta And Google Just Silenced AI Spending Critics In One Earnings Night As Big Tech Capex Swells To $725B - Stocktwits",
-          "summary": "Microsoft, Meta And Google Just Silenced AI Spending Critics In One Earnings Night As Big Tech Capex Swells To $725B Stocktwits",
-          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
-          "source": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQ2ZDQkRWWGZaNVdBV1UwS0FEY0RvVVJqUFUxNXd2eHpWM1haeXltLUNpaXB2TW5kcHlJRFo0WFNOQWZFaGNDZ2p3WlcwZjhPVndrYkQwWVAxR0tVVnotaFdDNnZHT1IxZ1BJVHJXZXFpVG5ROUlMcGZoR29iczhkOGM4VG9UMEVWWHJoUEY5TlBCN0RiTEotLTFWNVdFZHZpUmVBOHBuYWVaN0xYMEJzSkgtSno4WHhuc2x4TmpMUkV5bHJDaTNqVHFKalBIMl9pZ01MSjF2a0hpczUtYjMxUHk1OGt0VUxxbHRuaHZ3Nkt4ekRLTl9YZzVQX04wYjFUS25wLUZwWUJwTFU?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "Visualizing the World Model in an Agent's Value Function",
-          "summary": "arXiv:2610.14186v1 Announce Type: new Abstract: Could model-free reinforcement learning algorithms actually be learning a model of the environment?",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://arxiv.org/abs/2610.14186"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "CUSE: Fine-Grained Multimodal Unlearning with Counterfactual Guidance and On-Policy Self-Distillation",
-          "summary": "arXiv:2610.14763v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) can reproduce sensitive, copyrighted, or unsafe information from their training data.",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://arxiv.org/abs/2610.14763"
-        }
-      ],
-      "discordShort": [
-        "Meta (NASDAQ: META) Launches Muse Wonder AI Model In Direct Challenge To Anthropic And OpenAI - Foreign Policy Journal",
-        "Meta Introduces New Muse AI Models to Compete With OpenAI and Google - TechJuice",
-        "Open-MMUnlearning: Unifying Methods and Evaluation for MLLM Unlearning",
-        "FTC subpoenas Anthropic and OpenAI over artificial intelligence safety concerns - www.the-independent.com",
-        "Meta has an AI advantage OpenAI and Anthropic can't replicate - Yahoo Finance",
-        "Microsoft, Meta And Google Just Silenced AI Spending Critics In One Earnings Night As Big Tech Capex Swells To $725B - Stocktwits",
-        "Visualizing the World Model in an Agent's Value Function",
-        "CUSE: Fine-Grained Multimodal Unlearning with Counterfactual Guidance and On-Policy Self-Distillation"
       ]
     }
   ]
