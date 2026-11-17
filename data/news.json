@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-11-16T12:06:19+08:00"
+    "lastUpdated": "2026-11-17T13:55:41+08:00"
   },
   "issues": [
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "AI Companies: Nonprofits sue OpenAI, Anthropic, Google, Meta and SpaceX to freeze frontier AI at today's level - Dealroom",
+        "AI Companies: Anthropic Hires Google DeepMind Strategy Chief, 8 Months In - FourWeekMBA",
+        "Industry & Funding: Bill Ackman sees Amazon, Microsoft, Meta and Google benefiting from AI data center restrictions - Beinsure",
+        "Models & Products: OpenAI will embed safety researchers to investigate AI subversion",
+        "Models & Products: California sues OpenAI over artificial intelligence models - Yahoo"
+      ],
+      "stories": [
+        {
+          "category": "AI Companies",
+          "title": "Nonprofits sue OpenAI, Anthropic, Google, Meta and SpaceX to freeze frontier AI at today's level - Dealroom",
+          "summary": "Nonprofits sue OpenAI, Anthropic, Google, Meta and SpaceX to freeze frontier AI at today's level Dealroom",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbUJVWnRhQ2VRU1pXc3JORWhVOXNKTjRTYjJxS04wVjV5Skp5bWpGU3hwX1lfaEJlZklQSXpxeDU2V3JwWDEwOVltaXY2VnhOTGlnS1BUNHR2c3l4NVU3QTNvd2R0VlBXamFXU2k3aklYdnIxQ01wLVIxNzJ1RV9jcWlFNjE5Vm83c1ZZS095dFB5RC1iVjYtNzBYWVBpRUc0ZGl3R2czM3A1QnM5dkdhMjB6RGt6MXV6Qy1pNnZNZWRySXB2eVE?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Anthropic Hires Google DeepMind Strategy Chief, 8 Months In - FourWeekMBA",
+          "summary": "Anthropic Hires Google DeepMind Strategy Chief, 8 Months In FourWeekMBA",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM2Zwb0hwWkQ1VDVqX0RVT0d5eVZkVE01Q0ZTVzBQZHJ6Snh1ZW1fMDI0VnZUMEctbmliMU5IRkloUlJJOFQ5czAydFJXbDlLemNoVGVmSlVwOGlVaWpzNnhSYkE0Z0YtWDJqb2NvQWJQUkNvTHlHR1pqbTZ2ekFKZmNGOE5XblJsTDBWNHVrdw?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "Bill Ackman sees Amazon, Microsoft, Meta and Google benefiting from AI data center restrictions - Beinsure",
+          "summary": "Bill Ackman sees Amazon, Microsoft, Meta and Google benefiting from AI data center restrictions Beinsure",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaTZnSm1LUWstOHBBa3hydC15YUNFS093aXg0TjFWSm1YVnFyaXRINjU1cUJnT2J1MC1XNnVCdmYxNGN1TG5HTEdUUlNhc0x1WkUwdHZGSGlQaGxIMmozbmUtb1o5SEczNWhvLUxZcVRZZ3JwOEFSR3Q2anBpR3JuQUZVT0ZnYk5HaE5zdy1DaWM?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "OpenAI will embed safety researchers to investigate AI subversion",
+          "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/"
+        },
+        {
+          "category": "Models & Products",
+          "title": "California sues OpenAI over artificial intelligence models - Yahoo",
+          "summary": "California sues OpenAI over artificial intelligence models Yahoo",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFd5a01VR09TclFtU2pUOWUzOGJ2Qzg4MHFIcHZZbENyaFpMcC1GS1ZheTdzQWc2RXJxNXR5ZTdIZTF4RDZHWXh1XzFmdHpMRks5Vi1qWmZtTURseUEyblJzRmY5czA3MERaLXpRVTVyZmN1NFFHc041d1o0VlRLY2tHdDdCTHFVZ3RuMjVucTJPNkM2eC1lZlNlaU41ZVU?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "California Sues OpenAI Over A.I. Safety Issues - The New York Times",
+          "summary": "Google News: AI policy reported this AI-related development within the latest monitoring window.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOem9ndlRta0lVanRIcmJ3Q0VBby14WkZHd3VRanhRNVNjYS1hZTRORHQ3WWhXYmozTDRnQ0o4MTJ4Y1ZNR0RuV0ZDX3Jqc3dHMnVOd1FpM0t3elhoQXdNSWlyS2NXdGZvUm5jMkJNQ3hUWnZieHZpeER5bkJTQVc3UWYxSi0?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "Nvidia joins $110 million funding round for Stanford-founded AI startup Noeri - Crypto Briefing",
+          "summary": "Nvidia joins $110 million funding round for Stanford-founded AI startup Noeri Crypto Briefing",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtc2ttZE5oQ2N6clAzYS1TWTRQSUFoRVoyWi1uQS1EdFJ4TXZ0V2Zwc3ozV3puQ203NlNCeTZCNHJuMDc3SkhwNURDWnhfeDRsWktZeEdsQnd5cV93RUZ4elRIUFVOcUg5dmMwRTZZdkE3eUk1d0E?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Google and Meta Tell Two Different Stories as Search Rebounds - TradingView",
+          "summary": "Google and Meta Tell Two Different Stories as Search Rebounds TradingView",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT0daZTUyY04yMXpxQUVHLUdfakxCd19EYS1uOU54X0h5bDlDWVBPUjBVUmU2bmFKYXRJMUNnejE3RktSNmMxbkhVTTh0QWxremJlRnFFOTYwR00xTC1HdVBMTHN1cEVaOEhmYXhTTmlRWnVPZTJxdlg1Q3kzT2NUclFmQUVpV2h2a3d0ZTBfeWVfbkdWdFVZTHZySG1aUExFNElRS29NQ2g2WnViUUlYcFcxZ3JFdHh2QkUwVWNR?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Nonprofits sue OpenAI, Anthropic, Google, Meta and SpaceX to freeze frontier AI at today's level - Dealroom",
+        "Anthropic Hires Google DeepMind Strategy Chief, 8 Months In - FourWeekMBA",
+        "Bill Ackman sees Amazon, Microsoft, Meta and Google benefiting from AI data center restrictions - Beinsure",
+        "OpenAI will embed safety researchers to investigate AI subversion",
+        "California sues OpenAI over artificial intelligence models - Yahoo",
+        "California Sues OpenAI Over A.I. Safety Issues - The New York Times",
+        "Nvidia joins $110 million funding round for Stanford-founded AI startup Noeri - Crypto Briefing",
+        "Google and Meta Tell Two Different Stories as Search Rebounds - TradingView"
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "AI Companies: Four nonprofits sue Anthropic, OpenAI, Google, Meta and SpaceX to freeze the most powerful AI - Pasquale Pillitteri",
@@ -2404,86 +2484,6 @@
         "Anthropic Quietly Pushes AI Safety Bill That Would Limit Government Power to Block Dangerous Models - Law Commentary",
         "Replit makes OpenAI its default over Anthropic, CEO says",
         "Meta releases Muse Wonder, its first frontier AI model built to rival GPT and Claude - The Daily Star"
-      ]
-    },
-    {
-      "date": "2026-10-17",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "Research & Open Source: Who Actually Gets Paid When Microsoft, Google and Meta Spend $100 Billion on AI Infrastructure? - Coinpaper",
-        "Models & Products: Google DeepMind, GovTech Singapore jointly develop on-device model to flag chat scams - TNGlobal",
-        "AI Companies: Microsoft’s Record Patch, Meta Breach and OpenAI’s Cyber Bid - UC Today",
-        "Models & Products: An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-        "Models & Products: Physical AI is more than robots, says the Nvidia veteran now investing in it"
-      ],
-      "stories": [
-        {
-          "category": "Research & Open Source",
-          "title": "Who Actually Gets Paid When Microsoft, Google and Meta Spend $100 Billion on AI Infrastructure? - Coinpaper",
-          "summary": "Who Actually Gets Paid When Microsoft, Google and Meta Spend $100 Billion on AI Infrastructure?",
-          "whyItMatters": "Research and open-source work often signals where the next product wave or safety debate will move.",
-          "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSERKZDZWVUhGTjNvWUV3OGJycWlaRHJkTk1tX2w2WWliY0pOeWJJUFlHRmxxZUZUR2YwM3VtbHk3emhIekhPLUd1aXFIdS1CUGdXQ09rOVEwckNOenM2ZFcyZmJjLURVWWZwMmJxX21UMEJ1ZlpVQVY5X291WjFSNkNYMlF1bjhwYkVoZ0FCcTFYV3FxYzhjUko3WkJHLXdlRl9TVjhQem93THN5cVl6OUdXNEoyTnllb09jVQ?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Google DeepMind, GovTech Singapore jointly develop on-device model to flag chat scams - TNGlobal",
-          "summary": "Google DeepMind, GovTech Singapore jointly develop on-device model to flag chat scams TNGlobal",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd3NxdjRNQkxlemc3TGE1Q1BadzRkSGZ0VWhHNE9JZkV1Tkd0QzNFdHhRdWJBajlQZFg5amxQUXJqM25WbWd5cm5iRkxwQjltaUNfeFRDdHlxazgyT2QyZWk4TDZZVk4xZWdrZXBObkt1M19aSkVjVEhVSVg5RE1PMnVVV2x5QW1kblBnNWZQRWhoVVFLcmlhRUcwRXp0S0tuTXUyMkNDUVotaGhHOW42clhjZTZFZkdMYy0xeQ?oc=5"
-        },
-        {
-          "category": "AI Companies",
-          "title": "Microsoft’s Record Patch, Meta Breach and OpenAI’s Cyber Bid - UC Today",
-          "summary": "Microsoft’s Record Patch, Meta Breach and OpenAI’s Cyber Bid UC Today",
-          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
-          "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRnVzUm5OUWgtX3lHWGdwSm5GSkxZN1l6M3I5aHVCTGVYQ2xVdDFFdWM3VFd6VUVsLUVnWTBvekp5eG1ZT1g5T3c0eUpJaVZtNFNfTkpqT3VaamVrcHAydndwM0hjSExleDhseEpaaW44UWFwLVFsNzViblFpRGpXWDhfQQ?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "PROBE: Learning to Audit Policy Compliance in Tool-Using LLM Agents",
-          "summary": "arXiv:2610.22124v1 Announce Type: new Abstract: Modern agentic systems extend language models with external tools, enabling them to complete complex tasks through multi-turn interactions.",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://arxiv.org/abs/2610.22124"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "Approve What, Exactly? Effect Binding and Trusted Rendering for Agent Step-Up Authorization",
-          "summary": "arXiv:2610.21063v1 Announce Type: cross Abstract: AI agents now pause for approval before they send money, delete files or email outsiders, and that approval is usually treated as a second factor.",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://arxiv.org/abs/2610.21063"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "When is a better LLM worth paying for? Stochastic Optimization with Switching Mixed-Fidelity Oracles",
-          "summary": "arXiv:2610.21139v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used upstream of decision-making to clean data, detect label errors, and reconstruct missing values.",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://arxiv.org/abs/2610.21139"
-        }
-      ],
-      "discordShort": [
-        "Who Actually Gets Paid When Microsoft, Google and Meta Spend $100 Billion on AI Infrastructure? - Coinpaper",
-        "Google DeepMind, GovTech Singapore jointly develop on-device model to flag chat scams - TNGlobal",
-        "Microsoft’s Record Patch, Meta Breach and OpenAI’s Cyber Bid - UC Today",
-        "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-        "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-        "PROBE: Learning to Audit Policy Compliance in Tool-Using LLM Agents",
-        "Approve What, Exactly? Effect Binding and Trusted Rendering for Agent Step-Up Authorization",
-        "When is a better LLM worth paying for? Stochastic Optimization with Switching Mixed-Fidelity Oracles"
       ]
     }
   ]
