@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-11-20T13:07:45+08:00"
+    "lastUpdated": "2026-11-21T13:00:28+08:00"
   },
   "issues": [
     {
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Policy & Regulation: COPYRIGHT NEWS—Anthropic and Meta self-helped themselves to AI training materials, new lawsuit asserts - VitalLaw.com",
+        "AI Companies: Apple Stock Has a New AI Catalyst -- It Could Take on OpenAI, Meta and Anthropic - TradingView",
+        "Industry & Funding: Anthropic Shares Plunge Over 9% After Record IPO Debut As AI Stocks Slide; Nvidia, Meta, AMD & Intel Face - Free Press Journal",
+        "Models & Products: Apple Is Developing Its Own AI Agent to Compete with Meta, OpenAI, and Anthropic - Mezha",
+        "Models & Products: Apple To Build Proactive AI Agent to Challenge Meta, OpenAI & Google - Free Press Journal"
+      ],
+      "stories": [
+        {
+          "category": "Policy & Regulation",
+          "title": "COPYRIGHT NEWS—Anthropic and Meta self-helped themselves to AI training materials, new lawsuit asserts - VitalLaw.com",
+          "summary": "COPYRIGHT NEWS—Anthropic and Meta self-helped themselves to AI training materials, new lawsuit asserts VitalLaw.com",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOLW9HRlRYZGg3aXBsVEllckNNdEJ5a3BMZXYxeWphaUJranRsTnd2QldMY29xNHI3U2JDZTA1Vy0wVGZZRGZyVkRuaFJWLVBMd1QybEVnU1VBejBIem9QSnJyVWdhOHJrZWxNS0dvVFpmZVoxaGp5aHotUzdHalVwM3pjdXhxckVVemlsUWhzbjd3WnlyLUkzdVlyTS1ka2tYSU9acHFaQVhRZXczOTZaQkQzbUItemZnZmdVdDI0TzRTNUhqemtsNUNMdnBQbDhWRG5aY0hCekRtLUg4ZDFkWV81aE91aHVReWgtVG5WaE1pS0lDVmpUTTFNZ3Zzdw?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Apple Stock Has a New AI Catalyst -- It Could Take on OpenAI, Meta and Anthropic - TradingView",
+          "summary": "Apple Stock Has a New AI Catalyst -- It Could Take on OpenAI, Meta and Anthropic TradingView",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ0FoUkZ3NWgtRTI5dDdoY01tUGZWcldoRzhwenF1ZVVlall4OXh0ZnN6YUxiUjN1NDZyOGw3QUFhNDFJWHJHMEp5Yk1Ed0xGY2FNUGxmTk9HbzhHX0lxMFcxVEJLSmgxOEt2ODloeFJ2TG5vZzU2Sk5rOGJ2M1JmdGE0N1pGRHNDZHV2SWJySHhxNE9VWTRoWFRUNEE1aW9FSDBCUGJRWGxPLWtUa05DVDJJbDVyRFdKZjBFUF8tZDVVcTlXM1BRQWx1TmZ2NDlEdHc?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "Anthropic Shares Plunge Over 9% After Record IPO Debut As AI Stocks Slide; Nvidia, Meta, AMD & Intel Face - Free Press Journal",
+          "summary": "Anthropic Shares Plunge Over 9% After Record IPO Debut As AI Stocks Slide; Nvidia, Meta, AMD & Intel Face Free Press Journal",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQb1NlT0dpOUJCRjNYRXNsZnlLaVVwR1BXTlEwWTVNajQ0dk5WVnFLRHQ1QXRHQkVnc3FOM2RUcjZ0MHVBNG83TTBMQTVacVRObGUzRDNrU0UtejJJS2F0YTN3RWVwNU1HN2h6SmdUOEhYNERuZ3FPSFR3XzRMYVJpaktaN0o5anRKbllJNWtaSmRYeDBWbWNwNXNPcDdzbkVuN2hWdVNzcjM4SjljZTFqYTNzWUdzX2R0SW56ZDFBNUpoYTA4UmdScWZfREhKaXNQMkVmUTdoSkhDSTVIRUgyeEU3QVlPaGFl0gHuAUFVX3lxTE9wX0dnM2t5WF9STnZmdXdUVVFZcTUwYmsyTXhKXzdrekxsaXVMVU0zRnA2NVU2SVVfaUplRnpVdG5iblJySll3bWwxLXctZi1NT1ZCekx6dHlrSFBNVnNadTF6NzQ0N3NDb1NpM0hwQ3hFMzlrVEhzRUtaN002QWNaeHhQelF4TFZibnRNbnd0eHNDdmMwVFRCbW5lWkw5c29TcEN1SXBvRzBzUXBUSjZzYUlad21fMjlmUHp6LTlTV0xRWUIwU0FVZGdLbzFyMGxFUkxQUWF6a2VRTW16cGtiZUxjaWViRTVRSkMybVE?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Apple Is Developing Its Own AI Agent to Compete with Meta, OpenAI, and Anthropic - Mezha",
+          "summary": "Apple Is Developing Its Own AI Agent to Compete with Meta, OpenAI, and Anthropic Mezha",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtaXVIbnNGVkZKSkJ4V2dobXg5Qzdmc3RNVXUwSG9WY2xYQmVxLWIyX3NmcFo3cFJuZ3FCQnBSOVdSZFRqMktjVy1qNk9QZmtLMmVtLWpIejZCZTRrU0tzdV9oSW53UFdRMm1JNU9pR0JaQ0XSAXNBVV95cUxQLWl1SG5zRlZGSkpCeFdnaG14OUM3ZnN0TVV1MEhvVmNsWEJlcS1iMl9zZnBaN3BSbmdxQkJwUjlXUmRUajJLY1ctajZPUGZrSzJlbS1qSHo2QmU0a1NLc3VfaElud1BXUTJtSTVPaUdCWkNF?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Apple To Build Proactive AI Agent to Challenge Meta, OpenAI & Google - Free Press Journal",
+          "summary": "Apple To Build Proactive AI Agent to Challenge Meta, OpenAI & Google Free Press Journal",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUU12enBOa3dEQTRxVWlONlJmYmg3dlV5UmZZNU13UkhsNDd2Yk8ybXVMZUY0V1Nvai1NZ3VxMEhwSnpJSkltLUZfN053YXRWT2tzVzN6NUQydl90RU1XRzRjcmZqY3dnbzJTNkN1ZV9UT0t5YkJGYjVLNm13UlNoWkk0RjNLeVpaaXVHbTI1UXMzVHdOdnFsc3pIR1J5WUhFMmhUd9IBqgFBVV95cUxNaERtaWI0N3NpTXByTGRHbFhUV1psbUNBY0dXbDM4X2RsTWRzMDhuNjBEZGJsYlJJekJwTFBoNGY3TFd0eG95R0dEaklPWDIzUmZuR2ZwWkdGbVdpaDFjdkZFN2U2Qm5WTWhnOVJXMnJyV0FsVTRQQWdrVnFzYV9FR2hCR3BFdjBMaHBOREpPT0lUenhDZEFZa1JyeHplYjZnRDYtanluYmFpUQ?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Signal to Restrict Screenshots to Block AI Agents, Urges Regulation on Apple, Google and Microsoft - BigGo Finance",
+          "summary": "Signal to Restrict Screenshots to Block AI Agents, Urges Regulation on Apple, Google and Microsoft BigGo Finance",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVVVZFZzRzOGM5SF9CbGZoWjVSYUh6MHlFeURhWGFFeXpaWG92MW8xbFQ5U2FKUnlMN1RneWZ0VlYwV1duRngyWEpkdVN6V1hyVHN2c211M3NjcUl6SHFaS2h5SEVmR05FS2NVQmhqSW8yR1BPaFE?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Apple’s New AI Agent Could Put It Up Against OpenAI, Meta, and Anthropic - TipRanks",
+          "summary": "Apple’s New AI Agent Could Put It Up Against OpenAI, Meta, and Anthropic TipRanks",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2hpZFBHQWVuUlR5UHFjdThLenlVSUFoLV9NTnhVb2lnR2lEMlVGTDQ4ZmZ3MTdXRXF2aWU3ZkM0b3JBOGJ0OFotNElKVU13NEpVeG14S3ppWVdKdGZOVGR1dTFITHRTckk1eGFOaE4xaHhNX0ljNDM0Rm5GYWZCQXFOcy03aEZxM0hwbV9hUUk5UjdCeVFCR1lJeGYybzJf?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Pentagon standoff, copyright lawsuit to AI safety concerns: 5 controversies that have put Anthropic under - The Times of India",
+          "summary": "Pentagon standoff, copyright lawsuit to AI safety concerns: 5 controversies that have put Anthropic under The Times of India",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOcGFkNEJfdkZUQWFtVXR2MFBpTWtwZUQtT2lOdmpHU0hSVHZSSG5ra0FEMTM0QldCMlZQbFNRZmYtOEJNSUh6UXBNeEtDenVmeF9qaVVwQmsxVDViS2ltTjNKbDhPTmowUzhTVHVWay1QVFRPaXZXdVB6aHFzZFBqM2lwV3VMOEQ4VFJZb2FPb0tKV1FvaFQ5N2lwSDAyTXY4ZU4wQnpQTi1zMldZTFNGYmlSUG5LN1k4cVA2c1VzbEdQQkFIaFpBNGlSd3ZFVHQ2bDdBcXBqckhxQnZkYmdJVnRlUTNZLUwzTVNydmdDc1ljN0JKTjZQMllwQ0pKUTN4WWZZZnJjLVFmcXo1Q2pUeTRDX1NTZUp3eTVEcXFvVWJoWFpEUmc3MXZ5MG4ydWPSAbQCQVVfeXFMTWk4SXZjUUp3a3dDMy1iczJ2bU96TDNjajVHV3E2YlJJbDVOMFJyRUJucEFDSTlPM1RHaVVuRThiY0tsNVZSaG5RdHp5d2k3SDAyb0k1N3dZUFRYaHZKU01ZRm16dG40RkdHMFE2c2RmYWhzRGUyWks5cTQyS1ZYVkpHUmkxeFF1Nzl6NDZJa3B1cEtjbF9jb0FlaWJ1dTV6OHRXX2pNTGtXZnpvcWxiRXQ3ejhsWEFES0NseWRsd3JNNHlydE1XOWdpY3JVNkFsR1oxOWU3MDFqN0JKQkJsMGRveUtxeUw2YWE2RkJBZzhqYUExTVF0NGlIWDRtUWVoQU15TEpRT3J3MnBXNW8wRWNEWWt6cUpxR1E4VHY0d0tzX0wwN2VnSlBTc2hLSEp4STJHaWo?oc=5"
+        }
+      ],
+      "discordShort": [
+        "COPYRIGHT NEWS—Anthropic and Meta self-helped themselves to AI training materials, new lawsuit asserts - VitalLaw.com",
+        "Apple Stock Has a New AI Catalyst -- It Could Take on OpenAI, Meta and Anthropic - TradingView",
+        "Anthropic Shares Plunge Over 9% After Record IPO Debut As AI Stocks Slide; Nvidia, Meta, AMD & Intel Face - Free Press Journal",
+        "Apple Is Developing Its Own AI Agent to Compete with Meta, OpenAI, and Anthropic - Mezha",
+        "Apple To Build Proactive AI Agent to Challenge Meta, OpenAI & Google - Free Press Journal",
+        "Signal to Restrict Screenshots to Block AI Agents, Urges Regulation on Apple, Google and Microsoft - BigGo Finance",
+        "Apple’s New AI Agent Could Put It Up Against OpenAI, Meta, and Anthropic - TipRanks",
+        "Pentagon standoff, copyright lawsuit to AI safety concerns: 5 controversies that have put Anthropic under - The Times of India"
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Policy & Regulation: From Data to Valves: A Self-Learning, Production-Grade Edge Stack for Sustainable HVAC Control",
@@ -2404,86 +2484,6 @@
         "Anthropic Launches Claude Duet AI Agent to Take On Meta and OpenAI - The Tech Buzz",
         "OpenAI vs Google DeepMind: How the AI drug discovery race is shaping up - Digit",
         "Google Cloud, DeepMind, and the EU: A New Model for AI-Driven Science - Cloud Wars"
-      ]
-    },
-    {
-      "date": "2026-10-21",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "Models & Products: Anthropic pitches AI safety bill that may block a model if 50+ people could be killed - TechCrunch",
-        "Models & Products: Rehearsals Launches Human Behavior Bench With Google DeepMind and Kaggle to Measure How Well AI Models Understand Humanity - Fortune",
-        "Industry & Funding: NVIDIA Is Finally “Too Big to Fail.” Here’s Why Meta and Google Aren’t. - TIKR.com",
-        "Policy & Regulation: Canadian News Publishers Sue Anthropic Over AI Copyright Infringement - OECD AI Policy Observatory",
-        "Models & Products: Google DeepMind’s Gemini 4 Argon builds a 3D periodic table synced to a song - Crypto Briefing"
-      ],
-      "stories": [
-        {
-          "category": "Models & Products",
-          "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed - TechCrunch",
-          "summary": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed TechCrunch",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDFyYXc1VXhSNWszSTJjeHpqMzhfNnJyaU44UURVY2tKdl9PdVh1TXRnQ3lrRktDV1VhMEttU25ERGFKaXFKZmlsN0tZZDlGWVhPM0VKMXA1VHZlN0pja1BNSExXUnFTRUtES2xoM3hXdG95MDNSSjFDZTFOck1ZaXlVMDZwMW56VWlRVzVXTzY5TmdrZnoxVG51ZmhGQl8zeC1DeTcwalM3RzhISi1ncUE1Z2FXYUZOTXlB?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Rehearsals Launches Human Behavior Bench With Google DeepMind and Kaggle to Measure How Well AI Models Understand Humanity - Fortune",
-          "summary": "Rehearsals Launches Human Behavior Bench With Google DeepMind and Kaggle to Measure How Well AI Models Understand Humanity Fortune",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYTNIaC1PeVF1T1ZCRmJadzc4X3gwUkNiYmN6Mk82M1daeEV4OG5WTDIwbVVwdnpaREw5dk1uUXNjSElBRC1QR09XT0ctUFVyVG10RjNQTkN1VkNNdlFIM3dVdG5pN0t2bUd0VTctbWNNc2J1bjZTNDVMVGdUbDVYcXo2U21kUm45bkgwTjRPOUw3Uk5nWkVNZkdXUlJ3czl4OGNhUm5B?oc=5"
-        },
-        {
-          "category": "Industry & Funding",
-          "title": "NVIDIA Is Finally “Too Big to Fail.” Here’s Why Meta and Google Aren’t. - TIKR.com",
-          "summary": "NVIDIA Is Finally “Too Big to Fail.” Here’s Why Meta and Google Aren’t.",
-          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
-          "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWFJmMkUtYXRqMEJTUXVsM3pxRGsxeUItQXZaZHlxdTdoblNmREozeUtRMGhYYkxoX3dTcTZ4SnNTUk4tZWloalhjRDVWYTc5Q0dUd0pOZ0ljVzNYWUpvdFZXSy1aRk9ucnpYbjd6N0xETEhBZ2s5ZG96ODFCTGhQOTh6elBkcUE5TnY5eS1RZmQzd3d2LUE?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "Canadian News Publishers Sue Anthropic Over AI Copyright Infringement - OECD AI Policy Observatory",
-          "summary": "Canadian News Publishers Sue Anthropic Over AI Copyright Infringement OECD AI Policy Observatory",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IakphYjI2NjR4X3BHQi1mNDlhYnp6ZWFRUXM4LXRIRlZJYnNFOXpmelFaQ1dhbzh2QlhFWmRJdERCV1ZtcTNfM2MwaDVKajJscHVoSXJXaw?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Google DeepMind’s Gemini 4 Argon builds a 3D periodic table synced to a song - Crypto Briefing",
-          "summary": "Google DeepMind’s Gemini 4 Argon builds a 3D periodic table synced to a song Crypto Briefing",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42bEJQdXJ1cGFXUnBYX2x6bnNCYmZfS1FHVERMV2JWV1hUdk9naHJQZ0hfQnpEdFJEWEpUcm1QQy0zc3hoQTNVbEpteW1VZGhEM1cyb1MzSmJ1MzFGRWZOUjRTV2x4YlF6MHZjX19rcUtDTjg?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "Authors Bring Copyright Suits Targeting Meta's AI Training - Law360",
-          "summary": "Authors Bring Copyright Suits Targeting Meta's AI Training Law360",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IZ3V2RnhjS3BmU1lHU194eXdTenZLZ3IwT3BYcGMwVFZhNmlmdTQyNTZ0RFFJT0R1ZVlWWDhQVWZ3Q1JhdU8zaW1hM0JVY3NvVFVFX2JB0gFWQVVfeXFMTkhndXZGeGNLcGZTWUdTX3h5d1N6dktncjBPcFhwYzBUVmE2aWZ1NDI1NnREUUlPRHVlWVZYOFBVZndDUmF1TzNpbWEzQlVjc29UVUVfYkE?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Four Gemini 4 Argon Agents Beat Minecraft’s Ender Dragon — Google Deepmind Minecraft Ai Agents - شبكة تواصل الإخبارية",
-          "summary": "Four Gemini 4 Argon Agents Beat Minecraft’s Ender Dragon — Google Deepmind Minecraft Ai Agents شبكة تواصل الإخبارية",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YaXpuZm1MdXZPTi1zR3hCRnpFeE1oc3Z3S0o1Q1RxM0RZZjJ6YzZzTFVXejE5MzZFeFdSanRXRUZUc2NPcEtIcTBxYk1UR2drVFN3?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Google Launches PyTorch Tool to Break Nvidia's GPU Lock-In - The Tech Buzz",
-          "summary": "Google Launches PyTorch Tool to Break Nvidia's GPU Lock-In The Tech Buzz",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXRGcmVfOWdwZVZVZVJHOTRqanJUZk5VZnJlSlhIZlB1X3ZyNnRsZ0Nva3JSb1lQanVUQjF1MlU1OHU2NTg5YkVBdWozeEI5MXl1TVp5cUt5V3FPRHlIVE5lY256YkV2VlhoWm9DZk1RQ19FU3BNNEh0ZHVHdV9USzc2b05FX0luckVnWW5XWXF6MzBONkE?oc=5"
-        }
-      ],
-      "discordShort": [
-        "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed - TechCrunch",
-        "Rehearsals Launches Human Behavior Bench With Google DeepMind and Kaggle to Measure How Well AI Models Understand Humanity - Fortune",
-        "NVIDIA Is Finally “Too Big to Fail.” Here’s Why Meta and Google Aren’t. - TIKR.com",
-        "Canadian News Publishers Sue Anthropic Over AI Copyright Infringement - OECD AI Policy Observatory",
-        "Google DeepMind’s Gemini 4 Argon builds a 3D periodic table synced to a song - Crypto Briefing",
-        "Authors Bring Copyright Suits Targeting Meta's AI Training - Law360",
-        "Four Gemini 4 Argon Agents Beat Minecraft’s Ender Dragon — Google Deepmind Minecraft Ai Agents - شبكة تواصل الإخبارية",
-        "Google Launches PyTorch Tool to Break Nvidia's GPU Lock-In - The Tech Buzz"
       ]
     }
   ]
