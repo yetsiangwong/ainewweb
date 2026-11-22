@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-11-21T13:00:28+08:00"
+    "lastUpdated": "2026-11-22T12:25:18+08:00"
   },
   "issues": [
     {
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Policy & Regulation: Rivals Bleed As Apple (NASDAQ: AAPL) AI Agent Leak Rattles Anthropic (ANT) And Meta (NASDAQ: META) - Foreign Policy Journal",
+        "AI Companies: Amazon, Google, Microsoft, Meta and Oracle: The 5 Companies Using AI the Most as Spending Tops $700 Billion - International Business Times Australia",
+        "Models & Products: Apple Develops Autonomous AI Agent to Rival OpenAI and Meta - RS Web Solutions",
+        "Risk, Safety & Copyright: AI: As Meta bets big on Muse, early safety mishaps surface - sightmagazine.com.au",
+        "Models & Products: Apple Develops AI Agent to Rival OpenAI and Anthropic - Tekedia"
+      ],
+      "stories": [
+        {
+          "category": "Policy & Regulation",
+          "title": "Rivals Bleed As Apple (NASDAQ: AAPL) AI Agent Leak Rattles Anthropic (ANT) And Meta (NASDAQ: META) - Foreign Policy Journal",
+          "summary": "Rivals Bleed As Apple (NASDAQ: AAPL) AI Agent Leak Rattles Anthropic (ANT) And Meta (NASDAQ: META) Foreign Policy Journal",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOFJpUjVWU3pVeHNvZ0RudnJRN09mekVLTGZUT3BZeHg1OXNvdTBoak1YUFQ5TkY2anFNR2FfdmtoMnNoek5iZGI3TnJWcVBfMTY5N19TNXlSS3MxWUFLZ2d5YWdORTU3djV6UHUyR0JGelNlWlZlUzdLdEZZTjh6dDNFdHcxSUtoQnFtWENwOXpTRGRJZ0pwOHVYMEVmTWUtU3ZUM0NoOWJmRUxMWW11SHgzZFk3UENqTTFaWDMzTTFNTDNUM2hkSnVtUk1QUDdwQmRuZ1NB?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Amazon, Google, Microsoft, Meta and Oracle: The 5 Companies Using AI the Most as Spending Tops $700 Billion - International Business Times Australia",
+          "summary": "Amazon, Google, Microsoft, Meta and Oracle: The 5 Companies Using AI the Most as Spending Tops $700 Billion International Business Times Australia",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3hwdmU5VHczU2VvR2ZVR1JGalB0dXk0aHJVam8zVTY5Nmw2dWlZbldxQ2FOeE5ReFJBTzJQMXgwTEFzYVRHZFFfZGJxQkRUaFFuYzFkejNxRjdHVVZodWZwUGhsaU1YdjQ5dUVYdFlDbm9pMTRTUUx5VW8td2FSSzlUY3g4dkhkaXVTS2FhbE9mRDN6d01tN3VCN2g?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Apple Develops Autonomous AI Agent to Rival OpenAI and Meta - RS Web Solutions",
+          "summary": "Apple Develops Autonomous AI Agent to Rival OpenAI and Meta RS Web Solutions",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSHN2SmJSMTdHNnJMMnRZcVphM2FuVl9wak56T1FxYjlZUTJ3OU1qWVVzaVRvSFVyS2Q1Z2luNEZFU0YtNFNsRE93RzhYa2djdjZJc3E0RU5rUWEtQ0xManItc05nU2pVdThVVkFzMHlsQXZGbUpVaFAtZEl2S05yV1VYR3NXbUlnX1I1SFhneVBfdU5WNjZxMnFHamdZSGRYVFZXdjBLb1ZrTTRIYzg4bVVRdHFaZ0l0X0FwNnRCTGFMdTRHRm9ERV8zQmVBMksxb0lISzZPUXNmTmVkcWRfNTRtUDBHNWdiQ0c0emhEaV95UEx4LUpaZDRjQQ?oc=5"
+        },
+        {
+          "category": "Risk, Safety & Copyright",
+          "title": "AI: As Meta bets big on Muse, early safety mishaps surface - sightmagazine.com.au",
+          "summary": "AI: As Meta bets big on Muse, early safety mishaps surface sightmagazine.com.au",
+          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
+          "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTl8yaGtDSG1Wd2NJX1ZEVEIzWDA4LWdUVmJZUFdXdXotWGtMOEFzQ2pPUG82ZFB3dW1DQXExRGNTU0tIalM4Qk1vNE9tWVNmQkFnd29MQnl2U2pmbkc0UUtrVDBJTlBfWG1nZEZ4R2Q2Q3NRVkpYekQzekJIWG9KNFNvNFN3aVRLTGJObk8wU1hkb2Rkc3lhbmMtSQ?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Apple Develops AI Agent to Rival OpenAI and Anthropic - Tekedia",
+          "summary": "Apple Develops AI Agent to Rival OpenAI and Anthropic Tekedia",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNHVJZElsY1hqNFRLMmg0VlljaWNKRlpFWURlcnpxQVN5a1pmaUNtUjAyNDFUTDFDMHlvM3FPT2RZdGhGMDlGTW9SMFo5VWYySkRkVFRqaGhkZE9EZkF6RzRFZ1VucFZLakU5QjZLdS02b1ZZZHl3STJjLVNiTDNZTHY1c0s?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Google DeepMind Hires Hume AI CEO and Engineers - Wisevoter",
+          "summary": "Google DeepMind Hires Hume AI CEO and Engineers Wisevoter",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR3FSRURqNkJmbVVIdGREQVZKbm9NTjludnNZSFV6N3dmdVpiMTM4ZlcxcEpsMW9hZ0xfdEstZ1duWmhTU0JBRXdybl8xNkV0R0wwSEUxMWk1Q0V5Z1JpS0p6cmptcnpsLV9DcEp2eU5LLWpyZFFSZ3JiZUFDTzY2M3daQzQyYi1MSDEwcC16NldlUQ?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "As Meta bets big on Muse AI agent, early safety mishaps surface - Banglanews24",
+          "summary": "As Meta bets big on Muse AI agent, early safety mishaps surface Banglanews24",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4NnFUUTY5ZEFzYUJELXdXUnhENDNkVDBIa0pQREtzMGtRYS1tVWZFZ3lZaG5EU01oNW9kX0NjeWphWF9UU19kQ2F2ZnNHbms3S1J1amhHRU94ZWpaOGZCNTd1T0NVM2JDWFRacWN3?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Google DeepMind hires a philosopher to think about whether AI can be conscious - Crypto Briefing",
+          "summary": "Google DeepMind hires a philosopher to think about whether AI can be conscious Crypto Briefing",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CTFV5cHFyZGhqaVB4NkdiSmZybzBvQk5pQXFqeGNpSm9uX0F5SExKSEdUT0xKcS1nYW5lS21qT1hYUnQ2aTliZU1SY0NpbjJyREdMbC1lNjVPMlRuTVp0LXRoX1NFeFo4Y1Y4Qm9kZ054dVlTZDRlRDFMRVA?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Rivals Bleed As Apple (NASDAQ: AAPL) AI Agent Leak Rattles Anthropic (ANT) And Meta (NASDAQ: META) - Foreign Policy Journal",
+        "Amazon, Google, Microsoft, Meta and Oracle: The 5 Companies Using AI the Most as Spending Tops $700 Billion - International Business Times Australia",
+        "Apple Develops Autonomous AI Agent to Rival OpenAI and Meta - RS Web Solutions",
+        "AI: As Meta bets big on Muse, early safety mishaps surface - sightmagazine.com.au",
+        "Apple Develops AI Agent to Rival OpenAI and Anthropic - Tekedia",
+        "Google DeepMind Hires Hume AI CEO and Engineers - Wisevoter",
+        "As Meta bets big on Muse AI agent, early safety mishaps surface - Banglanews24",
+        "Google DeepMind hires a philosopher to think about whether AI can be conscious - Crypto Briefing"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Policy & Regulation: COPYRIGHT NEWS—Anthropic and Meta self-helped themselves to AI training materials, new lawsuit asserts - VitalLaw.com",
@@ -2404,86 +2484,6 @@
         "Google’s TPUs for AI workloads now run in Meta's data centers — TPUs sold to external customers for the first time, threaten Nvidia's market dominance - Tom's Hardware",
         "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\" - The Decoder",
         "Anthropic Previews Claude Duet AI Agent to Challenge Meta Muse and OpenAI - Analytics Insight"
-      ]
-    },
-    {
-      "date": "2026-10-22",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "Industry & Funding: Google DeepMind expands SynthID Detector globally, adds OpenAI and NVIDIA support - news.lavx.hu",
-        "Models & Products: The ‘Zuck has entered the building … Meta says its new AI models on par with OpenAI, Anthropic - IOL",
-        "Industry & Funding: Google, Meta and Amazon Challenge Nvidia's CUDA Dominance - www.thelec.net",
-        "Models & Products: Anthropic launches Claude Duet AI agent to rival Meta's Muse, OpenAI's Dots - Anadolu Ajansı",
-        "Models & Products: Anthropic launches Claude Duet, its answer to Meta and OpenAI's personal agents - Business Insider"
-      ],
-      "stories": [
-        {
-          "category": "Industry & Funding",
-          "title": "Google DeepMind expands SynthID Detector globally, adds OpenAI and NVIDIA support - news.lavx.hu",
-          "summary": "Google DeepMind expands SynthID Detector globally, adds OpenAI and NVIDIA support news.lavx.hu",
-          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
-          "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ3FGbEx6UXNNZzhQZUltaldsd2JNbndQRlZOQXc3UGhodWg0NnZFRndEQmJYZ0V1VG5HejFrRlF1TDdqNGd3bkh3QmoyalVtZ25xT1FtV2FCSWVtZmtFaHN2OE5tTHhMMzZpQUd6VEhuQjBnYVE5TllqUlM0VHBabkMyY0VjWG5rN0Zaa1hycFRVWDJBNFFvWUNLZGp4SXFnVk43X0FGb0dXUExVVlE?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "The ‘Zuck has entered the building … Meta says its new AI models on par with OpenAI, Anthropic - IOL",
-          "summary": "The ‘Zuck has entered the building … Meta says its new AI models on par with OpenAI, Anthropic IOL",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObkJ1bGh2OUlkRmZaMW51b3dXN2NRTU1YOVFvY0xqTW5rMVlNZ043N0NEQjZpNHJzSUtJU25iYVF0aW1nUGhLa2dEbFNiXzV1aHNhRU05dHRmc0J2R0VZSVZJUUhUUnMzVzlQZWdmZU9fV191amg0d0NCWE16YjBtUDRCRDZ5OXppUmZxVVZ4UW13clEtQmR6a0EtZ0pnX0gwNlZnQWZlZjV3ZHVBSFNVdWlhZk44ckxKSTRWUU0xQkEzQmw4QTZSQlY5OFd2T29Oa195TnljMDl0aXFsaHBQbFNxN3E3a2Y5?oc=5"
-        },
-        {
-          "category": "Industry & Funding",
-          "title": "Google, Meta and Amazon Challenge Nvidia's CUDA Dominance - www.thelec.net",
-          "summary": "Google, Meta and Amazon Challenge Nvidia's CUDA Dominance www.thelec.net",
-          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
-          "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GMHN0VzZwOTBoNGZnOUdSRlR1TzgwZDlJUmthdHB4OVh2MEo1Y1hjNHNHVVJUOW04RGM2dlJsRHV1MGZpZDRxWmRGUjhvVmNmRzhybTVPTWVxV2JHeDhkUTZLMElBbjA?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Anthropic launches Claude Duet AI agent to rival Meta's Muse, OpenAI's Dots - Anadolu Ajansı",
-          "summary": "Anthropic launches Claude Duet AI agent to rival Meta's Muse, OpenAI's Dots Anadolu Ajansı",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRDJYNEVlX0RpSXZrNldLY2dmYjZtNVgwcERJTEN1MklkQVh5QUNoX25RX1hLYl9zWi1UMG90Ym5US2dsNEJKLU83aUhzOTNZVWp1WExoaEJwUC1sSFNEZEVjNmwwZF9fNjFqWFFYOGRieW1zQmg4aXhKdVVqa1phQ21DN0dMeW1BTDZjcW5zRHBRLWFVTXo0YzBzMWJUWm9kajQ5ZjJpZDFzclBsSFg0?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Anthropic launches Claude Duet, its answer to Meta and OpenAI's personal agents - Business Insider",
-          "summary": "Anthropic launches Claude Duet, its answer to Meta and OpenAI's personal agents Business Insider",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQkZFNGVZc2Q2Q3VJYWVFNjFlOUh1NE1aNWFrZHlzOFlEMVpQU0xFQkFDSW4ydXljV1gtRnBBVzZjWi11Z3dMQ0sxdl9EdXdJOWl0TWlYMnl1M1o5S3d4LXRuOW9lLUd3bS1lYkloUnFGVnhqbFNJSGtVRUt4ZnlWSVg1Q01YOHlrWF9tZ0RsQXptUjljR0MxVFVaWW0xTXMweUE?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Anthropic Launches Claude Duet AI Agent to Take On Meta and OpenAI - The Tech Buzz",
-          "summary": "Anthropic Launches Claude Duet AI Agent to Take On Meta and OpenAI The Tech Buzz",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcm85NURDZEFFWGNUb0V4anVHWllXX0tieUdJLThVZEFRVTFkVGYzcXhtSFNGbW5aZjJCZHhoeDVRNEZjRjh1N2E1THk3TTB4ckxucUVxSlRmUHdBTTBIdktEUFNYREc3blNEaEY2SktVd3BXdlJVcll1TnUtZHE4a1RrSGxhWnY5c0JhdV9qeUI5TzcydDIzcnJCTWg3UzN6?oc=5"
-        },
-        {
-          "category": "AI Companies",
-          "title": "OpenAI vs Google DeepMind: How the AI drug discovery race is shaping up - Digit",
-          "summary": "OpenAI vs Google DeepMind: How the AI drug discovery race is shaping up Digit",
-          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
-          "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdTkwMmxQUTlZM21JdTAyeDJMTlQyWnZkMkdJbEFoczFzTkZNaE96TVF1eGw4d0pWdjBUSmZpdkg0X0RwNlNYUnFuUFZMc1VvZThkX3FlbTVsSE9HUG1xUzBwSE5IOFIzaDFXTWZudk9yZi1MM3JiYVNhNV9Va1NUM3dMbHVsNUs0ZjlqMUtzZzNlcGdWLVh6Z296TWViLXh2Vjk3TE9CU3p4S0sxUEtPdnowONIBugFBVV95cUxNalRHUXQ2NkNhUF9HQ0FUM1U1Y2psR1RsQ2hjbUhnUm5MXzd3em80ak9VSEpkZXRpbmZZSmticFZyU1ZlcjRxRTNBUHVXQ0w1c0ctOGVjd0xQQlB5MGFuUEN3NDBsTjlzbmxqZHBsQUxZUlhvamMwS0hVa1B2ZlhQRmZxNEZaLXVULWh3M3R4U0NnVkhKY3llQ0Vnd19EWWVUb2VKM3gzQU84b0hTaVctUnpLelBKRFRJTHc?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Google Cloud, DeepMind, and the EU: A New Model for AI-Driven Science - Cloud Wars",
-          "summary": "Google Cloud, DeepMind, and the EU: A New Model for AI-Driven Science Cloud Wars",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc1B2cEV6Q1pqUWMxS013SzNJcHI2NF9ZUm5jZ3REN0pKbndraEo3bl9pMlU1YlZ0dWJuMVZvZnR5cVlQYU5PUGtGNmM2VlJUZ0ZBdEFjZTFndmowYjF5VUc2UUxVdUE0QjRocHFDeWljWTQyRjJZQjhJNVVNTzI4bl8zLW55dFVZU09zZU0telhwUHRvUWRUemxseEZhQS15WEphSlhFak55b00?oc=5"
-        }
-      ],
-      "discordShort": [
-        "Google DeepMind expands SynthID Detector globally, adds OpenAI and NVIDIA support - news.lavx.hu",
-        "The ‘Zuck has entered the building … Meta says its new AI models on par with OpenAI, Anthropic - IOL",
-        "Google, Meta and Amazon Challenge Nvidia's CUDA Dominance - www.thelec.net",
-        "Anthropic launches Claude Duet AI agent to rival Meta's Muse, OpenAI's Dots - Anadolu Ajansı",
-        "Anthropic launches Claude Duet, its answer to Meta and OpenAI's personal agents - Business Insider",
-        "Anthropic Launches Claude Duet AI Agent to Take On Meta and OpenAI - The Tech Buzz",
-        "OpenAI vs Google DeepMind: How the AI drug discovery race is shaping up - Digit",
-        "Google Cloud, DeepMind, and the EU: A New Model for AI-Driven Science - Cloud Wars"
       ]
     }
   ]
