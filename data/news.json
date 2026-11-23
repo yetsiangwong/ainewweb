@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-11-22T12:25:18+08:00"
+    "lastUpdated": "2026-11-23T13:00:24+08:00"
   },
   "issues": [
     {
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "AI Companies: After Blockbuster Anthropic IPO, OpenAI Wants AI Rivals To Agree On Development ‘Limits’, While Meta Calls For Controlled Approach - Yahoo Finance",
+        "Policy & Regulation: No Perfect Guardrail & No Perfect Guard: On the Decidability of Output Policies for Large Language Models",
+        "Policy & Regulation: ChildAI-Gov: An Evidence-Linked AI System for Assessing EdTech Policies Against Children's Digital Rights",
+        "Policy & Regulation: CENTRY: A Probabilistic Latent-State Model for Continual AI Risk Estimation, Monitoring, and Regulation",
+        "Policy & Regulation: Separating Automation Gains from Agent Contributions in AI-Assisted Model Validation"
+      ],
+      "stories": [
+        {
+          "category": "AI Companies",
+          "title": "After Blockbuster Anthropic IPO, OpenAI Wants AI Rivals To Agree On Development ‘Limits’, While Meta Calls For Controlled Approach - Yahoo Finance",
+          "summary": "After Blockbuster Anthropic IPO, OpenAI Wants AI Rivals To Agree On Development ‘Limits’, While Meta Calls For Controlled Approach Yahoo Finance",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaXZRS2dTVkZ5UVNWRGZtOHBqU25Qc3Fqb2lTbjRSMDFWTVVFM2NNZVVPNll3TlUzdzNZeFJfRXFRWFVzTkQtektkdENjUWtqZkUyblhuLVJpRkhJOEc4V3pUZEdlcjN0alRMMGlWUFF4NDNwTTJnSjJXbE9lWXE2YkhVaWc0Mk05dUxyVXVSMUZZTllMZW5BaFB1RkFzNDhpNjBudw?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "No Perfect Guardrail & No Perfect Guard: On the Decidability of Output Policies for Large Language Models",
+          "summary": "arXiv:2611.27260v1 Announce Type: new Abstract: Expecting guardrails to provide a general guarantee of safety fails to recognize the limits of computational enforcement and policy specification.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2611.27260"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "ChildAI-Gov: An Evidence-Linked AI System for Assessing EdTech Policies Against Children's Digital Rights",
+          "summary": "arXiv:2611.27799v1 Announce Type: new Abstract: We present ChildAI-Gov, an explainable AI system for assessing whether education-technology (EdTech) policies respect children's digital rights.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2611.27799"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "CENTRY: A Probabilistic Latent-State Model for Continual AI Risk Estimation, Monitoring, and Regulation",
+          "summary": "arXiv:2611.26940v1 Announce Type: cross Abstract: Artificial Intelligence (AI) systems are increasingly deployed in safety-critical applications, yet existing AI safety frameworks primarily define, categorize, or govern AI risk rather than proposing implementable models and methods for continually estimating, monitoring, and regulating risk throughout an AI system's operational lifetime.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2611.26940"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Separating Automation Gains from Agent Contributions in AI-Assisted Model Validation",
+          "summary": "arXiv:2611.27094v1 Announce Type: cross Abstract: LLM agents are being proposed for bank model validation, yet evaluations that compare agent-assisted work with manual practice credit the agent with gains that come from digitized evidence and deterministic tests.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2611.27094"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Comment and Control: Hijacking Agentic Workflows via Context-Grounded Evolution",
+          "summary": "arXiv:2605.11229v2 Announce Type: replace-cross Abstract: Automation platforms such as GitHub Actions and n8n are increasingly adopting so-called agentic workflows, which integrate Large Language Model (LLM) agents for tasks such as code review and data synchronization.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://arxiv.org/abs/2605.11229"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning",
+          "summary": "arXiv:2609.16057v2 Announce Type: replace-cross Abstract: Unified multimodal large language models and multi-agent systems have advanced visual generation.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2609.16057"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "Weekly Market Wrap: Nvidia Beat, Anthropic Debuted, and AI Stocks Still Got Crushed - Mitrade",
+          "summary": "Weekly Market Wrap: Nvidia Beat, Anthropic Debuted, and AI Stocks Still Got Crushed Mitrade",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KbGIyYXFUMlh0cEUtOTdac2s2X2V4cnBmVVNob3dRbDdrSUJqSDZsU2Y3eG0tQ2NNYUtScUowR1hqYVBpcnhDVkg3V0xjTGZSeHRfSTlBbUFzTHZWZzFWQ0VJZmR4c2tMd181YVhXRm5sTERuMUQ0?oc=5"
+        }
+      ],
+      "discordShort": [
+        "After Blockbuster Anthropic IPO, OpenAI Wants AI Rivals To Agree On Development ‘Limits’, While Meta Calls For Controlled Approach - Yahoo Finance",
+        "No Perfect Guardrail & No Perfect Guard: On the Decidability of Output Policies for Large Language Models",
+        "ChildAI-Gov: An Evidence-Linked AI System for Assessing EdTech Policies Against Children's Digital Rights",
+        "CENTRY: A Probabilistic Latent-State Model for Continual AI Risk Estimation, Monitoring, and Regulation",
+        "Separating Automation Gains from Agent Contributions in AI-Assisted Model Validation",
+        "Comment and Control: Hijacking Agentic Workflows via Context-Grounded Evolution",
+        "OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning",
+        "Weekly Market Wrap: Nvidia Beat, Anthropic Debuted, and AI Stocks Still Got Crushed - Mitrade"
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Policy & Regulation: Rivals Bleed As Apple (NASDAQ: AAPL) AI Agent Leak Rattles Anthropic (ANT) And Meta (NASDAQ: META) - Foreign Policy Journal",
@@ -2404,86 +2484,6 @@
         "Claude Duet: Anthropic’s Riposte to Meta Muse, OpenAI Dots and Instinct - CXOToday.com",
         "Second Thoughts: Exploring and Planning through Comparative Imagination in World Models",
         "HyperDrone: Simulation-to-Reality Transfer at Millions of Frames per Second"
-      ]
-    },
-    {
-      "date": "2026-10-23",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "Models & Products: Goldman Sachs Commits $500 Million to Expand Small Business Program, Launches AI Institute With OpenAI, Google, Anthropic and Meta - citybiz",
-        "Policy & Regulation: OpenAI, Anthropic, and Nvidia Spent Combined $7.5 Million On Lobbying in Q3 - Yahoo Finance",
-        "Models & Products: Anthropic is unveiling a workplace AI agent to rival Meta Muse and OpenAI Dots - Quartz",
-        "Models & Products: Anthropic launches Claude Duet AI agent to compete with META, OpenAI in consumer market - 24/7 Wall St.",
-        "Models & Products: Anthropic releases Claude Duet AI agent to compete with OpenAI and Meta - Jang"
-      ],
-      "stories": [
-        {
-          "category": "Models & Products",
-          "title": "Goldman Sachs Commits $500 Million to Expand Small Business Program, Launches AI Institute With OpenAI, Google, Anthropic and Meta - citybiz",
-          "summary": "Goldman Sachs Commits $500 Million to Expand Small Business Program, Launches AI Institute With OpenAI, Google, Anthropic and Meta citybiz",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNY0lBY3ItUGEwc3VMclNUcmo1YVF5LUZIZTF1bzJkSXJMSU91QXpBSHNPWWo3MjRGQWY1VTNnMm1mbjh1OUFNQkZKSUNiUTdQOTJCNk5wZUNTVEd5a1dZOXpjRmlYTDZJWG82RjY5NmJFX3BHSzNnMFBDR0RzY2I4WkJLYW5ISy0tSWkwTm1rY29yck1MNXhNZkVIYkZLajMwa0pPZm43ODlGVGgwdm9haEw5ZTRqdGJoNTZMWTJyZHMwOTN5ZXRiTHB4OHBUWmdUUjVxUWgzb2hUVFY4cHZKTGdvenJqTzA0UjRoRlZEWFI1dWdqVHdoZA?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "OpenAI, Anthropic, and Nvidia Spent Combined $7.5 Million On Lobbying in Q3 - Yahoo Finance",
-          "summary": "OpenAI, Anthropic, and Nvidia Spent Combined $7.5 Million On Lobbying in Q3 Yahoo Finance",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZkxTaTJZNUhvbWZXU0dvQzdpUlR4OE50X01yQnNndnc1VjZyYVhDTVZrWlZrRTkzOXNjMUdLR3Y2NVU2ZVhEb3B0OWZmWWt1aWEtUVJaU2pUSk9ETTliN0JZN0lSa2lTRW9Oakl1UWZzbFR4U08zbWhqT1p0TllxcDhJeFhJUC1ZYlJoVjZwUUloc21WWUdyaWFFNkhKSFVLZWNuVQ?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Anthropic is unveiling a workplace AI agent to rival Meta Muse and OpenAI Dots - Quartz",
-          "summary": "Anthropic is unveiling a workplace AI agent to rival Meta Muse and OpenAI Dots Quartz",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4weXI0QVdqNEdJSmR3Z2RvUl9feHFyMzdkSV90S2hhNlFadVd1TjZiUmpURVJtei00QnJQajBCaFJ1LXN2YktJN3o1S3hhNC1SV3RJNlA3RVhCeHNHZFFuMW5rc2x2WjY5VDZLaVZ0dkFqMmx0alJIcUliZEE1LVU?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Anthropic launches Claude Duet AI agent to compete with META, OpenAI in consumer market - 24/7 Wall St.",
-          "summary": "Anthropic launches Claude Duet AI agent to compete with META, OpenAI in consumer market 24/7 Wall St.",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYW00ZVR4MnlKa2tZY2RnTC1QbXpoTFdzVlN3SUZWTmlOLTV1UVVVMlJqTkt0TFRZVGRxYzUwSGw2N2V4X2xHamxaaTJvWk9qN01iZC1QU0FsdHBUZG5oYXlETHpXY01Fd0NCaVdfTEx2bEFCcktyMHdsdlk0b19QWGpBbnl6UjhRTzJDUmNFNkFGN0oyWXR3TGQwZ2plVUd1NnVpeEdpMDBLcmxiSmZ6X1VZUjhTS3JidzJ1bjNuWUt5UmRacGtKTURR?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Anthropic releases Claude Duet AI agent to compete with OpenAI and Meta - Jang",
-          "summary": "Anthropic releases Claude Duet AI agent to compete with OpenAI and Meta Jang",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQm9NRUc2Tmtsc0RfbFZyQkJZTEt2dVdPazA0bEpkR21ZQnZLaTlxMDRQa1hqVVBYMlFpNWlpSEZJbWo2dVdaa3FJZzkxNl9PWVBZWm9hbXRlQkN4ODV0bEc3NTBvNXc5X1pySjRaN0gxcHllbWcwX0Z2YnJBOGc1VjNmY2FBLThGa3otdnY1UXpic2ZDcFlYcUVic2lYUS1rVGRLTEpmU0k?oc=5"
-        },
-        {
-          "category": "Industry & Funding",
-          "title": "Google’s TPUs for AI workloads now run in Meta's data centers — TPUs sold to external customers for the first time, threaten Nvidia's market dominance - Tom's Hardware",
-          "summary": "Google’s TPUs for AI workloads now run in Meta's data centers — TPUs sold to external customers for the first time, threaten Nvidia's market dominance Tom's Hardware",
-          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
-          "source": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPcXllYmxLcElIQjE5U2NXOXNBb3pVNDl3N2dnQVB1OThuN3pGQlNCeTNFMzNVMDc0YUt0VHk5bFFVMV94eW41Yi1SdXBTRWxzeDMteUwwbGJlUmFER0dHVDdBdl9JY1J1ZmJ0WUtKNU5nNnRXbVVKQ1dadkN4ZDBhSERxYjJ1cUFEaF9NREN4WjlZWEhIWG1pZnJLLV9KaV9DQTRIQ2VWMEhzNFQxdzd6R1NoYlByU3RYS2lHV2JIcUlJTXRXU1JndkViaEdqVnZLRkl4Q2g1RTczenVPV2hGbGVueE5GVDRNZTg1ak5XSXM1UEszY0xhX3VRbkdTbmZKWW0xcktOZnREOXhqRWFVaVJKdVg1cmNwRkV0SklRby14aU9qSmJoNjZ4Rk84TGtWX2FrN1hiZW5DQQ?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\" - The Decoder",
-          "summary": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\" The Decoder",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRG9HZVRLSE1uRXNxWURQMkxmYlN3N050MmMwanJhUUc5QTN5b1VMYnNRc1ZWSlhENEluZ25EZkpQcnB0U2hTRFJRT2RQbFNIS0NzbnlDcF9jZHJJSEdsc1pwMWw2enloVDhjMW5PZHR0ZFZYa0ZrZ2dKWlhMSFQ2dGtDdktUaGZpc19TWDBfTlhpYTkxWlozVXdrZ0EySk1CRjdoUEk3NXBZTF9obVdiSW9DV29rNVhJ?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Anthropic Previews Claude Duet AI Agent to Challenge Meta Muse and OpenAI - Analytics Insight",
-          "summary": "Anthropic Previews Claude Duet AI Agent to Challenge Meta Muse and OpenAI Analytics Insight",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUkNNUHNqNjduZG5aVnQxZ3g3a2hseDFxWWI5QlIxZTZ4MTF6X2lDTjM0a1FGaXhLeTVBQWFhOG13VFdQejJPLUxmc1FKeXRqaHhZN1hWTk1ORDJuNDZZUWE3UHR5bVUzXzB0RkpWTFpDRVUzT05uNklqaXdWZ3JvMTFhYXlZS1RKMkJwcEg0ejBKbDM4blAyTXVieGVRVVZXNi1fYkpPbUxST05VLU1RLWt3UmlzcnFneDg1TzlB0gG-AUFVX3lxTE1SQ01Qc2o2N25kblpWdDFneDdraGx4MXFZYjlCUjFlNngxMXpfaUNOMzRrUUZpeEt5NUFBYWE4bXdUV1B6Mk8tTGZzUUp5dGpoeFk3WFZOTU5EMm40NllRYTdQdHltVTNfMHRGSlZMWkNFVTNPTm42SWppd1Zncm8xMWFheVlLVEoyQnBwSDR6MEpsMzhuUDJNdWJ4ZVFVVlc2LV9iSk9tTFJPTlUtTVEta3dSaXNycWd4ODVPOUE?oc=5"
-        }
-      ],
-      "discordShort": [
-        "Goldman Sachs Commits $500 Million to Expand Small Business Program, Launches AI Institute With OpenAI, Google, Anthropic and Meta - citybiz",
-        "OpenAI, Anthropic, and Nvidia Spent Combined $7.5 Million On Lobbying in Q3 - Yahoo Finance",
-        "Anthropic is unveiling a workplace AI agent to rival Meta Muse and OpenAI Dots - Quartz",
-        "Anthropic launches Claude Duet AI agent to compete with META, OpenAI in consumer market - 24/7 Wall St.",
-        "Anthropic releases Claude Duet AI agent to compete with OpenAI and Meta - Jang",
-        "Google’s TPUs for AI workloads now run in Meta's data centers — TPUs sold to external customers for the first time, threaten Nvidia's market dominance - Tom's Hardware",
-        "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\" - The Decoder",
-        "Anthropic Previews Claude Duet AI Agent to Challenge Meta Muse and OpenAI - Analytics Insight"
       ]
     }
   ]
