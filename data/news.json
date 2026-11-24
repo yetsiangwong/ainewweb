@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-11-23T13:00:24+08:00"
+    "lastUpdated": "2026-11-24T15:49:33+08:00"
   },
   "issues": [
     {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Industry & Funding: Nasdaq-100 eyes $2 trillion boost as Nvidia shares soar 31%; Google, Meta, Microsoft, SpaceX, AMD rise up - The Economic Times",
+        "Models & Products: Google DeepMind unveils open-source gBench to assess real-world AI model performance - 디지털투데이",
+        "Industry & Funding: AMD Stock Dips Overnight After Nvidia-Triggered Rally: AMD Registers 337M Shares For Resale Tied To OpenAI, Meta Warrants - Yahoo Finance",
+        "Models & Products: Why using rocks for carbon removal could eventually reduce crop growth",
+        "Models & Products: Mythos changes the clock: What Anthropic’s cyber-capable AI models mean for OT, critical infrastructure security - Industrial Cyber"
+      ],
+      "stories": [
+        {
+          "category": "Industry & Funding",
+          "title": "Nasdaq-100 eyes $2 trillion boost as Nvidia shares soar 31%; Google, Meta, Microsoft, SpaceX, AMD rise up - The Economic Times",
+          "summary": "Nasdaq-100 eyes $2 trillion boost as Nvidia shares soar 31%; Google, Meta, Microsoft, SpaceX, AMD rise up The Economic Times",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQRDVSWG8yc3o4YlZ3VXZNNU9SaWV0OVlGbFRMYzRlamRxaVBhU3dwQ1FGZnNPLWRWZ3J1MXVjSXpQVGVlbjhEOUwtbUJEOTFGcjZDMlFULTc5cGZVdklBMUZQRlJSd0FzOFZtSTVYUVdFbmlvU2I2X1czdjBqZjNFanNIRWZXVmxydmZwTTFnME1kN0N3WllraEtBNWFNamR5VDUxR2c2ZEF2TEVIM29McHdrSERJalU4QVhMTWdvZE96UXRHSGlkSTJNX1o5YXdTdnp5MF83aGxwaUxrMXVOR0piWklsNm5iNXUwcU9EWkVFcGlqTXBqQldzVmd1NEZabU1wNmNHUmFrejRDallsOFZVOTJMdXF5d1FfZXlPVmdGMTRKX3d5aTZuNjN4cGgzcUFZ0gG4AkFVX3lxTE92ajNXV1FzZ19tUjhEWEwtLUtqVFk1MldlT1BONng1MklqMFUtNlRGMU51UnJKNnRCOTdsdFdjTmFSUVVzOEQxV2diWnQ2SkNya0xmLW5rN3BmNHlKaDNWWjlyTjB6M3FCakdfUXNOc3pWZmNFWWMxWDZxeExnVXdIdVN3TFdJejNZV1JnWm14c3FHSXB0REVaVjFuQzZURUZDekNBTFE4aGRneHB6TjRfRHpNbHFMRHR2N2pjcTBiTk1Pc25lRlNRUlRYOC0wcTluMk9CZGlBZXpzd24xSFFpTjNTS0ZKeHE3cE1Xd2NFOFpRRVRxNC1YWE5Uem4yYXJNaW9jcnJPQlE0MEYwZUhOT2lJQnRCWGVXNThVMkNiU2JBMUViYVBQeGprOWlMV1lPZjN0NVlnMA?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind unveils open-source gBench to assess real-world AI model performance - 디지털투데이",
+          "summary": "Google DeepMind unveils open-source gBench to assess real-world AI model performance 디지털투데이",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUt5enN5TU5jdkVsYlNDa0FWOUI3UVhFTXRJUWNsUk1fMDBNTVgtaXRlSnlzbEY4Wk9tek55R1pTVE9BbGxPVHlmemh1Q2xTbXB0R1Y5SWRTY2FuWVR3c0VGZUdwak0yVG0yckZrY3Jnd1RCb3BoMy04X0lId2V2d2daQm5VSk5OMS1CMHlSdWtOTHNLOUJXNVVfWWloRFlpMUpaRjhHMnNnYkJSVVJkSDhvdUZWdXdUQklhUGJ4RXpsbE5rTC1pbmhR?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "AMD Stock Dips Overnight After Nvidia-Triggered Rally: AMD Registers 337M Shares For Resale Tied To OpenAI, Meta Warrants - Yahoo Finance",
+          "summary": "AMD Stock Dips Overnight After Nvidia-Triggered Rally: AMD Registers 337M Shares For Resale Tied To OpenAI, Meta Warrants Yahoo Finance",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEJEc3NMNGhjTHlKR2tiMTFLWHZrYjBTUmdsMjZseVRCWVpCdDVKUmxCV0kzYnE4MFhPQno1cHZIQzBOWGhzQ0FvNXdsN1dRcnd5RDY2VG13UnlqU1V5Yi1EZGdvTGxTdGc2XzM2RHRzbE01NGFOaThXMlhqTjVuVUlWN1RuM3FHME9kdEFEMUdud1hYVG5tRGNhRk0?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+          "summary": "Tech companies are investing a lot of hope and money in rocks.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Mythos changes the clock: What Anthropic’s cyber-capable AI models mean for OT, critical infrastructure security - Industrial Cyber",
+          "summary": "Mythos changes the clock: What Anthropic’s cyber-capable AI models mean for OT, critical infrastructure security Industrial Cyber",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZU0wUUtOY0pVT0pfYzJGaE1pY003d3NrYzdjaHY3T2dzQkRXeXB4cnJPemstN3RyLXZBSnUxb2hfMTVxeUg0SDVNTEp2dlJ0dXVZM2gxdEFUQndqR2E4RTlQZ1NZU1M5cUlZbGREMDhPcDZfcDJWMklCcUMyeEN1bTNuSkJzN0NKRG90RC13dTZEMzFObk0weTBHN0UtQUR3NGE3QVpwQWVXUjJlbFJXVVd6Z3FpTWhpeHlxdVl5bG1nTVl2Tlh4cFhmeGdoQzFzeTJyRnNXbXJmWXhDRk84?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "Australia Threatens Google and Meta With Fines Up to 5% of Global Revenue Over Harmful Content - CNBC TV18",
+          "summary": "Australia Threatens Google and Meta With Fines Up to 5% of Global Revenue Over Harmful Content CNBC TV18",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOekU2b0ZNZHFQYkpVaHA3SVVWSGFaRi10Z3M4WWg5b1ZMV19zUlZaSlJCMjQ2U210U2RDU0NmU2ZlVlA5Ql9rSF9qTnNYRFByTE04b3M1SjR0WnVjOTROd2QwaEFfOWdfWEpmVEFDOEpxTmlOVnFLblE2T19EOFRfZlRUSEtFbm9PZGp4ZEpQZkpuVEJrMHRKVnZaa3FMaWVzU2Vmam9pbGFWVmRTWXlXM0dDZUFFNDVWUG930gHAAUFVX3lxTE1UWEFydXE0dTNUNEh1LVhlbTgya1Brd2hjU05Yb01Pb0x2LWNTaEo2eEl0d2N2ejV2OXBpcFdtemlQN29Na1JpeTgwOXc4LU91ZkE1b1pJVW9lenYtTGNHVmVSX0NlakRzMElaWWtubHVqTmNEUFpHbkJDdkRWbGZoRGVtMmwzVF9IdzQyWVducFFrMUMwa1llekdNYnRpN0ZsNVJpcUE0M2hqaHNJd1BBbFpQek5DQTB4U250TERmag?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind Agent Swarm Optimizes Quantum Algorithms, Arcsin Subroutine Speeds Up 290-Fold - BigGo Finance",
+          "summary": "Google DeepMind Agent Swarm Optimizes Quantum Algorithms, Arcsin Subroutine Speeds Up 290-Fold BigGo Finance",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SbkFBbDRmRjctaUg3MU1hYVB4LW9jRTA5R1dPemk1TTMwOTJ3ZWdRamNjWG9qdDFkeFlsS29OLUlfeXh0Zm9UT2duQ1V0cWV6dF9QOTNrcTYtUlFRaDdWQTRjbTlhSDBOYUR1TXRJdWFMcXZLZ2c?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "OpenAI AI Development Limits Plan After Anthropic IPO - shattered.io",
+          "summary": "OpenAI AI Development Limits Plan After Anthropic IPO shattered.io",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcHN2amZpWndZRmNNaDhzVEFtRmFDZlc0OTRoSThGZXhOcm9rdVUwcmxlXzljNjllTU5XZXlQd1F3cFl1Z2dEc1d0eFByTXRqWkFJaTF1QUN1VXdoclYydGowNVRwY21lWUFEbkE1ZUVUWVFld1kyY1VwQlNSamplWGNjUU9tX1NxZVpVUHdsZFl6S1B2R3c?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Nasdaq-100 eyes $2 trillion boost as Nvidia shares soar 31%; Google, Meta, Microsoft, SpaceX, AMD rise up - The Economic Times",
+        "Google DeepMind unveils open-source gBench to assess real-world AI model performance - 디지털투데이",
+        "AMD Stock Dips Overnight After Nvidia-Triggered Rally: AMD Registers 337M Shares For Resale Tied To OpenAI, Meta Warrants - Yahoo Finance",
+        "Why using rocks for carbon removal could eventually reduce crop growth",
+        "Mythos changes the clock: What Anthropic’s cyber-capable AI models mean for OT, critical infrastructure security - Industrial Cyber",
+        "Australia Threatens Google and Meta With Fines Up to 5% of Global Revenue Over Harmful Content - CNBC TV18",
+        "Google DeepMind Agent Swarm Optimizes Quantum Algorithms, Arcsin Subroutine Speeds Up 290-Fold - BigGo Finance",
+        "OpenAI AI Development Limits Plan After Anthropic IPO - shattered.io"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "AI Companies: After Blockbuster Anthropic IPO, OpenAI Wants AI Rivals To Agree On Development ‘Limits’, While Meta Calls For Controlled Approach - Yahoo Finance",
@@ -2404,86 +2484,6 @@
         "Google DeepMind Pentagon AI contract resignations: Researchers exit over classified military deals; all you need to know - Livemint",
         "UK Bets £100 Million on World's First AI Biosecurity Lab, Backed by OpenAI and Anthropic - BigGo Finance",
         "Google and Meta's new terms carry EU fine risk of up to 10% of sales - PPC Land"
-      ]
-    },
-    {
-      "date": "2026-10-24",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "Industry & Funding: The AI Lab Invites NVIDIA, Meta, OpenAI, Google and Microsoft to use TIP, Permanent, Quantum-Safe Proof of Who Made What - EIN Presswire",
-        "Policy & Regulation: OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning",
-        "Models & Products: Anthropic joins Meta and OpenAI’s personal AI assistant race with Claude Duet - Fortune",
-        "Models & Products: Meta, OpenAI and Anthropic AI agents get user-approved logins via 1Password - Cryptopolitan",
-        "AI Companies: Canva Craft Ranks Above Google, Microsoft, Meta on Day One; API Still Preview - Tech Times"
-      ],
-      "stories": [
-        {
-          "category": "Industry & Funding",
-          "title": "The AI Lab Invites NVIDIA, Meta, OpenAI, Google and Microsoft to use TIP, Permanent, Quantum-Safe Proof of Who Made What - EIN Presswire",
-          "summary": "The AI Lab Invites NVIDIA, Meta, OpenAI, Google and Microsoft to use TIP, Permanent, Quantum-Safe Proof of Who Made What EIN Presswire",
-          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
-          "source": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQODJFSG1uUDBINXhZVk91aVVndFVSaFhpc24wNjY4TFBNdHFpN1p6Yk0yWFdjeTFJWjhzYzlqWkloVjVKOXh0cGtxWGoxZS0xeDJIb0YyTVlHQjN1MWt0WjJyU2RHckw2dEFaYmFGWm1BVmpydDdZbTNMN0R2VHJuaVpiR2h6eGtqeDJCLVlMRVRBZ0dpMjJWNFZJRzJ5cDBjMmpsMFM1eEFJbjBsbVQzUW1SVUxzNFlFRVFWenFrY01jVHJyZEhnNG85NWI1aVRRQU44Yjlqb0FSMjQ4bVpaZGxFdTlZbDdHWENXdGhYRy1hd2xJ?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning",
-          "summary": "arXiv:2610.23670v2 Announce Type: replace Abstract: Chain-of-Thought (CoT) monitoring offers actionable evidence for oversight AI systems, with the potential to enable early detection and intervention.",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://arxiv.org/abs/2610.23670"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Anthropic joins Meta and OpenAI’s personal AI assistant race with Claude Duet - Fortune",
-          "summary": "Anthropic joins Meta and OpenAI’s personal AI assistant race with Claude Duet Fortune",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0Y0UXFkbWVlcjN3VHZKcEFPQzNkNWdvbGM2TWxHdGd4bXREaFJpQUU5cndXZHZLa2FkeDFEb282VTRkRGVQdnJTbzBlX21uNGl1MmlsOGJXbVRzVkQtME9SeUtaenN0MEhlV2ZnejlmWlhKc3cxTXFUeE9HS1dIUWRlaFI0V0F6VjRCeFlOU2o1MTFiLWVYSnFHbG95YUdMdUJZ?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Meta, OpenAI and Anthropic AI agents get user-approved logins via 1Password - Cryptopolitan",
-          "summary": "Meta, OpenAI and Anthropic AI agents get user-approved logins via 1Password Cryptopolitan",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBybkRMU2p5a1B0X3hmMFpOc1Ixa1lrdjlCQUU0cUJPZGdkNzBxTWg2Z011SHpsa25kb0Nzem1mNnUtVWdkS2pYVUhPYmNYT2V4b2k3Z05SUGpMdzl1VUxjMmp6d0JkUzVZdnVUazNNaHJVU2psM2JtYnNXU1Y?oc=5"
-        },
-        {
-          "category": "AI Companies",
-          "title": "Canva Craft Ranks Above Google, Microsoft, Meta on Day One; API Still Preview - Tech Times",
-          "summary": "Canva Craft Ranks Above Google, Microsoft, Meta on Day One; API Still Preview Tech Times",
-          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
-          "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN3VuREdwWHFtdFdsakJqQ1djZEhjaTNJWndDcm43N2hLMVpMUHhZNkY3czlIQ1QxaFNqVUlWZUxPdEs4Ul9iT2pTTTV5WTJBS2lUUXJoMklWdW9hX19EQVJzRTdGYTlTZlIybjBhVDUwM04tYmwzanZNbVh4Qmo2VWRZTElhcWpEZlFPSlB5M3puNnJiZXkxel9YSG5vOVpVb2J6dTFVUGtJOEUzT1lhN0hVdHZSUXlfNDdxQXJzcEh3TlFp?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Claude Duet: Anthropic’s Riposte to Meta Muse, OpenAI Dots and Instinct - CXOToday.com",
-          "summary": "Claude Duet: Anthropic’s Riposte to Meta Muse, OpenAI Dots and Instinct CXOToday.com",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVFFTNF9qcG92UkVZWXo0bWhzcmhveUZBUHhEZUl5UzdhNUNrZTk4a3lBSWRVZXNmY0FfdGpPY20xbVVzWURoYUR4bDBwNk1mZldTYWNwOXh0SGZiN0Foc2NMb1FOZWR3WFpwNmxGSzFLOEZiWExKTmxMU25MT01wOEtxcC1KV0JZdTZaZTRseW05Q1pOSmxwWQ?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "Second Thoughts: Exploring and Planning through Comparative Imagination in World Models",
-          "summary": "arXiv:2610.28779v1 Announce Type: cross Abstract: World models let agents compare imagined outcomes before acting, but an agent must still decide which alternatives to explore and when a proposed plan should replace its learned policy.",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://arxiv.org/abs/2610.28779"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "HyperDrone: Simulation-to-Reality Transfer at Millions of Frames per Second",
-          "summary": "arXiv:2610.28950v1 Announce Type: cross Abstract: We present HyperDrone, an extremely fast quadrotor simulator focused on high-performance batch rendering that is more than 20x faster than existing state-of-the-art batch quadrotor simulators.",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://arxiv.org/abs/2610.28950"
-        }
-      ],
-      "discordShort": [
-        "The AI Lab Invites NVIDIA, Meta, OpenAI, Google and Microsoft to use TIP, Permanent, Quantum-Safe Proof of Who Made What - EIN Presswire",
-        "OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning",
-        "Anthropic joins Meta and OpenAI’s personal AI assistant race with Claude Duet - Fortune",
-        "Meta, OpenAI and Anthropic AI agents get user-approved logins via 1Password - Cryptopolitan",
-        "Canva Craft Ranks Above Google, Microsoft, Meta on Day One; API Still Preview - Tech Times",
-        "Claude Duet: Anthropic’s Riposte to Meta Muse, OpenAI Dots and Instinct - CXOToday.com",
-        "Second Thoughts: Exploring and Planning through Comparative Imagination in World Models",
-        "HyperDrone: Simulation-to-Reality Transfer at Millions of Frames per Second"
       ]
     }
   ]
