@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-11-24T15:49:33+08:00"
+    "lastUpdated": "2026-11-25T14:22:15+08:00"
   },
   "issues": [
     {
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Models & Products: Frontier AI employees alarmed that unseen Open AI and Anthropic models are too powerful to release, report claims — worry spreads that executives are ‘out of touch’ with severity of risks, will choose profit over safety - Tom's Hardware",
+        "Models & Products: OpenAI and Anthropic employees reportedly fear some unreleased models are too risky to ship - Digg",
+        "Models & Products: Google DeepMind’s Gemini agents cut estimated quantum simulation costs by up to 11.8× - EdTech Innovation Hub",
+        "AI Companies: Report: DeepMind’s Elena Buchatskaya Has Joined Anthropic - FourWeekMBA",
+        "AI Companies: Google DeepMind tests why AI still gets simple questions wrong - Business Upturn"
+      ],
+      "stories": [
+        {
+          "category": "Models & Products",
+          "title": "Frontier AI employees alarmed that unseen Open AI and Anthropic models are too powerful to release, report claims — worry spreads that executives are ‘out of touch’ with severity of risks, will choose profit over safety - Tom's Hardware",
+          "summary": "Frontier AI employees alarmed that unseen Open AI and Anthropic models are too powerful to release, report claims — worry spreads that executives are ‘out of touch’ with severity of risks, will choose profit over safety Tom's Hardware",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPUDBvdGZPSXFmVHpDeGFIc1gyZTM2SDVpY1lsRF80djNqaDNzSkF5Uy1kbFdaT3ZFcG1abTRHVFFHYmFyZmVfMmVtUERkNVM0bU9xYlZUUF9qY3Vpa0tKRXlhZ2RqdVo2UmRvSjN1SklUOXA4anJfX2t4cURCLWQwTXJycUJURjNEZVB6ellRTUF4QWt4ZS1TOWZTNHNmUkN0elFXTFBNak5IMG5ONWpRM3QzUjZDTTAzcmgxcGFDMWFYd1NFc09LS1dDTTRvU1MwZ092ZEhsSkFHcW5zbTdpTjgxcmVzTHo2eUdZbUwta0VyT0h0am40MDhaMlZBeUJiUVluVy05TUlPbGRmdkptbDBUMHpLbFlBOFAweUR2OWlSUVN3R1NESHExdG5zOGE3U2pHWTdhOWFla040TUVHOWFRcXRaS2NGeV90MXFNd3NqMGRPRUlBR0tBcjAwMXlSTHJjOWVBM2dPZmdJd0VfNUtXNmcyQV91QTAtc0JGNU9kUTBKRXQ2VkpXUUo0aFBrOGc?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "OpenAI and Anthropic employees reportedly fear some unreleased models are too risky to ship - Digg",
+          "summary": "OpenAI and Anthropic employees reportedly fear some unreleased models are too risky to ship Digg",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE94emtBWmhCWXBXaWJxcXloNE10V0lkSVNTN3VMSVE4eFFPV1M2emRxdXF1SmJDR1AyR2tBSmNwbzlmQQ?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind’s Gemini agents cut estimated quantum simulation costs by up to 11.8× - EdTech Innovation Hub",
+          "summary": "Google DeepMind’s Gemini agents cut estimated quantum simulation costs by up to 11.8× EdTech Innovation Hub",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZWdSOVQtbzA2TERjN3ZXNUhBd1ZiZkdyVkJhQklSYWZCck0zOWwtV0xZeGdUaS1GVXkzNUZDcGJ4a1RneXhxa0M0LUxCWElMSVRtaU5iakJZY2hNMTNYNnFhWXM2TWlXWm1Gb3V4anFsREMyZUdxZV9OcDlhQUNoOU9MR3g5TGIyckxhV3FHUWM5NHgyR3p0TWlFUDZXX3JVN004U29hUXE0d0NWR3ZBZzdDbjRpVENYX3BoTE9mYWw?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Report: DeepMind’s Elena Buchatskaya Has Joined Anthropic - FourWeekMBA",
+          "summary": "Report: DeepMind’s Elena Buchatskaya Has Joined Anthropic FourWeekMBA",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQejBaN1hmMEtaUU9ySkJjcHlMOG5MQkZ1ZzVVa3pEcHplRnlnX3VZTXlEZ3BBMWZlTWE2Sy16Q3NDS3pNbUpKWktTQmdfQ2xxdllENy1pcmF4RDNSSzF6eG9vZ2JlOU14QUQySG9fVjc2Zk9IWnREbmd1dUtBM1V5UEZoMmxEX3pwYmFr?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Google DeepMind tests why AI still gets simple questions wrong - Business Upturn",
+          "summary": "Google DeepMind tests why AI still gets simple questions wrong Business Upturn",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMk5oZk5sZlBTNmRKNnFxRkZ4dHBmTnh5SlJLLXRlUXJCYjF1NEZuRVAwRzlUT01vS3lpN1FTQ1BKRkNUWnZwclN1eXlib1p1dVpDNnZqQ1pOVlp1OVJWV210RTZ3Q0EtOGtVOXRRZFExWjV1bEFvVnY0cXhHbkhRbjVweUhkTG9uUEFmckdMbVhGVEhDQ25McGNEdG1aV2VMaldr?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "AI models designing custom chips threaten Nvidia's dominance - TechGig",
+          "summary": "AI models designing custom chips threaten Nvidia's dominance TechGig",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnlXYV9MRkpfZnVOTXo5R1FUaExtTmxDNm45aGdDRzV0d0paR1lJUnhyN3k3TmF1YXdqZXM0ckN0b3JkUnZGbXVrM1ltQV83QllDeUpEaFZfeXMyZ0VaV25iLVdjRzBBOWNJQ25CR3I0dnJTU2RmVkpJbkxicUVUZ1MwaXZmb3VCRnVlWWkwWktCVDNuNWF0TC1OY3dsUWRYc1AzanFB?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "Google DeepMind’s 544-Prompt HFE Test Exposes LLM Consistency Gaps - Unite.AI",
+          "summary": "Google DeepMind’s 544-Prompt HFE Test Exposes LLM Consistency Gaps Unite.AI",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYnlpbjJrcF9BemRCTzg1YTdWcHdRZEJ0VTROVFJlQjJkd2E1b1NvZjNReWY4NGlwUlJKcHdhY0xqa2NweXZMZTNZT0NjVDdORXlKYjV6QzZfQ3k1ZWlXRDIxVWYzTEQxYk0tbzdqb3NnelJHV0s4bzM0bEtteDZvdzRNcnR5MUhmSVQ3VTIwMHk?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "AMD registers up to 336.9 million shares for resale, including 160 million each under its OpenAI and Meta warrants - MLQ.ai",
+          "summary": "AMD registers up to 336.9 million shares for resale, including 160 million each under its OpenAI and Meta warrants MLQ.ai",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYVRKMVZpbUJTMS1temwxQ3c1aUdFWG5MaGtUQlpDRGhfbWczM1EwRXNLd2VNWU95UEJiekQzTFA1R3YzNFlsTkFIUkI4TEV5NnpTVy1IN2VLSkV5UFBsTGxBMUtQR2JVMWwzcV80NE55S19qODZXT3ZuSXNFUnN5aGRWMFlEUUk4S0NUMVZRZVFHSFNNektDTy0talJrZU9lOGJLVms4d3d5SloxcWJQSmJLOXJsWTNwbnFZWmJmam1HbFVKVFFJZDV0ZFlpdw?oc=5"
+        }
+      ],
+      "discordShort": [
+        "Frontier AI employees alarmed that unseen Open AI and Anthropic models are too powerful to release, report claims — worry spreads that executives are ‘out of touch’ with severity of risks, will choose profit over safety - Tom's Hardware",
+        "OpenAI and Anthropic employees reportedly fear some unreleased models are too risky to ship - Digg",
+        "Google DeepMind’s Gemini agents cut estimated quantum simulation costs by up to 11.8× - EdTech Innovation Hub",
+        "Report: DeepMind’s Elena Buchatskaya Has Joined Anthropic - FourWeekMBA",
+        "Google DeepMind tests why AI still gets simple questions wrong - Business Upturn",
+        "AI models designing custom chips threaten Nvidia's dominance - TechGig",
+        "Google DeepMind’s 544-Prompt HFE Test Exposes LLM Consistency Gaps - Unite.AI",
+        "AMD registers up to 336.9 million shares for resale, including 160 million each under its OpenAI and Meta warrants - MLQ.ai"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Industry & Funding: Nasdaq-100 eyes $2 trillion boost as Nvidia shares soar 31%; Google, Meta, Microsoft, SpaceX, AMD rise up - The Economic Times",
@@ -2404,86 +2484,6 @@
         "OpenAI, Microsoft executives’ quotes on AI training threaten copyright defense, news outlets argue - DD News",
         "Microsoft AI Agents: Nadella, 11,000 Models [2026] - shattered.io",
         "Anthropic is pitching Congress its own AI safety bill, report says - Mashable"
-      ]
-    },
-    {
-      "date": "2026-10-25",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "Industry & Funding: AI: Anthropic’s $750B Compute Bill, OpenAI’s Trim, Nvidia’s Safety Net & More. AI-RTZ #1249 - AI: Reset to Zero",
-        "Risk, Safety & Copyright: UK vows 100 mn euros for biosecurity lab with OpenAI, Anthropic, and Google - Business Standard",
-        "Policy & Regulation: Anthropic Sued for Using Elvis Presley Music to Train AI Models - The Hollywood Reporter",
-        "Risk, Safety & Copyright: Britain is building the world's first AI biosecurity lab, with OpenAI and Anthropic inside - WION",
-        "Risk, Safety & Copyright: Anthropic is pitching Congress its own AI safety bill, report says - Mashable"
-      ],
-      "stories": [
-        {
-          "category": "Industry & Funding",
-          "title": "AI: Anthropic’s $750B Compute Bill, OpenAI’s Trim, Nvidia’s Safety Net & More. AI-RTZ #1249 - AI: Reset to Zero",
-          "summary": "AI: Anthropic’s $750B Compute Bill, OpenAI’s Trim, Nvidia’s Safety Net & More.",
-          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
-          "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOamx2aHBHdFpLMDNFLTVtSU03YnIwOHU2aDJuNGtMRzB5OGFTV3Q0SGZPdVVZTG9YTmNRNmoxclE2MklHeXpTeXFDX2JTRk54dHhsejY2ZjZUWkhxaHFMbnFOZ19RMC1fei1lc0lZRXZuV1EzSy1jQlZsdXFRZENyNkd3?oc=5"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "UK vows 100 mn euros for biosecurity lab with OpenAI, Anthropic, and Google - Business Standard",
-          "summary": "UK vows 100 mn euros for biosecurity lab with OpenAI, Anthropic, and Google Business Standard",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc0xDNDhDYUZoQXEzc3otVzR4QlJNbFBCV1NiODRSZHczei1ud2wzdDJ1TURicUNrT0l0MDRuZ3V1SVVSVzBxYV9pblp3SG05NHp5SV9DQW1hUHRyaFJVeGJxUm9yQ053RmVhdmZTVm5YY3MwY2FVa3d0MHdvRVF3bVk5WDB0dG1OVGlNLUE4dDd4N09yd05yTEVwYUdvSGpaMkl1d3NvZjJVdWxld2hjZk01ZlNhVzhndUxjbWdKOWFwd1cxMGV5azFZNEtKTWk1N3d4aDZNNDhJMWJQZTJFSU5R0gHnAUFVX3lxTFBBSWxjTkxTUm9NUGxDNTdMMS1pQUNqTVNzYUVJLS1WWjdROFI4X3FmS1ZUeUlSVWYzX01tUzJXTXBpWWcyWXd6WkN1VVByOGlnZ3Y5dEJJbjdjQk1PUHNpb0NYUXdGNG1XVHRqRmtVMHhFRW5FMFlTTm91YloyY0hZaDhLdlYzTFpTSlFhLTFVbHZ2UmhnM25EQnpTNXJEWUU0S24yNl9pUy13RXNLT0VhdndDYkFIZU1jbGZGUXpvamVWd2FRMEdlMTI3S2U5aGpmQk84eHRQcEVQWDFvUUtwYUdXTzBnQQ?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "Anthropic Sued for Using Elvis Presley Music to Train AI Models - The Hollywood Reporter",
-          "summary": "Anthropic Sued for Using Elvis Presley Music to Train AI Models The Hollywood Reporter",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2w5MWpVOHBzaUxLMllrM0c1SDcxREV3WGt1VGdMNjM2STE3VHBlSEZwSnBDc1lKWnJ5c0pPNWJHMHlZcV9rVXRRVjNGYkxOcUpNZmRQVmVHTEZJZ1NYcUJhVzBCeW1hQ09mZTIzZm5JVDZ0emRMN3hSUXdhUnhodkF5NWJYTVBZNzNVejk4RjJQWTd0b0lROXNjWHpYM0NKc0hSb1ZtVmM0QQ?oc=5"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "Britain is building the world's first AI biosecurity lab, with OpenAI and Anthropic inside - WION",
-          "summary": "Britain is building the world's first AI biosecurity lab, with OpenAI and Anthropic inside WION",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNkF2a3dXRzRRMmR0Q0s2UE1jSXNqaDVnRF9WMExzWE1zbDhWR2FzdTBmRFl6enlNZzlvS2l6djFvcGE2U0Vsc09wd0NHbkFTa0lXMWh5dVVKRHJQSkFQVjRMT081M1IwbkE0N2FXeXhBeEpxVE9JakJmeHJXcngxZjZsaDhfMFpmc1VUblBhSE1mbUJQU0xSVllsRlBvZ3liOUFkZ0Q0X0RFbGhnekZqSWZEV3hJY3VaM0FSRG9ENDIzMUpPOVNpaXYwbTVFZ9IB0wFBVV95cUxPekI4dURzZW5KRHhXUlhoYk5TdmNJX2dQODNmZU82dHV6Yk9HOUJqY3R5QnVvYzdTenpMZU5tRUNidkMteHNFRnFHZXlTdWl5RUw3Y0ZSTTZoRUtvcElJYk1lZndVcFU2WE44ZkdRNHVUSWFfUHg4cW5PTGYxdmVYOE5hejZOVHVJMi1VSjZNckx2dEJYa2dYNVA3UHhpRUFxYThQZWdwb3lwb2VMb3pESFhkYWJaZjlZQ2xPRGVTMXpCOEpjWHpXbkg2MWxpdzFtTmlz?oc=5"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "Anthropic is pitching Congress its own AI safety bill, report says - Mashable",
-          "summary": "Anthropic is pitching Congress its own AI safety bill, report says Mashable",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15NjVPYUtCV2RwQTJVZ0MtcDFJdV9INE9mOUpFdmUxQXg0bXI3WkJhVHNyN2ExOGFJRXAyZmpwWjY5SnMxYW05R2UtVVJzRHJGdldDcEdaU3RlcE1DdGFqT19CXzgwZnNUdk4zNEY1cUJXSWpsVVFn?oc=5"
-        },
-        {
-          "category": "Research & Open Source",
-          "title": "Google DeepMind Pentagon AI contract resignations: Researchers exit over classified military deals; all you need to know - Livemint",
-          "summary": "Google DeepMind Pentagon AI contract resignations: Researchers exit over classified military deals; all you need to know Livemint",
-          "whyItMatters": "Research and open-source work often signals where the next product wave or safety debate will move.",
-          "source": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOR1pZSkw2UnRZdC1VRzlXbk5lMXB5bDdTXzdUN01BR183dnJIU05GQzg4VjQ2bnBYWE1vd0wwUlJXWVYtdGM4SThQNGpoNFFsOGg0Z3F0MUd1dkR0X2U1bFNMRktUU2VTVTRYNTBoRUhaNjhENFNRSzdsUml3WkNQVmRtOVJaaHhCOGxLUHM4UG5Vdl81ZzhLZnhxMF9LeDk3aFlVVGpMSW81SXB2VFpUMWotR0ZfRmQxWDZZX3RZSEQzbnRPUGUteXhfeW9UMUNVNV9POGtzTUVWeVBsajFKYV9MYVVJX2U1ZkN4bDAtQ1FaekhtTUZOcnRLR1RNYW1LRVJ4N0lDanpOUdIBjwJBVV95cUxPUjRiU2xkY3FoSS1Qd3dTeFg4b3ZlZXNkWlFhbFFHRlVOYWZXendoVW4zVGNSNUs0dE4yVEJGYnNoUzVsZFBaN2FKM0t3YUVxWjdHNWk5a01qTEVXRGo4azhSd2UtMWpVTUpmWWQ3em8yYm42OUFITU9QdEFoRGpiMEMySVhQbm1TSjJ5OTJuR25MVDdzMHc3RkpnMjhRVzlDWmNuaThwOGdZRUNTOHJ2UUR6eXZGT05EcEdOSGZteUtTX1NnR3RtSUVNTlBPcGFrVzlyM1lxZ2R2cWpRRGVjTFduRnRIbjQ4RllhOG83aHBGTUFSODdsV3h2TGJxZkhWUkxJU25pZUh0ZE1LOVF3?oc=5"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "UK Bets £100 Million on World's First AI Biosecurity Lab, Backed by OpenAI and Anthropic - BigGo Finance",
-          "summary": "UK Bets £100 Million on World's First AI Biosecurity Lab, Backed by OpenAI and Anthropic BigGo Finance",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qa2FnTnZlSjdxNnJrMEc1bXctdGZCTGN1VmtESGlzZ3ZiOGlQc25WR2oyQlV2eDdhazBwRTlfT3N4a1FCQWxSRkZ2SnRvTWdIaGtKU1BxSG4ta256aFNwZXVaaXpSMTNlRGxfa3kwZkdqbHdsRmc?oc=5"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "Google and Meta's new terms carry EU fine risk of up to 10% of sales - PPC Land",
-          "summary": "Google and Meta's new terms carry EU fine risk of up to 10% of sales PPC Land",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaU9BWUtxNXRRQ1dSdnpFRDBGSU1ZSDQ3UWdVc2p4UDhIblFaZkR4UWctWWJ2UlJ3WjA1M2hRSVN2LTAxNnhLUV9YdzdIcHBQOC0xSVA4cXdiOG1wX01hQURaS05aNTFkUW4tSjB3NHI0SzJKYmJ6VVhwY3M3RW5weW9pdHpJcnpPY3YyQQ?oc=5"
-        }
-      ],
-      "discordShort": [
-        "AI: Anthropic’s $750B Compute Bill, OpenAI’s Trim, Nvidia’s Safety Net & More. AI-RTZ #1249 - AI: Reset to Zero",
-        "UK vows 100 mn euros for biosecurity lab with OpenAI, Anthropic, and Google - Business Standard",
-        "Anthropic Sued for Using Elvis Presley Music to Train AI Models - The Hollywood Reporter",
-        "Britain is building the world's first AI biosecurity lab, with OpenAI and Anthropic inside - WION",
-        "Anthropic is pitching Congress its own AI safety bill, report says - Mashable",
-        "Google DeepMind Pentagon AI contract resignations: Researchers exit over classified military deals; all you need to know - Livemint",
-        "UK Bets £100 Million on World's First AI Biosecurity Lab, Backed by OpenAI and Anthropic - BigGo Finance",
-        "Google and Meta's new terms carry EU fine risk of up to 10% of sales - PPC Land"
       ]
     }
   ]
