@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-11-25T14:22:15+08:00"
+    "lastUpdated": "2026-11-26T14:14:26+08:00"
   },
   "issues": [
     {
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Policy & Regulation: Facing Legal Pressure And Industry Alarm, OpenAI And Meta Push For AI Development Guardrails As Anthropic (NYSE: ANT) IPO Fuels Market Frenzy - Foreign Policy Journal",
+        "AI Companies: OpenAI and Meta chiefs push back on Anthropic’s vision of handing decisions to AI - Cryptopolitan",
+        "Policy & Regulation: TACT-Bench: Testing Adaptive Conversational Threats against Tool-Use Agents",
+        "Policy & Regulation: Sparse Poison, Strong Hijack: Efficient Trajectory-Level Backdoors in Vision-Language-Action Models with Only 1\\% Poisoning",
+        "Policy & Regulation: Assessing Robustness to Catastrophic Forgetting in Continual Deep Reinforcement Learning for Cyber-Physical Systems"
+      ],
+      "stories": [
+        {
+          "category": "Policy & Regulation",
+          "title": "Facing Legal Pressure And Industry Alarm, OpenAI And Meta Push For AI Development Guardrails As Anthropic (NYSE: ANT) IPO Fuels Market Frenzy - Foreign Policy Journal",
+          "summary": "Facing Legal Pressure And Industry Alarm, OpenAI And Meta Push For AI Development Guardrails As Anthropic (NYSE: ANT) IPO Fuels Market Frenzy Foreign Policy Journal",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQU21NWHRSNGE5T0dHSVdYLUU5QlFHWHdsb2drdDZ1RUdhZ2VSeWhWanN0ZTZORzFvVW1vYWxhejNxTTQtcVFNcFVMWTBic0pJN29DSnk2SnNFWU9lYnhFcGx2bVZWNjVPUkJoZXNyeHF4ZmoyOF92enowMW5SVEM3RWNCRUIxemhUaG1qWU9Fb3ZBQk5yV0wzLUFpaTZPa1pCSE53bjdZaEhWREgtMkhtc0xnTjNIVU1WTFozREZRSXNCaGUzcmRwZHpjV3NtM01jZ2VyQmo3ODJLSF9uM1lZZmpJTnJoS29wZkQzOWd6XzdHYmlPQjk1dmJmNEM3V3dCX1pRMzNJNC1YWklwYmJvTXpfd0c?oc=5"
+        },
+        {
+          "category": "AI Companies",
+          "title": "OpenAI and Meta chiefs push back on Anthropic’s vision of handing decisions to AI - Cryptopolitan",
+          "summary": "OpenAI and Meta chiefs push back on Anthropic’s vision of handing decisions to AI Cryptopolitan",
+          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
+          "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WTjlrV3A0eWI0b0trQXREWDh5bXRwMExrZG45M0h2SmhBNzBaMXVzQnlDbzVJTmprUTdtQ1A3U01EUzhlRXl4MERiU19qM3Q0WnBlZlpoV3k5TDFDRGIxLUZYZGM3eFhfVVVQTl9RYkExcFEzaGNIaw?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "TACT-Bench: Testing Adaptive Conversational Threats against Tool-Use Agents",
+          "summary": "arXiv:2611.31756v1 Announce Type: new Abstract: The growing autonomy of AI agents in using external tools and making decisions has created an urgent need for comprehensive safety benchmarks.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2611.31756"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Sparse Poison, Strong Hijack: Efficient Trajectory-Level Backdoors in Vision-Language-Action Models with Only 1\\% Poisoning",
+          "summary": "arXiv:2611.32304v1 Announce Type: new Abstract: Vision-Language-Action (VLA) models advance robotic manipulation, but their reliance on demonstrations exposes them to backdoor threats.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2611.32304"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Assessing Robustness to Catastrophic Forgetting in Continual Deep Reinforcement Learning for Cyber-Physical Systems",
+          "summary": "arXiv:2611.32496v1 Announce Type: cross Abstract: As the use of reinforcement learning (RL) becomes more widespread in cyber-physical systems, it becomes increasingly important to design RL agents that are able to adapt to changes in their environments in order to maintain safety and reliability.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2611.32496"
+        },
+        {
+          "category": "Models & Products",
+          "title": "MADRA: Multi-Agent Debate for Risk-Aware Embodied Planning",
+          "summary": "arXiv:2511.21460v2 Announce Type: replace Abstract: Large Language Models (LLMs) exhibit impressive reasoning capabilities but often suffer from \"Embodied Semantic Hallucinations\" - generating plans that are semantically fluent but physically unsafe due to a lack of grounded common sense.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://arxiv.org/abs/2511.21460"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Confidence scores for gated automation of large language models",
+          "summary": "arXiv:2611.33394v1 Announce Type: cross Abstract: AI agents built on large language models (LLMs) demonstrate strong capabilities in automated decision-making.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://arxiv.org/abs/2611.33394"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Safe Inference-Time Alignment via Lagrangian Reward Augmentation",
+          "summary": "arXiv:2607.02781v3 Announce Type: replace-cross Abstract: Inference-time alignment steers a frozen language model during decoding using auxiliary reward signals, avoiding the cost of repeated weight updates.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2607.02781"
+        }
+      ],
+      "discordShort": [
+        "Facing Legal Pressure And Industry Alarm, OpenAI And Meta Push For AI Development Guardrails As Anthropic (NYSE: ANT) IPO Fuels Market Frenzy - Foreign Policy Journal",
+        "OpenAI and Meta chiefs push back on Anthropic’s vision of handing decisions to AI - Cryptopolitan",
+        "TACT-Bench: Testing Adaptive Conversational Threats against Tool-Use Agents",
+        "Sparse Poison, Strong Hijack: Efficient Trajectory-Level Backdoors in Vision-Language-Action Models with Only 1\\% Poisoning",
+        "Assessing Robustness to Catastrophic Forgetting in Continual Deep Reinforcement Learning for Cyber-Physical Systems",
+        "MADRA: Multi-Agent Debate for Risk-Aware Embodied Planning",
+        "Confidence scores for gated automation of large language models",
+        "Safe Inference-Time Alignment via Lagrangian Reward Augmentation"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Models & Products: Frontier AI employees alarmed that unseen Open AI and Anthropic models are too powerful to release, report claims — worry spreads that executives are ‘out of touch’ with severity of risks, will choose profit over safety - Tom's Hardware",
@@ -2404,86 +2484,6 @@
         "Anthropic's new AI agent takes aim at Meta and OpenAI with one key advantage - Yahoo Finance",
         "2027: Rise Networks, INEC, Meta, Google, Microsoft Launch ₦10m AI Election Hackathon - LEADERSHIP Newspapers",
         "Nvidia Stock Gains 1.7% as Anthropic IPO Filing and Meta Share Sale Revive AI Trade Ahead of Big Tech Earnings - International Business Times Australia"
-      ]
-    },
-    {
-      "date": "2026-10-26",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "Risk, Safety & Copyright: Google, OpenAI and Anthropic back £100m UK AI biosecurity lab - City AM",
-        "Models & Products: UK Launches £100 Million AI Biosecurity Lab with Google, OpenAI, and Anthropic - TipRanks",
-        "Industry & Funding: Corporate Renewable Energy PPAs 2026: How Amazon, Google, Microsoft and Meta Are Driving Clean Energy Investment - GreentechLead",
-        "AI Companies: Tech Layoffs 2026: Job cuts near 2 lakh globally as big tech like Microsoft, Google, Oracle, Meta & more pivot to AI - Livemint",
-        "Industry & Funding: Google DeepMind staff resign over AI deals with US military, raise safety concerns: Report - The Financial Express"
-      ],
-      "stories": [
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "Google, OpenAI and Anthropic back £100m UK AI biosecurity lab - City AM",
-          "summary": "Google, OpenAI and Anthropic back £100m UK AI biosecurity lab City AM",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRGxlUzNmVlZtSTlxODFSNTdJTDl0cFdBTkozTGlKTWdmQjdSZzA4bTc0UFIxWWlOaHBzUXl3bDZLaS1obFRlaW5VMTdpWW1xZjh2QXQyX0h4aFhPc29CSWxxdmNWLWxHOUJIUHNsZ0ZQdzZBS19mSUxfc0Z3eGdjd1NiRm9FVUZYQklz?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "UK Launches £100 Million AI Biosecurity Lab with Google, OpenAI, and Anthropic - TipRanks",
-          "summary": "UK Launches £100 Million AI Biosecurity Lab with Google, OpenAI, and Anthropic TipRanks",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNakItN3ZfRm8yQzZ1OEpfZ0RkRnBfY3U5ektYX19sVHhxNUl2MFNCcTV5QVh1dk81WmJNLWJxcFFDcUFwSU1wdmxHZjJacVB1RWw0a0xiOXpscmZqVzlWYUhXY3pteGlZeUhtMWpNbVJaaTRsR3daZlY3Z2E3V1JKVDdScENFRURtLUlpbkk2WVpNUUhvWjE1cjFBTXI3Zk96MnFWNDlMelc?oc=5"
-        },
-        {
-          "category": "Industry & Funding",
-          "title": "Corporate Renewable Energy PPAs 2026: How Amazon, Google, Microsoft and Meta Are Driving Clean Energy Investment - GreentechLead",
-          "summary": "Corporate Renewable Energy PPAs 2026: How Amazon, Google, Microsoft and Meta Are Driving Clean Energy Investment GreentechLead",
-          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
-          "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORjExT0FkWkQ5OGpwNlpkWEtNbFdQZFVLc0xPMk81clNIZFY4czQ0XzRmR25FQ1dUTlRod2xuQnhHeTBxd0pWTldmeUJFWEJZOGl4MU9PX1VKVkVTUHVIZVhMLUd5bEcxbzNLQm5kTHl0T3YwZ2lNODduMDMyZWRHOFc0cEItbUJiTVJsbTJJSk1SQ3ltbTZrRElaalM3SDY4dEthMWJnTEdfaEFydzdrSVlsZU5CaGg5MllPSDh5dVN4QmcxREUxQnpwS242dWxJdFhTLUFHWUFHTGpYdTNjaXJpMUhqOGVPakc4Z3hzOA?oc=5"
-        },
-        {
-          "category": "AI Companies",
-          "title": "Tech Layoffs 2026: Job cuts near 2 lakh globally as big tech like Microsoft, Google, Oracle, Meta & more pivot to AI - Livemint",
-          "summary": "Tech Layoffs 2026: Job cuts near 2 lakh globally as big tech like Microsoft, Google, Oracle, Meta & more pivot to AI Livemint",
-          "whyItMatters": "Company strategy affects the products, pricing and platform choices available to the market.",
-          "source": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSDdKS1Vqa1ZteEFhdXlTRHI1U1JOZUtBWUp3Wnkxd0tOQ05zSzNqelhfYTJCUXEtZzUxbUgwaHIyeWJmajRITS04TXotXzZRS1FRUlliaVYtUGlFd1NLOVA1VE5uaWg0UzVRMlFnTzFWazloNTNQRzJHMFFkZGlYdEdsSHJiWWZwSUlndzJNRlR1enZEYVh2U1Q3dWpEMUpsSFJxSUNZazB0aUMzYl8teG5SQjVUaXZTQlJWUW5yNktncjZsdmRPLUl6aHBlMDFhei0yQ0tTcWt4WVBnSlNsRk5VVndXN0ZYUzRwUVp2T2lFekhSYl9rcVhEX0FMWF80QUdtNEJlTdIBjAJBVV95cUxOeTc1T1hLNlRXOXdEZWNQQ09FZDIya2hqV0RLcGdHVndHY3NNa19vODZteVlTWllsYV9PTjZub1YyZHFWcUpBWTRZQUJ4VUhGVDg1Vnc5REZMSUt4ai1xaE5JelRFc3BCeHA2LWZ6bnFTX3MzMjFPaFFyd2lBQnBzaDVYOHdMckZIRkc2YkxZZDNxSjlKYWp4enBUQUltUjBIMjh2MFBsMjNjTUN5ekQtU1ZNcVJKTzJIZlBnZVNrb3ZTU0pyWlJXUUV1WHJOeU5DTjlCZVo1SjJLSUdFVndkTHlrc3hENUJXQ2xZTWp2bFdvaTQyQmFNemhPVERUVWdaLXZNT2ZZdFdaSFEz?oc=5"
-        },
-        {
-          "category": "Industry & Funding",
-          "title": "Google DeepMind staff resign over AI deals with US military, raise safety concerns: Report - The Financial Express",
-          "summary": "Google DeepMind staff resign over AI deals with US military, raise safety concerns: Report The Financial Express",
-          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
-          "source": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZHNQT281eUF2MmF0U0huMUhsRERTcU5BLW1zSnREZGVna1NQT3p2R3FpX1JVd0J4NEhKVGZoblE3akhublFKZjVJUFc5M3puSDBwSHFCaHo5cm8tRjRmbG8tU1B6bTBGdzJKSzEtOERmcWM3aTVlaTJ1WDVMOU1fOFllR0YxUWJBQm4yMWwta1ZjZ2o3amZabzQ4dzZJQ2hSWW55WWhuUGZjWWR3ZmlPNjdOVnp0TDRhYmM5NFM3WEpxdTJHUlZINTJXRFQzZDlLWXJUYUJIQldPNXl1WmtEVVdUQdIB6gFBVV95cUxNaWtGMGt3SV9JeWpqN280QVhZNzB0TXBqWm1qUjJFcVl0SnQxM2hCalVDc0pMM0NQalFVTTlSUHBMbEVzS29JYTUteDVRN3ZiSGFEOXdNMzNnUTNjaVdRYm1ZbTdlTWZCYlVZSzRBWnhKeGQ0SFQ4Q3dOcG1ScDR5eFd3LTlkclhnUjdKcFZGa0dDZTZVUWZwT0lwS1hibUpUaXI0OW1OazNXZTBVQVZQbkJ1aXc0NVpKLU5HNGxsN0NBSlQyb3RKNFVNS2VoZktHdURjME90SDhIMmR0Y1ROR3U5aGFFUmNsa2c?oc=5"
-        },
-        {
-          "category": "Policy & Regulation",
-          "title": "OpenAI, Microsoft executives’ quotes on AI training threaten copyright defense, news outlets argue - DD News",
-          "summary": "OpenAI, Microsoft executives’ quotes on AI training threaten copyright defense, news outlets argue DD News",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWTZuNFRvQkI3c3VuSEJac1d2X3hYeERxYUhzZVhwWXVCQ0FpbFl6VlFHc29DemdiVzJ5MmhLUVh6cldxNm5DeGxvYzg5dGlMWWxyUFhNVHVDbkVDcURhd2FfbXZ4bEdvdW5FTjdUQ1dWbHRlMG91RGxxVlJUT0JfQzRmcEd3em1GVjdQNFBkVmN0U1lKakpWN1hFRFI2MEZpS212NmIyeUZjNjFtQWkydngyR2RnUjhlbmthT3dn?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Microsoft AI Agents: Nadella, 11,000 Models [2026] - shattered.io",
-          "summary": "Microsoft AI Agents: Nadella, 11,000 Models [2026] shattered.io",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOUQ4NkdmaEF6TW9IcVAwSDNLTDBUWXhmNUFWR2VNUUFtLVlVSnRvWHlXTlFTb2NYOWQtblpFM0NRdE5URUwzdGYwTzAwTG5VT2xmUS1ZWkJkTTFRbW5RYzZ0TEpNUmcxSGNtQVhaSHhLYVBCazlLOXh0NklsVGV5QjhtS1lNWWl5cHhqYWNVTQ?oc=5"
-        },
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "Anthropic is pitching Congress its own AI safety bill, report says - Mashable",
-          "summary": "Anthropic is pitching Congress its own AI safety bill, report says Mashable",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15NjVPYUtCV2RwQTJVZ0MtcDFJdV9INE9mOUpFdmUxQXg0bXI3WkJhVHNyN2ExOGFJRXAyZmpwWjY5SnMxYW05R2UtVVJzRHJGdldDcEdaU3RlcE1DdGFqT19CXzgwZnNUdk4zNEY1cUJXSWpsVVFn?oc=5"
-        }
-      ],
-      "discordShort": [
-        "Google, OpenAI and Anthropic back £100m UK AI biosecurity lab - City AM",
-        "UK Launches £100 Million AI Biosecurity Lab with Google, OpenAI, and Anthropic - TipRanks",
-        "Corporate Renewable Energy PPAs 2026: How Amazon, Google, Microsoft and Meta Are Driving Clean Energy Investment - GreentechLead",
-        "Tech Layoffs 2026: Job cuts near 2 lakh globally as big tech like Microsoft, Google, Oracle, Meta & more pivot to AI - Livemint",
-        "Google DeepMind staff resign over AI deals with US military, raise safety concerns: Report - The Financial Express",
-        "OpenAI, Microsoft executives’ quotes on AI training threaten copyright defense, news outlets argue - DD News",
-        "Microsoft AI Agents: Nadella, 11,000 Models [2026] - shattered.io",
-        "Anthropic is pitching Congress its own AI safety bill, report says - Mashable"
       ]
     }
   ]
