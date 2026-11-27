@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-11-26T14:14:26+08:00"
+    "lastUpdated": "2026-11-27T14:03:39+08:00"
   },
   "issues": [
     {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Policy & Regulation: OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning",
+        "Models & Products: Apple Enters the AI Agent Race as It Takes on OpenAI, Anthropic, and Meta. What That Means for AAPL Stock. - Barchart.com",
+        "Models & Products: Moonshot reportedly turns to Google and Meta models for distillation - The Next Web",
+        "Models & Products: Moonshot AI Begins Distilling From Google and Meta Models Amid Delays - Unite.AI",
+        "Models & Products: Confidence scores for gated automation of large language models"
+      ],
+      "stories": [
+        {
+          "category": "Policy & Regulation",
+          "title": "OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning",
+          "summary": "arXiv:2610.23670v3 Announce Type: replace Abstract: Chain-of-Thought (CoT) monitoring offers actionable evidence for oversight AI systems, with the potential to enable early detection and intervention.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2610.23670"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Apple Enters the AI Agent Race as It Takes on OpenAI, Anthropic, and Meta. What That Means for AAPL Stock. - Barchart.com",
+          "summary": "Apple Enters the AI Agent Race as It Takes on OpenAI, Anthropic, and Meta.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYXdfa3Bna1FYMHFuMy1haFR5VzUwdDBta2xLbzU3UnhnTlZVQ1JETWFKT0ZORGNDeVQyNEF5dHQ0X3loYXNlVktodi1xMHR6eTdUdGVxSnhMS1NJN0lXZnBuQTdWRGVoN3ctYkk0Y0hXSkpfLUhEQXY4N0dxcUpyQkRsYkU4NWhMVDNmMjQ0a0xXdmdCWktWaVhBYlZUd2hSNzBoOWtCTWloa1RscW9KcEdBZms1YUxlRktHM0VveVhYS0VnMDVKaGx2TzA5QkJYeTlUSENUOTV3bjZNTG5F?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Moonshot reportedly turns to Google and Meta models for distillation - The Next Web",
+          "summary": "Moonshot reportedly turns to Google and Meta models for distillation The Next Web",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnI3ZnRtNXZNZENHQWItQ0JNbkhqUkpqemJJRTM2SFBpSE9MTWF2VXluYTZlRGR0R3hqN2RTUjJyUjE1ejNaMHJlUnpvMmQ2b1VvOUZZeTk1RTBfSEgxMldqalhDLXhtVjdIaHJjV3h0Q0VxTlp6ZnV3dTlLUVU5N3Nfdw?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Moonshot AI Begins Distilling From Google and Meta Models Amid Delays - Unite.AI",
+          "summary": "Moonshot AI Begins Distilling From Google and Meta Models Amid Delays Unite.AI",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObjFPRUpYdWhvSngxLTk1eWxVS0lBSjdxdm5jVWNZQ0IxdTFxOUwwdExYZHk2bUxVUF9nUlByWXdQNEk0YmlEUEhpdDdUbWtVMDJkOU1ud0pTNlV3R2NQMUg0Ynp0TDYtQWJDSzVDalkxbVQzcmFfV29SOXg0dS1uTmE4ZGJNUkdPLTRhQkhMQy1CSk1lZkE?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Confidence scores for gated automation of large language models",
+          "summary": "arXiv:2611.33394v1 Announce Type: new Abstract: AI agents built on large language models (LLMs) demonstrate strong capabilities in automated decision-making.",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://arxiv.org/abs/2611.33394"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Can Its Own Misses Teach an MLLM to Find Small Brain Metastases?",
+          "summary": "arXiv:2611.33836v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) are becoming general readers of medical images, yet they remain weak at locating small abnormalities.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2611.33836"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Should Service Requirements Be Scalarized or Constrained When Minimizing Costs? A Case Study on HVAC Control",
+          "summary": "arXiv:2611.33946v1 Announce Type: new Abstract: Automated decision systems, from learned policies to model-based optimizers, often minimize costs such as energy or resource use while meeting a service requirement, for example the quality of service (QoS) specified in a service level agreement (SLA), a comfort band, or a safety margin.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2611.33946"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "Best-of-$N$ Test-Time Steering Can Lead to Reward Hacking in Vision-Language-Action Models",
+          "summary": "arXiv:2611.33398v1 Announce Type: cross Abstract: Vision-language-action (VLA) models have shown promise for general-purpose robotic manipulation, but adapting to changing environmental conditions still remains challenging.",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://arxiv.org/abs/2611.33398"
+        }
+      ],
+      "discordShort": [
+        "OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning",
+        "Apple Enters the AI Agent Race as It Takes on OpenAI, Anthropic, and Meta. What That Means for AAPL Stock. - Barchart.com",
+        "Moonshot reportedly turns to Google and Meta models for distillation - The Next Web",
+        "Moonshot AI Begins Distilling From Google and Meta Models Amid Delays - Unite.AI",
+        "Confidence scores for gated automation of large language models",
+        "Can Its Own Misses Teach an MLLM to Find Small Brain Metastases?",
+        "Should Service Requirements Be Scalarized or Constrained When Minimizing Costs? A Case Study on HVAC Control",
+        "Best-of-$N$ Test-Time Steering Can Lead to Reward Hacking in Vision-Language-Action Models"
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Policy & Regulation: Facing Legal Pressure And Industry Alarm, OpenAI And Meta Push For AI Development Guardrails As Anthropic (NYSE: ANT) IPO Fuels Market Frenzy - Foreign Policy Journal",
@@ -2404,86 +2484,6 @@
         "Google DeepMind is unveiling Genie 4, its most realistic AI world model yet - Quartz",
         "Google DeepMind unveils Genie 4, the world model that once tanked gaming stocks - Startup Fortune",
         "Google DeepMind Rolls Out Genie 4 World Model in Research Preview - Unite.AI"
-      ]
-    },
-    {
-      "date": "2026-10-27",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "Risk, Safety & Copyright: OpenAI, Anthropic, and Google DeepMind Join UK’s New AI Biosecurity Mission - Brave New Coin",
-        "Models & Products: Google DeepMind's AI model outpredicts traditional hurricane forecasts - Fix The News",
-        "Industry & Funding: Meta, SpaceX, Anthropic stoke the AI funding frenzy. What it means for our stocks - CNBC",
-        "Models & Products: 2027: Rise Networks, INEC, Meta, Google, Microsoft join forces to launch #AI4Elections Hackathon - Vanguard News",
-        "Models & Products: INEC, Meta, Google, Microsoft, Rise Networks launch AI hackathon ahead of 2027 elections - Premium Times Nigeria"
-      ],
-      "stories": [
-        {
-          "category": "Risk, Safety & Copyright",
-          "title": "OpenAI, Anthropic, and Google DeepMind Join UK’s New AI Biosecurity Mission - Brave New Coin",
-          "summary": "OpenAI, Anthropic, and Google DeepMind Join UK’s New AI Biosecurity Mission Brave New Coin",
-          "whyItMatters": "Safety, privacy and copyright issues define what AI systems can responsibly do at scale.",
-          "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ3ZtM2FBa2c1Um1ia2hhM1dmOGk3OWVwd3NCRFFSTk1Wa0hwTXFWdzZjQlNNcEpXU2pWUkR3WjNhNm5TSHhJNEdBZHBFNmpIa214TTQ2Z052QVcya1FMeUJndElHcEoxN1dvdXpabTFzMkxxeXZRZ0lVMS1GWWo2czE3VXBsZ3BTR2g1dUlrSEVjN0ZQVUZIcjZzYU1jWWd5VVFmRUZxTEJqUQ?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Google DeepMind's AI model outpredicts traditional hurricane forecasts - Fix The News",
-          "summary": "Google DeepMind's AI model outpredicts traditional hurricane forecasts Fix The News",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdDQ2aEk2Zkk4YUZEUG1aOU1ZVmI5ZTlraXBuZk0wdG43RnVkNFBUQUVyQVJJRWNiLWVtbXRhUGU5MXZQVlpPdTBFQ2xEeFJRUk8yYTFuTmo2R2J5OVR2MVJMSllmTjJqOGVyelhZaHNCR0NBRGNFdnRRX3ctaUpRM0ZBQWJIeWdLOVE?oc=5"
-        },
-        {
-          "category": "Industry & Funding",
-          "title": "Meta, SpaceX, Anthropic stoke the AI funding frenzy. What it means for our stocks - CNBC",
-          "summary": "Meta, SpaceX, Anthropic stoke the AI funding frenzy.",
-          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
-          "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd25SWkRCVFRJbE5HZ2hPcUlhc3A2cU40ekVnR3BpRU54RDhCekpGUXV4bWdMemFEeXhzTHJza2F3Z1NicXZIV1dnSXk5N0xobDZPTElHM1pSb09oeE1LeHNHRHh0WnlJbzlXZnhnMXRuOTlNNFVZNEZiME5VeGJRcDV1M0lxR3Jpd3Nwb1JQcG1FaXpQNlhpMWVEQnoyNjJ5LWNtU3BoUzZhN0dhMkJfTEJENlIxUDVBNmFaZGRnclNSRld3eExzMg?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "2027: Rise Networks, INEC, Meta, Google, Microsoft join forces to launch #AI4Elections Hackathon - Vanguard News",
-          "summary": "2027: Rise Networks, INEC, Meta, Google, Microsoft join forces to launch #AI4Elections Hackathon Vanguard News",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUVc3ckxzUERCbks1YXZyeDMwN2pCa0l1eEdFaG42YlhlNXI4YTFkVFMxcDZhLVNjQWNvanVzYjdNa2swSTF5dXR1cVVDbktfU1BsWHJ0M2RULV9SNTdWN3Z6VzRZbERZZ1N2Q2x0aE41a1l1OWFQeWpadS1QYTdLVkxuSFdQeEl0VXZWelFlbklxQVpDTzBfbUpqOHNneUhrSWNRc1FOS0hGZDJad0NlRTVTVUZEYVFKWGlXUDF6RUJhV2ZtSGfSAcsBQVVfeXFMUG52LTJrUVpibHp0WnFXMmswTkVkREJxbkM4TGhDYVBtM2dHZmNMU1ltZ1V0MVpKRmM5TFZYS3JWbTU5SjA2ZXl6dVZLTHE0RzFrQ1NXMFlhWEE2bDlQRHp6WTBXdlVHVlN1UVVUN3pVVlQ0enAwb3V1YjA3SUxyNVhLY3RVclg5UDFRN1NBMWNIUkUxRHoxYWVrcVRoWEhDT3A3MlVkMkxTT1diQ1VkSE1jOW12UENZRVdDOXY0UmdvY05xdlBQaExNMlU?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "INEC, Meta, Google, Microsoft, Rise Networks launch AI hackathon ahead of 2027 elections - Premium Times Nigeria",
-          "summary": "INEC, Meta, Google, Microsoft, Rise Networks launch AI hackathon ahead of 2027 elections Premium Times Nigeria",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWnJSUmxRbHFUbHVVUE1qVzYyazQzbF9XZEM1dXBsSElQX2dIUVpyallzOGVCVkxPamRJaUV0Z0VjR3hWQVAwdWRqQXV2RlE1bG5DMjVfZnJaVVZ2Ylhsal9rV211YUI2VGlMTUVNZ1Awd1M1VjhFR0JRNk01Q2FCR3VBZUZBR01ZeXdTUUtxYWcyb1JGVG5kXzU4OFpPcWZwbExXZG5Zal94RFV1NEtkNEs3V25fQXlCXzNlMUxFeEx4MENXZWdZVVZqMFRMNkFpckFIRHZEVXdfQQ?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Anthropic's new AI agent takes aim at Meta and OpenAI with one key advantage - Yahoo Finance",
-          "summary": "Anthropic's new AI agent takes aim at Meta and OpenAI with one key advantage Yahoo Finance",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWDBNZnVJSVpzTUF0b2pPbXJsNUJEdDFfWW9sR3lKODZWX2dsdEFBNGhlekhxVmlvQUUwb085SzhxQTdZRU1vWjlZaGN4aHZSSTRVLTlvRjJkZnVNZlVYUFl0NEhtREdKeEp0YlFJWkdlS1JLSlNUTnhRY3RjQlhOUjRiVjN5dXBPU3hobkhfQm9aajNlRFZSN3pvb0R0YVAtRExnMk41TEhEaUI1NXZaRDl4eWZERndUSnlndzg4VQ?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "2027: Rise Networks, INEC, Meta, Google, Microsoft Launch ₦10m AI Election Hackathon - LEADERSHIP Newspapers",
-          "summary": "2027: Rise Networks, INEC, Meta, Google, Microsoft Launch ₦10m AI Election Hackathon LEADERSHIP Newspapers",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaXhRd25Ucnp0cmlRV1BBTzRKbG9ia1RneEQ1aUxZcWhRcHIzOEhucC16b0ZLTmh6N0pxOW9PNzB5ZXhDUi1ab1hrT1R3LWY4d2E0anppRU9YcXE2QlZzMFlVejFteFhvRHNLbjBwdGpPTTFqNmU2Vi13MGR5dEZpVTQtbGU2MFBWeVlyU0prV3M2MXBNdE04YTNCMnZuTDk4VjFzM1lxNzZqNGN5WGtZ?oc=5"
-        },
-        {
-          "category": "Industry & Funding",
-          "title": "Nvidia Stock Gains 1.7% as Anthropic IPO Filing and Meta Share Sale Revive AI Trade Ahead of Big Tech Earnings - International Business Times Australia",
-          "summary": "Nvidia Stock Gains 1.7% as Anthropic IPO Filing and Meta Share Sale Revive AI Trade Ahead of Big Tech Earnings International Business Times Australia",
-          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
-          "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUUFOVlJ6QmYtaWFDeU4xMjgwaDBrTWtrclJyNnVYT3k0Yk9YSkFWMzlCZEdZd0IyMF8tOGFxaDR4SE9WQWdoTDF6T2l0VWhjWm05WEF6Z3J0ZXhHNWhHeEFjUDI2MDVUbXJFVjZpTHd1dGlSOTRXLXVnZ1c4SEhOVDdB?oc=5"
-        }
-      ],
-      "discordShort": [
-        "OpenAI, Anthropic, and Google DeepMind Join UK’s New AI Biosecurity Mission - Brave New Coin",
-        "Google DeepMind's AI model outpredicts traditional hurricane forecasts - Fix The News",
-        "Meta, SpaceX, Anthropic stoke the AI funding frenzy. What it means for our stocks - CNBC",
-        "2027: Rise Networks, INEC, Meta, Google, Microsoft join forces to launch #AI4Elections Hackathon - Vanguard News",
-        "INEC, Meta, Google, Microsoft, Rise Networks launch AI hackathon ahead of 2027 elections - Premium Times Nigeria",
-        "Anthropic's new AI agent takes aim at Meta and OpenAI with one key advantage - Yahoo Finance",
-        "2027: Rise Networks, INEC, Meta, Google, Microsoft Launch ₦10m AI Election Hackathon - LEADERSHIP Newspapers",
-        "Nvidia Stock Gains 1.7% as Anthropic IPO Filing and Meta Share Sale Revive AI Trade Ahead of Big Tech Earnings - International Business Times Australia"
       ]
     }
   ]
