@@ -3,12 +3,92 @@
     "title": "AI Signal Daily",
     "subtitle": "A presentation-ready global AI news briefing, updated daily at 08:00 Malaysia time.",
     "timezone": "Asia/Kuala_Lumpur",
-    "lastUpdated": "2026-11-27T14:03:39+08:00"
+    "lastUpdated": "2026-11-28T13:45:21+08:00"
   },
   "issues": [
     {
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "label": "Today",
+      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
+      "highlights": [
+        "Policy & Regulation: OpenAI, Microsoft executives’ quotes on AI training threaten copyright defense, news outlets argue - DD News",
+        "Industry & Funding: Anthropic, Meta and Microsoft Join AI Data Center Talks in Japan - TradingView",
+        "Research & Open Source: Google DeepMind Researcher Voices AI Safety Concerns - Wisevoter",
+        "Models & Products: Distilling US AI models gets harder as Z.ai's GLM-5.5 slips and Moonshot turns to Google and Meta models, Reuters reports - Dealroom",
+        "Policy & Regulation: LAUSD Blocks Google’s AI Overview Despite New AI Policy - LAmag"
+      ],
+      "stories": [
+        {
+          "category": "Policy & Regulation",
+          "title": "OpenAI, Microsoft executives’ quotes on AI training threaten copyright defense, news outlets argue - DD News",
+          "summary": "OpenAI, Microsoft executives’ quotes on AI training threaten copyright defense, news outlets argue DD News",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWTZuNFRvQkI3c3VuSEJac1d2X3hYeERxYUhzZVhwWXVCQ0FpbFl6VlFHc29DemdiVzJ5MmhLUVh6cldxNm5DeGxvYzg5dGlMWWxyUFhNVHVDbkVDcURhd2FfbXZ4bEdvdW5FTjdUQ1dWbHRlMG91RGxxVlJUT0JfQzRmcEd3em1GVjdQNFBkVmN0U1lKakpWN1hFRFI2MEZpS212NmIyeUZjNjFtQWkydngyR2RnUjhlbmthT3dn?oc=5"
+        },
+        {
+          "category": "Industry & Funding",
+          "title": "Anthropic, Meta and Microsoft Join AI Data Center Talks in Japan - TradingView",
+          "summary": "Anthropic, Meta and Microsoft Join AI Data Center Talks in Japan TradingView",
+          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
+          "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRG83SGxLLTlUNUNuOGJwcTV3T1oyZ042YUIxUUNwLS05eXU0MDVxY2hlWDJQYjBKLUJxb3YtUGs5dzFkZ21ISFY0cmhRTEZWUnZEcVdqY0UwRURpQVdLVDUtdW5BaUxqTVJtMlYxNlZUSktiR1BHNnZHbHlPaUMyaGRkYVhKWk1ydWlwcjIwZkp1SHVjZmZFdkR4d2FkZmkxTlJYTUNYVjJvenJwazVYTTlHUXlITEZoOHFLNWt4Mmo?oc=5"
+        },
+        {
+          "category": "Research & Open Source",
+          "title": "Google DeepMind Researcher Voices AI Safety Concerns - Wisevoter",
+          "summary": "Google DeepMind Researcher Voices AI Safety Concerns Wisevoter",
+          "whyItMatters": "Research and open-source work often signals where the next product wave or safety debate will move.",
+          "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMFNGYTk4Ui10bVBZeGt3elJQY1VSR1g2Y2NmWFMtTlZENWVZRXlQdlNqdE5NVWRFSXRUbFVrd2huTENiOUhWS2dtQmsyQU9XX0NKdHhYRlZzUDhYWC1GaEFwU0ZRaFk4YW5yY0dCMWJRX3h0ZUNycFVicS1tcDRNQ2k3ZS10MUZFQmN2Zw?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Distilling US AI models gets harder as Z.ai's GLM-5.5 slips and Moonshot turns to Google and Meta models, Reuters reports - Dealroom",
+          "summary": "Distilling US AI models gets harder as Z.ai's GLM-5.5 slips and Moonshot turns to Google and Meta models, Reuters reports Dealroom",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdnNFSzJzYXNkV1JnRUJtVzhoN1dfNVFVcFVIZE81TzFXazFOcHdIaHhYSTdXSHZnR0tNVTRkc3lRcjhFUWNmQVlrVlJ2eVB0czMtd1o5YU5KU1oyVDU5YWEtX0hyY0ctWjRZck4wM01yRVYxTEhVQUsySG5YNFJ1YVJYYXJsOHVQaEVRNC04VVgydE92TE9hS19jckRDNVJDdW5UNFhMdUJ3VW9sZGxlRjFVN3FKLUkxY0tCMG1sTGVjODFjcndXVVFkZHUySUotYUFzMlE5LXFmVDVIS2pMdFIzaFBJUFM2aFE?oc=5"
+        },
+        {
+          "category": "Policy & Regulation",
+          "title": "LAUSD Blocks Google’s AI Overview Despite New AI Policy - LAmag",
+          "summary": "LAUSD Blocks Google’s AI Overview Despite New AI Policy LAmag",
+          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
+          "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeHg2T09iaURrWGVzdFFYWkVvNHpLZFRocVNPNHBxQURWVmpiLWZzR3NZRnlwamdWNzJCWVRrWHV0bWR5eFdUZDd1LVdrMC1xZjNXQlREaUVrUGFwZ0xXQm1DYkZBelNTUjVsdEJGRXVMQlpoVm1kb1IxWV9tN2l0SjBxMGtVTloyQk54MEc3R01jNHBZS0M3WURYVmJpREtKSmc?oc=5"
+        },
+        {
+          "category": "Research & Open Source",
+          "title": "Anthropic Retains 80% of Researchers as Meta Talent Flow Lags - www.tokenpost.com",
+          "summary": "Anthropic Retains 80% of Researchers as Meta Talent Flow Lags www.tokenpost.com",
+          "whyItMatters": "Research and open-source work often signals where the next product wave or safety debate will move.",
+          "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tN1Zxam5kV21oS3d6YUlkOVVHZTBnY3RoVEhkaWthSFVpcDR5MWlrWVR0RXhjVkJxamM5cGxBRzZHVFpVcHJCWjZ4dk10dV9LMkFTMlludFdaRjA?oc=5"
+        },
+        {
+          "category": "Research & Open Source",
+          "title": "Anthropic keeps its researchers even as Meta dangles $100M offers - Crypto Briefing",
+          "summary": "Anthropic keeps its researchers even as Meta dangles $100M offers Crypto Briefing",
+          "whyItMatters": "Research and open-source work often signals where the next product wave or safety debate will move.",
+          "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SOFFZTXF4OGstb1pqSGQyQlV5Si01azI1cy0tZXRTTkFUQ1BXOFRWSGM3MHVNaHRsRUFUb1IzY052Ul9pR0JibC05YUZVZDdaQlNKN1AzbksxRWRWMjh1N3ZHdWRlVVZaQUI4UldnYjRqZ0EyWkRzeVlUbFY?oc=5"
+        },
+        {
+          "category": "Models & Products",
+          "title": "Google DeepMind Releases Mass Spectrometry AI Tools - Wisevoter",
+          "summary": "Google DeepMind Releases Mass Spectrometry AI Tools Wisevoter",
+          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
+          "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3VKZWtsWkdjRTU4aTVWQTBnYl9iN2Nham1VZ01aN1RybDI1NFNjRzY2TUM1U3JIbkRkUkZvbllKdnFhcUppcFJqNEpXcXhObUtMTkZrUm5WeWVtNnhFeWNDRnc5dUZUbE9sRU9kZFlYU1hkbnVnVlhaMnBVUTJaUUtmUDIxanRo?oc=5"
+        }
+      ],
+      "discordShort": [
+        "OpenAI, Microsoft executives’ quotes on AI training threaten copyright defense, news outlets argue - DD News",
+        "Anthropic, Meta and Microsoft Join AI Data Center Talks in Japan - TradingView",
+        "Google DeepMind Researcher Voices AI Safety Concerns - Wisevoter",
+        "Distilling US AI models gets harder as Z.ai's GLM-5.5 slips and Moonshot turns to Google and Meta models, Reuters reports - Dealroom",
+        "LAUSD Blocks Google’s AI Overview Despite New AI Policy - LAmag",
+        "Anthropic Retains 80% of Researchers as Meta Talent Flow Lags - www.tokenpost.com",
+        "Anthropic keeps its researchers even as Meta dangles $100M offers - Crypto Briefing",
+        "Google DeepMind Releases Mass Spectrometry AI Tools - Wisevoter"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "label": "Archive",
       "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
       "highlights": [
         "Policy & Regulation: OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning",
@@ -2404,86 +2484,6 @@
         "AI Funding Ambitions Face Wall Street Scrutiny: Anthropic IPO, Meta Equity Plan - News and Statistics - IndexBox",
         "Google DeepMind Genie 4 World Model Adds Audio - Technology Org",
         "Google DeepMind Previews Genie 4 World Model - Dataconomy"
-      ]
-    },
-    {
-      "date": "2026-10-28",
-      "label": "Archive",
-      "status": "Auto-updated from RSS and news feeds. Recheck primary sources before using any item as a formal citation.",
-      "highlights": [
-        "Policy & Regulation: Multi-Objective Reinforcement Learning Using Routed Ensembles and Trajectory Attribution",
-        "Industry & Funding: OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips - The Information",
-        "Industry & Funding: ‘Racing Far & Wide’ in AI. Anthropic, Nvidia & Google. ARD #193 - AI: Reset to Zero",
-        "Models & Products: Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google - The American Bazaar",
-        "Industry & Funding: Anthropic IPO Filing, Meta's $95 Billion Stock Sale Reopen AI Equity Funding Spigot - BigGo Finance"
-      ],
-      "stories": [
-        {
-          "category": "Policy & Regulation",
-          "title": "Multi-Objective Reinforcement Learning Using Routed Ensembles and Trajectory Attribution",
-          "summary": "arXiv:2610.35733v1 Announce Type: cross Abstract: Multi-objective reinforcement learning is a fundamental problem for modern AI, with applications spanning post-training, reasoning models, and robotic control.",
-          "whyItMatters": "Policy choices can quickly change compliance duties, product release plans and cross-border AI deployment.",
-          "source": "https://arxiv.org/abs/2610.35733"
-        },
-        {
-          "category": "Industry & Funding",
-          "title": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips - The Information",
-          "summary": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips The Information",
-          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
-          "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHVUUUdOMmpGd3dxdWhJS0t6c3FlVmh1eXg1ckptWEFhX2JGbVByMGozdHZRQks4YUV0dzM2dWI0Tm05cmlXcG53Q09IYXNJYlFab3BjV0NSVnNoR05TQXFLQ2thQlV0OVFWdDJyM2wzOFVCdG13X0hsSHVQNFRTQ2hGNThFeFJjeWhqMlZLTW1RQ1RUNVU4UnBtMU93eEk?oc=5"
-        },
-        {
-          "category": "Industry & Funding",
-          "title": "‘Racing Far & Wide’ in AI. Anthropic, Nvidia & Google. ARD #193 - AI: Reset to Zero",
-          "summary": "Google News: frontier labs reported this AI-related development within the latest monitoring window.",
-          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
-          "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ocTZ1V2FnQnZ6QXZ0UlI3VlJTSFN4amVoTHRpWU5ZRHJDa18wXzVIdFRMVWhlaXpnYnVqMzBDeXU2R0lTandKV01DbjVNb0xVdDZGWlNPVVI2Q3cwM2lSTjVzNmRSb1h3YmNNeXhDVTdmdjZVcXVOdWxZTmU?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google - The American Bazaar",
-          "summary": "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google The American Bazaar",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONE9IZVFmbnBCZEpIQXZ4LUJldEluNnVTR2ZneEpLWGllY0RGWEgyOUsySWNOWFdaMEgzc3dkd1JmRV9HQ2N2ZHQyRnlnOTRvcDhOVVhDWFlnVzNFYnNYY1lFb0FiM2NfVW44Wk5SOW02Nk9qVm9pa3hJNFlnLV9pQm1QekNIOHZhSlBLeTVfQnpYZjMtcnl1UkxKLXFjdTFtMlJURjBIeEo1V0NocXFucEJweHgxOElHSWU0UlVSTU93cVhxWDJWNkR3V0RfXzFxQ3RKNVVRLU5QNVZNa2pv?oc=5"
-        },
-        {
-          "category": "Industry & Funding",
-          "title": "Anthropic IPO Filing, Meta's $95 Billion Stock Sale Reopen AI Equity Funding Spigot - BigGo Finance",
-          "summary": "Anthropic IPO Filing, Meta's $95 Billion Stock Sale Reopen AI Equity Funding Spigot BigGo Finance",
-          "whyItMatters": "Funding and infrastructure moves reveal where companies expect real AI demand and return on investment.",
-          "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xNktvRXFPZUFDT1B5cGJ1STNud29HTmNNWk96OTdGX3lOTUxMMWhRZ3d5cU5CWWNfZmRYTWJfMjFUc05RSG0wQV84MW9LekdGNmxLa0J1cDdYUzFCYkdfeU1PaDlMa3dPTUlOZmhXRldPTXNWYkE?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Google DeepMind is unveiling Genie 4, its most realistic AI world model yet - Quartz",
-          "summary": "Google DeepMind is unveiling Genie 4, its most realistic AI world model yet Quartz",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmSUx1cW1BWnBETElWNmlYMjdTY3VBZFJmRkx2eVNOcktkWXhiUlVBQUd5eEE2ZUt0YWJMTGRNejV2MTlpUDlnM1hTVVZHd0RKY3hXOTQtd0hyX2dHbFdRd1p3eVRKVmVtdFVzaVp5bHM?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Google DeepMind unveils Genie 4, the world model that once tanked gaming stocks - Startup Fortune",
-          "summary": "Google DeepMind unveils Genie 4, the world model that once tanked gaming stocks Startup Fortune",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNnJvM0FKTEs1TGFxYkEtejRtOWJjN2J2WXlCZnNZZHAzcGdiSEtlUXVhWlZxVlRkWkRxeUNDazZtQzVnYUE2X2xHWV9lVFlGOWtWT3BjWGlyVndCdlFmQ25vaDZYWFFUTUZhLVd4V1pfOW5JSXBwZ29qR2JfZmpiallhclN1c3ZKd0tsbnZmUFltQzNJLWRTMG5OY3lueHFBTldQdlZpb1NvUQ?oc=5"
-        },
-        {
-          "category": "Models & Products",
-          "title": "Google DeepMind Rolls Out Genie 4 World Model in Research Preview - Unite.AI",
-          "summary": "Google DeepMind Rolls Out Genie 4 World Model in Research Preview Unite.AI",
-          "whyItMatters": "Model and product releases shape the competitive baseline for developers, enterprises and everyday AI users.",
-          "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcHN4SmZSeVRRQkVWMjFxdVAtTnd1MzRJSFZXbE9Cenc3U2RCeTFnZjRWeFo5RGpaZUxwZEV5ZW9vaHBkRUFMS19HVFUtdEhmcV9YQ1A1MHI0UWlxNENHNE5DaEI5VzRsOTdCejZBNlFaTlh0VkNQRGhxTnBRa1lTUlhTX0lyemlHNWxwMExsZ1E?oc=5"
-        }
-      ],
-      "discordShort": [
-        "Multi-Objective Reinforcement Learning Using Routed Ensembles and Trajectory Attribution",
-        "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips - The Information",
-        "‘Racing Far & Wide’ in AI. Anthropic, Nvidia & Google. ARD #193 - AI: Reset to Zero",
-        "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google - The American Bazaar",
-        "Anthropic IPO Filing, Meta's $95 Billion Stock Sale Reopen AI Equity Funding Spigot - BigGo Finance",
-        "Google DeepMind is unveiling Genie 4, its most realistic AI world model yet - Quartz",
-        "Google DeepMind unveils Genie 4, the world model that once tanked gaming stocks - Startup Fortune",
-        "Google DeepMind Rolls Out Genie 4 World Model in Research Preview - Unite.AI"
       ]
     }
   ]
